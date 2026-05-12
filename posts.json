@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2300,
+        "text": "ولادیمیر - مدیر سابق بایننس و هم‌بنیان‌گذار Blum به ۵ سال زندان محکوم شد.\nدر سال 2024، او 8 میلیون دلار برای سازماندهی کمپین تبلیغاتی دریافت کرد، اما هیچ تعهدی را انجام نداد و همه پول را صرف کوکائین و فاحشه‌ها کرد.\n@TweetPublic\n✔️",
+        "date": "2026-05-12T16:07:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2300_0_c84320d3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2300_1_689774bf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2300"
+      },
+      {
+        "id": 2299,
+        "text": "پزشکیان که خودش رئیس شورای عالی امنیت ملی هست و قطعی اینترنت هم مصوبه همین شورا هستش، گفته: اجازه نخواهیم داد عده‌ای از شرایط جنگ سوءاستفاده کرده و با ایجاد اختلال اقتصادی، به معیشت مردم ضربه بزنند.\nمهم ترین ضربه ای که تا الان معیشت مردم خورده، همین قطعی اینترنت بوده. شما اول اونو درست کن بعد بیا این حرفو بزن.\n@TweetPublic\n✔️",
+        "date": "2026-05-12T12:43:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2299_0_c84320d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2299"
+      },
+      {
+        "id": 2298,
+        "text": "ایرانسل دارید دیگه؟‌ آماده هستید مثل همیشه کانفیگ خفن تو ربات بزاریم؟\nفقط نمیدونم چقدر دووم میاره",
+        "date": "2026-05-12T11:47:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2298_0_c84320d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2298"
+      },
+      {
         "id": 2296,
         "text": "از وقتی با claude اشنا شدم از GPT متنفر شدم\n@TweetPublic\n✔️",
         "date": "2026-05-11T21:52:32+00:00",
@@ -13061,22 +13110,22 @@
       }
     ]
   },
-  "last_update": "2026-05-12T11:02:21.819737+00:00",
+  "last_update": "2026-05-12T16:38:10.949427+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 765,
-    "total_media": 938,
-    "total_files": 938,
+    "total_posts": 768,
+    "total_media": 942,
+    "total_files": 942,
     "total_links": 172,
     "files_by_type": {
-      "image": 869,
+      "image": 873,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 938,
-    "existing_media_files": 937,
-    "total_size_mb": 351.48,
-    "last_calculation": "2026-05-12T11:02:21.830662+00:00"
+    "referenced_files": 942,
+    "existing_media_files": 941,
+    "total_size_mb": 351.56,
+    "last_calculation": "2026-05-12T16:38:10.960583+00:00"
   }
 }
