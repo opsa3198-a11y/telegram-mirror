@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2301,
+        "text": "🔴\nفوری هم اکنون زلزله تهران را لرزاند\n@TweetPublic\n✔️",
+        "date": "2026-05-12T20:18:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2301_0_c84320d3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2301"
+      },
+      {
         "id": 2300,
         "text": "ولادیمیر - مدیر سابق بایننس و هم‌بنیان‌گذار Blum به ۵ سال زندان محکوم شد.\nدر سال 2024، او 8 میلیون دلار برای سازماندهی کمپین تبلیغاتی دریافت کرد، اما هیچ تعهدی را انجام نداد و همه پول را صرف کوکائین و فاحشه‌ها کرد.\n@TweetPublic\n✔️",
         "date": "2026-05-12T16:07:19+00:00",
@@ -13110,22 +13125,22 @@
       }
     ]
   },
-  "last_update": "2026-05-12T18:26:33.034844+00:00",
+  "last_update": "2026-05-12T21:50:44.843472+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 768,
-    "total_media": 942,
-    "total_files": 942,
+    "total_posts": 769,
+    "total_media": 943,
+    "total_files": 943,
     "total_links": 172,
     "files_by_type": {
-      "image": 873,
+      "image": 874,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 942,
-    "existing_media_files": 941,
-    "total_size_mb": 351.56,
-    "last_calculation": "2026-05-12T18:26:33.046344+00:00"
+    "referenced_files": 943,
+    "existing_media_files": 942,
+    "total_size_mb": 351.57,
+    "last_calculation": "2026-05-12T21:50:44.854694+00:00"
   }
 }
