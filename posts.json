@@ -12703,6 +12703,66 @@
     ],
     "TweetPublic": [
       {
+        "id": 2308,
+        "text": "روش جدید کلاه برداری توسط اوپراتور های موبایل\nایرانسل به تازگی شروع کرده دزدیدن پول مردم به این صورت که پیامک میده واسه اینترنت پرو، لینک پرداخت هم هست بعدش 2200 ازتون پول میگیره وقتی پول رو دادین تازه میاد بهتون میگه اطلاعات شرکت رو بده که فعال شه.\nمراقب باشید دوستان. فیلترشکن فروشا که هیچ، اوپراتور ها و سایتا هم زدن تو کار دزدی و اسکم مردم.\n@TweetPublic\n✔️",
+        "date": "2026-05-15T09:56:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2308_0_4524a55e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2308"
+      },
+      {
+        "id": 2307,
+        "text": "یه سایتی که اسمشو نمیبرم، تو همین 2 ماه اخیر بیشتر از 120 میلیارد تومن اشتراک فروخته، تازه فیلترشکن هم نیست.\nفکر کن اون اقازاده و فیلترچی که فیلترشکن میفروشن چقدر در اوردن.\n@TweetPublic\n✔️",
+        "date": "2026-05-15T08:04:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2307_0_4524a55e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2307"
+      },
+      {
+        "id": 2306,
+        "text": "حالا بماند که کاسبی ای هم راه انداخت واسه خودشون.\nخود فیلترچی هم داره فیلترشکن میفروشه.\n@TweetPublic\n✔️",
+        "date": "2026-05-15T08:03:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2306_0_4524a55e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2306"
+      },
+      {
+        "id": 2303,
+        "text": "به خاطر روش جدید اتصال، تقریبا تمام سایت‌هایی که وایت‌لیست شده بود، به خصوص گیت‌هاب، بسته شدن.\nفایروال و DPI رو هم اپدیت کردن.\n@TweetPublic\n✔️",
+        "date": "2026-05-15T07:56:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2303_0_4524a55e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2303"
+      },
+      {
         "id": 2302,
         "text": "معاون ارتباطات شرکت مخابرات ایران: اینترنت بین‌الملل نباید با همان قیمت اینترنت ملی عرضه شود!\n@TweetPublic\n✔️",
         "date": "2026-05-13T09:55:57+00:00",
@@ -13140,22 +13200,22 @@
       }
     ]
   },
-  "last_update": "2026-05-15T00:13:39.267897+00:00",
+  "last_update": "2026-05-15T10:01:57.791627+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 770,
-    "total_media": 944,
-    "total_files": 944,
+    "total_posts": 774,
+    "total_media": 948,
+    "total_files": 948,
     "total_links": 172,
     "files_by_type": {
-      "image": 875,
+      "image": 879,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 944,
-    "existing_media_files": 943,
-    "total_size_mb": 351.58,
-    "last_calculation": "2026-05-15T00:13:39.279587+00:00"
+    "referenced_files": 948,
+    "existing_media_files": 947,
+    "total_size_mb": 351.63,
+    "last_calculation": "2026-05-15T10:01:57.803355+00:00"
   }
 }
