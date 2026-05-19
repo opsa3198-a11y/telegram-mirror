@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2311,
+        "text": "به عنوان یکی از ادمین های این کانال",
+        "date": "2026-05-19T16:12:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2311_0_36f486b1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2311_1_fc71da42.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2311"
+      },
+      {
         "id": 2309,
         "text": "شما رو نمیدونم ولی من تصمیم گرفتم از امروز به بعد حتی یک هزاری هم واسه خرید اینترنت(اینترانت) هزینه نکنم.\nبه عنوان یکی از ادمین های این کانال وقتی بسته اینترنتم تموم شد افلاین میشم و دیگه هیچ پستی از من نمیاد توی این کانال.\nحتی بسته رایگان هم که بدن دیگه نمیگیرم تا وقتی که اینترنت رو وصل کنن.\n@TweetPublic\n✔️",
         "date": "2026-05-16T08:50:31+00:00",
@@ -13215,22 +13234,22 @@
       }
     ]
   },
-  "last_update": "2026-05-19T12:31:21.994111+00:00",
+  "last_update": "2026-05-19T18:18:10.059257+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 775,
-    "total_media": 949,
-    "total_files": 949,
+    "total_posts": 776,
+    "total_media": 951,
+    "total_files": 951,
     "total_links": 172,
     "files_by_type": {
-      "image": 880,
+      "image": 882,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 949,
-    "existing_media_files": 948,
-    "total_size_mb": 351.65,
-    "last_calculation": "2026-05-19T12:31:22.005450+00:00"
+    "referenced_files": 951,
+    "existing_media_files": 950,
+    "total_size_mb": 351.67,
+    "last_calculation": "2026-05-19T18:18:10.071213+00:00"
   }
 }
