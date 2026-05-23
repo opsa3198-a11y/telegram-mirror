@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2318,
+        "text": "🚨\nفوووووری‌ الحدث:\nایران و آمریکا به دشمنی طولانی مدتشون پایان دادن!\n@TweetPublic\n✔️",
+        "date": "2026-05-23T21:55:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2318_0_c5dfa004.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2318_1_00186427.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2318"
+      },
+      {
         "id": 2317,
         "text": "وضعیت وپن فروشا این چندروز.  @TweetPublic\n✔️",
         "date": "2026-05-23T19:05:27+00:00",
@@ -13317,22 +13336,22 @@
       }
     ]
   },
-  "last_update": "2026-05-23T20:35:18.613492+00:00",
+  "last_update": "2026-05-23T22:38:52.516097+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 781,
-    "total_media": 958,
-    "total_files": 958,
+    "total_posts": 782,
+    "total_media": 960,
+    "total_files": 960,
     "total_links": 172,
     "files_by_type": {
-      "image": 889,
-      "video": 63,
+      "image": 890,
+      "video": 64,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 958,
-    "existing_media_files": 957,
-    "total_size_mb": 351.81,
-    "last_calculation": "2026-05-23T20:35:18.626171+00:00"
+    "referenced_files": 960,
+    "existing_media_files": 959,
+    "total_size_mb": 352.07,
+    "last_calculation": "2026-05-23T22:38:52.527257+00:00"
   }
 }
