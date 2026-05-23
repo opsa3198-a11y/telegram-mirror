@@ -12703,6 +12703,74 @@
     ],
     "TweetPublic": [
       {
+        "id": 2317,
+        "text": "وضعیت وپن فروشا این چندروز.  @TweetPublic\n✔️",
+        "date": "2026-05-23T19:05:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2317_0_c5dfa004.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2317_1_671c4e47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2317"
+      },
+      {
+        "id": 2316,
+        "text": "وضعیت وپن فروشا این چندروز.\n@TweetPublic\n✔️",
+        "date": "2026-05-23T18:04:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2316_0_c5dfa004.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2316_1_ba3223fd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2316"
+      },
+      {
+        "id": 2315,
+        "text": "گویا بلو بانک یک ساعته اختلال خورده   @TweetPublic\n✔️",
+        "date": "2026-05-23T17:43:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2315_0_c5dfa004.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2315"
+      },
+      {
+        "id": 2313,
+        "text": "گویا بلو بانک یک ساعته اختلال خورده\n@TweetPublic\n✔️",
+        "date": "2026-05-23T17:38:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2313_0_c5dfa004.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2313"
+      },
+      {
         "id": 2312,
         "text": "",
         "date": "2026-05-23T06:42:27+00:00",
@@ -13249,22 +13317,22 @@
       }
     ]
   },
-  "last_update": "2026-05-23T15:48:30.915793+00:00",
+  "last_update": "2026-05-23T19:56:23.330380+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 777,
-    "total_media": 952,
-    "total_files": 952,
+    "total_posts": 781,
+    "total_media": 958,
+    "total_files": 958,
     "total_links": 172,
     "files_by_type": {
-      "image": 883,
+      "image": 889,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 952,
-    "existing_media_files": 951,
-    "total_size_mb": 351.68,
-    "last_calculation": "2026-05-23T15:48:30.927684+00:00"
+    "referenced_files": 958,
+    "existing_media_files": 957,
+    "total_size_mb": 351.81,
+    "last_calculation": "2026-05-23T19:56:23.341708+00:00"
   }
 }
