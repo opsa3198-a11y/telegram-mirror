@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2312,
+        "text": "",
+        "date": "2026-05-23T06:42:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2312_0_c5dfa004.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2312"
+      },
+      {
         "id": 2311,
         "text": "به عنوان یکی از ادمین های این کانال",
         "date": "2026-05-19T16:12:02+00:00",
@@ -13234,22 +13249,22 @@
       }
     ]
   },
-  "last_update": "2026-05-22T21:48:42.124496+00:00",
+  "last_update": "2026-05-23T07:39:37.119077+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 776,
-    "total_media": 951,
-    "total_files": 951,
+    "total_posts": 777,
+    "total_media": 952,
+    "total_files": 952,
     "total_links": 172,
     "files_by_type": {
-      "image": 882,
+      "image": 883,
       "video": 63,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 951,
-    "existing_media_files": 950,
-    "total_size_mb": 351.67,
-    "last_calculation": "2026-05-22T21:48:42.136389+00:00"
+    "referenced_files": 952,
+    "existing_media_files": 951,
+    "total_size_mb": 351.68,
+    "last_calculation": "2026-05-23T07:39:37.130585+00:00"
   }
 }
