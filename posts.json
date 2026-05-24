@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2325,
+        "text": "چند روز بود یه سوالی ذهنمو درگیر کرده بود اونم این بود که چرا اصفهانیا خیلی هاشون انلاین شدن نگو کانفیگا ارزون شده خریدن  @TweetPublic\n✔️",
+        "date": "2026-05-24T15:12:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2325_0_9c0a0d1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2325"
+      },
+      {
+        "id": 2323,
+        "text": "چند روز بود یه سوالی ذهنمو درگیر کرده بود اونم این بود که چرا اصفهانیا خیلی هاشون انلاین شدن\nنگو کانفیگا ارزون شده خریدن\n@TweetPublic\n✔️",
+        "date": "2026-05-24T15:12:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2323_0_9c0a0d1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2323"
+      },
+      {
         "id": 2322,
         "text": "واکنش خدمه‌های ناو آبراهام لینکلن، جرج بوش، شارل دوگل و... وقتی خبر توافق رو بعد از کلی تو سطح دریا موندن و آمادگی برای جنگ شنیدن:\n🔇\nصدا کم\n@TweetPublic\n✔️",
         "date": "2026-05-24T08:59:57+00:00",
@@ -13408,22 +13438,22 @@
       }
     ]
   },
-  "last_update": "2026-05-24T12:09:06.776294+00:00",
+  "last_update": "2026-05-24T15:48:54.067553+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 786,
-    "total_media": 967,
-    "total_files": 967,
+    "total_posts": 788,
+    "total_media": 969,
+    "total_files": 969,
     "total_links": 172,
     "files_by_type": {
-      "image": 895,
+      "image": 897,
       "video": 66,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 967,
-    "existing_media_files": 966,
-    "total_size_mb": 352.81,
-    "last_calculation": "2026-05-24T12:09:06.787968+00:00"
+    "referenced_files": 969,
+    "existing_media_files": 968,
+    "total_size_mb": 352.84,
+    "last_calculation": "2026-05-24T15:48:54.079273+00:00"
   }
 }
