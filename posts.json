@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2319,
+        "text": "عضو شورای عالی فضای مجازی:\nتجهیزات قطع دائمی اینترنت از چین وارد شده. /دیجیاتو\n@TweetPublic\n✔️",
+        "date": "2026-05-24T07:18:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2319_0_9c0a0d1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2319"
+      },
+      {
         "id": 2318,
         "text": "🚨\nفوووووری‌ الحدث:\nایران و آمریکا به دشمنی طولانی مدتشون پایان دادن!\n@TweetPublic\n✔️",
         "date": "2026-05-23T21:55:42+00:00",
@@ -13336,22 +13351,22 @@
       }
     ]
   },
-  "last_update": "2026-05-23T22:38:52.516097+00:00",
+  "last_update": "2026-05-24T08:06:08.102922+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 782,
-    "total_media": 960,
-    "total_files": 960,
+    "total_posts": 783,
+    "total_media": 961,
+    "total_files": 961,
     "total_links": 172,
     "files_by_type": {
-      "image": 890,
+      "image": 891,
       "video": 64,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 960,
-    "existing_media_files": 959,
-    "total_size_mb": 352.07,
-    "last_calculation": "2026-05-23T22:38:52.527257+00:00"
+    "referenced_files": 961,
+    "existing_media_files": 960,
+    "total_size_mb": 352.08,
+    "last_calculation": "2026-05-24T08:06:08.114097+00:00"
   }
 }
