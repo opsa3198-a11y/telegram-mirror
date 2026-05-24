@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2326,
+        "text": "امسال اگه برق رفت؛\nکنتور رو یک بار خاموش روشن کنید با لوله گاز ترکیب کنید\nاگه نشد آبو باز کنید از کنتور یه سیم مستقیم بکشید به آب بزارید رو حالت گرم ۱۵ دقیقه صبر کنید وصل میشه.\n@TweetPublic\n✔️",
+        "date": "2026-05-24T18:47:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2326_0_9c0a0d1b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2326"
+      },
+      {
         "id": 2325,
         "text": "چند روز بود یه سوالی ذهنمو درگیر کرده بود اونم این بود که چرا اصفهانیا خیلی هاشون انلاین شدن نگو کانفیگا ارزون شده خریدن  @TweetPublic\n✔️",
         "date": "2026-05-24T15:12:56+00:00",
@@ -13438,22 +13453,22 @@
       }
     ]
   },
-  "last_update": "2026-05-24T16:13:10.990496+00:00",
+  "last_update": "2026-05-24T20:15:53.760277+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 788,
-    "total_media": 969,
-    "total_files": 969,
+    "total_posts": 789,
+    "total_media": 970,
+    "total_files": 970,
     "total_links": 172,
     "files_by_type": {
-      "image": 897,
+      "image": 898,
       "video": 66,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 969,
-    "existing_media_files": 968,
-    "total_size_mb": 352.84,
-    "last_calculation": "2026-05-24T16:13:11.002648+00:00"
+    "referenced_files": 970,
+    "existing_media_files": 969,
+    "total_size_mb": 352.85,
+    "last_calculation": "2026-05-24T20:15:53.771876+00:00"
   }
 }
