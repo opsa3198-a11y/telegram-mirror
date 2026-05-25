@@ -12703,6 +12703,85 @@
     ],
     "TweetPublic": [
       {
+        "id": 2345,
+        "text": "از استرس سندروم پای بی‌قرار گرفتم پاهام ویبره میره\n@TweetPublic\n✔️",
+        "date": "2026-05-25T21:19:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2345_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2345"
+      },
+      {
+        "id": 2344,
+        "text": "این صدا ها و خبرا دیگه عادیه\nیه چیز جدید بدید لطفا هیجان اینا از بین رفته\n@TweetPublic\n✔️",
+        "date": "2026-05-25T21:11:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2344_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2344"
+      },
+      {
+        "id": 2343,
+        "text": "",
+        "date": "2026-05-25T21:10:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2343_0_f7e00942.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2343_1_9b8c0b45.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2343"
+      },
+      {
+        "id": 2342,
+        "text": "من که هنوز میگم نزدن\n@TweetPublic\n✔️",
+        "date": "2026-05-25T21:08:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2342_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2342"
+      },
+      {
+        "id": 2341,
+        "text": "صدای انفجار در بندرعباس.\nگویا تست توافقه\n@TweetPublic\n✔️",
+        "date": "2026-05-25T20:50:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2341_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2341"
+      },
+      {
         "id": 2340,
         "text": "فعلا که دعواشون شده بزارید ببینیم تا فردا چیکار میکنن.\nیکیشون میگه قطع بمونه یکی دیگه میگه نه وصل بشه\n@TweetPublic\n✔️",
         "date": "2026-05-25T17:33:40+00:00",
@@ -13618,22 +13697,22 @@
       }
     ]
   },
-  "last_update": "2026-05-25T18:18:32.627734+00:00",
+  "last_update": "2026-05-25T21:57:48.059012+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 800,
-    "total_media": 981,
-    "total_files": 981,
+    "total_posts": 805,
+    "total_media": 987,
+    "total_files": 987,
     "total_links": 172,
     "files_by_type": {
-      "image": 909,
-      "video": 66,
+      "image": 914,
+      "video": 67,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 981,
-    "existing_media_files": 980,
-    "total_size_mb": 352.98,
-    "last_calculation": "2026-05-25T18:18:32.639892+00:00"
+    "referenced_files": 987,
+    "existing_media_files": 986,
+    "total_size_mb": 353.09,
+    "last_calculation": "2026-05-25T21:57:48.070463+00:00"
   }
 }
