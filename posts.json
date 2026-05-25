@@ -12703,6 +12703,96 @@
     ],
     "TweetPublic": [
       {
+        "id": 2335,
+        "text": "گزارشاتی از سمت کاربران مختلف دریافت کردیم که گویا اروان کلود داره ایپی رنج جدیدی به دامین های هاست شده روی CDN اش میده.\nگویا اروان کلود قراره CDN بین الملل و داخلیش رو جدا کنه به این صورت که همه سایت ها به صورت پیش فرض فقط به CDN داخلی دسترسی دارن یعنی شما اگر دامنه ای داشته باشید داخلش فقط از داخل ایران میتونید وصل بشید به اون دامنه و اگر از خارج درخواست بزنید هیچ اتفاقی نمیوفته. (قبلا خطا میداد ولی الان به ایپی وصل هم نمیشه)\nاحتمالا برنامشون این هست که CDN بین الملل رو به صورت پلن جدا یا با احراز هویت و تعهد بفروشن به یه عده خاص.\n@TweetPublic\n✔️",
+        "date": "2026-05-25T12:40:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2335_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2335"
+      },
+      {
+        "id": 2333,
+        "text": "تسنیم : مصوبه رفع انسداد اینترنت بین‌المللی تأیید شد و به دست پزشکیان رسید؛ اگر پزشکیان هم تأییدش کنه، این مصوبه برای اجرا به وزارت ارتباطات صادر می‌شه و تا هفته آینده نت بین‌المللی وصل می‌شه\n@TweetPublic\n✔️",
+        "date": "2026-05-25T09:48:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2333_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2333"
+      },
+      {
+        "id": 2332,
+        "text": "⭕\nمشاور وزیر ارتباطات: احتمالاً محدودیت‌های دسترسی و اتصال به اینترنت بین‌المللی تا هفته آینده رفع خواهد شد  @TweetPublic\n✔️",
+        "date": "2026-05-25T08:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2332_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2332"
+      },
+      {
+        "id": 2331,
+        "text": "⭕\nمشاور وزیر ارتباطات: احتمالاً محدودیت‌های دسترسی و اتصال به اینترنت بین‌المللی تا هفته آینده رفع خواهد شد\n@TweetPublic\n✔️",
+        "date": "2026-05-25T08:29:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2331_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2331"
+      },
+      {
+        "id": 2330,
+        "text": "🚨\nالعربیه و فاکس نیوز:\n🔻\nترامپ به ایران 7 روز فرصت داده تا توافق رو نهایی کنه.  @TweetPublic\n✔️",
+        "date": "2026-05-25T07:47:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2330_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2330"
+      },
+      {
+        "id": 2329,
+        "text": "🚨\nالعربیه و فاکس نیوز:\n🔻\nترامپ به ایران 7 روز فرصت داده تا توافق رو نهایی کنه.\n@TweetPublic\n✔️",
+        "date": "2026-05-25T07:47:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2329_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2329"
+      },
+      {
         "id": 2326,
         "text": "امسال اگه برق رفت؛\nکنتور رو یک بار خاموش روشن کنید با لوله گاز ترکیب کنید\nاگه نشد آبو باز کنید از کنتور یه سیم مستقیم بکشید به آب بزارید رو حالت گرم ۱۵ دقیقه صبر کنید وصل میشه.\n@TweetPublic\n✔️",
         "date": "2026-05-24T18:47:27+00:00",
@@ -13453,22 +13543,22 @@
       }
     ]
   },
-  "last_update": "2026-05-24T23:45:09.896188+00:00",
+  "last_update": "2026-05-25T12:49:50.009967+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 789,
-    "total_media": 970,
-    "total_files": 970,
+    "total_posts": 795,
+    "total_media": 976,
+    "total_files": 976,
     "total_links": 172,
     "files_by_type": {
-      "image": 898,
+      "image": 904,
       "video": 66,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 970,
-    "existing_media_files": 969,
-    "total_size_mb": 352.85,
-    "last_calculation": "2026-05-24T23:45:09.905425+00:00"
+    "referenced_files": 976,
+    "existing_media_files": 975,
+    "total_size_mb": 352.92,
+    "last_calculation": "2026-05-25T12:49:50.021827+00:00"
   }
 }
