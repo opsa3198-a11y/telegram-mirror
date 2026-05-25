@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2340,
+        "text": "فعلا که دعواشون شده بزارید ببینیم تا فردا چیکار میکنن.\nیکیشون میگه قطع بمونه یکی دیگه میگه نه وصل بشه\n@TweetPublic\n✔️",
+        "date": "2026-05-25T17:33:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2340_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2340"
+      },
+      {
+        "id": 2339,
+        "text": "هفته دیگه میزنن باز قطع میشه\n😂\n@TweetPublic\n✔️",
+        "date": "2026-05-25T17:19:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2339_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2339"
+      },
+      {
+        "id": 2338,
+        "text": "تسنیم : مصوبه رفع انسداد اینترنت بین‌المللی تأیید شد و به دست پزشکیان رسید؛ اگر پزشکیان هم تأییدش کنه، این مصوبه برای اجرا به وزارت ارتباطات صادر می‌شه و تا هفته آینده نت بین‌المللی وصل می‌شه  @TweetPublic\n✔️",
+        "date": "2026-05-25T17:16:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2338_0_f7e00942.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2338"
+      },
+      {
         "id": 2337,
         "text": "گزارشاتی از سمت کاربران مختلف دریافت کردیم که گویا اروان کلود داره ایپی رنج جدیدی به دامین های هاست شده روی CDN اش میده. گویا اروان کلود قراره CDN بین الملل و داخلیش رو جدا کنه به این صورت که همه سایت ها به صورت پیش فرض فقط به CDN داخلی دسترسی دارن یعنی شما…",
         "date": "2026-05-25T12:51:53+00:00",
@@ -13573,22 +13618,22 @@
       }
     ]
   },
-  "last_update": "2026-05-25T13:51:27.362243+00:00",
+  "last_update": "2026-05-25T18:18:32.627734+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 797,
-    "total_media": 978,
-    "total_files": 978,
+    "total_posts": 800,
+    "total_media": 981,
+    "total_files": 981,
     "total_links": 172,
     "files_by_type": {
-      "image": 906,
+      "image": 909,
       "video": 66,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 978,
-    "existing_media_files": 977,
-    "total_size_mb": 352.95,
-    "last_calculation": "2026-05-25T13:51:27.374167+00:00"
+    "referenced_files": 981,
+    "existing_media_files": 980,
+    "total_size_mb": 352.98,
+    "last_calculation": "2026-05-25T18:18:32.639892+00:00"
   }
 }
