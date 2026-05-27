@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2380,
+        "text": "بندر کسی هست ؟ صدا انفجار اومده؟",
+        "date": "2026-05-27T22:14:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2380_0_9765581b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2380"
+      },
+      {
         "id": 2379,
         "text": "رفقا مراقب اکانتاتون باشید به خصوص اینستاگرامتون\nزیاد با vpn های مختلف نرید داخلش ممکنه بپره\n@TweetPublic\n✔️",
         "date": "2026-05-27T15:20:05+00:00",
@@ -14159,22 +14174,22 @@
       }
     ]
   },
-  "last_update": "2026-05-27T20:35:58.845659+00:00",
+  "last_update": "2026-05-27T23:03:58.166336+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 835,
-    "total_media": 1020,
-    "total_files": 1020,
+    "total_posts": 836,
+    "total_media": 1021,
+    "total_files": 1021,
     "total_links": 172,
     "files_by_type": {
-      "image": 946,
+      "image": 947,
       "video": 68,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1020,
-    "existing_media_files": 1019,
-    "total_size_mb": 353.65,
-    "last_calculation": "2026-05-27T20:35:58.857825+00:00"
+    "referenced_files": 1021,
+    "existing_media_files": 1020,
+    "total_size_mb": 353.66,
+    "last_calculation": "2026-05-27T23:03:58.175811+00:00"
   }
 }
