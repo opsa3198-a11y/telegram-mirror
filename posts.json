@@ -12703,6 +12703,66 @@
     ],
     "TweetPublic": [
       {
+        "id": 2377,
+        "text": "@TweetPublicVPN_Bot  چطوره؟  ترجیحا همراه و مودم  وصل شدین کامنت بگید اگه لیمیت هم بود بگید ایپی عوض کنم",
+        "date": "2026-05-27T10:02:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2377_0_9765581b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2377"
+      },
+      {
+        "id": 2376,
+        "text": "@TweetPublicVPN_Bot\nچطوره؟\nترجیحا همراه و مودم\nوصل شدین کامنت بگید\nاگه لیمیت هم بود بگید ایپی عوض کنم",
+        "date": "2026-05-27T08:01:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2376_0_9765581b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2376"
+      },
+      {
+        "id": 2375,
+        "text": "شما رو نمیدونم ولی من تصمیم گرفتم از امروز به بعد حتی یک هزاری هم واسه خرید اینترنت(اینترانت) هزینه نکنم. به عنوان یکی از ادمین های این کانال وقتی بسته اینترنتم تموم شد افلاین میشم و دیگه هیچ پستی از من نمیاد توی این کانال. حتی بسته رایگان هم که بدن دیگه نمیگیرم…",
+        "date": "2026-05-27T07:19:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2375_0_9765581b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2375"
+      },
+      {
+        "id": 2374,
+        "text": "شاهد سیل عظیمی از استوری چصناله هستیم\n@TweetPublic\n✔️",
+        "date": "2026-05-27T07:15:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2374_0_9765581b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2374"
+      },
+      {
         "id": 2371,
         "text": "این بحثو ببندیم اگه قرار باشه کسیو گنده کنیم همین خودمونیم که توی این شرایط دووم اوردیم نه اونایی که اونور آبن با کلی سرمایه و بهشون پر بال بدیم با چندتا استوری\nیادتون باشه توی این اوضاع و هر بار های قبلی فقط و فقط خودمون فکر خودمون بودیم\nامثال آیسان اسلامی و خیلیای دیگه با کلی ادعا حتی نتونستن ی حرکت بزنن برای مردم که نتو وصل کنن این کار خیلی راحت و ساده بود براشون کلی متود برای متصل شدن بود همین یک کار ساده رو نکردن\nبه کسی پر بال ندیم به امید درست شدن اوضاع\n💚\n@TweetPublic\n✔️",
         "date": "2026-05-26T20:27:55+00:00",
@@ -14069,22 +14129,22 @@
       }
     ]
   },
-  "last_update": "2026-05-26T23:43:36.969681+00:00",
+  "last_update": "2026-05-27T12:33:24.777625+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 829,
-    "total_media": 1014,
-    "total_files": 1014,
+    "total_posts": 833,
+    "total_media": 1018,
+    "total_files": 1018,
     "total_links": 172,
     "files_by_type": {
-      "image": 940,
+      "image": 944,
       "video": 68,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1014,
-    "existing_media_files": 1013,
-    "total_size_mb": 353.58,
-    "last_calculation": "2026-05-26T23:43:36.981838+00:00"
+    "referenced_files": 1018,
+    "existing_media_files": 1017,
+    "total_size_mb": 353.62,
+    "last_calculation": "2026-05-27T12:33:24.787131+00:00"
   }
 }
