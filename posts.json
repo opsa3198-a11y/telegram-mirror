@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2383,
+        "text": "هر چی بیشتر تو جامعه میرم بیشتر جامعه ستیز تر میشم.\n@TweetPublic\n✔️",
+        "date": "2026-05-28T15:46:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2383_0_88688e64.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2383"
+      },
+      {
         "id": 2382,
         "text": "یه جوری فیلترینگ گذاشتن رو اینترنت که اگر قطع میبود خیلی سنگین تر بود بنظرم\n@TweetPublic\n✔️",
         "date": "2026-05-28T13:38:04+00:00",
@@ -14204,22 +14219,22 @@
       }
     ]
   },
-  "last_update": "2026-05-28T14:53:42.910920+00:00",
+  "last_update": "2026-05-28T21:02:56.471482+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 838,
-    "total_media": 1023,
-    "total_files": 1023,
+    "total_posts": 839,
+    "total_media": 1024,
+    "total_files": 1024,
     "total_links": 172,
     "files_by_type": {
-      "image": 949,
+      "image": 950,
       "video": 68,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1023,
-    "existing_media_files": 1022,
-    "total_size_mb": 353.69,
-    "last_calculation": "2026-05-28T14:53:42.923350+00:00"
+    "referenced_files": 1024,
+    "existing_media_files": 1023,
+    "total_size_mb": 353.7,
+    "last_calculation": "2026-05-28T21:02:56.483467+00:00"
   }
 }
