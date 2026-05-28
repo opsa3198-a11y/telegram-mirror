@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2381,
+        "text": "♦️\nترامپ: خطاب به کانفیگ‌فروش‌ها؛ کمک در راه است.\n@TweetPublic\n✔️",
+        "date": "2026-05-28T06:05:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2381_0_88688e64.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2381"
+      },
+      {
         "id": 2380,
         "text": "بندر کسی هست ؟ صدا انفجار اومده؟",
         "date": "2026-05-27T22:14:53+00:00",
@@ -14174,22 +14189,22 @@
       }
     ]
   },
-  "last_update": "2026-05-28T00:16:40.709380+00:00",
+  "last_update": "2026-05-28T12:49:54.780057+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 836,
-    "total_media": 1021,
-    "total_files": 1021,
+    "total_posts": 837,
+    "total_media": 1022,
+    "total_files": 1022,
     "total_links": 172,
     "files_by_type": {
-      "image": 947,
+      "image": 948,
       "video": 68,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1021,
-    "existing_media_files": 1020,
-    "total_size_mb": 353.66,
-    "last_calculation": "2026-05-28T00:16:40.721551+00:00"
+    "referenced_files": 1022,
+    "existing_media_files": 1021,
+    "total_size_mb": 353.67,
+    "last_calculation": "2026-05-28T12:49:54.792268+00:00"
   }
 }
