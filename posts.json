@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2386,
+        "text": "نیازمند یه دوست پیانیست ام؛ برم خونش فقط پیانو بزنه برام همین.\n@TweetPublic\n✔️",
+        "date": "2026-05-29T15:40:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2386_0_dccd667f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2386"
+      },
+      {
+        "id": 2385,
+        "text": "ترامپ: محاصره دریایی ایران از همین حالا برداشته خواهد شد.  @TweetPublic\n✔️",
+        "date": "2026-05-29T14:58:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2385_0_dccd667f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2385_1_8262b4b6.webm"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2385"
+      },
+      {
+        "id": 2384,
+        "text": "ترامپ: محاصره دریایی ایران از همین حالا برداشته خواهد شد.\n@TweetPublic\n✔️",
+        "date": "2026-05-29T14:58:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2384_0_dccd667f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2384"
+      },
+      {
         "id": 2383,
         "text": "هر چی بیشتر تو جامعه میرم بیشتر جامعه ستیز تر میشم.\n@TweetPublic\n✔️",
         "date": "2026-05-28T15:46:13+00:00",
@@ -14219,22 +14268,22 @@
       }
     ]
   },
-  "last_update": "2026-05-29T12:37:10.119825+00:00",
+  "last_update": "2026-05-29T19:54:45.641954+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
-    "total_posts": 839,
-    "total_media": 1024,
-    "total_files": 1024,
+    "total_posts": 842,
+    "total_media": 1028,
+    "total_files": 1028,
     "total_links": 172,
     "files_by_type": {
-      "image": 950,
-      "video": 68,
+      "image": 953,
+      "video": 69,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1024,
-    "existing_media_files": 1023,
-    "total_size_mb": 353.7,
-    "last_calculation": "2026-05-29T12:37:10.131782+00:00"
+    "referenced_files": 1028,
+    "existing_media_files": 1027,
+    "total_size_mb": 353.75,
+    "last_calculation": "2026-05-29T19:54:45.654449+00:00"
   }
 }
