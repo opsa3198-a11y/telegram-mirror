@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2396,
+        "text": "دارک شد\n@TweetPublic\n✔️",
+        "date": "2026-06-01T20:56:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2396_0_ac6bcba0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2396_1_b33ce4a2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2396"
+      },
+      {
+        "id": 2395,
+        "text": "دقت کردین انقدر که دخترا مرد ستیز شدن، پسرا زن ستیز نشدن؟  @TweetPublic\n✔️",
+        "date": "2026-06-01T20:01:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2395_0_ac6bcba0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2395"
+      },
+      {
         "id": 2394,
         "text": "دقت کردین انقدر که دخترا مرد ستیز شدن، پسرا زن ستیز نشدن؟\n@TweetPublic\n✔️",
         "date": "2026-06-01T17:59:01+00:00",
@@ -14227,63 +14261,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2284"
-      },
-      {
-        "id": 2283,
-        "text": "کانفیگ متصل به سایت ایران خودرو موجود\nگیگی 5 میل\n@TweetPublic\n✔️",
-        "date": "2026-05-07T09:41:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2283_0_c0b06e63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2283"
-      },
-      {
-        "id": 2282,
-        "text": "🔴\nآیسان اسلامی بلیط خریده برگرده تهران  @TweetPublic\n✔️",
-        "date": "2026-05-07T08:53:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2282_0_c0b06e63.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2282_1_06ed1469.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2282_2_d6aea120.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2282"
       }
     ]
   },
-  "last_update": "2026-06-01T19:59:10.845691+00:00",
+  "last_update": "2026-06-01T23:58:50.323339+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1028,
-    "total_files": 1028,
+    "total_media": 1027,
+    "total_files": 1027,
     "total_links": 172,
     "files_by_type": {
-      "image": 953,
-      "video": 69,
+      "image": 951,
+      "video": 70,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1028,
-    "existing_media_files": 1027,
-    "total_size_mb": 353.75,
-    "last_calculation": "2026-06-01T19:59:10.857968+00:00"
+    "referenced_files": 1027,
+    "existing_media_files": 1026,
+    "total_size_mb": 354.26,
+    "last_calculation": "2026-06-01T23:58:50.335946+00:00"
   }
 }
