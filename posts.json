@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2398,
+        "text": "🔴\nگویا اسپاتیفای رفع فیلتر شده\n@TweetPublic\n✔️",
+        "date": "2026-06-04T08:53:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2398_0_41a11e78.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2398"
+      },
+      {
         "id": 2397,
         "text": "یادش بخیر، یه زمانی میزدن\n@TweetPublic\n✔️",
         "date": "2026-06-02T08:39:34+00:00",
@@ -14250,25 +14265,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2286"
-      },
-      {
-        "id": 2285,
-        "text": "⭕️\nیک منبع اسرائیلی:\nجنگنده های امارات ٫ اسکله بهمن قشم را بمباران کرد",
-        "date": "2026-05-07T19:07:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2285_0_c0b06e63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2285"
       }
     ]
   },
-  "last_update": "2026-06-03T23:17:44.916528+00:00",
+  "last_update": "2026-06-04T11:26:51.334707+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14284,6 +14284,6 @@
     "referenced_files": 1028,
     "existing_media_files": 1027,
     "total_size_mb": 354.29,
-    "last_calculation": "2026-06-03T23:17:44.923970+00:00"
+    "last_calculation": "2026-06-04T11:26:51.346528+00:00"
   }
 }
