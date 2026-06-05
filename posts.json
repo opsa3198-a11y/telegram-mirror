@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2399,
+        "text": "⭕️\nواتس‌اَپ رفع فیلتر شد\n@TweetPublic\n✔️",
+        "date": "2026-06-05T19:43:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2399_0_911256d3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2399_1_5e2ad26f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2399"
+      },
+      {
         "id": 2398,
         "text": "🔴\nگویا اسپاتیفای رفع فیلتر شده\n@TweetPublic\n✔️",
         "date": "2026-06-04T08:53:07+00:00",
@@ -14250,40 +14269,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2287"
-      },
-      {
-        "id": 2286,
-        "text": "⭕️\nیک منبع اسرائیلی: جنگنده های امارات ٫ اسکله بهمن قشم را بمباران کرد",
-        "date": "2026-05-07T19:07:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2286_0_c0b06e63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2286"
       }
     ]
   },
-  "last_update": "2026-06-05T18:30:32.995937+00:00",
+  "last_update": "2026-06-05T22:44:43.109990+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1028,
-    "total_files": 1028,
+    "total_media": 1029,
+    "total_files": 1029,
     "total_links": 172,
     "files_by_type": {
-      "image": 951,
+      "image": 952,
       "video": 71,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1028,
-    "existing_media_files": 1027,
-    "total_size_mb": 354.29,
-    "last_calculation": "2026-06-05T18:30:33.007801+00:00"
+    "referenced_files": 1029,
+    "existing_media_files": 1028,
+    "total_size_mb": 354.3,
+    "last_calculation": "2026-06-05T22:44:43.122446+00:00"
   }
 }
