@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2409,
+        "text": "هیچی بنزین نداشتم تازه میخواستم برم بزنم لعنت",
+        "date": "2026-06-07T19:20:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2409_0_6bebc72c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2409"
+      },
+      {
+        "id": 2408,
+        "text": "🔴\nفوری\nوضعیت خیابان کرمانشاه حین شلیک موشک به اسراییل\n@TweetPublic\n✔️",
+        "date": "2026-06-07T19:17:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2408_0_6bebc72c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2408_1_2bbdf523.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2408"
+      },
+      {
         "id": 2407,
         "text": "🔹\nفوری\n:\nچارت نرخ کانفیگ صعودی شد\n@TweetPublic\n✔️",
         "date": "2026-06-07T19:09:43+00:00",
@@ -14243,55 +14277,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2298"
-      },
-      {
-        "id": 2296,
-        "text": "از وقتی با claude اشنا شدم از GPT متنفر شدم\n@TweetPublic\n✔️",
-        "date": "2026-05-11T21:52:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2296_0_615552c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2296"
-      },
-      {
-        "id": 2295,
-        "text": "همراه اول دید کسی بسته های پرو اش رو نمیخره شروع کرده واسه مردم عادی هم داره فعال میکنه\nامروز واسه خیلیا پیامک رفته\n@TweetPublic\n✔️",
-        "date": "2026-05-11T21:16:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2295_0_615552c1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2295"
       }
     ]
   },
-  "last_update": "2026-06-07T19:10:13.055741+00:00",
+  "last_update": "2026-06-07T19:23:26.317484+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1030,
-    "total_files": 1030,
+    "total_media": 1031,
+    "total_files": 1031,
     "total_links": 172,
     "files_by_type": {
       "image": 952,
-      "video": 72,
+      "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1030,
-    "existing_media_files": 1029,
-    "total_size_mb": 354.59,
-    "last_calculation": "2026-06-07T19:10:13.068036+00:00"
+    "referenced_files": 1031,
+    "existing_media_files": 1030,
+    "total_size_mb": 355.92,
+    "last_calculation": "2026-06-07T19:23:26.329740+00:00"
   }
 }
