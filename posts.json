@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2400,
+        "text": "🔴\nوکیل تتلو: امیر تتلو واسه ماه محرم درخواست مرخصی کرده تا بیاد مداحی کنه.\n@TweetPublic\n✔️",
+        "date": "2026-06-07T11:00:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2400_0_6bebc72c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2400"
+      },
+      {
         "id": 2399,
         "text": "⭕️\nواتس‌اَپ رفع فیلتر شد\n@TweetPublic\n✔️",
         "date": "2026-06-05T19:43:50+00:00",
@@ -14254,25 +14269,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2288"
-      },
-      {
-        "id": 2287,
-        "text": "شاخص صف پمپ بنزین هم اکنون در حال افزایشه",
-        "date": "2026-05-07T21:03:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2287_0_c0b06e63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2287"
       }
     ]
   },
-  "last_update": "2026-06-07T10:38:09.455068+00:00",
+  "last_update": "2026-06-07T15:12:17.666471+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14288,6 +14288,6 @@
     "referenced_files": 1029,
     "existing_media_files": 1028,
     "total_size_mb": 354.3,
-    "last_calculation": "2026-06-07T10:38:09.467308+00:00"
+    "last_calculation": "2026-06-07T15:12:17.678567+00:00"
   }
 }
