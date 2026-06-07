@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2426,
+        "text": "ایران یعنی عشق، لطفا جنگ نکنید\n@TweetPublic\n✔️",
+        "date": "2026-06-07T21:59:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2426_0_6bebc72c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2426_1_9c00155b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2426"
+      },
+      {
         "id": 2425,
         "text": "درحال حاضر اسرائیل گنبد آهنین داره، ایران گنبد دونالد داره\n@TweetPublic\n✔️",
         "date": "2026-06-07T20:39:07+00:00",
@@ -14254,29 +14273,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2319"
-      },
-      {
-        "id": 2318,
-        "text": "🚨\nفوووووری‌ الحدث:\nایران و آمریکا به دشمنی طولانی مدتشون پایان دادن!\n@TweetPublic\n✔️",
-        "date": "2026-05-23T21:55:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2318_0_c5dfa004.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2318_1_00186427.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2318"
       }
     ]
   },
-  "last_update": "2026-06-07T21:56:45.265247+00:00",
+  "last_update": "2026-06-07T22:55:51.086126+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14284,14 +14284,14 @@
     "total_files": 1030,
     "total_links": 172,
     "files_by_type": {
-      "image": 950,
-      "video": 74,
+      "image": 951,
+      "video": 73,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1030,
     "existing_media_files": 1029,
-    "total_size_mb": 356.13,
-    "last_calculation": "2026-06-07T21:56:45.274931+00:00"
+    "total_size_mb": 355.97,
+    "last_calculation": "2026-06-07T22:55:51.098222+00:00"
   }
 }
