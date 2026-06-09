@@ -12703,6 +12703,66 @@
     ],
     "TweetPublic": [
       {
+        "id": 2438,
+        "text": "🚨\nاسرائیل هم این وسط دوباره به بیروت حمله کرد.\n@TweetPublic\n✔️",
+        "date": "2026-06-09T21:56:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2438_0_b15c16a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2438"
+      },
+      {
+        "id": 2437,
+        "text": "🚨\nکویت و قطر حریم هوایی خودشون رو بستن\n@TweetPublic\n✔️",
+        "date": "2026-06-09T21:52:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2437_0_b15c16a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2437"
+      },
+      {
+        "id": 2436,
+        "text": "🔴\nخبرگزاری تسنیم :\nایران به تجاوز آمریکا پاسخ خواهد داد.\n@TweetPublic\n✔️",
+        "date": "2026-06-09T21:45:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2436_0_b15c16a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2436"
+      },
+      {
+        "id": 2435,
+        "text": "سنتکام: ما حملاتی را در ایران، در پاسخ به سرنگونی هلیکوپتر آپاچی آغاز کردیم\n@TweetPublic\n✔️",
+        "date": "2026-06-09T21:44:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2435_0_b15c16a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2435"
+      },
+      {
         "id": 2434,
         "text": "🚨\nفووووووری پیت هگست:\nاگر همین الان حملات ایران و اسرائیل متوقف نشه بلند میشم 20 تا شنا سوئدی میرم\n@TweetPublic\n✔️",
         "date": "2026-06-08T09:46:45+00:00",
@@ -14209,70 +14269,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2335"
-      },
-      {
-        "id": 2333,
-        "text": "تسنیم : مصوبه رفع انسداد اینترنت بین‌المللی تأیید شد و به دست پزشکیان رسید؛ اگر پزشکیان هم تأییدش کنه، این مصوبه برای اجرا به وزارت ارتباطات صادر می‌شه و تا هفته آینده نت بین‌المللی وصل می‌شه\n@TweetPublic\n✔️",
-        "date": "2026-05-25T09:48:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2333_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2333"
-      },
-      {
-        "id": 2332,
-        "text": "⭕\nمشاور وزیر ارتباطات: احتمالاً محدودیت‌های دسترسی و اتصال به اینترنت بین‌المللی تا هفته آینده رفع خواهد شد  @TweetPublic\n✔️",
-        "date": "2026-05-25T08:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2332_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2332"
-      },
-      {
-        "id": 2331,
-        "text": "⭕\nمشاور وزیر ارتباطات: احتمالاً محدودیت‌های دسترسی و اتصال به اینترنت بین‌المللی تا هفته آینده رفع خواهد شد\n@TweetPublic\n✔️",
-        "date": "2026-05-25T08:29:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2331_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2331"
-      },
-      {
-        "id": 2330,
-        "text": "🚨\nالعربیه و فاکس نیوز:\n🔻\nترامپ به ایران 7 روز فرصت داده تا توافق رو نهایی کنه.  @TweetPublic\n✔️",
-        "date": "2026-05-25T07:47:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2330_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2330"
       }
     ]
   },
-  "last_update": "2026-06-09T20:24:09.732536+00:00",
+  "last_update": "2026-06-09T22:01:34.383288+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14288,6 +14288,6 @@
     "referenced_files": 1029,
     "existing_media_files": 1028,
     "total_size_mb": 355.35,
-    "last_calculation": "2026-06-09T20:24:09.744845+00:00"
+    "last_calculation": "2026-06-09T22:01:34.395505+00:00"
   }
 }
