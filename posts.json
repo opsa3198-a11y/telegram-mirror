@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2446,
+        "text": "احتمالا تا الان بارها تو چنلای مختلف خبر کشته شدن سمیرا ساکی به دست شوهرش و سپس خودکشی شوهرش رو خوندید، ولی پشماتون میریزه وقتی بفهمید حقیقت چقدر با چیزی که پخش شده فرق داره!\nاینا یه مدتی رفتن روسیه برای تحصیل، هردوشون هم دانشجوی پزشکی بودن؛\nتو روسیه دختره به شوهرش چندین بار خیانت کرده و مرده فهمیده که زنش خیانت میکنه بنابراین برمی‌گردن ایران.\nبه خونواده دختره میگه دخترتون بهم خیانت کرده، پدر دختره هم به دخترش میگه دیگه دخترم نیستی برو از خونم بیرون و دختره میره برای طلاق و اینا.\nدختره زرنگی میکنه و مهریه رو میزاره اجرا، پسره هم که میبینه هم بهش خیانت کرده هم مهریه‌شو گذاشته اجرا اول دختره رو میکشه بعدم خودشو.\n@TweetPublic\n✔️",
+        "date": "2026-06-13T09:41:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2446_0_c79347d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2446_1_6145ddd8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2446"
+      },
+      {
         "id": 2445,
         "text": "🔴\nخبرنگار الجزیره تو تهران: تموم شد؛ ایران و آمریکا به توافق رسیدن.\n@TweetPublic\n✔️",
         "date": "2026-06-11T20:23:53+00:00",
@@ -14262,40 +14281,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2342"
-      },
-      {
-        "id": 2341,
-        "text": "صدای انفجار در بندرعباس.\nگویا تست توافقه\n@TweetPublic\n✔️",
-        "date": "2026-05-25T20:50:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2341_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2341"
       }
     ]
   },
-  "last_update": "2026-06-13T09:17:54.507556+00:00",
+  "last_update": "2026-06-13T09:49:01.425416+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1031,
-    "total_files": 1031,
+    "total_media": 1032,
+    "total_files": 1032,
     "total_links": 172,
     "files_by_type": {
-      "image": 952,
+      "image": 953,
       "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1031,
-    "existing_media_files": 1030,
-    "total_size_mb": 360.6,
-    "last_calculation": "2026-06-13T09:17:54.519756+00:00"
+    "referenced_files": 1032,
+    "existing_media_files": 1031,
+    "total_size_mb": 360.67,
+    "last_calculation": "2026-06-13T09:49:01.437734+00:00"
   }
 }
