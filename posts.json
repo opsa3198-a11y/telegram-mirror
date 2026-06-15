@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2448,
+        "text": "🔴\nمتصل تمامی اینترنت ها\n@TweetPublic\n✔️",
+        "date": "2026-06-15T11:00:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2448_0_cd4815e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2448"
+      },
+      {
+        "id": 2447,
+        "text": "بیرانوند تو مصاحبه اخیرش گفته بود مثل تنگه هرمز دروازه رو بسته نگه میداریم.\nالان تنگه باز شد تکلیف چیه؟\n@TweetPublic\n✔️",
+        "date": "2026-06-15T11:00:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2447_0_cd4815e8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2447"
+      },
+      {
         "id": 2446,
         "text": "احتمالا تا الان بارها تو چنلای مختلف خبر کشته شدن سمیرا ساکی به دست شوهرش و سپس خودکشی شوهرش رو خوندید، ولی پشماتون میریزه وقتی بفهمید حقیقت چقدر با چیزی که پخش شده فرق داره!\nاینا یه مدتی رفتن روسیه برای تحصیل، هردوشون هم دانشجوی پزشکی بودن؛\nتو روسیه دختره به شوهرش چندین بار خیانت کرده و مرده فهمیده که زنش خیانت میکنه بنابراین برمی‌گردن ایران.\nبه خونواده دختره میگه دخترتون بهم خیانت کرده، پدر دختره هم به دخترش میگه دیگه دخترم نیستی برو از خونم بیرون و دختره میره برای طلاق و اینا.\nدختره زرنگی میکنه و مهریه رو میزاره اجرا، پسره هم که میبینه هم بهش خیانت کرده هم مهریه‌شو گذاشته اجرا اول دختره رو میکشه بعدم خودشو.\n@TweetPublic\n✔️",
         "date": "2026-06-13T09:41:39+00:00",
@@ -14247,59 +14277,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2344"
-      },
-      {
-        "id": 2343,
-        "text": "",
-        "date": "2026-05-25T21:10:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2343_0_f7e00942.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2343_1_9b8c0b45.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2343"
-      },
-      {
-        "id": 2342,
-        "text": "من که هنوز میگم نزدن\n@TweetPublic\n✔️",
-        "date": "2026-05-25T21:08:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2342_0_f7e00942.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2342"
       }
     ]
   },
-  "last_update": "2026-06-15T07:05:40.225274+00:00",
+  "last_update": "2026-06-15T11:40:23.674477+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1032,
-    "total_files": 1032,
+    "total_media": 1031,
+    "total_files": 1031,
     "total_links": 172,
     "files_by_type": {
       "image": 953,
-      "video": 73,
+      "video": 72,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1032,
-    "existing_media_files": 1031,
-    "total_size_mb": 360.67,
-    "last_calculation": "2026-06-15T07:05:40.237281+00:00"
+    "referenced_files": 1031,
+    "existing_media_files": 1030,
+    "total_size_mb": 360.62,
+    "last_calculation": "2026-06-15T11:40:23.686610+00:00"
   }
 }
