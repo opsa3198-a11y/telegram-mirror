@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2453,
+        "text": "بیرانوند تو مصاحبه اخیرش گفته بود مثل تنگه هرمز دروازه رو بسته نگه میداریم.  الان تنگه باز شد تکلیف چیه؟  @TweetPublic\n✔️",
+        "date": "2026-06-16T15:53:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2453_0_f13defac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2453"
+      },
+      {
         "id": 2452,
         "text": "دلار(نقدی) به ۱۵۴ تومن رسیده\n@TweetPublic\n✔️",
         "date": "2026-06-16T11:45:13+00:00",
@@ -14278,25 +14293,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2351"
-      },
-      {
-        "id": 2350,
-        "text": "‏چرا فقط موقع وصل کردن اینترنت هزار نفر باید تایید و‌ امضا کنن و جلسه بذارید؟ موقع قطع کردنش تو دو دقیقه میزنید قطع میکنید؟\n@TweetPublic\n✔️",
-        "date": "2026-05-26T06:55:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2350_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2350"
       }
     ]
   },
-  "last_update": "2026-06-16T15:47:59.039232+00:00",
+  "last_update": "2026-06-16T16:54:17.631040+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14312,6 +14312,6 @@
     "referenced_files": 1035,
     "existing_media_files": 1034,
     "total_size_mb": 360.89,
-    "last_calculation": "2026-06-16T15:47:59.051130+00:00"
+    "last_calculation": "2026-06-16T16:54:17.643740+00:00"
   }
 }
