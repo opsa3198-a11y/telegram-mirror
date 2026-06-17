@@ -12703,6 +12703,67 @@
     ],
     "TweetPublic": [
       {
+        "id": 2456,
+        "text": "🚨\nرسما تهران منطقه آزاد شد\n@TweetPublic\n✔️",
+        "date": "2026-06-17T10:01:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2456_0_c99874c1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2456_1_caa6965c.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2456_2_92067947.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2456_3_b83dbbc5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2456"
+      },
+      {
+        "id": 2455,
+        "text": "میدونستین اگه به chatgpt بگید: \"از 1 تا 100 یه عدد رو انتخاب کن\" عدد 73 رو میده؟ البته اگر برای اولین بار توی یک چت بهش بگید این عدد رو میده (هر سری توی یه چت جدید بهش بگید، 73 رو میده)  @TweetPublic\n✔️",
+        "date": "2026-06-17T09:19:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2455_0_c99874c1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2455_1_c5fd8c57.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2455"
+      },
+      {
+        "id": 2454,
+        "text": "میدونستین اگه به chatgpt بگید: \"\nاز 1 تا 100 یه عدد رو انتخاب کن\n\" عدد 73 رو میده؟\nالبته اگر برای اولین بار توی یک چت بهش بگید این عدد رو میده (هر سری توی یه چت جدید بهش بگید، 73 رو میده)\n@TweetPublic\n✔️",
+        "date": "2026-06-17T09:12:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2454_0_c99874c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2454"
+      },
+      {
         "id": 2453,
         "text": "بیرانوند تو مصاحبه اخیرش گفته بود مثل تنگه هرمز دروازه رو بسته نگه میداریم.  الان تنگه باز شد تکلیف چیه؟  @TweetPublic\n✔️",
         "date": "2026-06-16T15:53:41+00:00",
@@ -14248,70 +14309,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2354"
-      },
-      {
-        "id": 2353,
-        "text": "⭕️\nفووری و رسمی: اینترنت بین الملل بصورت کامل وصل و به شرایط قبل از جنگ بازگشت (جنگ ایران و عراق)\n@TweetPublic\n✔️",
-        "date": "2026-05-26T09:51:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2353_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2353"
-      },
-      {
-        "id": 2352,
-        "text": "شاهد کاهش نرخ کانفیگ هستیم\n@TweetPublic\n✔️",
-        "date": "2026-05-26T07:56:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2352_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2352"
-      },
-      {
-        "id": 2351,
-        "text": "ابلاغ شده که اینترنت باز شه\nحالا کی؟ ایشالا به زودی باز میشه\n@TweetPublic\n✔️",
-        "date": "2026-05-26T07:35:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2351_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2351"
       }
     ]
   },
-  "last_update": "2026-06-17T06:57:41.056032+00:00",
+  "last_update": "2026-06-17T10:58:19.389976+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1035,
-    "total_files": 1035,
+    "total_media": 1039,
+    "total_files": 1039,
     "total_links": 172,
     "files_by_type": {
-      "image": 957,
-      "video": 72,
+      "image": 960,
+      "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1035,
-    "existing_media_files": 1034,
-    "total_size_mb": 360.89,
-    "last_calculation": "2026-06-17T06:57:41.065545+00:00"
+    "referenced_files": 1039,
+    "existing_media_files": 1038,
+    "total_size_mb": 361.47,
+    "last_calculation": "2026-06-17T10:58:19.403457+00:00"
   }
 }
