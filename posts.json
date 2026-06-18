@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2460,
+        "text": "🔴\nبه تازگی ویدیویی از شاهین نجفی درحال وایرال شدنه که ۲ سال پیش اعلام کرد محمدباقر قالیباف میخواد با کنار زدن علی خامنه‌ای، سکان‌دار حکومت جمهوری اسلامی بشه.\n@TweetPublic\n✔️",
+        "date": "2026-06-18T11:00:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2460_0_e475ddd5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2460_1_8e7c1212.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2460"
+      },
+      {
         "id": 2459,
         "text": "توافق شده، طلا ریخته، دلار ریخته، ایران خودرو بازم افزایش قیمت داده\nقیمت دنا کارخونه 1600 بود که توی یک ماه 400 میلیون اومده روش,نظرتون راجب این افزایش قیمت ها چیه کسی اصلا میخره؟\n@TweetPublic\n✔️",
         "date": "2026-06-17T13:50:16+00:00",
@@ -14294,40 +14313,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2356"
-      },
-      {
-        "id": 2355,
-        "text": "واسه چند دیقه یک سری دسترسی ها به اینترنت باز شد ولی مجدد بستن که گویا اپدیت فایروال بوده.\nاز طرفی طبق اخبار منتشر شده دیوان عدالت اداری دستور توقف مصوبه رو داده.\nگوگل پلی و اپ استور هم ایپی هاشون از قبل رفع فیلتر شده بودن ولی DNS سرور ها ایپی درست نمیدادن که اونو انگار فیکس کردن و چیز جدیدی نیست\n@TweetPublic\n✔️",
-        "date": "2026-05-26T12:21:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2355_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2355"
       }
     ]
   },
-  "last_update": "2026-06-18T10:22:21.927490+00:00",
+  "last_update": "2026-06-18T11:03:35.053936+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1039,
-    "total_files": 1039,
+    "total_media": 1040,
+    "total_files": 1040,
     "total_links": 172,
     "files_by_type": {
       "image": 961,
-      "video": 72,
+      "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1039,
-    "existing_media_files": 1038,
-    "total_size_mb": 361.51,
-    "last_calculation": "2026-06-18T10:22:21.940472+00:00"
+    "referenced_files": 1040,
+    "existing_media_files": 1039,
+    "total_size_mb": 363.78,
+    "last_calculation": "2026-06-18T11:03:35.066600+00:00"
   }
 }
