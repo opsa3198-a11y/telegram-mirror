@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2461,
+        "text": "🚨\nبا تایید مجتبی خامنه ای رسما توافق شد.\n@TweetPublic\n✔️",
+        "date": "2026-06-18T18:05:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2461_0_e475ddd5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2461"
+      },
+      {
         "id": 2460,
         "text": "🔴\nبه تازگی ویدیویی از شاهین نجفی درحال وایرال شدنه که ۲ سال پیش اعلام کرد محمدباقر قالیباف میخواد با کنار زدن علی خامنه‌ای، سکان‌دار حکومت جمهوری اسلامی بشه.\n@TweetPublic\n✔️",
         "date": "2026-06-18T11:00:14+00:00",
@@ -14298,25 +14313,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2357"
-      },
-      {
-        "id": 2356,
-        "text": "",
-        "date": "2026-05-26T12:29:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2356_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2356"
       }
     ]
   },
-  "last_update": "2026-06-18T17:40:19.364041+00:00",
+  "last_update": "2026-06-18T20:06:35.492448+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14332,6 +14332,6 @@
     "referenced_files": 1040,
     "existing_media_files": 1039,
     "total_size_mb": 363.78,
-    "last_calculation": "2026-06-18T17:40:19.376801+00:00"
+    "last_calculation": "2026-06-18T20:06:35.504405+00:00"
   }
 }
