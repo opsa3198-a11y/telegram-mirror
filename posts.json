@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2464,
+        "text": "جدا گرمتون نمیشه وسط تابستون لگ میپوشید میرید ورزش؟\nبخدا چصی و توجه جلب کردن ارزششو نداره ها.\n@TweetPublic\n✔️",
+        "date": "2026-06-20T15:44:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2464_0_a3040ccf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2464"
+      },
+      {
         "id": 2463,
         "text": "دوستان کسی تعمیر کار لپتاپ هست؟ یا از خمیر سیلیکون سر در میاره؟ دایرکت پیام بده.",
         "date": "2026-06-19T10:02:48+00:00",
@@ -14298,25 +14313,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2360"
-      },
-      {
-        "id": 2359,
-        "text": "البته بیاید قضاوت نکنیم شاید بازم تسته\n@TweetPublic\n✔️",
-        "date": "2026-05-26T12:48:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2359_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2359"
       }
     ]
   },
-  "last_update": "2026-06-20T15:19:43.246817+00:00",
+  "last_update": "2026-06-20T16:58:20.017036+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14332,6 +14332,6 @@
     "referenced_files": 1040,
     "existing_media_files": 1039,
     "total_size_mb": 363.78,
-    "last_calculation": "2026-06-20T15:19:43.258732+00:00"
+    "last_calculation": "2026-06-20T16:58:20.029113+00:00"
   }
 }
