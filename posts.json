@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2470,
+        "text": "⏺\nتناقض عجیب ایرانیان خارج از کشور که بازیکنا میگفتن بی شرف اما با گل طارمی شادی کردن:\n@TweetPublic\n✔️",
+        "date": "2026-06-21T22:37:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2470_0_ee604ac4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2470_1_dc611c2b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2470"
+      },
+      {
         "id": 2469,
         "text": "@TweetPublic\n✔️",
         "date": "2026-06-21T10:57:17+00:00",
@@ -14298,29 +14317,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2366"
-      },
-      {
-        "id": 2365,
-        "text": "مثل اینکه باز کردن اینترنتا کار پزشکیان نبوده، کار گلزار بود",
-        "date": "2026-05-26T14:06:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2365_0_2d0a96d1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2365_1_e5714227.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2365"
       }
     ]
   },
-  "last_update": "2026-06-21T21:49:19.363854+00:00",
+  "last_update": "2026-06-21T22:57:56.984522+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14328,14 +14328,14 @@
     "total_files": 1041,
     "total_links": 172,
     "files_by_type": {
-      "image": 961,
-      "video": 74,
+      "image": 960,
+      "video": 75,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1041,
     "existing_media_files": 1040,
-    "total_size_mb": 363.81,
-    "last_calculation": "2026-06-21T21:49:19.376116+00:00"
+    "total_size_mb": 366.12,
+    "last_calculation": "2026-06-21T22:57:56.996535+00:00"
   }
 }
