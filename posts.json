@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2471,
+        "text": "مجددا بانک ها اختلال پیدا کردن\nاگر بانکتون اختلال داره اسم بانکتون رو بگید دایرکت\nاین پست اپدیت میشه و لیست بانک ها به روز رسانی میشن\nلیست بانک ها:\nملی\nتجارت\nصادرات\nپاسارگاد\n@TweetPublic\n✔️",
+        "date": "2026-06-23T11:41:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2471_0_64d8e947.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2471"
+      },
+      {
         "id": 2470,
         "text": "⏺\nتناقض عجیب ایرانیان خارج از کشور که بازیکنا میگفتن بی شرف اما با گل طارمی شادی کردن:\n@TweetPublic\n✔️",
         "date": "2026-06-21T22:37:51+00:00",
@@ -14298,44 +14313,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2367"
-      },
-      {
-        "id": 2366,
-        "text": "مود کانفیگ فروشا الان :",
-        "date": "2026-05-26T14:37:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2366_0_2d0a96d1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2366_1_0585559c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2366"
       }
     ]
   },
-  "last_update": "2026-06-23T09:40:13.526871+00:00",
+  "last_update": "2026-06-23T11:50:33.283270+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1041,
-    "total_files": 1041,
+    "total_media": 1040,
+    "total_files": 1040,
     "total_links": 172,
     "files_by_type": {
-      "image": 960,
+      "image": 959,
       "video": 75,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1041,
-    "existing_media_files": 1040,
-    "total_size_mb": 366.12,
-    "last_calculation": "2026-06-23T09:40:13.539309+00:00"
+    "referenced_files": 1040,
+    "existing_media_files": 1039,
+    "total_size_mb": 366.05,
+    "last_calculation": "2026-06-23T11:50:33.293388+00:00"
   }
 }
