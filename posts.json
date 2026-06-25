@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2472,
+        "text": "‏تا پارسال فقط اب و برق و اینترنت قطع میشد، الان خداروشکر بانک هم بهش اضاف شد.\n@TweetPublic\n✔️",
+        "date": "2026-06-25T16:38:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2472_0_a00909dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2472"
+      },
+      {
         "id": 2471,
         "text": "مجددا بانک ها اختلال پیدا کردن\nاگر بانکتون اختلال داره اسم بانکتون رو بگید دایرکت\nاین پست اپدیت میشه و لیست بانک ها به روز رسانی میشن\nلیست بانک ها:\nملی\nتجارت\nصادرات\nپاسارگاد\n@TweetPublic\n✔️",
         "date": "2026-06-23T11:41:59+00:00",
@@ -14298,25 +14313,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2368"
-      },
-      {
-        "id": 2367,
-        "text": "اینترنت های موبایل هم در حال باز شدن هستن",
-        "date": "2026-05-26T16:50:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2367_0_2d0a96d1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2367"
       }
     ]
   },
-  "last_update": "2026-06-25T15:21:34.824760+00:00",
+  "last_update": "2026-06-25T17:27:47.331350+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14332,6 +14332,6 @@
     "referenced_files": 1040,
     "existing_media_files": 1039,
     "total_size_mb": 366.05,
-    "last_calculation": "2026-06-25T15:21:34.834440+00:00"
+    "last_calculation": "2026-06-25T17:27:47.343489+00:00"
   }
 }
