@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2492,
+        "text": "جدیدا یه ماجرایی وایرال شده که یه دختر و پسر تو نیویورک، رفتن روی آسمون خراش ۴۴۰ متری و اونجا پسره از دوس دخترش خواستگاری میکنه.\nحالا توی مجازی دخترا دارن حسرتشو میخورن و میگن پسرای ایرانی از این کارا بلد نیستن.\nخواستم بگم شیرمرد اون پسرای ایرانی بودن که اینطوری سینه سپر کردن تا پارتنرشون و بقیه مردم آزاد بشن.\n@TweetPublic\n✔️",
+        "date": "2026-07-05T14:34:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2492_0_43fe83f1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2492_1_3d15e3f4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2492"
+      },
+      {
         "id": 2491,
         "text": "@PersianDozBot",
         "date": "2026-07-05T11:48:44+00:00",
@@ -14326,40 +14345,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2390"
-      },
-      {
-        "id": 2389,
-        "text": "لعنت بر ارتتای حرام بال ربات رو تست کنید نتیجه رو بگید سرور چیجوریه ترجیحا همراه اول  @TweetPublicVPN_Bot @TweetPublic\n✔️",
-        "date": "2026-05-30T18:30:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2389_0_29c25d32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2389"
       }
     ]
   },
-  "last_update": "2026-07-05T14:13:50.315546+00:00",
+  "last_update": "2026-07-05T15:42:18.502591+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1047,
-    "total_files": 1047,
+    "total_media": 1048,
+    "total_files": 1048,
     "total_links": 172,
     "files_by_type": {
-      "image": 962,
+      "image": 963,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1047,
-    "existing_media_files": 1046,
-    "total_size_mb": 374.89,
-    "last_calculation": "2026-07-05T14:13:50.327795+00:00"
+    "referenced_files": 1048,
+    "existing_media_files": 1047,
+    "total_size_mb": 375.01,
+    "last_calculation": "2026-07-05T15:42:18.514726+00:00"
   }
 }
