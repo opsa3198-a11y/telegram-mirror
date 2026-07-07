@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2496,
+        "text": "لاشی حالا جنبه باخت جام جهانی نداری این کارا چیه می‌کنی\n@TweetPublic\n✔️",
+        "date": "2026-07-07T21:30:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2496_0_26ac0210.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2496"
+      },
+      {
+        "id": 2495,
+        "text": "🔴\nصدای انفجار در بندر عباس ، قشم ، سیرک\n@TweetPublic\n✔️",
+        "date": "2026-07-07T21:09:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2495_0_26ac0210.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2495"
+      },
+      {
         "id": 2494,
         "text": "@PersianDozBot\nجایزه نقدی گذاشتیم از دست ندید",
         "date": "2026-07-07T12:10:01+00:00",
@@ -14315,40 +14345,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2394"
-      },
-      {
-        "id": 2393,
-        "text": "لعنت بر ارتتای حرام بال ربات رو تست کنید نتیجه رو بگید سرور چیجوریه ترجیحا همراه اول  @TweetPublicVPN_Bot @TweetPublic\n✔️",
-        "date": "2026-06-01T12:30:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2393_0_ac6bcba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2393"
-      },
-      {
-        "id": 2392,
-        "text": "فوووری سهام شله سقوط کرد و کباب شامی رایگان کنسل شد\n@TweetPublic\n✔️",
-        "date": "2026-05-30T19:02:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2392_0_29c25d32.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2392"
       }
     ]
   },
-  "last_update": "2026-07-07T21:05:44.519867+00:00",
+  "last_update": "2026-07-07T22:34:17.171104+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14364,6 +14364,6 @@
     "referenced_files": 1048,
     "existing_media_files": 1047,
     "total_size_mb": 375.01,
-    "last_calculation": "2026-07-07T21:05:44.542523+00:00"
+    "last_calculation": "2026-07-07T22:34:17.183755+00:00"
   }
 }
