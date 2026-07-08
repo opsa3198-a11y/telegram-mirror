@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2497,
+        "text": "ترامپ: فکر می‌کنم تفاهم‌نامه با ایران تموم شد چون اونا لاشی هستن.\n@TweetPublic\n✔️",
+        "date": "2026-07-08T08:27:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2497_0_26ac0210.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2497"
+      },
+      {
         "id": 2496,
         "text": "لاشی حالا جنبه باخت جام جهانی نداری این کارا چیه می‌کنی\n@TweetPublic\n✔️",
         "date": "2026-07-07T21:30:58+00:00",
@@ -14330,25 +14345,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2395"
-      },
-      {
-        "id": 2394,
-        "text": "دقت کردین انقدر که دخترا مرد ستیز شدن، پسرا زن ستیز نشدن؟\n@TweetPublic\n✔️",
-        "date": "2026-06-01T17:59:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2394_0_ac6bcba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2394"
       }
     ]
   },
-  "last_update": "2026-07-08T07:21:05.432753+00:00",
+  "last_update": "2026-07-08T08:29:08.313559+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14364,6 +14364,6 @@
     "referenced_files": 1048,
     "existing_media_files": 1047,
     "total_size_mb": 375.01,
-    "last_calculation": "2026-07-08T07:21:05.445223+00:00"
+    "last_calculation": "2026-07-08T08:29:08.325582+00:00"
   }
 }
