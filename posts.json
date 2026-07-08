@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2499,
+        "text": "🔴\nمهر: شنیده شدن صدای انفجار در کنارک و چابهار\n@TweetPublic\n✔️",
+        "date": "2026-07-08T20:12:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2499_0_a5e08d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2499"
+      },
+      {
+        "id": 2498,
+        "text": "🔴\nادعای آکسیوس:\nشدت حملات امشب طی ساعات عادی بیشتر از دفعات قبل خواهد بود\n@TweetPublic\n✔️",
+        "date": "2026-07-08T20:01:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2498_0_a5e08d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2498"
+      },
+      {
         "id": 2497,
         "text": "ترامپ: فکر می‌کنم تفاهم‌نامه با ایران تموم شد چون اونا لاشی هستن.\n@TweetPublic\n✔️",
         "date": "2026-07-08T08:27:13+00:00",
@@ -14311,59 +14341,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2397"
-      },
-      {
-        "id": 2396,
-        "text": "دارک شد\n@TweetPublic\n✔️",
-        "date": "2026-06-01T20:56:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2396_0_ac6bcba0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2396_1_b33ce4a2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2396"
-      },
-      {
-        "id": 2395,
-        "text": "دقت کردین انقدر که دخترا مرد ستیز شدن، پسرا زن ستیز نشدن؟  @TweetPublic\n✔️",
-        "date": "2026-06-01T20:01:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2395_0_ac6bcba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2395"
       }
     ]
   },
-  "last_update": "2026-07-08T19:25:53.866053+00:00",
+  "last_update": "2026-07-08T20:15:04.784306+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1048,
-    "total_files": 1048,
+    "total_media": 1047,
+    "total_files": 1047,
     "total_links": 172,
     "files_by_type": {
       "image": 963,
-      "video": 79,
+      "video": 78,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1048,
-    "existing_media_files": 1047,
-    "total_size_mb": 375.01,
-    "last_calculation": "2026-07-08T19:25:53.879028+00:00"
+    "referenced_files": 1047,
+    "existing_media_files": 1046,
+    "total_size_mb": 374.43,
+    "last_calculation": "2026-07-08T20:15:04.797299+00:00"
   }
 }
