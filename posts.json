@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2510,
+        "text": "🔴\nفوری / وزارت کشور بحرین:\nاز شهروندان درخواست می‌شود به نزدیکترین مکان امن مراجعه کنند.\n@TweetPublic\n✔️",
+        "date": "2026-07-09T08:14:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2510_0_a5e08d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2510"
+      },
+      {
+        "id": 2509,
+        "text": "‌ بچه ها ربات خفن دوز براتون اوردم خودم وقتی حوصلم سر میره میرم اونجا رقابت میکنم   @PersianDozBot ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮",
+        "date": "2026-07-09T08:04:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2509_0_a5e08d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2509"
+      },
+      {
+        "id": 2508,
+        "text": "‌\nبچه ها ربات خفن دوز براتون اوردم خودم وقتی حوصلم سر میره میرم اونجا رقابت میکنم\n@PersianDozBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮",
+        "date": "2026-07-09T08:03:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2508_0_a5e08d88.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2508"
+      },
+      {
         "id": 2507,
         "text": "🔴\nبوشهر و چابهار رو دوباره زدن.\n@TweetPublic\n✔️",
         "date": "2026-07-09T02:51:36+00:00",
@@ -14300,55 +14345,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2406"
-      },
-      {
-        "id": 2405,
-        "text": "فوری\nشلیک موشک از خوزستان و ایلام گزارش شده\n@TweetPublic\n✔️",
-        "date": "2026-06-07T19:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2405_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2405"
-      },
-      {
-        "id": 2404,
-        "text": "گزارشات از شلیک موشک از کرمانشاه\n@TweetPublic\n✔️",
-        "date": "2026-06-07T19:02:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2404_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2404"
-      },
-      {
-        "id": 2403,
-        "text": "خیلی یهویی و بی دلیل یه پیامی به کانفیگ فروشتون بدین حال و احوالشو بپرسید تهش ضرر نمیکنین.\n@TweetPublic\n✔️",
-        "date": "2026-06-07T18:58:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2403_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2403"
       }
     ]
   },
-  "last_update": "2026-07-09T05:52:29.587411+00:00",
+  "last_update": "2026-07-09T09:40:34.254541+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14364,6 +14364,6 @@
     "referenced_files": 1048,
     "existing_media_files": 1047,
     "total_size_mb": 377.62,
-    "last_calculation": "2026-07-09T05:52:29.600015+00:00"
+    "last_calculation": "2026-07-09T09:40:34.267869+00:00"
   }
 }
