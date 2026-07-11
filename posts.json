@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2524,
+        "text": "🚨\n🚨\n🚨\nفوووری/بیانیه سپاه\n:\n🔴\nبخاطر دخالت های آمریکا تو تنگه ی هرمز تا اطلاع ثانوی تنگه ی هرمز بسته خواهد ماند\n@TweetPublic\n✔️",
+        "date": "2026-07-11T22:24:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2524_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2524"
+      },
+      {
         "id": 2523,
         "text": "",
         "date": "2026-07-11T21:31:32+00:00",
@@ -14338,25 +14353,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2419"
-      },
-      {
-        "id": 2418,
-        "text": "ترامپ: من الان با نتانیاهو تماس می‌گیرم و می‌گویم که به ایران پاسخ\nندهد!\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:09:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2418_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2418"
       }
     ]
   },
-  "last_update": "2026-07-11T21:37:21.983941+00:00",
+  "last_update": "2026-07-11T22:34:54.162151+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14372,6 +14372,6 @@
     "referenced_files": 1050,
     "existing_media_files": 1049,
     "total_size_mb": 376.58,
-    "last_calculation": "2026-07-11T21:37:21.993853+00:00"
+    "last_calculation": "2026-07-11T22:34:54.174433+00:00"
   }
 }
