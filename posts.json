@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2518,
+        "text": "🔺\nشنیده شدن صدای انفجار محدوده شرق استان تهران\n🔹\nدقایقی پیش مردم در پاکدشت و قیام‌دشت از سمت شرق استان تهران صدای انفجار شنیدند.\n🔹\nهنوز منشا و محل دقیق این انفجارها مشخص نیست‌./فارس\n@TweetPublic\n✔️",
+        "date": "2026-07-11T06:24:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2518_0_e0b7b074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2518"
+      },
+      {
+        "id": 2517,
+        "text": "🔴\nانفجار مهیب دقایقی قبل محدوده قرچک-پاکدشت- قیامدشت و پارچین\n@TweetPublic\n✔️",
+        "date": "2026-07-11T06:18:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2517_0_e0b7b074.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2517"
+      },
+      {
         "id": 2516,
         "text": "🔴\nفوری ادعای ترامپ: جمهوری اسلامی ایران از ما خواسته است که به «مذاکرات» ادامه دهیم. ما با انجام این کار موافقت کرده‌ایم،   اما ایالات متحده بدون هیچ ابهامی به آن‌ها اعلام کرده است که آتش‌بس به پایان رسیده است!  @TweetPublic\n✔️",
         "date": "2026-07-10T15:14:17+00:00",
@@ -14311,59 +14341,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2414"
-      },
-      {
-        "id": 2413,
-        "text": "بزنید فیلما رو دانلود\nخودتون میدونید چه فیلمایی رو میگم\n@TweetPublic\n✔️",
-        "date": "2026-06-07T19:46:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2413_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2413"
-      },
-      {
-        "id": 2412,
-        "text": "🔴\nهم‌اکنون ملت درحال دلجویی از کانفیگ فروش‌‌ها :\n@TweetPublic\n✔️",
-        "date": "2026-06-07T19:34:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2412_0_6bebc72c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2412_1_6cee4f84.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2412"
       }
     ]
   },
-  "last_update": "2026-07-11T04:50:29.773092+00:00",
+  "last_update": "2026-07-11T07:03:58.914247+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1048,
-    "total_files": 1048,
+    "total_media": 1047,
+    "total_files": 1047,
     "total_links": 172,
     "files_by_type": {
-      "image": 966,
+      "image": 965,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1048,
-    "existing_media_files": 1047,
-    "total_size_mb": 376.24,
-    "last_calculation": "2026-07-11T04:50:29.785531+00:00"
+    "referenced_files": 1047,
+    "existing_media_files": 1046,
+    "total_size_mb": 376.19,
+    "last_calculation": "2026-07-11T07:03:58.924433+00:00"
   }
 }
