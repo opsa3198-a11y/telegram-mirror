@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2523,
+        "text": "",
+        "date": "2026-07-11T21:31:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2523_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2523"
+      },
+      {
+        "id": 2522,
+        "text": "ولی عجیب نیستن اینا؟ چرا اصلا میان ایران؟ اول اون پسره که بهش میگفتن \"شاهزاده سرین\" اومد بعدش تتلو اومد الانم این اومد و همشون رو گرفتن چرا اصلا میان؟  @TweetPublic\n✔️",
+        "date": "2026-07-11T21:28:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2522_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2522"
+      },
+      {
+        "id": 2521,
+        "text": "🔴\nاین خبر تایید یا رد نمیشه پویان مختاری به گونی منتقل شد  پویان مختاری، بلاگری که خارج از ایران بود، از چند هفته پیش شروع کرد به تغییر سبک زندگیش و حتی به صورت آنلاین اومد تو برنامه مجید واشقانی و گفت من آخوندارو دوست دارم و قرآن خوند و رضا پهلوی رو فحش داد…",
+        "date": "2026-07-11T21:28:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2521_0_3f8a4de3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2521_1_36a857be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2521"
+      },
+      {
         "id": 2519,
         "text": "🔴\nاین خبر تایید یا رد نمیشه\nپویان مختاری به گونی منتقل شد\nپویان مختاری، بلاگری که خارج از ایران بود، از چند هفته پیش شروع کرد به تغییر سبک زندگیش و حتی به صورت آنلاین اومد تو برنامه مجید واشقانی و گفت من آخوندارو دوست دارم و قرآن خوند و رضا پهلوی رو فحش داد و... با تمام توان سعی کرد که خودشو سفید کنه\nاما متاسفانه اونجوری که میخواست پیش نرفت و امروز صبح به محض ورودش به ایران گرفتن بردنش زندان تا جور دیگه‌ای سفیدش کنن\n@TweetPublic\n✔️",
         "date": "2026-07-11T20:15:22+00:00",
@@ -14304,70 +14353,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2418"
-      },
-      {
-        "id": 2417,
-        "text": "🚨\nپاکستان :\nبازم کسی میانجی‌گر خواست در خدمتیم\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:08:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2417_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2417"
-      },
-      {
-        "id": 2416,
-        "text": "🚨\n❗️\nترامپ به فاکس نیوز: حمله ای که اسرائیل امروز کرد به بیروت کاملا بدون هماهنگی من بود و\nاز\nاین موضوع خوشحال نیستم\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:02:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2416_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2416"
-      },
-      {
-        "id": 2415,
-        "text": "🚨\nفوری: ترامپ به فاکس نیوز:\nچیزی که به ایران پیشنهاد می‌کنم: موشک‌هایتان را شلیک کرده‌اید، کافی است. به میز مذاکره بازگردید و معامله‌ای انجام دهید.\n@TweetPublic\n✔️",
-        "date": "2026-06-07T19:55:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2415_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2415"
       }
     ]
   },
-  "last_update": "2026-07-11T20:36:23.021996+00:00",
+  "last_update": "2026-07-11T21:37:21.983941+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1049,
-    "total_files": 1049,
+    "total_media": 1050,
+    "total_files": 1050,
     "total_links": 172,
     "files_by_type": {
-      "image": 966,
+      "image": 967,
       "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1049,
-    "existing_media_files": 1048,
-    "total_size_mb": 376.57,
-    "last_calculation": "2026-07-11T20:36:23.030827+00:00"
+    "referenced_files": 1050,
+    "existing_media_files": 1049,
+    "total_size_mb": 376.58,
+    "last_calculation": "2026-07-11T21:37:21.993853+00:00"
   }
 }
