@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2526,
+        "text": "🔴\nفوری/انفجار در قشم\n@TweetPublic\n✔️",
+        "date": "2026-07-11T23:34:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2526_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2526"
+      },
+      {
+        "id": 2525,
+        "text": "⏺\nتایید نشده: صدای انفجار از بوشهر\n@TweetPublic\n✔️",
+        "date": "2026-07-11T23:20:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2525_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2525"
+      },
+      {
         "id": 2524,
         "text": "🚨\n🚨\n🚨\nفوووری/بیانیه سپاه\n:\n🔴\nبخاطر دخالت های آمریکا تو تنگه ی هرمز تا اطلاع ثانوی تنگه ی هرمز بسته خواهد ماند\n@TweetPublic\n✔️",
         "date": "2026-07-11T22:24:40+00:00",
@@ -14323,40 +14353,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2421"
-      },
-      {
-        "id": 2420,
-        "text": "ترامپ:\nفکر می‌کنم اسرائیل به اندازه کافی پاسخ داده است. نیازی به پاسخ بیشتر نیست.\nما می‌توانیم پس از 3000 سال به صلح دست یابیم.\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:22:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2420_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2420"
-      },
-      {
-        "id": 2419,
-        "text": "اینطوری پیش بره ترامپ و مجتبی یکی میشن به اسرائیل حمله میکنن.\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:19:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2419_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2419"
       }
     ]
   },
-  "last_update": "2026-07-11T22:34:54.162151+00:00",
+  "last_update": "2026-07-11T23:41:00.391209+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14372,6 +14372,6 @@
     "referenced_files": 1050,
     "existing_media_files": 1049,
     "total_size_mb": 376.58,
-    "last_calculation": "2026-07-11T22:34:54.174433+00:00"
+    "last_calculation": "2026-07-11T23:41:00.403694+00:00"
   }
 }
