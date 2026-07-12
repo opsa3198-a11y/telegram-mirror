@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2530,
+        "text": "⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬\nبچها یه ربات پیدا کردم نجاتم داد واقعا\nبجای اینکه واسه هر یدونه فیلم یا سریال هزارتا چنل صیغه جوین شم یه ربات پیدا کردم بدون جوین اجباری آرشیو کامل فیلم و سریال ایرانی رو داره\nحتی آرشیو کامل ایران قدیم و سریال تلوزیونی و خانگی و فیلم سینمایی قدیم تا جدید\nو رئالیتی شو های یوتیوب و برنامه های رسمی\nاز دستش ندینن\n👇🏻\n@CatFilm_Bot\n⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
+        "date": "2026-07-12T10:47:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2530_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2530"
+      },
+      {
+        "id": 2529,
+        "text": "⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮",
+        "date": "2026-07-12T10:47:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2529_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2529"
+      },
+      {
         "id": 2528,
         "text": "🔴\nفوری / مرگ ناگهانی سناتور جمهوری خواه\n🔴\nدفتر لیندسی گراهام، سناتور جمهوری‌خواه و جنگ‌طلب آمریکایی اعلام کرد که او بر اثر یک «بیماری ناگهانی» مُرده.\n@TweetPublic\n✔️",
         "date": "2026-07-12T07:05:46+00:00",
@@ -14315,63 +14345,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2425"
-      },
-      {
-        "id": 2424,
-        "text": "پیامی که ترامپ به نتانیاهو برای آروم کردنش ارسال کرده:\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:32:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2424_0_6bebc72c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2424_1_439c40c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2424"
-      },
-      {
-        "id": 2423,
-        "text": "‏ترامپ الان داره به نتانیاهو میگه داداش من خودم مخالف اینام ولی الان بحث بحث وطنه",
-        "date": "2026-06-07T20:28:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2423_0_6bebc72c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2423_1_35193a94.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2423"
       }
     ]
   },
-  "last_update": "2026-07-12T09:23:08.864209+00:00",
+  "last_update": "2026-07-12T10:49:35.454224+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1050,
-    "total_files": 1050,
+    "total_media": 1048,
+    "total_files": 1048,
     "total_links": 172,
     "files_by_type": {
-      "image": 967,
-      "video": 77,
+      "image": 966,
+      "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1050,
-    "existing_media_files": 1049,
-    "total_size_mb": 376.58,
-    "last_calculation": "2026-07-12T09:23:08.874071+00:00"
+    "referenced_files": 1048,
+    "existing_media_files": 1047,
+    "total_size_mb": 376.28,
+    "last_calculation": "2026-07-12T10:49:35.466911+00:00"
   }
 }
