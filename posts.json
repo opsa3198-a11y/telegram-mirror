@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2533,
+        "text": "🔴\nطرف شگردش این بوده زنایی‌ که از شوهرشون ماهیانه مهریه میگرفتن رو شکار میکرده و بعد از اینکه ازشون فیلم تهیه میکرده مهریشون رو ازشون میگرفته.\n@TweetPublic\n✔️",
+        "date": "2026-07-12T12:58:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2533_0_3f8a4de3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2533_1_a91aeaf9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2533"
+      },
+      {
         "id": 2532,
         "text": "‼️\nضرغامی علت مرگ لیندسی گراهام را مشخص کرد:\nدیدن تصاویر میلیونی مردم ایران‌ و عراق در ادای احترام به ‎رهبر او را سکته داد!\n@TweetPublic\n✔️",
         "date": "2026-07-12T12:00:02+00:00",
@@ -14326,29 +14345,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2428"
-      },
-      {
-        "id": 2427,
-        "text": "",
-        "date": "2026-06-08T02:00:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2427_0_5d6fcd4f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2427_1_4e4ad66c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2427"
       }
     ]
   },
-  "last_update": "2026-07-12T12:49:05.535099+00:00",
+  "last_update": "2026-07-12T13:20:19.476837+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14356,14 +14356,14 @@
     "total_files": 1048,
     "total_links": 172,
     "files_by_type": {
-      "image": 966,
-      "video": 76,
+      "image": 967,
+      "video": 75,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1048,
     "existing_media_files": 1047,
-    "total_size_mb": 376.26,
-    "last_calculation": "2026-07-12T12:49:05.547417+00:00"
+    "total_size_mb": 376.28,
+    "last_calculation": "2026-07-12T13:20:19.486725+00:00"
   }
 }
