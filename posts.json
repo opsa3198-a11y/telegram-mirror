@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2532,
+        "text": "‼️\nضرغامی علت مرگ لیندسی گراهام را مشخص کرد:\nدیدن تصاویر میلیونی مردم ایران‌ و عراق در ادای احترام به ‎رهبر او را سکته داد!\n@TweetPublic\n✔️",
+        "date": "2026-07-12T12:00:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2532_0_3f8a4de3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2532_1_1786bc8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2532"
+      },
+      {
         "id": 2531,
         "text": "⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬ بچها یه ربات پیدا کردم نجاتم داد واقعا بجای اینکه واسه هر یدونه فیلم یا سریال هزارتا چنل صیغه جوین شم یه ربات پیدا کردم بدون جوین اجباری آرشیو کامل فیلم و سریال ایرانی رو داره حتی آرشیو کامل ایران قدیم و سریال تلوزیونی و خانگی و فیلم…",
         "date": "2026-07-12T10:59:03+00:00",
@@ -14326,29 +14345,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2427"
-      },
-      {
-        "id": 2426,
-        "text": "ایران یعنی عشق، لطفا جنگ نکنید\n@TweetPublic\n✔️",
-        "date": "2026-06-07T21:59:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2426_0_6bebc72c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2426_1_9c00155b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2426"
       }
     ]
   },
-  "last_update": "2026-07-12T11:49:39.458190+00:00",
+  "last_update": "2026-07-12T12:49:05.535099+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14363,7 +14363,7 @@
     },
     "referenced_files": 1048,
     "existing_media_files": 1047,
-    "total_size_mb": 376.28,
-    "last_calculation": "2026-07-12T11:49:39.470563+00:00"
+    "total_size_mb": 376.26,
+    "last_calculation": "2026-07-12T12:49:05.547417+00:00"
   }
 }
