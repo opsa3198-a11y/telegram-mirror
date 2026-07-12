@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2528,
+        "text": "🔴\nفوری / مرگ ناگهانی سناتور جمهوری خواه\n🔴\nدفتر لیندسی گراهام، سناتور جمهوری‌خواه و جنگ‌طلب آمریکایی اعلام کرد که او بر اثر یک «بیماری ناگهانی» مُرده.\n@TweetPublic\n✔️",
+        "date": "2026-07-12T07:05:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2528_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2528"
+      },
+      {
         "id": 2527,
         "text": "🚨\n🚨\n🚨\nانفجار شدید جاسک\n@TweetPublic\n✔️",
         "date": "2026-07-12T00:22:50+00:00",
@@ -14338,25 +14353,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2423"
-      },
-      {
-        "id": 2422,
-        "text": "🔴\nکارشناس صداوسیما: خونه نتانیاهو رو با موشک زدیم\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:24:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2422_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2422"
       }
     ]
   },
-  "last_update": "2026-07-12T05:12:37.706851+00:00",
+  "last_update": "2026-07-12T07:23:25.634547+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14372,6 +14372,6 @@
     "referenced_files": 1050,
     "existing_media_files": 1049,
     "total_size_mb": 376.58,
-    "last_calculation": "2026-07-12T05:12:37.719380+00:00"
+    "last_calculation": "2026-07-12T07:23:25.646866+00:00"
   }
 }
