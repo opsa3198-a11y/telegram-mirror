@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2534,
+        "text": "درسته زیدمو‌ کرده ولی الان بحث بحث وطنه\n@TweetPublic\n✔️",
+        "date": "2026-07-12T15:18:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2534_0_3f8a4de3.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2534_1_20288754.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2534"
+      },
+      {
         "id": 2533,
         "text": "🔴\nطرف شگردش این بوده زنایی‌ که از شوهرشون ماهیانه مهریه میگرفتن رو شکار میکرده و بعد از اینکه ازشون فیلم تهیه میکرده مهریشون رو ازشون میگرفته.\n@TweetPublic\n✔️",
         "date": "2026-07-12T12:58:18+00:00",
@@ -14330,40 +14349,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2429"
-      },
-      {
-        "id": 2428,
-        "text": "🔴\nفوری\n🔹\nرسانه‌های اسرائیلی: موشک‌هایی از ایران شلیک شد\n@TweetPublic\n✔️",
-        "date": "2026-06-08T03:20:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2428_0_5d6fcd4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2428"
       }
     ]
   },
-  "last_update": "2026-07-12T14:22:17.713285+00:00",
+  "last_update": "2026-07-12T15:30:55.012274+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1048,
-    "total_files": 1048,
+    "total_media": 1049,
+    "total_files": 1049,
     "total_links": 172,
     "files_by_type": {
-      "image": 967,
+      "image": 968,
       "video": 75,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1048,
-    "existing_media_files": 1047,
-    "total_size_mb": 376.28,
-    "last_calculation": "2026-07-12T14:22:17.725697+00:00"
+    "referenced_files": 1049,
+    "existing_media_files": 1048,
+    "total_size_mb": 376.36,
+    "last_calculation": "2026-07-12T15:30:55.025166+00:00"
   }
 }
