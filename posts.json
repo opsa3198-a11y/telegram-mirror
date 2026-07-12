@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2535,
+        "text": "🔻\nترامپ : امشب حمله ای ویران کننده به ایران خواهیم کرد.\nسه سرباز آمریکایی کشته شدن\n@TweetPublic\n✔️",
+        "date": "2026-07-12T16:52:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2535_0_41799ee1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2535"
+      },
+      {
         "id": 2534,
         "text": "درسته زیدمو‌ کرده ولی الان بحث بحث وطنه\n@TweetPublic\n✔️",
         "date": "2026-07-12T15:18:58+00:00",
@@ -14334,25 +14349,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2430"
-      },
-      {
-        "id": 2429,
-        "text": "🚨\nگزارش‌هایی از انفجارها در تهران اصفهان تبریز کرمانشاه و سایر شهرای ایران، گزارش شده است\n@TweetPublic\n✔️",
-        "date": "2026-06-08T08:16:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2429_0_5d6fcd4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2429"
       }
     ]
   },
-  "last_update": "2026-07-12T16:42:08.770215+00:00",
+  "last_update": "2026-07-12T17:48:20.784938+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14368,6 +14368,6 @@
     "referenced_files": 1049,
     "existing_media_files": 1048,
     "total_size_mb": 376.36,
-    "last_calculation": "2026-07-12T16:42:08.778128+00:00"
+    "last_calculation": "2026-07-12T17:48:20.797633+00:00"
   }
 }
