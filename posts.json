@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2538,
+        "text": "🚨\nپرتاب موشک از سیریک به سمت یک شناور در تنگه هرمز\n@TweetPublic\n✔️",
+        "date": "2026-07-12T21:15:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2538_0_41799ee1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2538"
+      },
+      {
         "id": 2537,
         "text": "پیشنهاد میکنم این ویدیو احساسی رو ببینید:))))\nیه خرگوش نر به تازگی جفتش مُرده بود و میخواستن وفاداریش رو نشون بدن که شوکه میشید ...\n❤️\n❤️\n@TweetPublic\n✔️",
         "date": "2026-07-12T20:17:30+00:00",
@@ -14342,25 +14357,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2433"
-      },
-      {
-        "id": 2432,
-        "text": "نائب ریس کمیسیون صنایع: امکان قطع اینترنت بین‌الملل وجود دارد\nبالاخره شرایط جنگی است و مصلحت ایران اولویت دارد.\n@TweetPublic\n✔️",
-        "date": "2026-06-08T09:12:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2432_0_5d6fcd4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2432"
       }
     ]
   },
-  "last_update": "2026-07-12T20:41:53.241921+00:00",
+  "last_update": "2026-07-12T21:37:14.503074+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14376,6 +14376,6 @@
     "referenced_files": 1051,
     "existing_media_files": 1050,
     "total_size_mb": 384.6,
-    "last_calculation": "2026-07-12T20:41:53.254785+00:00"
+    "last_calculation": "2026-07-12T21:37:14.515853+00:00"
   }
 }
