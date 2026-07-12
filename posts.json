@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2527,
+        "text": "🚨\n🚨\n🚨\nانفجار شدید جاسک\n@TweetPublic\n✔️",
+        "date": "2026-07-12T00:22:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2527_0_3f8a4de3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2527"
+      },
+      {
         "id": 2526,
         "text": "🔴\nفوری/انفجار در قشم\n@TweetPublic\n✔️",
         "date": "2026-07-11T23:34:18+00:00",
@@ -14338,25 +14353,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2422"
-      },
-      {
-        "id": 2421,
-        "text": "ضربه ای که موشکا ایران به اینترنت ما زد\nبه  اسرائیل نزد\n@TweetPublic\n✔️",
-        "date": "2026-06-07T20:23:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2421_0_6bebc72c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2421"
       }
     ]
   },
-  "last_update": "2026-07-11T23:41:00.391209+00:00",
+  "last_update": "2026-07-12T01:23:39.542710+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14372,6 +14372,6 @@
     "referenced_files": 1050,
     "existing_media_files": 1049,
     "total_size_mb": 376.58,
-    "last_calculation": "2026-07-11T23:41:00.403694+00:00"
+    "last_calculation": "2026-07-12T01:23:39.555377+00:00"
   }
 }
