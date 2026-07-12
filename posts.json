@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2537,
+        "text": "پیشنهاد میکنم این ویدیو احساسی رو ببینید:))))\nیه خرگوش نر به تازگی جفتش مُرده بود و میخواستن وفاداریش رو نشون بدن که شوکه میشید ...\n❤️\n❤️\n@TweetPublic\n✔️",
+        "date": "2026-07-12T20:17:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2537_0_41799ee1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2537_1_b641367b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2537"
+      },
+      {
         "id": 2536,
         "text": "🔴\nسایپا پول مردمو خورده و بهشون ماشین نداده و مردمم تو شرکتش تجمع کردن:\n@TweetPublic\n✔️",
         "date": "2026-07-12T18:52:12+00:00",
@@ -14338,40 +14357,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2432"
-      },
-      {
-        "id": 2431,
-        "text": "الاناس که پزشکیان دستور قطع اینترنت رو بده\nو اخر تابستون دوباره بازش کنه و مردم ازش تشکر کنن\nهوملندر\n❌\nپزشکلندر\n✅",
-        "date": "2026-06-08T09:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2431_0_5d6fcd4f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2431"
       }
     ]
   },
-  "last_update": "2026-07-12T19:58:58.484405+00:00",
+  "last_update": "2026-07-12T20:41:53.241921+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1050,
-    "total_files": 1050,
+    "total_media": 1051,
+    "total_files": 1051,
     "total_links": 172,
     "files_by_type": {
       "image": 968,
-      "video": 76,
+      "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1050,
-    "existing_media_files": 1049,
-    "total_size_mb": 379.33,
-    "last_calculation": "2026-07-12T19:58:58.496993+00:00"
+    "referenced_files": 1051,
+    "existing_media_files": 1050,
+    "total_size_mb": 384.6,
+    "last_calculation": "2026-07-12T20:41:53.254785+00:00"
   }
 }
