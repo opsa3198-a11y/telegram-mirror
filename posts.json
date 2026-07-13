@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2550,
+        "text": "🔴\nادعای ترامپ:\nما تنگه هرمز را تصرف می‌کنیم.\nما برای حفاظت از تنگه هرمز پول دریافت خواهیم کرد\nشب گذشته به ایران ضربه بسیار سنگینی وارد کردیم.\nرهبران ایران مذاکره‌کنندگان حرفه‌ای هستند\n@TweetPublic\n✔️",
+        "date": "2026-07-13T12:21:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2550_0_41799ee1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2550"
+      },
+      {
         "id": 2548,
         "text": "وقتی شکمم سیر شده و فهمیدم نیازی به این همه عصبانیت نبود\n😂\n@TweetPublic\n✔️",
         "date": "2026-07-13T09:44:33+00:00",
@@ -14338,25 +14353,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2445"
-      },
-      {
-        "id": 2444,
-        "text": "🔴\nفوری ترامپ: توافق بزودی در اروپا امضا می‌شود.\n@TweetPublic\n✔️",
-        "date": "2026-06-11T19:42:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2444_0_54e57c1b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2444"
       }
     ]
   },
-  "last_update": "2026-07-13T11:12:37.368930+00:00",
+  "last_update": "2026-07-13T13:33:08.834940+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14372,6 +14372,6 @@
     "referenced_files": 1050,
     "existing_media_files": 1049,
     "total_size_mb": 379.68,
-    "last_calculation": "2026-07-13T11:12:37.378139+00:00"
+    "last_calculation": "2026-07-13T13:33:08.847708+00:00"
   }
 }
