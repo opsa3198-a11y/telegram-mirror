@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2548,
+        "text": "وقتی شکمم سیر شده و فهمیدم نیازی به این همه عصبانیت نبود\n😂\n@TweetPublic\n✔️",
+        "date": "2026-07-13T09:44:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2548_0_41799ee1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2548_1_d4ea516f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2548"
+      },
+      {
         "id": 2547,
         "text": "🚨\nاکثر خطوط برق در دزفول به دلیل حملات آمریکایی به شهر آسیب دیده‌اند.\nبه گفته کاربران برق یک سری مناطق در دزفول قطع شده\n@TweetPublic\n✔️",
         "date": "2026-07-12T23:13:09+00:00",
@@ -14334,40 +14353,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2444"
-      },
-      {
-        "id": 2443,
-        "text": "🔴\nکان‌نیوز:\nبنیامین نتانیاهو و دونالد ترامپ امشب قرار است با یکدیگر گفت‌وگو کنند\n@TweetPublic\n✔️",
-        "date": "2026-06-11T19:42:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2443_0_54e57c1b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2443"
       }
     ]
   },
-  "last_update": "2026-07-13T09:27:55.650672+00:00",
+  "last_update": "2026-07-13T11:12:37.368930+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1049,
-    "total_files": 1049,
+    "total_media": 1050,
+    "total_files": 1050,
     "total_links": 172,
     "files_by_type": {
-      "image": 966,
+      "image": 967,
       "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1049,
-    "existing_media_files": 1048,
-    "total_size_mb": 379.57,
-    "last_calculation": "2026-07-13T09:27:55.663750+00:00"
+    "referenced_files": 1050,
+    "existing_media_files": 1049,
+    "total_size_mb": 379.68,
+    "last_calculation": "2026-07-13T11:12:37.378139+00:00"
   }
 }
