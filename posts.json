@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2564,
+        "text": "به زودی از انلاین به بر خط downgrade میشیم",
+        "date": "2026-07-14T19:32:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2564_0_7af99e12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2564"
+      },
+      {
         "id": 2563,
         "text": "⭕️\nدو انفجار شدید در اهواز  @TweetPublic\n✔️",
         "date": "2026-07-14T19:06:01+00:00",
@@ -14302,44 +14317,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2460"
-      },
-      {
-        "id": 2459,
-        "text": "توافق شده، طلا ریخته، دلار ریخته، ایران خودرو بازم افزایش قیمت داده\nقیمت دنا کارخونه 1600 بود که توی یک ماه 400 میلیون اومده روش,نظرتون راجب این افزایش قیمت ها چیه کسی اصلا میخره؟\n@TweetPublic\n✔️",
-        "date": "2026-06-17T13:50:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2459_0_c99874c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2459_1_ff46e5e3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2459"
       }
     ]
   },
-  "last_update": "2026-07-14T19:20:35.954323+00:00",
+  "last_update": "2026-07-14T19:49:11.123652+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1042,
-    "total_files": 1042,
+    "total_media": 1041,
+    "total_files": 1041,
     "total_links": 172,
     "files_by_type": {
-      "image": 960,
+      "image": 959,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1042,
-    "existing_media_files": 1041,
-    "total_size_mb": 378.77,
-    "last_calculation": "2026-07-14T19:20:35.966549+00:00"
+    "referenced_files": 1041,
+    "existing_media_files": 1040,
+    "total_size_mb": 378.66,
+    "last_calculation": "2026-07-14T19:49:11.136963+00:00"
   }
 }
