@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2563,
+        "text": "⭕️\nدو انفجار شدید در اهواز  @TweetPublic\n✔️",
+        "date": "2026-07-14T19:06:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2563_0_7af99e12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2563"
+      },
+      {
+        "id": 2562,
+        "text": "⭕️\nدو انفجار شدید در اهواز\n@TweetPublic\n✔️",
+        "date": "2026-07-14T19:01:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2562_0_7af99e12.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2562"
+      },
+      {
         "id": 2560,
         "text": "هرچی به پایان جام جهانی نزدیک میشیم به جنگ جهانی نزدیک تر میشیم\n@TweetPublic\n✔️",
         "date": "2026-07-13T22:14:13+00:00",
@@ -14291,71 +14321,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2459"
-      },
-      {
-        "id": 2456,
-        "text": "🚨\nرسما تهران منطقه آزاد شد\n@TweetPublic\n✔️",
-        "date": "2026-06-17T10:01:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2456_0_c99874c1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2456_1_caa6965c.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2456_2_92067947.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2456_3_b83dbbc5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2456"
-      },
-      {
-        "id": 2455,
-        "text": "میدونستین اگه به chatgpt بگید: \"از 1 تا 100 یه عدد رو انتخاب کن\" عدد 73 رو میده؟ البته اگر برای اولین بار توی یک چت بهش بگید این عدد رو میده (هر سری توی یه چت جدید بهش بگید، 73 رو میده)  @TweetPublic\n✔️",
-        "date": "2026-06-17T09:19:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2455_0_c99874c1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2455_1_c5fd8c57.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2455"
       }
     ]
   },
-  "last_update": "2026-07-14T18:02:03.750733+00:00",
+  "last_update": "2026-07-14T19:20:35.954323+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1046,
-    "total_files": 1046,
+    "total_media": 1042,
+    "total_files": 1042,
     "total_links": 172,
     "files_by_type": {
-      "image": 963,
-      "video": 77,
+      "image": 960,
+      "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1046,
-    "existing_media_files": 1045,
-    "total_size_mb": 379.34,
-    "last_calculation": "2026-07-14T18:02:03.763237+00:00"
+    "referenced_files": 1042,
+    "existing_media_files": 1041,
+    "total_size_mb": 378.77,
+    "last_calculation": "2026-07-14T19:20:35.966549+00:00"
   }
 }
