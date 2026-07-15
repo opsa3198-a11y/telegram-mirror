@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2582,
+        "text": "⭕️\nانفجار جدید در اهواز\n@TweetPublic\n✔️",
+        "date": "2026-07-15T21:10:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2582_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2582"
+      },
+      {
         "id": 2581,
         "text": "🔴\nصداوسیما: شدت انفجار های اهواز بالاست، مردم اهواز لطفا از خونه خارج نشن خطرناکه.\n@TweetPublic\n✔️",
         "date": "2026-07-15T20:45:40+00:00",
@@ -14286,25 +14301,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2478"
-      },
-      {
-        "id": 2477,
-        "text": "پنالتی برای ایران\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:10:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2477_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2477"
       }
     ]
   },
-  "last_update": "2026-07-15T20:59:46.214188+00:00",
+  "last_update": "2026-07-15T21:59:47.265998+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14320,6 +14320,6 @@
     "referenced_files": 1037,
     "existing_media_files": 1036,
     "total_size_mb": 385.94,
-    "last_calculation": "2026-07-15T20:59:46.226909+00:00"
+    "last_calculation": "2026-07-15T21:59:47.278509+00:00"
   }
 }
