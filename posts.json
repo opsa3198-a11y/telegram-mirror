@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2581,
+        "text": "🔴\nصداوسیما: شدت انفجار های اهواز بالاست، مردم اهواز لطفا از خونه خارج نشن خطرناکه.\n@TweetPublic\n✔️",
+        "date": "2026-07-15T20:45:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2581_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2581"
+      },
+      {
+        "id": 2580,
+        "text": "ادمین من الان اهوازم این پیام رو بزار کانال همه بدونن\nمردم ایران امشب دارن اینجا یعنی اهواز رو بیشتر از بالا ترین حد تصورتون میزنن تمام شهر دود گرفته\nشیشه ها ترک برداشتن و خورد شدن همه دارن جیغ میزنن\nصدای انفجار به طور دیوانه واری بالاست و انگار دارن هر کوچه یک خونه رو با بالستیک میزنن جوری که خونه ۲۰ سانت میره هوا از شدت انفجار فک کنم تمام و ۱۰۰ درصد توان آمریکا امشب داره اهواز استفاده میشه انگار میخان امشب اهواز رو خلع صلاح کنن نمیدونم فردا مشخص میشه ولی احتمالا دارن تک تک پاسگاه ها و پادگان ها رو هم میزنن",
+        "date": "2026-07-15T20:02:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2580_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2580"
+      },
+      {
         "id": 2579,
         "text": "⭕️\nانفجار در گلستان اهواز.\n@TweetPublic\n✔️",
         "date": "2026-07-15T19:58:45+00:00",
@@ -14271,59 +14301,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2477"
-      },
-      {
-        "id": 2476,
-        "text": "ی کشتی موفق شد از تنگه رد بشه\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:08:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2476_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2476"
-      },
-      {
-        "id": 2475,
-        "text": "پرچم همجنسگرایان تو ورزشگاه سیاتل محل برگزاری بازی ایران و مصر\n@TweetPublic",
-        "date": "2026-06-27T02:49:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2475_0_a043ade6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2475_1_a664811b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2475"
       }
     ]
   },
-  "last_update": "2026-07-15T19:59:48.571862+00:00",
+  "last_update": "2026-07-15T20:59:46.214188+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1038,
-    "total_files": 1038,
+    "total_media": 1037,
+    "total_files": 1037,
     "total_links": 172,
     "files_by_type": {
-      "image": 959,
+      "image": 958,
       "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1038,
-    "existing_media_files": 1037,
-    "total_size_mb": 386.01,
-    "last_calculation": "2026-07-15T19:59:48.583982+00:00"
+    "referenced_files": 1037,
+    "existing_media_files": 1036,
+    "total_size_mb": 385.94,
+    "last_calculation": "2026-07-15T20:59:46.226909+00:00"
   }
 }
