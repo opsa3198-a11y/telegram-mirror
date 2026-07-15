@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2573,
+        "text": "⭕️\nهمینطور اهوازو پشت سرهم دارن میزنن.\n@TweetPublic\n✔️",
+        "date": "2026-07-15T19:08:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2573_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2573"
+      },
+      {
+        "id": 2572,
+        "text": "⭕️\nصدای انفجار در اهواز.  @TweetPublic\n✔️",
+        "date": "2026-07-15T19:05:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2572_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2572"
+      },
+      {
+        "id": 2571,
+        "text": "⭕️\nصدای انفجار در اهواز.\n@TweetPublic\n✔️",
+        "date": "2026-07-15T19:02:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2571_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2571"
+      },
+      {
         "id": 2570,
         "text": "ترامپ به فاکس نیوز:\n🔻\nحملات علیه ایران هفته آینده گسترش خواهد یافت و خاورمیانه برای آنچه بعداً رخ خواهد داد آماده میشود\n@TweetPublic\n✔️",
         "date": "2026-07-15T18:32:09+00:00",
@@ -14276,55 +14321,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2469"
-      },
-      {
-        "id": 2468,
-        "text": "اینا رو ول کنید اقا",
-        "date": "2026-06-21T10:57:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2468_0_173df4b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2468"
-      },
-      {
-        "id": 2467,
-        "text": "همتون اومدید میگید مردم نخرن خب چیکار کنن؟ ما نگفتیم نخرن، اگر واقعا احتیاج به ماشین دارن بخرن نه اینکه طرف نهایت بیرون رفتنش اینه که بره تا بقالی سر کوچه بعد میره ماشین میخره برا این کار.  اصا گیریم که اقا ماشیناشون خوب نیست. خود مردم چرا مراعات نمیکنن؟ هرکیو…",
-        "date": "2026-06-21T10:49:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2467_0_173df4b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2467"
-      },
-      {
-        "id": 2466,
-        "text": "ایرانم جای جالبیه هر روز از وضعیت کشور و وضعیت اقتصادی گله میکنن مردم بعد همون مردم میرن واسه ماشینای ایران خودرو با اون قیمتا صف میکشن 1.7 میلیون نفر ثبت نام کردن! جالب اینجاس که از کیفیت همون ماشینا تو هر جمعی میشینن گله میکنن ولی بازم میرن میخرن همون ماشین…",
-        "date": "2026-06-21T10:44:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2466_0_173df4b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2466"
       }
     ]
   },
-  "last_update": "2026-07-15T18:51:15.369067+00:00",
+  "last_update": "2026-07-15T19:11:31.666153+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14340,6 +14340,6 @@
     "referenced_files": 1042,
     "existing_media_files": 1041,
     "total_size_mb": 392.6,
-    "last_calculation": "2026-07-15T18:51:15.381076+00:00"
+    "last_calculation": "2026-07-15T19:11:31.674549+00:00"
   }
 }
