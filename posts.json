@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2569,
+        "text": "🔴\nقربانیان، نظریه پرداز تاریخ و محقق سیاست:\nمردم جنوب ایران، قبل ازاینکه دیر بشه فرار کنید و خودتونو از منطقه جنگی دور کنید؛\nآمریکا داره تمام پادگان‌های نظامی رو میزنه تا بتونه راحت از طریق جنوب به ایران حمله زمینی انجام بده.\nحکومت باید تا قبل ازاینکه دیر بشه مردم رو از جنوب دور کنه و نذاره اتفاقی که تو جنگ ایران و عراق سر مردم جنوب اومد، دوباره تکرار شه..\n@TweetPublic\n✔️",
+        "date": "2026-07-15T11:48:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2569_0_08ad85d0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2569_1_d1929cec.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2569"
+      },
+      {
         "id": 2568,
         "text": "⭕️\nبا اعلام آموزش و پرورش، آزمون‌های استان‌های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان، در روزهای پنجشنبه ۲۵ تیر و شنبه ۲۷ تیر لغو شد و به زمان دیگری موکول شد.\nزمان جدید در آینده اعلام خواهد شد.\n@TweetPublic\n✔️",
         "date": "2026-07-15T10:51:39+00:00",
@@ -14302,40 +14321,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2465"
-      },
-      {
-        "id": 2464,
-        "text": "جدا گرمتون نمیشه وسط تابستون لگ میپوشید میرید ورزش؟\nبخدا چصی و توجه جلب کردن ارزششو نداره ها.\n@TweetPublic\n✔️",
-        "date": "2026-06-20T15:44:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2464_0_a3040ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2464"
       }
     ]
   },
-  "last_update": "2026-07-15T11:05:38.636595+00:00",
+  "last_update": "2026-07-15T12:47:26.404877+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1041,
-    "total_files": 1041,
+    "total_media": 1042,
+    "total_files": 1042,
     "total_links": 172,
     "files_by_type": {
       "image": 959,
-      "video": 76,
+      "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1041,
-    "existing_media_files": 1040,
-    "total_size_mb": 378.14,
-    "last_calculation": "2026-07-15T11:05:38.648580+00:00"
+    "referenced_files": 1042,
+    "existing_media_files": 1041,
+    "total_size_mb": 392.6,
+    "last_calculation": "2026-07-15T12:47:26.416981+00:00"
   }
 }
