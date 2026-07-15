@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2568,
+        "text": "⭕️\nبا اعلام آموزش و پرورش، آزمون‌های استان‌های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان، در روزهای پنجشنبه ۲۵ تیر و شنبه ۲۷ تیر لغو شد و به زمان دیگری موکول شد.\nزمان جدید در آینده اعلام خواهد شد.\n@TweetPublic\n✔️",
+        "date": "2026-07-15T10:51:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2568_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2568"
+      },
+      {
+        "id": 2567,
+        "text": "۳ ماه پیش فقط اینترنت نداشتیم\nالان علاوه بر اینترنت قراره برق هم نداشته باشیم.\nکی گفته ایران بَده؟\n@TweetPublic\n✔️",
+        "date": "2026-07-15T10:03:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2567_0_08ad85d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2567"
+      },
+      {
+        "id": 2566,
+        "text": "🔴\nاز\nیک سری ادما میپرسی جنگ شده ؟ میگن نه فقط جنوب…\nجنوب جز ایران نیست؟ تا بوده جنوب کل ایرانو یه تنه حساب کرده .\nبندرعباس تجارت کشورتونه بوشهر منبع انرژیتون خوزستان نفت و گاز.\nبرای جنوب لبنان زجه زدید ولی جنوب ایرانو گاییدید\n@TweetPublic\n✔️",
+        "date": "2026-07-15T09:22:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2566_0_08ad85d0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2566_1_2181c406.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2566"
+      },
+      {
         "id": 2565,
         "text": "⭕️\nصدای انفجار مجدد در اهواز  @TweetPublic\n✔️",
         "date": "2026-07-14T19:50:11+00:00",
@@ -14268,70 +14317,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2464"
-      },
-      {
-        "id": 2463,
-        "text": "دوستان کسی تعمیر کار لپتاپ هست؟ یا از خمیر سیلیکون سر در میاره؟ دایرکت پیام بده.",
-        "date": "2026-06-19T10:02:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2463_0_af1634f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2463"
-      },
-      {
-        "id": 2462,
-        "text": "چرا اسم امام زمان شده زمان؟!\nینی خارجیا time صداش میکنن؟!\n@TweetPublic\n✔️",
-        "date": "2026-06-18T20:38:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2462_0_af1634f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2462"
-      },
-      {
-        "id": 2461,
-        "text": "🚨\nبا تایید مجتبی خامنه ای رسما توافق شد.\n@TweetPublic\n✔️",
-        "date": "2026-06-18T18:05:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2461_0_e475ddd5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2461"
       }
     ]
   },
-  "last_update": "2026-07-15T09:03:15.840735+00:00",
+  "last_update": "2026-07-15T11:05:38.636595+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1040,
-    "total_files": 1040,
+    "total_media": 1041,
+    "total_files": 1041,
     "total_links": 172,
     "files_by_type": {
       "image": 959,
-      "video": 75,
+      "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1040,
-    "existing_media_files": 1039,
-    "total_size_mb": 376.39,
-    "last_calculation": "2026-07-15T09:03:15.853159+00:00"
+    "referenced_files": 1041,
+    "existing_media_files": 1040,
+    "total_size_mb": 378.14,
+    "last_calculation": "2026-07-15T11:05:38.648580+00:00"
   }
 }
