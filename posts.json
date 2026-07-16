@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2595,
+        "text": "⭕️\nاهواز انفجار مجدد\n@TweetPublic\n✔️",
+        "date": "2026-07-16T19:05:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2595_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2595"
+      },
+      {
+        "id": 2594,
+        "text": "دو انفجار پشت سرهم در اهواز\n@TweetPublic\n✔️",
+        "date": "2026-07-16T19:02:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2594_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2594"
+      },
+      {
+        "id": 2593,
+        "text": "🚨\nفکر کنم برای اهواز الارم گذاشتن ساعت 22:30 دقیق انفجارات شروع میشه نه یک دقیقه زودتر نه کمتر\n@TweetPublic\n✔️",
+        "date": "2026-07-16T19:01:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2593_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2593"
+      },
+      {
         "id": 2592,
         "text": "دیشب که پدافند تو تهران فعال شده بود یه نفر داشت فیلم میگرفت که مثلا صدا موشک و‌ پدافند رو شکار کنه ولی یه چیز دیگه رو شکار کرد\n@TweetPublic\n✔️",
         "date": "2026-07-16T17:23:55+00:00",
@@ -14252,78 +14297,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2491"
-      },
-      {
-        "id": 2490,
-        "text": "",
-        "date": "2026-07-03T22:00:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2490_0_733be251.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2490"
-      },
-      {
-        "id": 2489,
-        "text": "به‌تازگی یه ویدئویی در اینستاگرام فارسی در حال وایرال شدنه با این توضیحات که یه داماد، وسط مراسم عروسی تازه متوجه میشه عروس 11 نفر از دوستای پسرش رو هم به جشن عروسی دعوت کرده؛\nگفته میشه داماد اول فکر می‌کرد اونایی که دور عروس حلقه زدن، فامیلش هستن؛ اما بعد از پرس‌وجو می‌فهمه همشون دوستای صمیمی عروسن.\nچون عروس همه‌شون رو «داداشی» صدا می‌کرده، داماد اولش زیاد حساس نشده، ولی وقتی یکی از اونا دست عروس رو می‌گیره تا با هم برن بیرون سیگار بکشن و چند رفتار خیلی خودمونی دیگه هم می‌بینه، به رابطه‌شون مشکوک میشه و در نهایت مراسم به دعوا و درگیری ختم میشه.\nطبق همین روایت، خانواده عروس معتقد بودن داماد آبرو‌ریزی کرده و می‌گفتن تازه نصف دوستای عروس، که بیشترشون هم پسر بودن، اصلاً دعوت نشده بودن ! در نهایت هم گفته میشه عروس مهریه‌ش رو به اجرا گذاشته و از داماد به اتهام بازی دادن احساساتش شکایت کرده.\n@TweetPublic\n✔️",
-        "date": "2026-06-29T06:26:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2489_0_8c36327e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2489_1_43615bd5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2489"
-      },
-      {
-        "id": 2488,
-        "text": "قلعه نویی:\nاینم یه آزمایشه خدا داره منو میکنه\n@TweetPublic\n✔️",
-        "date": "2026-06-27T05:40:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2488_0_a043ade6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2488_1_6813aec4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2488"
       }
     ]
   },
-  "last_update": "2026-07-16T18:52:39.432490+00:00",
+  "last_update": "2026-07-16T19:11:46.810814+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1038,
-    "total_files": 1038,
+    "total_media": 1036,
+    "total_files": 1036,
     "total_links": 172,
     "files_by_type": {
       "image": 957,
-      "video": 75,
+      "video": 73,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1038,
-    "existing_media_files": 1037,
-    "total_size_mb": 394.3,
-    "last_calculation": "2026-07-16T18:52:39.444899+00:00"
+    "referenced_files": 1036,
+    "existing_media_files": 1035,
+    "total_size_mb": 390.35,
+    "last_calculation": "2026-07-16T19:11:46.823354+00:00"
   }
 }
