@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2585,
+        "text": "▶️\nاکران آنلاین فیلم سینمایی «کفایت مذاکرات»\nبا سه کیفیت اصلی داخل ربات قرار گرفت\n✔️\nدانلود فیلم\n📥\n『\n@CatFiLmOrg\n』",
+        "date": "2026-07-16T11:02:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2585_0_12a9ab05.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2585_1_2fd33304.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2585"
+      },
+      {
         "id": 2584,
         "text": "🔴\nویدیو وایرال شده از این خانوم کار دستش داد!\nظاهراً یه مرد بعد از اینکه یه ویدیو از همسرش وایرال شده، درخواست طلاق داده!\nماجرا از این قراره که فهمیده همسرش بیشتر از ۲۰ هزار دلار از پول پس‌انداز مشترکشون رو خرج کرده تا بره یه تجربه VIP با کریس براون (خواننده معروف خارجی) داشته باشه.\nاین داستان کلی تو شبکه‌های اجتماعی بحث راه انداخته؛ یه عده می‌گن حق با شوهره و این کار از خط قرمز گذشته، یه عده هم می‌گن واکنشش زیادی تند بوده.\n﻿\n@TweetPublic\n✔️",
         "date": "2026-07-16T08:45:33+00:00",
@@ -14286,40 +14305,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2481"
-      },
-      {
-        "id": 2480,
-        "text": "تخت جمشید ۱\nاهرام ثلاثه ۱\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:17:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2480_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2480"
       }
     ]
   },
-  "last_update": "2026-07-16T09:33:42.798342+00:00",
+  "last_update": "2026-07-16T11:25:16.690081+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1037,
-    "total_files": 1037,
+    "total_media": 1038,
+    "total_files": 1038,
     "total_links": 172,
     "files_by_type": {
       "image": 958,
-      "video": 73,
+      "video": 74,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1037,
-    "existing_media_files": 1036,
-    "total_size_mb": 387.48,
-    "last_calculation": "2026-07-16T09:33:42.810523+00:00"
+    "referenced_files": 1038,
+    "existing_media_files": 1037,
+    "total_size_mb": 393.16,
+    "last_calculation": "2026-07-16T11:25:16.701993+00:00"
   }
 }
