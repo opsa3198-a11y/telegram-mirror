@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2592,
+        "text": "دیشب که پدافند تو تهران فعال شده بود یه نفر داشت فیلم میگرفت که مثلا صدا موشک و‌ پدافند رو شکار کنه ولی یه چیز دیگه رو شکار کرد\n@TweetPublic\n✔️",
+        "date": "2026-07-16T17:23:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2592_0_12a9ab05.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2592_1_7bcf5c88.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2592"
+      },
+      {
+        "id": 2591,
+        "text": "گفتیم جانم فدای ایران نه جمهوری اسلامی\n47 سال گفتین مرگ بر آمریکا و مرگ بر اسرائیل و باعث شدین این جنگ شروع شه چون حد خودتونو ندونستین و دنبال بمب اتم بودین و اورانیومو تا 60 درصد غنی سازی کردین و به هر کشوری تونستین زور گفتین و مرگ فرستادین",
+        "date": "2026-07-16T17:16:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2591_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2591"
+      },
+      {
+        "id": 2590,
+        "text": "قبل جانفدا یه سری میگفتن نه غزه ن لبنان جانم فدای ایران\nاونا چرا نمیرن جای سربازا؟\nاها چون حمله کننده با حمایت اونا اومده\nعمو ترامپشونه",
+        "date": "2026-07-16T17:12:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2590_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2590"
+      },
+      {
         "id": 2589,
         "text": "🚨\nانفجار در بندرعباس\n@TweetPublic\n✔️",
         "date": "2026-07-16T16:00:42+00:00",
@@ -14256,59 +14305,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2488"
-      },
-      {
-        "id": 2487,
-        "text": "ژنرال غمگین\n@TweetPublic\n✔️",
-        "date": "2026-06-27T05:11:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2487_0_a043ade6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2487_1_7def7316.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2487"
-      },
-      {
-        "id": 2486,
-        "text": "پایان دیدار ایران و مصر\nایران با 3 امتیاز و تفاضل گل صفر در رتبه سوم گروه G قرار گرفت و باید منتظر نتایج بازی های نهایی گروه های دیگر باشد\nایران 1\nمصر 1\n@TweetPublic\n✔️",
-        "date": "2026-06-27T05:05:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2486_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2486"
-      },
-      {
-        "id": 2485,
-        "text": "گل دوم ایران در دقیقه 90 + 3 توسط شجاع خلیل زاده  ایران 2 مصر 1  @TweetPublic\n✔️",
-        "date": "2026-06-27T05:01:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2485_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2485"
       }
     ]
   },
-  "last_update": "2026-07-16T16:08:35.631862+00:00",
+  "last_update": "2026-07-16T17:44:19.685862+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14316,14 +14316,14 @@
     "total_files": 1038,
     "total_links": 172,
     "files_by_type": {
-      "image": 958,
-      "video": 74,
+      "image": 957,
+      "video": 75,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1038,
     "existing_media_files": 1037,
-    "total_size_mb": 393.26,
-    "last_calculation": "2026-07-16T16:08:35.641139+00:00"
+    "total_size_mb": 394.3,
+    "last_calculation": "2026-07-16T17:44:19.698429+00:00"
   }
 }
