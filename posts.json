@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2589,
+        "text": "🚨\nانفجار در بندرعباس\n@TweetPublic\n✔️",
+        "date": "2026-07-16T16:00:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2589_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2589"
+      },
+      {
+        "id": 2588,
+        "text": "تا وقتی که ما 30 میلیون جانفدا داریم کشور نیاز به هیچ سربازی در هیچ پادگانی نداره لطفا به سرباز ها مرخصی بدید",
+        "date": "2026-07-16T15:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2588_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2588"
+      },
+      {
+        "id": 2587,
+        "text": "تا وقتی که ما 30 میلیون جانفدا داریم کشور نیاز به هیچ سربازی در هیچ پادگانی نداره لطفا به سرباز ها مرخصی بدید",
+        "date": "2026-07-16T15:03:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2587_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2587"
+      },
+      {
         "id": 2586,
         "text": "اومدم شهرداری رشت داشتم قدم میزدم با این مواجه شدم:\n@TweetPublic\n✔️",
         "date": "2026-07-16T12:15:29+00:00",
@@ -14260,55 +14305,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2485"
-      },
-      {
-        "id": 2484,
-        "text": "گل دوم ایران در دقیقه 90 + 3 توسط شجاع خلیل زاده\nایران 2\nمصر 1\n@TweetPublic\n✔️",
-        "date": "2026-06-27T04:58:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2484_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2484"
-      },
-      {
-        "id": 2483,
-        "text": "⏱\nپایان نیمه اول\n🇪🇬\nمصر ۱ - ۱ ایران\n🇮🇷\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:52:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2483_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2483"
-      },
-      {
-        "id": 2482,
-        "text": "کاش طارمی از محمد صلاح درباره گی بودن پوتیفار سوال کنه\nاین موضوع باید مشخص بشه\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:35:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2482_0_a043ade6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2482"
       }
     ]
   },
-  "last_update": "2026-07-16T14:53:24.890240+00:00",
+  "last_update": "2026-07-16T16:08:35.631862+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14324,6 +14324,6 @@
     "referenced_files": 1038,
     "existing_media_files": 1037,
     "total_size_mb": 393.26,
-    "last_calculation": "2026-07-16T14:53:24.902976+00:00"
+    "last_calculation": "2026-07-16T16:08:35.641139+00:00"
   }
 }
