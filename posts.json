@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2596,
+        "text": "❌\nدر پی حمله دقایقی پیش به محله تپه الله‌اکبر شهر بندرعباس، تاکنون ۷ نفر از هموطنان مجروح شده‌اند.\n/ مهر\n@TweetPublic\n✔️",
+        "date": "2026-07-16T19:44:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2596_0_12a9ab05.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2596"
+      },
+      {
         "id": 2595,
         "text": "⭕️\nاهواز انفجار مجدد\n@TweetPublic\n✔️",
         "date": "2026-07-16T19:05:09+00:00",
@@ -14282,25 +14297,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2492"
-      },
-      {
-        "id": 2491,
-        "text": "@PersianDozBot",
-        "date": "2026-07-05T11:48:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2491_0_43fe83f1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2491"
       }
     ]
   },
-  "last_update": "2026-07-16T19:11:46.810814+00:00",
+  "last_update": "2026-07-16T19:54:11.611826+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14316,6 +14316,6 @@
     "referenced_files": 1036,
     "existing_media_files": 1035,
     "total_size_mb": 390.35,
-    "last_calculation": "2026-07-16T19:11:46.823354+00:00"
+    "last_calculation": "2026-07-16T19:54:11.624468+00:00"
   }
 }
