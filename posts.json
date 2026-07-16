@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2586,
+        "text": "اومدم شهرداری رشت داشتم قدم میزدم با این مواجه شدم:\n@TweetPublic\n✔️",
+        "date": "2026-07-16T12:15:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2586_0_12a9ab05.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2586_1_ab8b95a9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2586"
+      },
+      {
         "id": 2585,
         "text": "▶️\nاکران آنلاین فیلم سینمایی «کفایت مذاکرات»\nبا سه کیفیت اصلی داخل ربات قرار گرفت\n✔️\nدانلود فیلم\n📥\n『\n@CatFiLmOrg\n』",
         "date": "2026-07-16T11:02:37+00:00",
@@ -14286,29 +14305,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2482"
-      },
-      {
-        "id": 2481,
-        "text": "لحظه عبور توپ از تنگه\n@TweetPublic\n✔️",
-        "date": "2026-06-27T03:33:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2481_0_a043ade6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2481_1_7fa7053c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2481"
       }
     ]
   },
-  "last_update": "2026-07-16T11:25:16.690081+00:00",
+  "last_update": "2026-07-16T12:57:13.080750+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14323,7 +14323,7 @@
     },
     "referenced_files": 1038,
     "existing_media_files": 1037,
-    "total_size_mb": 393.16,
-    "last_calculation": "2026-07-16T11:25:16.701993+00:00"
+    "total_size_mb": 393.26,
+    "last_calculation": "2026-07-16T12:57:13.092936+00:00"
   }
 }
