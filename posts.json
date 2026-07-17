@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2610,
+        "text": "اگه بدون VPN برید لغو عضویت سرچ بزنید با این مواجه میشید که بیشترین تعداد سرچ رو داشته:\n@TweetPublic\n✔️",
+        "date": "2026-07-17T10:11:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2610_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2610_1_b3258153.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2610"
+      },
+      {
+        "id": 2609,
+        "text": "پشمام عجب حمایت خفنی از مردم جنوب کردی، پشمام\n😐\n🔥\n@TweetPublic\n✔️",
+        "date": "2026-07-17T09:35:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2609_0_aea03a7b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2609_1_7f1c0eda.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2609"
+      },
+      {
         "id": 2608,
         "text": "پیامک مادر یکی از سرباز های شهید تیپ ۳۸۸ بمپور:\n۵۰۰ زدم برات رفتی بیرون چیزی برای خودت بخور، به مناسبت تولدت\n💔\n@TweetPublic\n✔️",
         "date": "2026-07-17T09:13:00+00:00",
@@ -14275,59 +14313,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2507"
-      },
-      {
-        "id": 2506,
-        "text": "🔴\nنیوز نیشن: حملات نظامی آمریکا علیه ایران ادامه داره و این بزرگترین و شدیدترین حمله‌ای است که ارتش آمریکا علیه ایران از زمان اعلام آتش‌بس انجام داده\n@TweetPublic\n✔️",
-        "date": "2026-07-08T21:35:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2506_0_a5e08d88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2506"
-      },
-      {
-        "id": 2505,
-        "text": "🔴\nویدئویی که از لحظه حمله امشب آمریکا به یه برج مراقبت تو چابهار داره دست به دست میشه:\n@TweetPublic\n✔️",
-        "date": "2026-07-08T21:27:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2505_0_a5e08d88.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2505_1_fa6213f9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2505"
       }
     ]
   },
-  "last_update": "2026-07-17T09:24:55.805209+00:00",
+  "last_update": "2026-07-17T11:00:47.910558+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1039,
-    "total_files": 1039,
+    "total_media": 1040,
+    "total_files": 1040,
     "total_links": 172,
     "files_by_type": {
-      "image": 957,
+      "image": 958,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1039,
-    "existing_media_files": 1038,
-    "total_size_mb": 395.57,
-    "last_calculation": "2026-07-17T09:24:55.815084+00:00"
+    "referenced_files": 1040,
+    "existing_media_files": 1039,
+    "total_size_mb": 396.12,
+    "last_calculation": "2026-07-17T11:00:47.922876+00:00"
   }
 }
