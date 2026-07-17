@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2613,
+        "text": "🔴\nاردستانی، عضو کمیسیون امنیت ملی مجلس:\nاگه آمریکا به ما حمله زمینی بکنه، ماهم به کویت و بحرین حمله زمینی می‌کنیم.\n@TweetPublic\n✔️",
+        "date": "2026-07-17T18:13:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2613_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2613_1_8ef5da3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2613"
+      },
+      {
+        "id": 2612,
+        "text": "🔴\nنمی‌خوام نگراتون کنم، اما امشب حملات خیلی شدید تر شده، اخبار واقعی رو از اینجا دنبال کنید:\n@Khabar",
+        "date": "2026-07-17T18:10:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2612_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2612"
+      },
+      {
         "id": 2610,
         "text": "اگه بدون VPN برید لغو عضویت سرچ بزنید با این مواجه میشید که بیشترین تعداد سرچ رو داشته:\n@TweetPublic\n✔️",
         "date": "2026-07-17T10:11:30+00:00",
@@ -14283,55 +14317,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2509"
-      },
-      {
-        "id": 2508,
-        "text": "‌\nبچه ها ربات خفن دوز براتون اوردم خودم وقتی حوصلم سر میره میرم اونجا رقابت میکنم\n@PersianDozBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮",
-        "date": "2026-07-09T08:03:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2508_0_a5e08d88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2508"
-      },
-      {
-        "id": 2507,
-        "text": "🔴\nبوشهر و چابهار رو دوباره زدن.\n@TweetPublic\n✔️",
-        "date": "2026-07-09T02:51:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2507_0_a5e08d88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2507"
       }
     ]
   },
-  "last_update": "2026-07-17T17:58:00.032831+00:00",
+  "last_update": "2026-07-17T18:58:46.980210+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1040,
-    "total_files": 1040,
+    "total_media": 1041,
+    "total_files": 1041,
     "total_links": 172,
     "files_by_type": {
-      "image": 958,
+      "image": 959,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1040,
-    "existing_media_files": 1039,
-    "total_size_mb": 396.12,
-    "last_calculation": "2026-07-17T17:58:00.045695+00:00"
+    "referenced_files": 1041,
+    "existing_media_files": 1040,
+    "total_size_mb": 396.18,
+    "last_calculation": "2026-07-17T18:58:46.992452+00:00"
   }
 }
