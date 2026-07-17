@@ -12703,6 +12703,85 @@
     ],
     "TweetPublic": [
       {
+        "id": 2625,
+        "text": "امروز 18 July، روزِ جهانی خوشگل هاست.\n@TweetPublic\n✔️",
+        "date": "2026-07-17T21:57:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2625_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2625"
+      },
+      {
+        "id": 2624,
+        "text": "نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره\nآیدیش:\n@Khabar",
+        "date": "2026-07-17T21:51:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2624_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2624"
+      },
+      {
+        "id": 2623,
+        "text": "گفته می شود حمله امشب دشمن به اهواز، جاده اهواز اندیمشک را هدف قرار داده است\nجاده اهواز-اندیمشک یکی از مهم ترین جاده های کشور است که بخش قابل توجهی از حمل و نقل بار، به خصوص بارهای مربوط به حوزه نفت و پتروشیمی و کالاهای اساسی، از این جاده صورت می‌گیرد\n@TweetPublic\n✔️",
+        "date": "2026-07-17T21:48:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2623_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2623"
+      },
+      {
+        "id": 2621,
+        "text": "‼️\nحملات موشکی به اطراف شهر یزد\n@TweetPublic\n✔️",
+        "date": "2026-07-17T21:17:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2621_0_aea03a7b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2621_1_a2019dd6.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2621"
+      },
+      {
+        "id": 2620,
+        "text": "🔴\nنمی‌خوام نگراتون کنم، اما امشب حملات خیلی شدید تر شده، اخبار واقعی رو از اینجا دنبال کنید:\n@Khabar",
+        "date": "2026-07-17T21:17:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2620_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2620"
+      },
+      {
         "id": 2619,
         "text": "⭕️\nانفجار در یزد.\n@TweetPublic\n✔️",
         "date": "2026-07-17T21:03:57+00:00",
@@ -14242,108 +14321,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2519"
-      },
-      {
-        "id": 2518,
-        "text": "🔺\nشنیده شدن صدای انفجار محدوده شرق استان تهران\n🔹\nدقایقی پیش مردم در پاکدشت و قیام‌دشت از سمت شرق استان تهران صدای انفجار شنیدند.\n🔹\nهنوز منشا و محل دقیق این انفجارها مشخص نیست‌./فارس\n@TweetPublic\n✔️",
-        "date": "2026-07-11T06:24:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2518_0_e0b7b074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2518"
-      },
-      {
-        "id": 2517,
-        "text": "🔴\nانفجار مهیب دقایقی قبل محدوده قرچک-پاکدشت- قیامدشت و پارچین\n@TweetPublic\n✔️",
-        "date": "2026-07-11T06:18:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2517_0_e0b7b074.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2517"
-      },
-      {
-        "id": 2516,
-        "text": "🔴\nفوری ادعای ترامپ: جمهوری اسلامی ایران از ما خواسته است که به «مذاکرات» ادامه دهیم. ما با انجام این کار موافقت کرده‌ایم،   اما ایالات متحده بدون هیچ ابهامی به آن‌ها اعلام کرده است که آتش‌بس به پایان رسیده است!  @TweetPublic\n✔️",
-        "date": "2026-07-10T15:14:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2516_0_81116711.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2516_1_7eb4eb1a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2516"
-      },
-      {
-        "id": 2515,
-        "text": "🔴\nفوری\nادعای ترامپ: جمهوری اسلامی ایران از ما خواسته است که به «مذاکرات» ادامه دهیم. ما با انجام این کار موافقت کرده‌ایم،\nاما ایالات متحده بدون هیچ ابهامی به آن‌ها اعلام کرده است که آتش‌بس به پایان رسیده است!\n@TweetPublic\n✔️",
-        "date": "2026-07-10T15:13:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2515_0_81116711.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2515_1_5563b0ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2515"
-      },
-      {
-        "id": 2514,
-        "text": "ادعای آکسیوس به نقل از یک مقام آمریکایی: ما در حال حاضر هیچ ارتباطی با هیچ حمله‌ای به ایران نداریم.  پس کی داره میزنه؟\n😐\n@TweetPublic\n✔️",
-        "date": "2026-07-09T19:09:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2514_0_81116711.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2514"
       }
     ]
   },
-  "last_update": "2026-07-17T21:12:21.520802+00:00",
+  "last_update": "2026-07-17T22:10:34.438653+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1043,
-    "total_files": 1043,
+    "total_media": 1042,
+    "total_files": 1042,
     "total_links": 172,
     "files_by_type": {
-      "image": 961,
-      "video": 76,
+      "image": 959,
+      "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1043,
-    "existing_media_files": 1042,
-    "total_size_mb": 396.32,
-    "last_calculation": "2026-07-17T21:12:21.533477+00:00"
+    "referenced_files": 1042,
+    "existing_media_files": 1041,
+    "total_size_mb": 397.39,
+    "last_calculation": "2026-07-17T22:10:34.445183+00:00"
   }
 }
