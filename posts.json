@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2628,
+        "text": "🚨\nفارس: از ایران به سمت عربستان موشک شلیک شده.\n@TweetPublic\n✔️",
+        "date": "2026-07-17T23:01:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2628_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2628"
+      },
+      {
+        "id": 2627,
+        "text": "پل سه‌راه‌ میناب به‌سمت رودان\n@TweetPublic\n✔️",
+        "date": "2026-07-17T22:57:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2627_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2627_1_7a63f985.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2627"
+      },
+      {
+        "id": 2626,
+        "text": "مثل اینکه ایرانسل بیشتر مناطق اختلال خورده و خیلیا گزارش کردن که آنتنشون کلا پریده\n@TweetPublic\n✔️",
+        "date": "2026-07-17T22:49:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2626_0_aea03a7b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2626"
+      },
+      {
         "id": 2625,
         "text": "امروز 18 July، روزِ جهانی خوشگل هاست.\n@TweetPublic\n✔️",
         "date": "2026-07-17T21:57:12+00:00",
@@ -14264,82 +14313,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2523"
-      },
-      {
-        "id": 2522,
-        "text": "ولی عجیب نیستن اینا؟ چرا اصلا میان ایران؟ اول اون پسره که بهش میگفتن \"شاهزاده سرین\" اومد بعدش تتلو اومد الانم این اومد و همشون رو گرفتن چرا اصلا میان؟  @TweetPublic\n✔️",
-        "date": "2026-07-11T21:28:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2522_0_3f8a4de3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2522"
-      },
-      {
-        "id": 2521,
-        "text": "🔴\nاین خبر تایید یا رد نمیشه پویان مختاری به گونی منتقل شد  پویان مختاری، بلاگری که خارج از ایران بود، از چند هفته پیش شروع کرد به تغییر سبک زندگیش و حتی به صورت آنلاین اومد تو برنامه مجید واشقانی و گفت من آخوندارو دوست دارم و قرآن خوند و رضا پهلوی رو فحش داد…",
-        "date": "2026-07-11T21:28:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2521_0_3f8a4de3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2521_1_36a857be.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2521"
-      },
-      {
-        "id": 2519,
-        "text": "🔴\nاین خبر تایید یا رد نمیشه\nپویان مختاری به گونی منتقل شد\nپویان مختاری، بلاگری که خارج از ایران بود، از چند هفته پیش شروع کرد به تغییر سبک زندگیش و حتی به صورت آنلاین اومد تو برنامه مجید واشقانی و گفت من آخوندارو دوست دارم و قرآن خوند و رضا پهلوی رو فحش داد و... با تمام توان سعی کرد که خودشو سفید کنه\nاما متاسفانه اونجوری که میخواست پیش نرفت و امروز صبح به محض ورودش به ایران گرفتن بردنش زندان تا جور دیگه‌ای سفیدش کنن\n@TweetPublic\n✔️",
-        "date": "2026-07-11T20:15:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2519_0_3f8a4de3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2519_1_6ab6c3b4.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2519_2_1c5e7898.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2519"
       }
     ]
   },
-  "last_update": "2026-07-17T22:10:34.438653+00:00",
+  "last_update": "2026-07-17T23:12:41.229150+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1042,
-    "total_files": 1042,
+    "total_media": 1040,
+    "total_files": 1040,
     "total_links": 172,
     "files_by_type": {
-      "image": 959,
-      "video": 77,
+      "image": 958,
+      "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1042,
-    "existing_media_files": 1041,
-    "total_size_mb": 397.39,
-    "last_calculation": "2026-07-17T22:10:34.445183+00:00"
+    "referenced_files": 1040,
+    "existing_media_files": 1039,
+    "total_size_mb": 397.05,
+    "last_calculation": "2026-07-17T23:12:41.241880+00:00"
   }
 }
