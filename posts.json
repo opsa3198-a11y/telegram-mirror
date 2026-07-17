@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2608,
+        "text": "پیامک مادر یکی از سرباز های شهید تیپ ۳۸۸ بمپور:\n۵۰۰ زدم برات رفتی بیرون چیزی برای خودت بخور، به مناسبت تولدت\n💔\n@TweetPublic\n✔️",
+        "date": "2026-07-17T09:13:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2608_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2608_1_cb873801.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2608"
+      },
+      {
         "id": 2607,
         "text": "👈\nهگست، وزیر\nجنگ آمریکا :\nایران کنترل تنگه رو در اختیار نداره\n@TweetPublic\n✔️",
         "date": "2026-07-16T22:41:15+00:00",
@@ -14290,52 +14309,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2505"
-      },
-      {
-        "id": 2502,
-        "text": "این عکسا که داره به‌عنوان حمله‌ی به چابهار تو کانالای تلگرام منتشر میشه قدیمیه و مربوط به چابهار نیست\n❌\n@TweetPublic\n✔️",
-        "date": "2026-07-08T20:42:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2502_0_a5e08d88.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2502_1_fe6dc812.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2502_2_ea466e43.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2502_3_47429bd2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2502"
       }
     ]
   },
-  "last_update": "2026-07-17T08:10:16.646048+00:00",
+  "last_update": "2026-07-17T09:24:55.805209+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1041,
-    "total_files": 1041,
+    "total_media": 1039,
+    "total_files": 1039,
     "total_links": 172,
     "files_by_type": {
-      "image": 959,
+      "image": 957,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1041,
-    "existing_media_files": 1040,
-    "total_size_mb": 395.69,
-    "last_calculation": "2026-07-17T08:10:16.659087+00:00"
+    "referenced_files": 1039,
+    "existing_media_files": 1038,
+    "total_size_mb": 395.57,
+    "last_calculation": "2026-07-17T09:24:55.815084+00:00"
   }
 }
