@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2616,
+        "text": "⭕️\nفوری\nسنتکام از آغاز موج جدید حملات به ایران برای هفتمین شب متوالی خبر داد\n@TweetPublic\n✔️",
+        "date": "2026-07-17T20:02:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2616_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2616_1_b7d3fcb9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2616"
+      },
+      {
+        "id": 2614,
+        "text": "استوری علیرضا بیرانوند در نقد علی دایی و حمایت از فیلدمارشال قلعه‌نویی!\n@TweetPublic\n✔️",
+        "date": "2026-07-17T19:16:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2614_0_aea03a7b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2614_1_fca94b00.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2614"
+      },
+      {
         "id": 2613,
         "text": "🔴\nاردستانی، عضو کمیسیون امنیت ملی مجلس:\nاگه آمریکا به ما حمله زمینی بکنه، ماهم به کویت و بحرین حمله زمینی می‌کنیم.\n@TweetPublic\n✔️",
         "date": "2026-07-17T18:13:15+00:00",
@@ -14287,55 +14325,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2511"
-      },
-      {
-        "id": 2510,
-        "text": "🔴\nفوری / وزارت کشور بحرین:\nاز شهروندان درخواست می‌شود به نزدیکترین مکان امن مراجعه کنند.\n@TweetPublic\n✔️",
-        "date": "2026-07-09T08:14:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2510_0_a5e08d88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2510"
-      },
-      {
-        "id": 2509,
-        "text": "‌ بچه ها ربات خفن دوز براتون اوردم خودم وقتی حوصلم سر میره میرم اونجا رقابت میکنم   @PersianDozBot ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮",
-        "date": "2026-07-09T08:04:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2509_0_a5e08d88.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2509"
       }
     ]
   },
-  "last_update": "2026-07-17T19:09:37.779961+00:00",
+  "last_update": "2026-07-17T20:03:51.934204+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1041,
-    "total_files": 1041,
+    "total_media": 1043,
+    "total_files": 1043,
     "total_links": 172,
     "files_by_type": {
-      "image": 959,
+      "image": 961,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1041,
-    "existing_media_files": 1040,
-    "total_size_mb": 396.18,
-    "last_calculation": "2026-07-17T19:09:37.789765+00:00"
+    "referenced_files": 1043,
+    "existing_media_files": 1042,
+    "total_size_mb": 396.32,
+    "last_calculation": "2026-07-17T20:03:51.946688+00:00"
   }
 }
