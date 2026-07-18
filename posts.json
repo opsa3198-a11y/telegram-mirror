@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2636,
+        "text": "⭕️\nآکسیوس:ایران از خط قرمز ایالات متحده عبور کرده است. این احتمالاً باعث می‌شود رئیس جمهور ترامپ علیه رژیم ایران تشدید شود. کمربندهایتان را ببندید.\n@TweetPublic\n✔️",
+        "date": "2026-07-18T19:07:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2636_0_f4328314.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2636"
+      },
+      {
         "id": 2635,
         "text": "🔴\nفوری/سی بی اس به نقل از یک مقام نظامی: حملات امشب دقایقی دیگر آغاز میشود و گستردگی بیشتری دارد\n@TweetPublic\n✔️",
         "date": "2026-07-18T18:57:56+00:00",
@@ -14310,25 +14325,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2530"
-      },
-      {
-        "id": 2529,
-        "text": "⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮",
-        "date": "2026-07-12T10:47:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2529_0_3f8a4de3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2529"
       }
     ]
   },
-  "last_update": "2026-07-18T19:04:13.286584+00:00",
+  "last_update": "2026-07-18T19:37:54.932002+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14344,6 +14344,6 @@
     "referenced_files": 1043,
     "existing_media_files": 1042,
     "total_size_mb": 408.3,
-    "last_calculation": "2026-07-18T19:04:13.298872+00:00"
+    "last_calculation": "2026-07-18T19:37:54.940014+00:00"
   }
 }
