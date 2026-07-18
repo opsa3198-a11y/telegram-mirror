@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2639,
+        "text": "🚨\nانفجار مهیب در سیریک\n@TweetPublic\n✔️",
+        "date": "2026-07-18T22:29:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2639_0_f4328314.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2639"
+      },
+      {
+        "id": 2638,
+        "text": "🔴\nسنتکام: دور جدید حملات به ایران شروع شد.\n@TweetPublic\n✔️",
+        "date": "2026-07-18T22:28:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2638_0_f4328314.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2638"
+      },
+      {
         "id": 2637,
         "text": "🔴\nنمی‌خوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چه‌خبره\nآیدیش:\n@Khabar",
         "date": "2026-07-18T20:10:51+00:00",
@@ -14291,59 +14321,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2533"
-      },
-      {
-        "id": 2532,
-        "text": "‼️\nضرغامی علت مرگ لیندسی گراهام را مشخص کرد:\nدیدن تصاویر میلیونی مردم ایران‌ و عراق در ادای احترام به ‎رهبر او را سکته داد!\n@TweetPublic\n✔️",
-        "date": "2026-07-12T12:00:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2532_0_3f8a4de3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2532_1_1786bc8e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2532"
-      },
-      {
-        "id": 2531,
-        "text": "⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬ بچها یه ربات پیدا کردم نجاتم داد واقعا بجای اینکه واسه هر یدونه فیلم یا سریال هزارتا چنل صیغه جوین شم یه ربات پیدا کردم بدون جوین اجباری آرشیو کامل فیلم و سریال ایرانی رو داره حتی آرشیو کامل ایران قدیم و سریال تلوزیونی و خانگی و فیلم…",
-        "date": "2026-07-12T10:59:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2531_0_3f8a4de3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2531"
       }
     ]
   },
-  "last_update": "2026-07-18T21:38:21.317740+00:00",
+  "last_update": "2026-07-18T22:36:09.073010+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1043,
-    "total_files": 1043,
+    "total_media": 1042,
+    "total_files": 1042,
     "total_links": 172,
     "files_by_type": {
-      "image": 958,
+      "image": 957,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1043,
-    "existing_media_files": 1042,
-    "total_size_mb": 408.3,
-    "last_calculation": "2026-07-18T21:38:21.327649+00:00"
+    "referenced_files": 1042,
+    "existing_media_files": 1041,
+    "total_size_mb": 408.23,
+    "last_calculation": "2026-07-18T22:36:09.085532+00:00"
   }
 }
