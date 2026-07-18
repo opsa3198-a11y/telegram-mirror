@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2629,
+        "text": "🚨\nرسانه های عبری : از جنوب حمله زمینی اغاز میشود, ناتو و نیروهای کرد و اسراییل نیز وارد میشوند\n@TweetPublic\n✔️",
+        "date": "2026-07-18T07:42:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2629_0_f4328314.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2629"
+      },
+      {
         "id": 2628,
         "text": "🚨\nفارس: از ایران به سمت عربستان موشک شلیک شده.\n@TweetPublic\n✔️",
         "date": "2026-07-17T23:01:32+00:00",
@@ -14298,25 +14313,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2524"
-      },
-      {
-        "id": 2523,
-        "text": "",
-        "date": "2026-07-11T21:31:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2523_0_3f8a4de3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2523"
       }
     ]
   },
-  "last_update": "2026-07-18T07:23:38.358239+00:00",
+  "last_update": "2026-07-18T07:50:40.680188+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14332,6 +14332,6 @@
     "referenced_files": 1040,
     "existing_media_files": 1039,
     "total_size_mb": 397.05,
-    "last_calculation": "2026-07-18T07:23:38.371562+00:00"
+    "last_calculation": "2026-07-18T07:50:40.692450+00:00"
   }
 }
