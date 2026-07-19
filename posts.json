@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2647,
+        "text": "🔴\nگزارش انفجار خمین\n@TweetPublic\n✔️",
+        "date": "2026-07-19T20:27:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2647_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2647"
+      },
+      {
         "id": 2646,
         "text": "خواننده سرود ملی آرژانتین\n@TweetPublic\n✔️",
         "date": "2026-07-19T19:26:34+00:00",
@@ -14310,25 +14325,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2541"
-      },
-      {
-        "id": 2540,
-        "text": "🚨\nگفته میشه فرودگاه اهواز رو زدن\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:09:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2540_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2540"
       }
     ]
   },
-  "last_update": "2026-07-19T19:38:33.876533+00:00",
+  "last_update": "2026-07-19T20:35:51.108547+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14344,6 +14344,6 @@
     "referenced_files": 1043,
     "existing_media_files": 1042,
     "total_size_mb": 408.26,
-    "last_calculation": "2026-07-19T19:38:33.888844+00:00"
+    "last_calculation": "2026-07-19T20:35:51.120883+00:00"
   }
 }
