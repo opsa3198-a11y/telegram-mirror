@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2646,
+        "text": "خواننده سرود ملی آرژانتین\n@TweetPublic\n✔️",
+        "date": "2026-07-19T19:26:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2646_0_19af7a28.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2646_1_1e0976ec.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2646"
+      },
+      {
+        "id": 2645,
+        "text": "🔴\nبعد تهدیدهای مختلف واسه ترورِ ترامپ؛\nرئیس‌جمهور آمریکا امشب از پشت شیشه‌های ضدگلوله داره بازی فینال جام جهانی 2026 رو می‌بینه :\n@TweetPublic\n✔️",
+        "date": "2026-07-19T19:20:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2645_0_19af7a28.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2645_1_e87c2127.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2645"
+      },
+      {
         "id": 2644,
         "text": "وضعیت بارسا فنا تو بازی امشب\n@TweetPublic\n✔️",
         "date": "2026-07-19T12:18:49+00:00",
@@ -14287,55 +14325,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2540"
-      },
-      {
-        "id": 2539,
-        "text": "🔴\nفووری/انفجار در اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:02:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2539_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2539"
-      },
-      {
-        "id": 2538,
-        "text": "🚨\nپرتاب موشک از سیریک به سمت یک شناور در تنگه هرمز\n@TweetPublic\n✔️",
-        "date": "2026-07-12T21:15:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2538_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2538"
       }
     ]
   },
-  "last_update": "2026-07-19T19:06:56.590595+00:00",
+  "last_update": "2026-07-19T19:38:33.876533+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1041,
-    "total_files": 1041,
+    "total_media": 1043,
+    "total_files": 1043,
     "total_links": 172,
     "files_by_type": {
-      "image": 957,
+      "image": 959,
       "video": 78,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1041,
-    "existing_media_files": 1040,
-    "total_size_mb": 408.11,
-    "last_calculation": "2026-07-19T19:06:56.603612+00:00"
+    "referenced_files": 1043,
+    "existing_media_files": 1042,
+    "total_size_mb": 408.26,
+    "last_calculation": "2026-07-19T19:38:33.888844+00:00"
   }
 }
