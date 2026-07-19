@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2642,
+        "text": "🔴\nنمی‌خوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چه‌خبره  آیدیش:   @Khabar",
+        "date": "2026-07-19T09:06:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2642_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2642"
+      },
+      {
+        "id": 2641,
+        "text": "🔴\nنمی‌خوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چه‌خبره\nآیدیش:\n@Khabar",
+        "date": "2026-07-19T08:53:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2641_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2641"
+      },
+      {
         "id": 2640,
         "text": "🔴\nزلزله در سالند خوزستان با یه زمین لرزه 5 ریشتری !\nنکنه جالب اینجاست تو‌‌ یک روز گذشته 4 بار نقاط مختلف جنوب زلزله اومده\n@TweetPublic\n✔️",
         "date": "2026-07-19T07:27:35+00:00",
@@ -14287,59 +14317,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2536"
-      },
-      {
-        "id": 2535,
-        "text": "🔻\nترامپ : امشب حمله ای ویران کننده به ایران خواهیم کرد.\nسه سرباز آمریکایی کشته شدن\n@TweetPublic\n✔️",
-        "date": "2026-07-12T16:52:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2535_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2535"
-      },
-      {
-        "id": 2534,
-        "text": "درسته زیدمو‌ کرده ولی الان بحث بحث وطنه\n@TweetPublic\n✔️",
-        "date": "2026-07-12T15:18:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2534_0_3f8a4de3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2534_1_20288754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2534"
       }
     ]
   },
-  "last_update": "2026-07-19T08:19:34.399885+00:00",
+  "last_update": "2026-07-19T09:23:31.631741+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1042,
-    "total_files": 1042,
+    "total_media": 1041,
+    "total_files": 1041,
     "total_links": 172,
     "files_by_type": {
-      "image": 957,
+      "image": 956,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1042,
-    "existing_media_files": 1041,
-    "total_size_mb": 408.26,
-    "last_calculation": "2026-07-19T08:19:34.412262+00:00"
+    "referenced_files": 1041,
+    "existing_media_files": 1040,
+    "total_size_mb": 408.18,
+    "last_calculation": "2026-07-19T09:23:31.641442+00:00"
   }
 }
