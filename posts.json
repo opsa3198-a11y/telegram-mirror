@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2649,
+        "text": "🚨\n💢\nفوری/سنتکام: سنتکام امروز، ساعت ۷ بعد از ظهر به وقت شرق آمریکا، موج جدیدی از حملات علیه ایران را برای نهمین شب متوالی آغاز کرد. این حملات به تضعیف قابلیت‌های نظامی ایران که برای حمله به کشتی‌های تجاری و دریانوردان غیرنظامی در حال عبور از تنگه هرمز استفاده می‌شوند، ادامه خواهد داد.\n@TweetPublic\n✔️",
+        "date": "2026-07-19T23:19:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2649_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2649"
+      },
+      {
         "id": 2648,
         "text": "و تمامممم\nاسپانیا پس از 16 سال قهرمان جام‌جهانی 2026 شد\n@TweetPublic\n✔️",
         "date": "2026-07-19T22:03:56+00:00",
@@ -14310,25 +14325,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2543"
-      },
-      {
-        "id": 2542,
-        "text": "دایرکت گزارش بدید چنلا زیاد خبر زدن نمیشه فهمید چی ب چیه هر شهری هستید اگه تایید میکنید بزنیم خبرشو",
-        "date": "2026-07-12T22:26:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2542_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2542"
       }
     ]
   },
-  "last_update": "2026-07-19T22:39:01.731249+00:00",
+  "last_update": "2026-07-19T23:44:28.676548+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14344,6 +14344,6 @@
     "referenced_files": 1043,
     "existing_media_files": 1042,
     "total_size_mb": 408.26,
-    "last_calculation": "2026-07-19T22:39:01.743645+00:00"
+    "last_calculation": "2026-07-19T23:44:28.689156+00:00"
   }
 }
