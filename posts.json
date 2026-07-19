@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2640,
+        "text": "🔴\nزلزله در سالند خوزستان با یه زمین لرزه 5 ریشتری !\nنکنه جالب اینجاست تو‌‌ یک روز گذشته 4 بار نقاط مختلف جنوب زلزله اومده\n@TweetPublic\n✔️",
+        "date": "2026-07-19T07:27:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2640_0_19af7a28.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2640_1_4908f730.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2640"
+      },
+      {
         "id": 2639,
         "text": "🚨\nانفجار مهیب در سیریک\n@TweetPublic\n✔️",
         "date": "2026-07-18T22:29:03+00:00",
@@ -14302,29 +14321,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2534"
-      },
-      {
-        "id": 2533,
-        "text": "🔴\nطرف شگردش این بوده زنایی‌ که از شوهرشون ماهیانه مهریه میگرفتن رو شکار میکرده و بعد از اینکه ازشون فیلم تهیه میکرده مهریشون رو ازشون میگرفته.\n@TweetPublic\n✔️",
-        "date": "2026-07-12T12:58:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2533_0_3f8a4de3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2533_1_a91aeaf9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2533"
       }
     ]
   },
-  "last_update": "2026-07-19T07:20:33.488238+00:00",
+  "last_update": "2026-07-19T08:19:34.399885+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14339,7 +14339,7 @@
     },
     "referenced_files": 1042,
     "existing_media_files": 1041,
-    "total_size_mb": 408.23,
-    "last_calculation": "2026-07-19T07:20:33.500736+00:00"
+    "total_size_mb": 408.26,
+    "last_calculation": "2026-07-19T08:19:34.412262+00:00"
   }
 }
