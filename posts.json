@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2648,
+        "text": "و تمامممم\nاسپانیا پس از 16 سال قهرمان جام‌جهانی 2026 شد\n@TweetPublic\n✔️",
+        "date": "2026-07-19T22:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2648_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2648"
+      },
+      {
         "id": 2647,
         "text": "🔴\nگزارش انفجار خمین\n@TweetPublic\n✔️",
         "date": "2026-07-19T20:27:12+00:00",
@@ -14310,25 +14325,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2542"
-      },
-      {
-        "id": 2541,
-        "text": "🔴\nانفجار سنگین تو سیستان و بلوچستان هم اکنون.\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:10:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2541_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2541"
       }
     ]
   },
-  "last_update": "2026-07-19T21:39:42.790055+00:00",
+  "last_update": "2026-07-19T22:39:01.731249+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14344,6 +14344,6 @@
     "referenced_files": 1043,
     "existing_media_files": 1042,
     "total_size_mb": 408.26,
-    "last_calculation": "2026-07-19T21:39:42.797101+00:00"
+    "last_calculation": "2026-07-19T22:39:01.743645+00:00"
   }
 }
