@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2656,
+        "text": "🔴\nحمید رسایی: فوتبال تمام شود، کار آقایان در وزارت ارتباطات برای قطعی اینترنت شروع میشود، اگر نشود دوباره تماس خواهم گرفت.\n@TweetPublic\n✔️",
+        "date": "2026-07-20T19:16:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2656_0_33070cac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2656"
+      },
+      {
         "id": 2655,
         "text": "هم اکنون شلیک موشک از تهران ارومیه و تبریز به سمت کویت!\n@TweetPublic\n✔️",
         "date": "2026-07-20T18:13:33+00:00",
@@ -14314,25 +14329,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2551"
-      },
-      {
-        "id": 2550,
-        "text": "🔴\nادعای ترامپ:\nما تنگه هرمز را تصرف می‌کنیم.\nما برای حفاظت از تنگه هرمز پول دریافت خواهیم کرد\nشب گذشته به ایران ضربه بسیار سنگینی وارد کردیم.\nرهبران ایران مذاکره‌کنندگان حرفه‌ای هستند\n@TweetPublic\n✔️",
-        "date": "2026-07-13T12:21:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2550_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2550"
       }
     ]
   },
-  "last_update": "2026-07-20T18:47:40.528124+00:00",
+  "last_update": "2026-07-20T19:44:09.645101+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14348,6 +14348,6 @@
     "referenced_files": 1044,
     "existing_media_files": 1043,
     "total_size_mb": 408.98,
-    "last_calculation": "2026-07-20T18:47:40.541152+00:00"
+    "last_calculation": "2026-07-20T19:44:09.655186+00:00"
   }
 }
