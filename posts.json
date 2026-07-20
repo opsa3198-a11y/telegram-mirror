@@ -12703,6 +12703,46 @@
     ],
     "TweetPublic": [
       {
+        "id": 2665,
+        "text": "خیلیا شاید چنل عادل عزیز رو نداشته باشن\nاین چنل اصلی عادله\n👇\nhttps://t.me/ft360_ir\n@TweetPublic\n✔️",
+        "date": "2026-07-20T22:21:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2665_0_33070cac.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/ft360_ir",
+            "type": "telegram",
+            "display_text": "https://t.me/ft360_ir"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/2665"
+      },
+      {
+        "id": 2663,
+        "text": "عادل:\nمن بله قربان گو نبودم،نخواهم بود و نخواهم شد،اصلا بیاید منو بگیرید و هر بلایی که میخواید سرم بیارید\n@TweetPublic\n✔️",
+        "date": "2026-07-20T22:02:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2663_0_33070cac.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2663_1_300a93c7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2663"
+      },
+      {
         "id": 2662,
         "text": "سایت فردوسی‌پور فیلتر شد\n🔹\nواکنش لایو عادل فردوسی‌پور به فیلتر فوتبال۳۶۰؛ باورم نمی‌شود/ بدترین روش را برای ساکت کردن درنظر گرفتند\n🔹\nعادل فردوسی‌پور در لایو اینستاگرامی برنامه خود درباره ازدسترس‌خارج‌شدن سایت فوتبال۳۶۰ که از ساعتی پیش اتفاق افتاده، توضیحاتی ارائه کرد.\n@TweetPublic\n✔️",
         "date": "2026-07-20T21:23:47+00:00",
@@ -14299,55 +14339,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2559"
-      },
-      {
-        "id": 2558,
-        "text": "🔴\nاختلال گسترده در اینترنت ثابت و همراه\nگزارش‌های کاربران نشان می‌دهد از ساعاتی پیش، اینترنت ثابت و همراه در نقاط مختلف کشور با اختلالات گسترده و افت محسوس کیفیت خدمات مواجه شده است.\nکاربران از کاهش شدید سرعت، قطعی و وصل‌های مکرر، ناپایداری اتصال، پرش آنتن در شبکه‌های تلفن همراه و اختلال در دسترسی به برخی سرویس‌ها و پلتفرم‌های اینترنتی خبر می‌دهند./ رادار\n@TweetPublic\n✔️",
-        "date": "2026-07-13T21:35:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2558_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2558"
-      },
-      {
-        "id": 2557,
-        "text": "⭕️\nسنتکام : هم اکنون موج جدید حملات خودمون رو‌ در ایران شروع کردیم.\n@TweetPublic\n✔️",
-        "date": "2026-07-13T21:18:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2557_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2557"
       }
     ]
   },
-  "last_update": "2026-07-20T21:37:41.707620+00:00",
+  "last_update": "2026-07-20T22:44:20.760925+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1044,
-    "total_files": 1044,
-    "total_links": 172,
+    "total_media": 1045,
+    "total_files": 1045,
+    "total_links": 173,
     "files_by_type": {
       "image": 959,
-      "video": 79,
+      "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1044,
-    "existing_media_files": 1043,
-    "total_size_mb": 413.08,
-    "last_calculation": "2026-07-20T21:37:41.720456+00:00"
+    "referenced_files": 1045,
+    "existing_media_files": 1044,
+    "total_size_mb": 421.6,
+    "last_calculation": "2026-07-20T22:44:20.773337+00:00"
   }
 }
