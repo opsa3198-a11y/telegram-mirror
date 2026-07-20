@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 2652,
+        "text": "🔴\nمنتسب به بندر خمینی.\n@TweetPublic\n✔️",
+        "date": "2026-07-19T23:54:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2652_0_19af7a28.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2652_1_5c128f96.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2652"
+      },
+      {
+        "id": 2651,
+        "text": "گزارش محلی از صدای انفجار در ساری!!!\n@TweetPublic\n✔️",
+        "date": "2026-07-19T23:54:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2651_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2651"
+      },
+      {
+        "id": 2650,
+        "text": "اخبار واقعی جنگ‌ رو اینجا بخونید:\n@Khabar",
+        "date": "2026-07-19T23:51:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2650_0_19af7a28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2650"
+      },
+      {
         "id": 2649,
         "text": "🚨\n💢\nفوری/سنتکام: سنتکام امروز، ساعت ۷ بعد از ظهر به وقت شرق آمریکا، موج جدیدی از حملات علیه ایران را برای نهمین شب متوالی آغاز کرد. این حملات به تضعیف قابلیت‌های نظامی ایران که برای حمله به کشتی‌های تجاری و دریانوردان غیرنظامی در حال عبور از تنگه هرمز استفاده می‌شوند، ادامه خواهد داد.\n@TweetPublic\n✔️",
         "date": "2026-07-19T23:19:44+00:00",
@@ -14276,59 +14325,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2546"
-      },
-      {
-        "id": 2545,
-        "text": "🚨\nانفجار در بهبهان و اندیمشک خوزستان\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:56:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2545_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2545"
-      },
-      {
-        "id": 2544,
-        "text": "🔴\nلحظه ی انفجار سنگین تو اهواز و خایه کردن این هموطن عزیزمون :\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:38:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2544_0_41799ee1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2544_1_a15ad152.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2544"
-      },
-      {
-        "id": 2543,
-        "text": "🚨\nانفجار در بهبهان و امیدیه در استان خوزستان\n@TweetPublic\n✔️",
-        "date": "2026-07-12T22:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2543_0_41799ee1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2543"
       }
     ]
   },
-  "last_update": "2026-07-19T23:44:28.676548+00:00",
+  "last_update": "2026-07-20T01:25:07.913264+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14336,14 +14336,14 @@
     "total_files": 1043,
     "total_links": 172,
     "files_by_type": {
-      "image": 959,
-      "video": 78,
+      "image": 960,
+      "video": 77,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1043,
     "existing_media_files": 1042,
-    "total_size_mb": 408.26,
-    "last_calculation": "2026-07-19T23:44:28.689156+00:00"
+    "total_size_mb": 408.05,
+    "last_calculation": "2026-07-20T01:25:07.922105+00:00"
   }
 }
