@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2655,
+        "text": "هم اکنون شلیک موشک از تهران ارومیه و تبریز به سمت کویت!\n@TweetPublic\n✔️",
+        "date": "2026-07-20T18:13:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2655_0_33070cac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2655"
+      },
+      {
         "id": 2654,
         "text": "دانش آموزی که ۱۹/۷۵ گرفته\nدانش آموزی که ۰/۷۵ گرفته\n@TweetPublic\n✔️",
         "date": "2026-07-20T14:31:13+00:00",
@@ -14314,44 +14329,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2550"
-      },
-      {
-        "id": 2548,
-        "text": "وقتی شکمم سیر شده و فهمیدم نیازی به این همه عصبانیت نبود\n😂\n@TweetPublic\n✔️",
-        "date": "2026-07-13T09:44:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2548_0_41799ee1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2548_1_d4ea516f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2548"
       }
     ]
   },
-  "last_update": "2026-07-20T16:50:22.543637+00:00",
+  "last_update": "2026-07-20T18:47:40.528124+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1045,
-    "total_files": 1045,
+    "total_media": 1044,
+    "total_files": 1044,
     "total_links": 172,
     "files_by_type": {
-      "image": 961,
+      "image": 960,
       "video": 78,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1045,
-    "existing_media_files": 1044,
-    "total_size_mb": 409.09,
-    "last_calculation": "2026-07-20T16:50:22.556710+00:00"
+    "referenced_files": 1044,
+    "existing_media_files": 1043,
+    "total_size_mb": 408.98,
+    "last_calculation": "2026-07-20T18:47:40.541152+00:00"
   }
 }
