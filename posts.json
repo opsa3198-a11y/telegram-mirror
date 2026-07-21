@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2666,
+        "text": "بانه 2 انفجار سنگین\n@TweetPublic\n✔️",
+        "date": "2026-07-21T00:30:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2666_0_33070cac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2666"
+      },
+      {
         "id": 2665,
         "text": "خیلیا شاید چنل عادل عزیز رو نداشته باشن\nاین چنل اصلی عادله\n👇\nhttps://t.me/ft360_ir\n@TweetPublic\n✔️",
         "date": "2026-07-20T22:21:01+00:00",
@@ -14324,25 +14339,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2560"
-      },
-      {
-        "id": 2559,
-        "text": "🚨\nکیش انفجار متعدد\n@TweetPublic\n✔️",
-        "date": "2026-07-13T21:40:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2559_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2559"
       }
     ]
   },
-  "last_update": "2026-07-20T23:44:57.577313+00:00",
+  "last_update": "2026-07-21T01:21:28.091969+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14358,6 +14358,6 @@
     "referenced_files": 1045,
     "existing_media_files": 1044,
     "total_size_mb": 421.6,
-    "last_calculation": "2026-07-20T23:44:57.589981+00:00"
+    "last_calculation": "2026-07-21T01:21:28.104204+00:00"
   }
 }
