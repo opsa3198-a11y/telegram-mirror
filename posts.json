@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2678,
+        "text": "🔴\nهگست :\nما دیگه وارد جنگ‌های احمقانه نمی‌شیم و دنبال تغییر حکومت ایران هم نبودیم\n@TweetPublic\n✔️",
+        "date": "2026-07-21T21:42:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2678_0_0f338c38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2678"
+      },
+      {
         "id": 2677,
         "text": "وارد سی‌یک‌تیر شدیم.\n@TweetPublic\n✔️",
         "date": "2026-07-21T20:47:56+00:00",
@@ -14340,25 +14355,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2571"
-      },
-      {
-        "id": 2570,
-        "text": "ترامپ به فاکس نیوز:\n🔻\nحملات علیه ایران هفته آینده گسترش خواهد یافت و خاورمیانه برای آنچه بعداً رخ خواهد داد آماده میشود\n@TweetPublic\n✔️",
-        "date": "2026-07-15T18:32:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2570_0_08ad85d0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2570"
       }
     ]
   },
-  "last_update": "2026-07-21T20:59:49.835108+00:00",
+  "last_update": "2026-07-21T22:03:20.097764+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14374,6 +14374,6 @@
     "referenced_files": 1049,
     "existing_media_files": 1048,
     "total_size_mb": 405.89,
-    "last_calculation": "2026-07-21T20:59:49.848170+00:00"
+    "last_calculation": "2026-07-21T22:03:20.105863+00:00"
   }
 }
