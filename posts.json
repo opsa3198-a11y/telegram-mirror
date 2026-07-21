@@ -12703,6 +12703,63 @@
     ],
     "TweetPublic": [
       {
+        "id": 2670,
+        "text": "😳\n1500 تا فالوئر داری، تونستی یه دختر 10 از 10 رو به دست بیاری، 5 سال هم با هم بودین، 5 سال خاطره ساختین، 5 سال گفتین خندیدین، 5 سال قول و قرار گذاشتید، ولی یه ستاره فوتبال از کشورت که 50 میلیون فالوئر داره، از دوست دخترت خوشش میاد، دختره فقط توی 2 هفته ترکت میکنه و میره با لامین یامال، حالا هم یامال اونو برداشت با خودش برد جام جهانی :\n@TweetPublic\n✔️",
+        "date": "2026-07-21T11:27:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2670_0_0f338c38.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2670_1_0d1292ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2670_2_c4393089.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2670"
+      },
+      {
+        "id": 2669,
+        "text": "عادل: من بله قربان گو نبودم،نخواهم بود و نخواهم شد،اصلا بیاید منو بگیرید و هر بلایی که میخواید سرم بیارید  @TweetPublic\n✔️",
+        "date": "2026-07-21T10:53:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2669_0_0f338c38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2669"
+      },
+      {
+        "id": 2667,
+        "text": "امروز 21 July روز غذا دادن به میموناس؛\n+ این پستو بفرست برای میمون خوشگله‌ی زندگیت.\n@TweetPublic\n✔️",
+        "date": "2026-07-21T10:46:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2667_0_0f338c38.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2667_1_ccfa669f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2667"
+      },
+      {
         "id": 2666,
         "text": "بانه 2 انفجار سنگین\n@TweetPublic\n✔️",
         "date": "2026-07-21T00:30:32+00:00",
@@ -14294,70 +14351,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2564"
-      },
-      {
-        "id": 2563,
-        "text": "⭕️\nدو انفجار شدید در اهواز  @TweetPublic\n✔️",
-        "date": "2026-07-14T19:06:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2563_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2563"
-      },
-      {
-        "id": 2562,
-        "text": "⭕️\nدو انفجار شدید در اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-14T19:01:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2562_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2562"
-      },
-      {
-        "id": 2560,
-        "text": "هرچی به پایان جام جهانی نزدیک میشیم به جنگ جهانی نزدیک تر میشیم\n@TweetPublic\n✔️",
-        "date": "2026-07-13T22:14:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2560_0_7af99e12.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2560"
       }
     ]
   },
-  "last_update": "2026-07-21T09:57:20.262757+00:00",
+  "last_update": "2026-07-21T11:43:09.780344+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1045,
-    "total_files": 1045,
+    "total_media": 1048,
+    "total_files": 1048,
     "total_links": 173,
     "files_by_type": {
-      "image": 959,
+      "image": 962,
       "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1045,
-    "existing_media_files": 1044,
-    "total_size_mb": 421.6,
-    "last_calculation": "2026-07-21T09:57:20.275862+00:00"
+    "referenced_files": 1048,
+    "existing_media_files": 1047,
+    "total_size_mb": 421.88,
+    "last_calculation": "2026-07-21T11:43:09.793225+00:00"
   }
 }
