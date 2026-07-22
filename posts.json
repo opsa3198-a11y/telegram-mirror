@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2697,
+        "text": "جا مونده از جام جهانی\n😂\n@TweetPublic\n✔️",
+        "date": "2026-07-22T16:36:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2697_0_e70cce70.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2697_1_349da95c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2697"
+      },
+      {
         "id": 2696,
         "text": "🚨\nترامپ:\nاز این لحظه به بعد، هر بار ایران با موشک، راکت، پهپاد یا هر سلاح دیگه‌ای به یک کشتی در تنگه هرمز شلیک کنه، آمریکا در پاسخ یک پل یا نیروگاه برق در ایران، از جمله در تهران یا اطراف پایتخت، رو هدف قرار می‌ده.\n@TweetPublic\n✔️",
         "date": "2026-07-22T13:18:02+00:00",
@@ -14360,40 +14379,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2589"
-      },
-      {
-        "id": 2588,
-        "text": "تا وقتی که ما 30 میلیون جانفدا داریم کشور نیاز به هیچ سربازی در هیچ پادگانی نداره لطفا به سرباز ها مرخصی بدید",
-        "date": "2026-07-16T15:04:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2588_0_12a9ab05.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2588"
       }
     ]
   },
-  "last_update": "2026-07-22T16:12:21.298128+00:00",
+  "last_update": "2026-07-22T17:45:40.170129+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1054,
-    "total_files": 1054,
+    "total_media": 1055,
+    "total_files": 1055,
     "total_links": 173,
     "files_by_type": {
-      "image": 967,
+      "image": 968,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1054,
-    "existing_media_files": 1053,
-    "total_size_mb": 410.53,
-    "last_calculation": "2026-07-22T16:12:21.310807+00:00"
+    "referenced_files": 1055,
+    "existing_media_files": 1054,
+    "total_size_mb": 410.6,
+    "last_calculation": "2026-07-22T17:45:40.182508+00:00"
   }
 }
