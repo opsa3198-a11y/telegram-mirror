@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2708,
+        "text": "⏺\nاستانداری بوشهر: نیروگاه برق نزدیک نیروگاه هسته‌ای بوشهر در جنوب کشور مورد هدف قرار گرفت\n@TweetPublic\n✔️",
+        "date": "2026-07-22T22:55:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2708_0_e70cce70.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2708"
+      },
+      {
         "id": 2707,
         "text": "منابع عربی از شنیده‌شدن صداهای انفجار در کویت خبر می‌دهند\n@TweetPublic\n✔️",
         "date": "2026-07-22T22:02:39+00:00",
@@ -14360,44 +14375,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2598"
-      },
-      {
-        "id": 2597,
-        "text": "🔴\nویدیویی از حمله به فرودگاه ایرانشهر در استان سیستان و بلوچستان\n@TweetPublic\n✔️",
-        "date": "2026-07-16T20:06:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2597_0_12a9ab05.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2597_1_e9ab6c54.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2597"
       }
     ]
   },
-  "last_update": "2026-07-22T22:50:42.232717+00:00",
+  "last_update": "2026-07-22T23:52:27.642680+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1055,
-    "total_files": 1055,
+    "total_media": 1054,
+    "total_files": 1054,
     "total_links": 173,
     "files_by_type": {
       "image": 969,
-      "video": 80,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1055,
-    "existing_media_files": 1054,
-    "total_size_mb": 409.62,
-    "last_calculation": "2026-07-22T22:50:42.239194+00:00"
+    "referenced_files": 1054,
+    "existing_media_files": 1053,
+    "total_size_mb": 407.92,
+    "last_calculation": "2026-07-22T23:52:27.655535+00:00"
   }
 }
