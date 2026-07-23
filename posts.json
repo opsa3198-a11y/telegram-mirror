@@ -12703,6 +12703,67 @@
     ],
     "TweetPublic": [
       {
+        "id": 2734,
+        "text": "⏺\nاین ویدئو که با عنوان حملات امشب آمریکا به اهواز داره دست به دست میشه؛\n⏺\nفیکه و اصلا مربوط به ایران نیست‌.\n@TweetPublic\n✔️",
+        "date": "2026-07-23T23:38:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2734_0_bbee3bfc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2734_1_6e8b8798.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2734_2_16871b02.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2734"
+      },
+      {
+        "id": 2733,
+        "text": "🔴\nمنتسب به بندرعباس :\n@TweetPublic\n✔️",
+        "date": "2026-07-23T23:24:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2733_0_bbee3bfc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2733_1_f37a2a24.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2733"
+      },
+      {
+        "id": 2732,
+        "text": "⭕️\nمنتسب به اهواز\n@TweetPublic\n✔️",
+        "date": "2026-07-23T23:23:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2732_0_bbee3bfc.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2732_1_ff26c5e0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2732"
+      },
+      {
         "id": 2731,
         "text": "هشدار وزارت خارجه آمریکا به اتباع خود در خاورمیانه: برای لغو پروازها آماده باشید\n🔹\nوزارت امور خارجه آمریکا با صدور یک اطلاعیه فوری، از تمامی شهروندان آمریکایی ساکن در منطقه خاورمیانه خواست تا برای شرایط اضطراری، از جمله اختلال در رفت‌وآمد هوایی، آمادگی کامل داشته باشند.\n@TweetPublic\n✔️",
         "date": "2026-07-23T16:15:32+00:00",
@@ -14358,78 +14419,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2616"
-      },
-      {
-        "id": 2614,
-        "text": "استوری علیرضا بیرانوند در نقد علی دایی و حمایت از فیلدمارشال قلعه‌نویی!\n@TweetPublic\n✔️",
-        "date": "2026-07-17T19:16:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2614_0_aea03a7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2614_1_fca94b00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2614"
-      },
-      {
-        "id": 2613,
-        "text": "🔴\nاردستانی، عضو کمیسیون امنیت ملی مجلس:\nاگه آمریکا به ما حمله زمینی بکنه، ماهم به کویت و بحرین حمله زمینی می‌کنیم.\n@TweetPublic\n✔️",
-        "date": "2026-07-17T18:13:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2613_0_aea03a7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2613_1_8ef5da3c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2613"
-      },
-      {
-        "id": 2612,
-        "text": "🔴\nنمی‌خوام نگراتون کنم، اما امشب حملات خیلی شدید تر شده، اخبار واقعی رو از اینجا دنبال کنید:\n@Khabar",
-        "date": "2026-07-17T18:10:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2612_0_aea03a7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2612"
       }
     ]
   },
-  "last_update": "2026-07-23T22:44:46.821643+00:00",
+  "last_update": "2026-07-23T23:46:51.965001+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1063,
-    "total_files": 1063,
+    "total_media": 1065,
+    "total_files": 1065,
     "total_links": 173,
     "files_by_type": {
-      "image": 981,
-      "video": 76,
+      "image": 980,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1063,
-    "existing_media_files": 1062,
-    "total_size_mb": 401.36,
-    "last_calculation": "2026-07-23T22:44:46.833991+00:00"
+    "referenced_files": 1065,
+    "existing_media_files": 1064,
+    "total_size_mb": 403.79,
+    "last_calculation": "2026-07-23T23:46:51.972835+00:00"
   }
 }
