@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2731,
+        "text": "هشدار وزارت خارجه آمریکا به اتباع خود در خاورمیانه: برای لغو پروازها آماده باشید\n🔹\nوزارت امور خارجه آمریکا با صدور یک اطلاعیه فوری، از تمامی شهروندان آمریکایی ساکن در منطقه خاورمیانه خواست تا برای شرایط اضطراری، از جمله اختلال در رفت‌وآمد هوایی، آمادگی کامل داشته باشند.\n@TweetPublic\n✔️",
+        "date": "2026-07-23T16:15:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2731_0_bbee3bfc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2731"
+      },
+      {
         "id": 2726,
         "text": "حالا برسیم به قابلیت های جذاب مینی اپمون که حسابی قراره کیف کنید باهاش\n🤭\n👇\n▶️\nتماشای آنلاین فیلم و سریال به صورت گروهی\n✉️\nامکان چت در پخش گروهی\n💬\nقابلیت کامنت گذاشتن برای هر فیلم و سریال\n🔗\nانتخاب کیفیت مدنظر برای پخش\n🟢\nقابلیت ساخت گروه و اشتراک گذاری لینک دعوت گروه برای تماشای گروهی\n🔍\nجستجو آنی\n📜\nساخت لیست شخصی\n❌\nبدون نیاز به ثبت نام و نصب برنامه",
         "date": "2026-07-23T15:02:47+00:00",
@@ -14396,44 +14411,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2612"
-      },
-      {
-        "id": 2610,
-        "text": "اگه بدون VPN برید لغو عضویت سرچ بزنید با این مواجه میشید که بیشترین تعداد سرچ رو داشته:\n@TweetPublic\n✔️",
-        "date": "2026-07-17T10:11:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2610_0_aea03a7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2610_1_b3258153.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2610"
       }
     ]
   },
-  "last_update": "2026-07-23T15:29:45.630879+00:00",
+  "last_update": "2026-07-23T16:57:17.898576+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1064,
-    "total_files": 1064,
+    "total_media": 1063,
+    "total_files": 1063,
     "total_links": 173,
     "files_by_type": {
-      "image": 982,
+      "image": 981,
       "video": 76,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1064,
-    "existing_media_files": 1063,
-    "total_size_mb": 401.39,
-    "last_calculation": "2026-07-23T15:29:45.643626+00:00"
+    "referenced_files": 1063,
+    "existing_media_files": 1062,
+    "total_size_mb": 401.36,
+    "last_calculation": "2026-07-23T16:57:17.911494+00:00"
   }
 }
