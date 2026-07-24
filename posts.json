@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2742,
+        "text": "اکبر عبدی در سن 65 سالگی درگذشت\n🖤\n@TweetPublic\n✔️",
+        "date": "2026-07-24T17:36:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2742_0_e6c05948.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2742_1_50ab19dc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2742"
+      },
+      {
+        "id": 2741,
+        "text": "الان باید تو ملک این شکلیم بودم و از اسب‌هام نگهداری می‌کردم\n@TweetPublic\n✔️",
+        "date": "2026-07-24T14:43:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2741_0_e6c05948.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2741_1_7daa133b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2741"
+      },
+      {
         "id": 2740,
         "text": "🔴\nاگه براتون سواله بندرعباسی‌ها امشب چه لحظاتی رو تجربه کردن؛\nاین ویدیو رو تا آخر ببینید :\n@TweetPublic\n✔️",
         "date": "2026-07-24T00:18:09+00:00",
@@ -14385,59 +14423,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2624"
-      },
-      {
-        "id": 2623,
-        "text": "گفته می شود حمله امشب دشمن به اهواز، جاده اهواز اندیمشک را هدف قرار داده است\nجاده اهواز-اندیمشک یکی از مهم ترین جاده های کشور است که بخش قابل توجهی از حمل و نقل بار، به خصوص بارهای مربوط به حوزه نفت و پتروشیمی و کالاهای اساسی، از این جاده صورت می‌گیرد\n@TweetPublic\n✔️",
-        "date": "2026-07-17T21:48:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2623_0_aea03a7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2623"
-      },
-      {
-        "id": 2621,
-        "text": "‼️\nحملات موشکی به اطراف شهر یزد\n@TweetPublic\n✔️",
-        "date": "2026-07-17T21:17:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2621_0_aea03a7b.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2621_1_a2019dd6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2621"
       }
     ]
   },
-  "last_update": "2026-07-24T14:41:57.065961+00:00",
+  "last_update": "2026-07-24T17:56:36.827492+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1065,
-    "total_files": 1065,
+    "total_media": 1066,
+    "total_files": 1066,
     "total_links": 173,
     "files_by_type": {
-      "image": 979,
-      "video": 80,
+      "image": 981,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1065,
-    "existing_media_files": 1064,
-    "total_size_mb": 411.68,
-    "last_calculation": "2026-07-24T14:41:57.075409+00:00"
+    "referenced_files": 1066,
+    "existing_media_files": 1065,
+    "total_size_mb": 410.81,
+    "last_calculation": "2026-07-24T17:56:36.837032+00:00"
   }
 }
