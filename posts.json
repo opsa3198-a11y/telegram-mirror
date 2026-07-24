@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2743,
+        "text": "خدا بیامرز اکبر عبدی: یارو میگه من 45 ساله مواد میکشم ، خب این یعنی اینکه من از کص ننم میکشیدم که.\n@TweetPublic\n✔️",
+        "date": "2026-07-24T18:11:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2743_0_e6c05948.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2743_1_a27003c8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2743"
+      },
+      {
         "id": 2742,
         "text": "اکبر عبدی در سن 65 سالگی درگذشت\n🖤\n@TweetPublic\n✔️",
         "date": "2026-07-24T17:36:21+00:00",
@@ -14408,40 +14427,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2625"
-      },
-      {
-        "id": 2624,
-        "text": "نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره\nآیدیش:\n@Khabar",
-        "date": "2026-07-17T21:51:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2624_0_aea03a7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2624"
       }
     ]
   },
-  "last_update": "2026-07-24T17:56:36.827492+00:00",
+  "last_update": "2026-07-24T19:12:41.982524+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1066,
-    "total_files": 1066,
+    "total_media": 1067,
+    "total_files": 1067,
     "total_links": 173,
     "files_by_type": {
       "image": 981,
-      "video": 79,
+      "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1066,
-    "existing_media_files": 1065,
-    "total_size_mb": 410.81,
-    "last_calculation": "2026-07-24T17:56:36.837032+00:00"
+    "referenced_files": 1067,
+    "existing_media_files": 1066,
+    "total_size_mb": 414.4,
+    "last_calculation": "2026-07-24T19:12:41.995638+00:00"
   }
 }
