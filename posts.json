@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2747,
+        "text": "فک کنم خدا زدتم ولی چون چوبش صدا نداره متوجه نشدم.\n@TweetPublic\n✔️",
+        "date": "2026-07-27T14:43:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2747_0_d62f6c6f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2747"
+      },
+      {
         "id": 2746,
         "text": "🔴\nسیلوان آدامز، رئیس کنگره جهانی یهودیان، تو دیدار با رضا پهلوی:\nبه زودی سفارت اسرائیل\n🇮🇱\nرو تو تهران افتتاح میکنیم.\n@TweetPublic\n✔️",
         "date": "2026-07-27T14:08:01+00:00",
@@ -14420,25 +14435,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2629"
-      },
-      {
-        "id": 2628,
-        "text": "🚨\nفارس: از ایران به سمت عربستان موشک شلیک شده.\n@TweetPublic\n✔️",
-        "date": "2026-07-17T23:01:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2628_0_aea03a7b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2628"
       }
     ]
   },
-  "last_update": "2026-07-27T14:34:58.493205+00:00",
+  "last_update": "2026-07-27T16:36:48.574758+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14454,6 +14454,6 @@
     "referenced_files": 1069,
     "existing_media_files": 1068,
     "total_size_mb": 421.83,
-    "last_calculation": "2026-07-27T14:34:58.506085+00:00"
+    "last_calculation": "2026-07-27T16:36:48.587140+00:00"
   }
 }
