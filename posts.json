@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2746,
+        "text": "🔴\nسیلوان آدامز، رئیس کنگره جهانی یهودیان، تو دیدار با رضا پهلوی:\nبه زودی سفارت اسرائیل\n🇮🇱\nرو تو تهران افتتاح میکنیم.\n@TweetPublic\n✔️",
+        "date": "2026-07-27T14:08:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2746_0_d62f6c6f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2746_1_f692eae2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2746"
+      },
+      {
         "id": 2745,
         "text": "🔴\nامروز 5 مرداد، سالروز درگذشت محمدرضا پهلویه.\nمحمدرضا پهلوی، آخرین شاه ایران، تو سن ۶۰ سالگی و در ۵ مرداد ۱۳۵۹، توی بیمارستان المعادیِ قاهره (مصر) از دنیا رفت.\n@TweetPublic\n✔️",
         "date": "2026-07-27T05:43:35+00:00",
@@ -14416,29 +14435,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2628"
-      },
-      {
-        "id": 2627,
-        "text": "پل سه‌راه‌ میناب به‌سمت رودان\n@TweetPublic\n✔️",
-        "date": "2026-07-17T22:57:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2627_0_aea03a7b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2627_1_7a63f985.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2627"
       }
     ]
   },
-  "last_update": "2026-07-27T14:06:20.661152+00:00",
+  "last_update": "2026-07-27T14:34:58.493205+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14453,7 +14453,7 @@
     },
     "referenced_files": 1069,
     "existing_media_files": 1068,
-    "total_size_mb": 421.78,
-    "last_calculation": "2026-07-27T14:06:20.674902+00:00"
+    "total_size_mb": 421.83,
+    "last_calculation": "2026-07-27T14:34:58.506085+00:00"
   }
 }
