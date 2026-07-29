@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2787,
+        "text": "⏺\nفوری-تایید آغاز حمله امریکا به ایران\n@TweetPublic\n✔️",
+        "date": "2026-07-29T23:16:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2787_0_d5f8e2e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2787_1_f2df4769.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2787"
+      },
+      {
+        "id": 2786,
+        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
+        "date": "2026-07-29T23:16:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2786_0_d5f8e2e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2786_1_e4f9691c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2786"
+      },
+      {
         "id": 2785,
         "text": "📱\nبعد از تلگرام، حالا در ایکس هم حساب‌های تسنیم به‌زبان فارسی و‌ انگلیسی مسدود شدن\n.\n@TweetPublic\n✔️",
         "date": "2026-07-29T21:44:01+00:00",
@@ -14419,65 +14457,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2666"
-      },
-      {
-        "id": 2665,
-        "text": "خیلیا شاید چنل عادل عزیز رو نداشته باشن\nاین چنل اصلی عادله\n👇\nhttps://t.me/ft360_ir\n@TweetPublic\n✔️",
-        "date": "2026-07-20T22:21:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2665_0_33070cac.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://t.me/ft360_ir",
-            "type": "telegram",
-            "display_text": "https://t.me/ft360_ir"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/TweetPublic/2665"
-      },
-      {
-        "id": 2663,
-        "text": "عادل:\nمن بله قربان گو نبودم،نخواهم بود و نخواهم شد،اصلا بیاید منو بگیرید و هر بلایی که میخواید سرم بیارید\n@TweetPublic\n✔️",
-        "date": "2026-07-20T22:02:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2663_0_33070cac.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2663_1_300a93c7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2663"
       }
     ]
   },
-  "last_update": "2026-07-29T22:25:44.244097+00:00",
+  "last_update": "2026-07-29T23:28:06.548101+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1075,
-    "total_files": 1075,
-    "total_links": 173,
+    "total_media": 1076,
+    "total_files": 1076,
+    "total_links": 172,
     "files_by_type": {
-      "image": 991,
-      "video": 78,
+      "image": 993,
+      "video": 77,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1075,
-    "existing_media_files": 1074,
-    "total_size_mb": 424.24,
-    "last_calculation": "2026-07-29T22:25:44.256838+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1075,
+    "total_size_mb": 415.85,
+    "last_calculation": "2026-07-29T23:28:06.561189+00:00"
   }
 }
