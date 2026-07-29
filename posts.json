@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2778,
+        "text": "🔴\nپاول دورف مدیر تلگرام، به اتهام تسهیل فعالیت‌های تروریستی، از طرف سرویس امنیت روسیه تحت تعقیب بین المللی قرار گرفت!\nدر همین راستا پاول دورف پروفایل اکانت تلگرامش رو به این عکس تغییر داد.\n@monk\n@TweetPublic\n✔️",
+        "date": "2026-07-29T12:38:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2778_0_d5f8e2e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2778_1_634254ce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2778"
+      },
+      {
         "id": 2777,
         "text": "🔴\nمارک لوین، مجری فاکس نیوز با انتشار تصاویری از اعتراضات امشب اصفهان گفت : با این نازی‌ها ( ج.ا ) مذاکره نکنید. مردم رو مسلح کنید.\n@TweetPublic\n✔️",
         "date": "2026-07-28T02:19:27+00:00",
@@ -14424,40 +14443,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2657"
-      },
-      {
-        "id": 2656,
-        "text": "🔴\nحمید رسایی: فوتبال تمام شود، کار آقایان در وزارت ارتباطات برای قطعی اینترنت شروع میشود، اگر نشود دوباره تماس خواهم گرفت.\n@TweetPublic\n✔️",
-        "date": "2026-07-20T19:16:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2656_0_33070cac.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2656"
       }
     ]
   },
-  "last_update": "2026-07-29T12:26:29.362097+00:00",
+  "last_update": "2026-07-29T14:10:21.304771+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1070,
-    "total_files": 1070,
+    "total_media": 1071,
+    "total_files": 1071,
     "total_links": 173,
     "files_by_type": {
-      "image": 985,
+      "image": 986,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1070,
-    "existing_media_files": 1069,
-    "total_size_mb": 427.94,
-    "last_calculation": "2026-07-29T12:26:29.374987+00:00"
+    "referenced_files": 1071,
+    "existing_media_files": 1070,
+    "total_size_mb": 428.01,
+    "last_calculation": "2026-07-29T14:10:21.317759+00:00"
   }
 }
