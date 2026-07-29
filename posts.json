@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2785,
+        "text": "📱\nبعد از تلگرام، حالا در ایکس هم حساب‌های تسنیم به‌زبان فارسی و‌ انگلیسی مسدود شدن\n.\n@TweetPublic\n✔️",
+        "date": "2026-07-29T21:44:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2785_0_d5f8e2e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2785_1_0347d5ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2785"
+      },
+      {
         "id": 2784,
         "text": "🔴\nسپاه اعلام کرد حساب روابط عمومی این نهاد در تلگرام بسته شده است.\nسپاه در واکنش گفت: بستن کانال روابط عمومی سپاه نشون می‌ده دشمن از انتشار اطلاعات و داده‌های دقیق درباره مواضع آمریکایی‌ها در منطقه ترسیده است.\n@TweetPublic\n✔️",
         "date": "2026-07-29T21:13:05+00:00",
@@ -14440,29 +14459,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2663"
-      },
-      {
-        "id": 2662,
-        "text": "سایت فردوسی‌پور فیلتر شد\n🔹\nواکنش لایو عادل فردوسی‌پور به فیلتر فوتبال۳۶۰؛ باورم نمی‌شود/ بدترین روش را برای ساکت کردن درنظر گرفتند\n🔹\nعادل فردوسی‌پور در لایو اینستاگرامی برنامه خود درباره ازدسترس‌خارج‌شدن سایت فوتبال۳۶۰ که از ساعتی پیش اتفاق افتاده، توضیحاتی ارائه کرد.\n@TweetPublic\n✔️",
-        "date": "2026-07-20T21:23:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2662_0_33070cac.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2662_1_3e79eb78.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2662"
       }
     ]
   },
-  "last_update": "2026-07-29T21:24:24.011925+00:00",
+  "last_update": "2026-07-29T22:25:44.244097+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14470,14 +14470,14 @@
     "total_files": 1075,
     "total_links": 173,
     "files_by_type": {
-      "image": 990,
-      "video": 79,
+      "image": 991,
+      "video": 78,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1075,
     "existing_media_files": 1074,
-    "total_size_mb": 428.33,
-    "last_calculation": "2026-07-29T21:24:24.024521+00:00"
+    "total_size_mb": 424.24,
+    "last_calculation": "2026-07-29T22:25:44.256838+00:00"
   }
 }
