@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2810,
+        "text": "سنتکام ویدیوئی از حملات امشب منتشر کرد\n@TweetPublic\n✔️",
+        "date": "2026-07-30T02:32:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2810_0_0c3d8738.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2810"
+      },
+      {
+        "id": 2809,
+        "text": "خداوکیلی فرق ما با کسی که اروپاس امریکاس چیه یارو ریلکس کرده تو بهترین آب و هوا  و اقتصاد خوب میتونه راحت ی ماشین با کیفیت قسطی بگیره با بهترین شرایط صبح از خواب پا میشه ورزششو میکنه کاراشو میکنه بدون دغدغه و استرس و حتی نمیدونه جنگ چیه اونموقع ما نشستیم یا دلار میره بالا یا یهو یجوری صدای انفجار میاد فیوز از کون آدم میپره از اونور خیلیا با این همه بگایی باید برن امتحان بدن یکی باید صبح بره سرکار از شدت انفجارا نمیتونه بخوابه از اون تورمی که داریم و.. اینقدر گفتنیا زیادن\nفقط تنها گناه ما این بود ایرانی شدیم کیرم توی این عدالت شب و صبحتون بخیر",
+        "date": "2026-07-30T02:30:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2809_0_0c3d8738.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2809"
+      },
+      {
         "id": 2808,
         "text": "⭕️\nسنتکام: حملات قدرتمند ارتش آمریکا با موفقیت به پایان رسید.\n@TweetPublic\n✔️",
         "date": "2026-07-30T02:22:10+00:00",
@@ -14419,60 +14449,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2691"
-      },
-      {
-        "id": 2690,
-        "text": "⭕️\nفعالیت شدید پدافند در تهران\n@TweetPublic\n✔️",
-        "date": "2026-07-21T23:37:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2690_0_0f338c38.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2690_1_08503611.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2690"
-      },
-      {
-        "id": 2689,
-        "text": "⭕️\nتبریز همچنان زیر حملات سنگین\n@TweetPublic\n✔️",
-        "date": "2026-07-21T23:37:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2689_0_0f338c38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2689"
       }
     ]
   },
-  "last_update": "2026-07-30T02:26:41.998593+00:00",
+  "last_update": "2026-07-30T03:48:53.326274+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1075,
-    "total_files": 1075,
+    "total_media": 1074,
+    "total_files": 1074,
     "total_links": 172,
     "files_by_type": {
       "image": 988,
-      "video": 79,
+      "video": 78,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1075,
-    "existing_media_files": 1074,
-    "total_size_mb": 420.58,
-    "last_calculation": "2026-07-30T02:26:42.011040+00:00"
+    "referenced_files": 1074,
+    "existing_media_files": 1073,
+    "total_size_mb": 420.24,
+    "last_calculation": "2026-07-30T03:48:53.339172+00:00"
   }
 }
