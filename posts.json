@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 2813,
+        "text": "صداوسیما: امروز صبح در حملات آمریکا به ایران، 6 تا جنگنده F-35 رو زدیم. 3 تاشون کامل منهدم شدن، 3 تاشون هم خسارت دیدن.\n@TweetPublic\n✔️",
+        "date": "2026-07-30T10:58:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2813_0_0c3d8738.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2813"
+      },
+      {
+        "id": 2812,
+        "text": "فیلمی که صداوسیما و رسانه های داخلی از «نوید‌ قره داغی» منتشر کردن\n@TweetPublic\n✔️",
+        "date": "2026-07-30T09:33:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2812_0_0c3d8738.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2812_1_a0a132a7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2812"
+      },
+      {
+        "id": 2811,
+        "text": "🐔\nجرأت داری تا آخر زمین پیش بری؟\n⚽\nهر گل، ضریب رو بالاتر می‌بره... اما حواست باشه!\n👀\nهر قدمی که جلوتر میری، بردت بزرگ‌تر میشه و ریسکش هم بیشتر!\n🔥\n🎯\nتو تا کدوم ضریب ادامه میدی؟\n⚡\n🐔\nآماده‌ای؟",
+        "date": "2026-07-30T09:32:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2811_0_0c3d8738.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2811_1_478ac39f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2811"
+      },
+      {
         "id": 2810,
         "text": "سنتکام ویدیوئی از حملات امشب منتشر کرد\n@TweetPublic\n✔️",
         "date": "2026-07-30T02:32:58+00:00",
@@ -14400,75 +14453,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2694"
-      },
-      {
-        "id": 2693,
-        "text": "🚨\nفعالیت پدافند در اصفهان\n@TweetPublic\n✔️",
-        "date": "2026-07-22T00:33:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2693_0_0f338c38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2693"
-      },
-      {
-        "id": 2692,
-        "text": "تهرانپارس هم اکنون\n@TweetPublic\n✔️",
-        "date": "2026-07-22T00:10:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2692_0_0f338c38.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2692_1_e0cd6c9d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2692"
-      },
-      {
-        "id": 2691,
-        "text": "🚨\n🚨\n🚨\nانفجار در ابهر / زنجان\n@TweetPublic\n✔️",
-        "date": "2026-07-21T23:52:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2691_0_0f338c38.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2691"
       }
     ]
   },
-  "last_update": "2026-07-30T09:09:14.345563+00:00",
+  "last_update": "2026-07-30T11:26:15.494843+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1074,
-    "total_files": 1074,
+    "total_media": 1075,
+    "total_files": 1075,
     "total_links": 172,
     "files_by_type": {
       "image": 988,
-      "video": 78,
+      "video": 79,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1074,
-    "existing_media_files": 1073,
-    "total_size_mb": 420.24,
-    "last_calculation": "2026-07-30T09:09:14.355911+00:00"
+    "referenced_files": 1075,
+    "existing_media_files": 1074,
+    "total_size_mb": 430.16,
+    "last_calculation": "2026-07-30T11:26:15.507451+00:00"
   }
 }
