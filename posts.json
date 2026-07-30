@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2814,
+        "text": "🔴\nویدویی از لحظه دستگیریِ نوید زیادخان قره‌داغی وسط خیابون؛\nحاوی خون و خون‌ریزی\n🔞\n@TweetPublic\n✔️",
+        "date": "2026-07-30T13:07:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2814_0_0c3d8738.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2814_1_cf79d256.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2814"
+      },
+      {
         "id": 2813,
         "text": "صداوسیما: امروز صبح در حملات آمریکا به ایران، 6 تا جنگنده F-35 رو زدیم. 3 تاشون کامل منهدم شدن، 3 تاشون هم خسارت دیدن.\n@TweetPublic\n✔️",
         "date": "2026-07-30T10:58:30+00:00",
@@ -14434,29 +14453,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2695"
-      },
-      {
-        "id": 2694,
-        "text": "🎁\nبعضی هدیه‌ها را باید خودت باز کنی…\nدر زومابت، هر ثبت‌نام می‌تواند شروع یک سورپرایز باشد.\n🎉\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\nهدیه‌ات منتظر توست…\n✨\n💰\nZOMABET.COM",
-        "date": "2026-07-22T10:39:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2694_0_e70cce70.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2694_1_472adee7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2694"
       }
     ]
   },
-  "last_update": "2026-07-30T13:00:26.534589+00:00",
+  "last_update": "2026-07-30T14:03:10.565170+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14464,15 +14464,15 @@
     "total_files": 1075,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
-      "video": 79,
+      "image": 987,
+      "video": 80,
       "file": 5,
       "document": 1,
       "audio": 2
     },
     "referenced_files": 1075,
     "existing_media_files": 1074,
-    "total_size_mb": 430.16,
-    "last_calculation": "2026-07-30T13:00:26.544871+00:00"
+    "total_size_mb": 434.17,
+    "last_calculation": "2026-07-30T14:03:10.578517+00:00"
   }
 }
