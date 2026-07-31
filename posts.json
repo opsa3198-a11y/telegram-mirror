@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2836,
+        "text": "🔴\nبعد از اینکه عادل گفت دست وزیر رو نبوسیدم؛\nیه ملت صحنه خم شدن فردوسی پور رو بردن VAR ببینن تاچ کرده یا نکرده\n@TweetPublic\n✔️",
+        "date": "2026-07-31T12:53:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2836_0_a34a2e1e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2836_1_2345dfb0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2836"
+      },
+      {
         "id": 2835,
         "text": "طبق داده های\nنت بلاکس\nاینترنت ترکیه بدون هیج دلیلی قطع شده!\n@TweetPublic\n✔️",
         "date": "2026-07-31T12:12:53+00:00",
@@ -14486,41 +14505,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2711"
-      },
-      {
-        "id": 2710,
-        "text": "🔴\nصدای انفجار در کرمانشاه\n@TweetPublic\n✔️",
-        "date": "2026-07-23T00:43:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2710_0_e70cce70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2710"
       }
     ]
   },
-  "last_update": "2026-07-31T12:24:27.829025+00:00",
+  "last_update": "2026-07-31T14:07:13.703849+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1087,
-    "total_files": 1087,
+    "total_media": 1088,
+    "total_files": 1088,
     "total_links": 172,
     "files_by_type": {
-      "image": 991,
+      "image": 992,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1087,
-    "existing_media_files": 1086,
-    "total_size_mb": 462.12,
-    "last_calculation": "2026-07-31T12:24:27.842468+00:00"
+    "referenced_files": 1088,
+    "existing_media_files": 1087,
+    "total_size_mb": 462.18,
+    "last_calculation": "2026-07-31T14:07:13.716428+00:00"
   }
 }
