@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2842,
+        "text": "⏺\nترامپ: اگر من نبودم ایران، اسرائیل را نابود کرده بود!\nایران نمی‌تواند سلاح هسته‌ای داشته باشد. آن‌ها از آن استفاده می‌کردند.\nاگر من نبودم، اسرائیل امروز وجود نداشت. اصلاً وجود نداشت.\nآن‌ها فقط دو هفته با دستیابی به سلاح هسته‌ای فاصله داشتند.\n@TweetPublic\n✔️",
+        "date": "2026-07-31T20:52:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2842_0_a34a2e1e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2842_1_7d9c4e15.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2842"
+      },
+      {
         "id": 2841,
         "text": "خاله منم دوست برسامم هفته ديگه ميام با هم بازى كنيم\n@TweetPublic\n✔️",
         "date": "2026-07-31T18:51:23+00:00",
@@ -14478,29 +14497,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2720"
-      },
-      {
-        "id": 2718,
-        "text": "از اول بگو چیشد از من خوشت اومد\n@TweetPublic\n✔️",
-        "date": "2026-07-23T10:08:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2718_0_bbee3bfc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2718_1_dcd8422d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2718"
       }
     ]
   },
-  "last_update": "2026-07-31T19:59:22.193407+00:00",
+  "last_update": "2026-07-31T21:01:49.572901+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14508,15 +14508,15 @@
     "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
-      "video": 90,
+      "image": 987,
+      "video": 91,
       "file": 5,
       "document": 1,
       "audio": 2
     },
     "referenced_files": 1086,
     "existing_media_files": 1085,
-    "total_size_mb": 471.21,
-    "last_calculation": "2026-07-31T19:59:22.202991+00:00"
+    "total_size_mb": 480.39,
+    "last_calculation": "2026-07-31T21:01:49.586271+00:00"
   }
 }
