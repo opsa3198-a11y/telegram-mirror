@@ -12703,6 +12703,53 @@
     ],
     "TweetPublic": [
       {
+        "id": 2824,
+        "text": "🔺\nیک اتفاق خیلی عجیب و بی سابقه\nدر دو روز اخیر هزاران پناهجوی غیرقانونیِ مراکشی\n🇲🇦\nو الجزایری\n🇩🇿\n، از طریق ساحل مراکش شنا کردن و به شهر سئوتای اسپانیا\n🇪🇸\nرسیدن که هرج و مرج گسترده‌ای درست کردن.\n🔹\nاین شهر تقریبا پر از مهاجر شده به طوری که از دولت مرکزی خواسته شده که اعلام اضطراری کنن و کمک فوری بفرستن.\nآخرین آپدیت از وضعیت اسپانیا\n🇪🇸\n:\n- مهاجرین غیرقانونی همین‌جوری تو سطح شهر پخش شدن.\n- چندین مورد دزدی از فروشگاه‌ها گزارش شده.\n- کنترل اوضاع از دست پلیس اسپانیا خارج شده.\n- مردمِ محلی گروه تشکیل دادن و دارن هرجا مهاجر می‌بینن، کتک‌شون میزنن!\n- تو بارسلون هم مردم دارن خونه‌هاشون رو از ترس مهاجرین، سیم خاردار می‌ کشن...\n@TweetPublic\n✔️",
+        "date": "2026-07-31T07:42:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2824_0_a34a2e1e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_1_901ff379.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_2_20e9b526.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_3_0fbe9b2e.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_4_d1ce3a82.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_5_a1923830.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_6_9bba21a8.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_7_b08140e4.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2824_8_1224fceb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2824"
+      },
+      {
         "id": 2823,
         "text": "یه پست روانشناسی بود میگفت:\nکسایی که میخوان بهتون دروغ بگن نمیتونن تو چشماتون نگاه کنن\nفکر کنم طرف تا حالا املاکی و نمایشگاه ماشین نرفته بود.\n@TweetPublic\n✔️",
         "date": "2026-07-30T23:25:37+00:00",
@@ -14446,41 +14493,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2705"
-      },
-      {
-        "id": 2703,
-        "text": "⭕️\nانفجار در ماهشهر\n@TweetPublic\n✔️",
-        "date": "2026-07-22T20:53:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2703_0_e70cce70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2703"
       }
     ]
   },
-  "last_update": "2026-07-31T05:21:43.118801+00:00",
+  "last_update": "2026-07-31T07:43:33.475998+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1077,
-    "total_files": 1077,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
       "image": 989,
-      "video": 80,
+      "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1077,
-    "existing_media_files": 1076,
-    "total_size_mb": 443.81,
-    "last_calculation": "2026-07-31T05:21:43.131729+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 461.98,
+    "last_calculation": "2026-07-31T07:43:33.489093+00:00"
   }
 }
