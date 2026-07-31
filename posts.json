@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2838,
+        "text": "آزاده آل ایوب(خاله نرگس) مجری برنامه کودک دهه 80 و 90: تک تک بازداشتی‌های اعتراضات رو باید اعدام کرد و نباید به هیچکدومشون رحم کرد\n@TweetPublic\n✔️",
+        "date": "2026-07-31T14:39:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2838_0_a34a2e1e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2838_1_8a42a4b6.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2838"
+      },
+      {
         "id": 2836,
         "text": "🔴\nبعد از اینکه عادل گفت دست وزیر رو نبوسیدم؛\nیه ملت صحنه خم شدن فردوسی پور رو بردن VAR ببینن تاچ کرده یا نکرده\n@TweetPublic\n✔️",
         "date": "2026-07-31T12:53:37+00:00",
@@ -14474,57 +14493,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2715"
-      },
-      {
-        "id": 2711,
-        "text": "انفجارهای حمله به  اسلام‌آباد غرب در استان کرمانشاه.\n@TweetPublic\n✔️",
-        "date": "2026-07-23T00:46:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2711_0_e70cce70.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2711_1_6100c9c9.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2711_2_8798220f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2711_3_22d7997f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2711_4_4dbed00e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2711"
       }
     ]
   },
-  "last_update": "2026-07-31T14:07:13.703849+00:00",
+  "last_update": "2026-07-31T14:44:08.874350+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 992,
-      "video": 88,
+      "image": 988,
+      "video": 89,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 462.18,
-    "last_calculation": "2026-07-31T14:07:13.716428+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 465.89,
+    "last_calculation": "2026-07-31T14:44:08.892104+00:00"
   }
 }
