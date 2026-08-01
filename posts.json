@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2865,
+        "text": "این زن بخاطر اینکه شوهرش تو صورتش گوزیده با چاقو کشتش بنظرم جون آدمم به گوز بنده :)))\n@TweetPublic\n✔️",
+        "date": "2026-08-01T17:19:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2865_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2865_1_7bbf805e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2865"
+      },
+      {
+        "id": 2864,
+        "text": "️\n💵\nبازی رو هوشمند شروع کن!\nاز بلک‌جک و کازینو لایو تا پیش‌بینی مسابقات، توی زومابت همیشه یک انتخاب تازه برای هیجان بیشتر منتظرته.\n🃏\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nآماده‌ای؟ وارد شو، بازی موردعلاقه‌تو انتخاب کن و دست اول رو شروع کن!\n🚀",
+        "date": "2026-08-01T17:19:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2864_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2864_1_a999912f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2864"
+      },
+      {
         "id": 2863,
         "text": "ترامپ با سربازان امریکایی در نیوجرسی دیدار کرد.  @TweetPublic\n✔️",
         "date": "2026-08-01T16:17:03+00:00",
@@ -14423,60 +14461,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2749"
-      },
-      {
-        "id": 2748,
-        "text": "اداره برق به جز اینکه برق رو قطع میکنه؛ یه اپلیکیشنم طراحی کرده که پول میگیره قطعی برق رو بهت اطلاع میده.\nحتی اگه یادت رفته‌ باشه بازم یه ربع قبلش بهت خبر میده.\nحتی از اینم کسب درآمد میکنن.\n@TweetPublic\n✔️",
-        "date": "2026-07-27T20:31:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2748_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2748_1_81b0f2f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2748"
-      },
-      {
-        "id": 2747,
-        "text": "فک کنم خدا زدتم ولی چون چوبش صدا نداره متوجه نشدم.\n@TweetPublic\n✔️",
-        "date": "2026-07-27T14:43:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2747_0_d62f6c6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2747"
       }
     ]
   },
-  "last_update": "2026-08-01T16:44:35.513822+00:00",
+  "last_update": "2026-08-01T17:49:22.302064+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1076,
-    "total_files": 1076,
+    "total_media": 1077,
+    "total_files": 1077,
     "total_links": 172,
     "files_by_type": {
-      "image": 980,
+      "image": 981,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1076,
-    "existing_media_files": 1075,
-    "total_size_mb": 466.36,
-    "last_calculation": "2026-08-01T16:44:35.526931+00:00"
+    "referenced_files": 1077,
+    "existing_media_files": 1076,
+    "total_size_mb": 466.46,
+    "last_calculation": "2026-08-01T17:49:22.315302+00:00"
   }
 }
