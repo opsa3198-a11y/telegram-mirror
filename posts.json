@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2851,
+        "text": "حاکم بحرین خطاب به ایران:\nحضرت محمد پس‌از قرن ها تاریکی در ایران به آن عمق روحی، انسانی و معرفتی بخشید، بخاطر تشکر از این کار حداقل دیگر به بحرین حمله نکنید\n@TweetPublic\n✔️",
+        "date": "2026-08-01T07:03:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2851_0_b622303b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2851_1_85773e0e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2851"
+      },
+      {
+        "id": 2850,
+        "text": "امروز 1 August، روزِ دوست دختره.\n+این روز رو به اون دختر خوشگله‌ای که تو این روزهای سخت، دلیل ادامه دادن زندگیت شده تبریک بگو\n❤️\n@TweetPublic\n✔️",
+        "date": "2026-08-01T05:27:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2850_0_b622303b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2850_1_7d331c3a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2850"
+      },
+      {
         "id": 2849,
         "text": "تمیز ترین دیس‌بک تاریخ:\n@TweetPublic\n✔️",
         "date": "2026-07-31T23:20:08+00:00",
@@ -14435,48 +14473,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2734"
-      },
-      {
-        "id": 2733,
-        "text": "🔴\nمنتسب به بندرعباس :\n@TweetPublic\n✔️",
-        "date": "2026-07-23T23:24:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2733_0_bbee3bfc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2733_1_f37a2a24.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2733"
-      },
-      {
-        "id": 2732,
-        "text": "⭕️\nمنتسب به اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-23T23:23:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2732_0_bbee3bfc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2732_1_ff26c5e0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2732"
       }
     ]
   },
-  "last_update": "2026-08-01T05:14:03.352222+00:00",
+  "last_update": "2026-08-01T07:22:17.327047+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14492,7 +14492,7 @@
     },
     "referenced_files": 1080,
     "existing_media_files": 1079,
-    "total_size_mb": 479.94,
-    "last_calculation": "2026-08-01T05:14:03.364921+00:00"
+    "total_size_mb": 485.55,
+    "last_calculation": "2026-08-01T07:22:17.339923+00:00"
   }
 }
