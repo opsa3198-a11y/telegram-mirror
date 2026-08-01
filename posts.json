@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2856,
+        "text": "‏یه زمانی تعداد مشکلات و اتفاقای ناراحت‌کننده در حدی بود که یاس میتونست تو یه اهنگ جمعش کنه.\n@TweetPublic\n✔️",
+        "date": "2026-08-01T11:38:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2856_0_b622303b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2856"
+      },
+      {
         "id": 2855,
         "text": "⏺\nفرماندار اسلام آباد غرب: تا این لحظه ‌حمله‌ای به این منطقه صورت نگرفته؛ علت انفجار ‌از توپ برجای مانده از زمان دفاع مقدس 8 ساله بود.\n@TweetPublic\n✔️",
         "date": "2026-08-01T10:48:54+00:00",
@@ -14454,25 +14469,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2740"
-      },
-      {
-        "id": 2739,
-        "text": "🔴\nقطعی برق در بندرعباس.  @TweetPublic\n✔️",
-        "date": "2026-07-24T00:13:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2739_0_bbee3bfc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2739"
       }
     ]
   },
-  "last_update": "2026-08-01T10:57:54.667352+00:00",
+  "last_update": "2026-08-01T11:58:31.688182+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14489,6 +14489,6 @@
     "referenced_files": 1079,
     "existing_media_files": 1078,
     "total_size_mb": 483.85,
-    "last_calculation": "2026-08-01T10:57:54.677165+00:00"
+    "last_calculation": "2026-08-01T11:58:31.700856+00:00"
   }
 }
