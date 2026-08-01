@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2853,
+        "text": "🚨\nکانال 12 عبری: نتانیاهو موفق شد ترامپ را متقاعد کند تا حملاتی را علیه بخش های انرژی ایران آغاز کند\n@TweetPublic\n✔️",
+        "date": "2026-08-01T08:05:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2853_0_b622303b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2853"
+      },
+      {
+        "id": 2852,
+        "text": "🥂\nشب‌های معمولی را فراموش کنید…\n♠️\nمیزهای داغ\n🎲\nبازی‌های زنده\n💰\nفرصت‌های هیجان‌انگیز\n✨\nتجربه‌ای که هزاران کاربر زومابت هر شب به دنبال آن هستند.\n👇\nورود به سایت\n👇",
+        "date": "2026-08-01T08:04:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2852_0_b622303b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2852_1_4aa35f37.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2852"
+      },
+      {
         "id": 2851,
         "text": "حاکم بحرین خطاب به ایران:\nحضرت محمد پس‌از قرن ها تاریکی در ایران به آن عمق روحی، انسانی و معرفتی بخشید، بخاطر تشکر از این کار حداقل دیگر به بحرین حمله نکنید\n@TweetPublic\n✔️",
         "date": "2026-08-01T07:03:44+00:00",
@@ -14435,64 +14469,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2737"
-      },
-      {
-        "id": 2736,
-        "text": "🚨\nانفجار در خنداب (استان مرکزی)\n@TweetPublic\n✔️",
-        "date": "2026-07-24T00:07:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2736_0_bbee3bfc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2736"
-      },
-      {
-        "id": 2734,
-        "text": "⏺\nاین ویدئو که با عنوان حملات امشب آمریکا به اهواز داره دست به دست میشه؛\n⏺\nفیکه و اصلا مربوط به ایران نیست‌.\n@TweetPublic\n✔️",
-        "date": "2026-07-23T23:38:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2734_0_bbee3bfc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2734_1_6e8b8798.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2734_2_16871b02.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2734"
       }
     ]
   },
-  "last_update": "2026-08-01T07:22:17.327047+00:00",
+  "last_update": "2026-08-01T08:21:21.034438+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1079,
+    "total_files": 1079,
     "total_links": 172,
     "files_by_type": {
       "image": 981,
-      "video": 91,
+      "video": 90,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 485.55,
-    "last_calculation": "2026-08-01T07:22:17.339923+00:00"
+    "referenced_files": 1079,
+    "existing_media_files": 1078,
+    "total_size_mb": 483.85,
+    "last_calculation": "2026-08-01T08:21:21.047548+00:00"
   }
 }
