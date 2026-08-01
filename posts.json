@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2860,
+        "text": "🔴\nاین مجری که میومد توی کلید اسرار پند میداد و همه میگفتن چه انسان شریفیه رو یادتونه؟\nچندسال پیش خبر اومد رفته بازیگر فیلمای پـورن شده\nالانم خبر اومده عضو گروه تروریستی به اسم FETO شده و تحت تعقیب پلیس ترکیه ست.\n«رها یپرم» توی‌ کودتای سال ۲۰۱۶ علیه اردوغان هم دست داشته\nدرحال حاضر پلیس ترکیه‌ بشدت دنبالشه و برای بازداشتش، 10 میلیارد تومن جایزه گذاشتن.\n@TweetPublic\n✔️",
+        "date": "2026-08-01T14:52:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2860_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2860_1_7dbcdc3c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2860"
+      },
+      {
         "id": 2859,
         "text": "",
         "date": "2026-08-01T14:10:39+00:00",
@@ -14438,29 +14457,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2744"
-      },
-      {
-        "id": 2743,
-        "text": "خدا بیامرز اکبر عبدی: یارو میگه من 45 ساله مواد میکشم ، خب این یعنی اینکه من از کص ننم میکشیدم که.\n@TweetPublic\n✔️",
-        "date": "2026-07-24T18:11:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2743_0_e6c05948.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2743_1_a27003c8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2743"
       }
     ]
   },
-  "last_update": "2026-08-01T14:42:30.652545+00:00",
+  "last_update": "2026-08-01T15:50:02.214646+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14468,15 +14468,15 @@
     "total_files": 1076,
     "total_links": 172,
     "files_by_type": {
-      "image": 979,
-      "video": 89,
+      "image": 980,
+      "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
     "referenced_files": 1076,
     "existing_media_files": 1075,
-    "total_size_mb": 475.67,
-    "last_calculation": "2026-08-01T14:42:30.665271+00:00"
+    "total_size_mb": 472.13,
+    "last_calculation": "2026-08-01T15:50:02.224779+00:00"
   }
 }
