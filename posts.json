@@ -12703,6 +12703,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 2859,
+        "text": "",
+        "date": "2026-08-01T14:10:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2859_0_b622303b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2859"
+      },
+      {
+        "id": 2858,
+        "text": "سفارت خونه های امریکا تو کشور های خاورمیانه همگی هشدار تخلیه دادن به شهروندان امریکایی.\n@TweetPublic\n✔️",
+        "date": "2026-08-01T14:04:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2858_0_b622303b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2858"
+      },
+      {
+        "id": 2857,
+        "text": "مجلس با رأی اکثریت، وزیر آموزش و پرورش را به استیضاح دعوت کرد.\n@TweetPublic\n✔️",
+        "date": "2026-08-01T14:02:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2857_0_b622303b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2857"
+      },
+      {
         "id": 2856,
         "text": "‏یه زمانی تعداد مشکلات و اتفاقای ناراحت‌کننده در حدی بود که یاس میتونست تو یه اهنگ جمعش کنه.\n@TweetPublic\n✔️",
         "date": "2026-08-01T11:38:20+00:00",
@@ -14412,83 +14457,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2743"
-      },
-      {
-        "id": 2742,
-        "text": "اکبر عبدی در سن 65 سالگی درگذشت\n🖤\n@TweetPublic\n✔️",
-        "date": "2026-07-24T17:36:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2742_0_e6c05948.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2742_1_50ab19dc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2742"
-      },
-      {
-        "id": 2741,
-        "text": "الان باید تو ملک این شکلیم بودم و از اسب‌هام نگهداری می‌کردم\n@TweetPublic\n✔️",
-        "date": "2026-07-24T14:43:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2741_0_e6c05948.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2741_1_7daa133b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2741"
-      },
-      {
-        "id": 2740,
-        "text": "🔴\nاگه براتون سواله بندرعباسی‌ها امشب چه لحظاتی رو تجربه کردن؛\nاین ویدیو رو تا آخر ببینید :\n@TweetPublic\n✔️",
-        "date": "2026-07-24T00:18:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2740_0_bbee3bfc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2740_1_506e73b5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2740"
       }
     ]
   },
-  "last_update": "2026-08-01T13:21:43.406397+00:00",
+  "last_update": "2026-08-01T14:42:30.652545+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1079,
-    "total_files": 1079,
+    "total_media": 1076,
+    "total_files": 1076,
     "total_links": 172,
     "files_by_type": {
-      "image": 981,
-      "video": 90,
+      "image": 979,
+      "video": 89,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1079,
-    "existing_media_files": 1078,
-    "total_size_mb": 483.85,
-    "last_calculation": "2026-08-01T13:21:43.419647+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1075,
+    "total_size_mb": 475.67,
+    "last_calculation": "2026-08-01T14:42:30.665271+00:00"
   }
 }
