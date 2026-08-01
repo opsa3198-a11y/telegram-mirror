@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2867,
+        "text": "🚨\nمرندی عضو تیم مذاکره‌کننده:\nاگه ترامپ امشب حمله کنه، پاسخ کوبنده ایران بلافاصله آغاز میشه. همه مردم باید آماده بشن تا دیکتاتوری‌های خانوادگی جنایتکار تو خلیج فارس رو فورا ترک کنن.\n@TweetPublic\n✔️",
+        "date": "2026-08-01T18:13:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2867_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2867_1_89dcd2a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2867"
+      },
+      {
+        "id": 2866,
+        "text": "تهران به کشورهای عربی پیغام فرستاده اگر جلوی جنگ رو نگیرید ٫ کشورهاتون به خاکستر تبدیل میشن\nقطر داره رایزنی میکنه با امریکا\n@TweetPublic\n✔️",
+        "date": "2026-08-01T17:49:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2866_0_e32ea6eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2866"
+      },
+      {
         "id": 2865,
         "text": "این زن بخاطر اینکه شوهرش تو صورتش گوزیده با چاقو کشتش بنظرم جون آدمم به گوز بنده :)))\n@TweetPublic\n✔️",
         "date": "2026-08-01T17:19:58+00:00",
@@ -14423,64 +14457,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2752"
-      },
-      {
-        "id": 2750,
-        "text": "این 3 نفر به اسم های ابوالفضل سپاهی، علیرضا سپاهی و امیرحسین صفری، با اذان صبح امروز قراره در ملا عام بخاطر اعتراضات دی ماه توی اصفهان اعدام بشن!!\nنیروهای امنیتی در میدان علیخانی اصفهان آماده اجرای حکم هستن و داربست های فلزی هم از قبل زده شده.\n@TweetPublic\n✔️",
-        "date": "2026-07-27T21:52:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2750_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2750_1_c4add05e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2750"
-      },
-      {
-        "id": 2749,
-        "text": "⏺\nبنر نصب شده توی میدان علیخانی اصفهان و افتخار به اعدام.\n«هیچ جرمی از نگاه قانون پنهان نمیمونه، دیر یا زود عدالت اجرا میشه»\n@TweetPublic\n✔️",
-        "date": "2026-07-27T21:49:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2749_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2749_1_93ba619a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2749"
       }
     ]
   },
-  "last_update": "2026-08-01T17:49:22.302064+00:00",
+  "last_update": "2026-08-01T18:49:27.465932+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1077,
-    "total_files": 1077,
+    "total_media": 1076,
+    "total_files": 1076,
     "total_links": 172,
     "files_by_type": {
-      "image": 981,
+      "image": 980,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1077,
-    "existing_media_files": 1076,
-    "total_size_mb": 466.46,
-    "last_calculation": "2026-08-01T17:49:22.315302+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1075,
+    "total_size_mb": 466.32,
+    "last_calculation": "2026-08-01T18:49:27.478877+00:00"
   }
 }
