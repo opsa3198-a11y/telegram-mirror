@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 2871,
+        "text": "تو نیجریه عروس تا وقتی پولی که موقع عروسی بهش میدن به نظرش کافی و منصفانه نباشه، لبخند نمی‌زنه!\n@TweetPublic\n✔️",
+        "date": "2026-08-01T22:25:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2871_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2871_1_6d04ba29.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2871_2_f77c0199.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2871"
+      },
+      {
+        "id": 2870,
+        "text": "🎙️\nفوتبال، فقط ۹۰ دقیقه نیست...\nهیجان، از اولین پیش‌بینی شروع می‌شود.\nاز مسابقات زنده تا بازی‌های کازینو، همه‌چیز در یک مقصد جمع شده است.\n🔥\nزومابت؛ جایی که هیجان هیچ‌وقت تمام نمی‌شود.\n⚽️\nZOMABET.COM",
+        "date": "2026-08-01T22:25:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2870_0_e32ea6eb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2870_1_7ffc2bf6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2870"
+      },
+      {
         "id": 2869,
         "text": "⏺\nکانال 13 اسرائیل: به گفته میانجی‌ها، احتمال حمله آمریکا به ایران بیش از هر زمان دیگری شده.\nهشدارهای امنیتی اخیر آمریکا به شهروندانش در خاورمیانه نشانه‌های آمادگی برای حمله‌ست؛ مگه اینکه ایران به مذاکرات برگرده.\n@TweetPublic\n✔️",
         "date": "2026-08-01T21:15:21+00:00",
@@ -14419,64 +14461,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2756"
-      },
-      {
-        "id": 2755,
-        "text": "⭕️\nسام صابری داره تو چنلش جشن ۱۰۰ کایی میگیره\nیکی از ممبرا دایرکت چنلش گفته از اعدامی های اصفهان بگو و اونم از کانالش بنش کرده گفته به من مربوط نیست این چیزا.\n#ارسالی\n@TweetPublic\n✔️",
-        "date": "2026-07-27T23:42:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2755_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2755_1_3af3c3e6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2755"
-      },
-      {
-        "id": 2754,
-        "text": "🔴\nفیلمی که صداوسیما از میدان علیخانی در ۱۸ دی ماه منتشر کرده\n@TweetPublic\n✔️",
-        "date": "2026-07-27T23:02:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2754_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2754_1_6db372f9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2754"
       }
     ]
   },
-  "last_update": "2026-08-01T22:23:18.447911+00:00",
+  "last_update": "2026-08-01T23:24:38.731912+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1076,
-    "total_files": 1076,
+    "total_media": 1077,
+    "total_files": 1077,
     "total_links": 172,
     "files_by_type": {
-      "image": 980,
-      "video": 88,
+      "image": 982,
+      "video": 87,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1076,
-    "existing_media_files": 1075,
-    "total_size_mb": 466.32,
-    "last_calculation": "2026-08-01T22:23:18.460486+00:00"
+    "referenced_files": 1077,
+    "existing_media_files": 1076,
+    "total_size_mb": 456.24,
+    "last_calculation": "2026-08-01T23:24:38.744646+00:00"
   }
 }
