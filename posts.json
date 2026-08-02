@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2879,
+        "text": "«جرج بوش» رئیس جمهور وقت آمریکا؛ در 17 مارس 2003 گفت صدام و پسراش 48 ساعت فرصت دارن عراق رو تر‌ک کنن وگرنه ما اقدام میکنیم ولی اونا عراق رو ترک نکردن و دقیقا 48 ساعت بعد به عراق حمله کرد و پس از 20 روز صدام سقوط کرد.\nفقط یک بار گفت حمله میکنم و همون بارم حمله کرد.\nترامپ فقط از زمان آتش بس تا الان 10 بار گفته حمله میکنم و بعد لغوش کرده.\n@TweetPublic\n✔️",
+        "date": "2026-08-02T16:44:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2879_0_3053f9a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2879_1_98966bd7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2879"
+      },
+      {
         "id": 2878,
         "text": "@TweetPublic\n✔️",
         "date": "2026-08-02T15:17:44+00:00",
@@ -14454,41 +14473,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2766"
-      },
-      {
-        "id": 2765,
-        "text": "طبق برخی گزارشات غیررسمی تو محل برگزاری حکم اعدام درگیری پیش اومده و گویا مردم نذاشتن حکم اعدام اجرا بشه.\nتایید یا تکذیب نمیشه ولی امیدوارم حقیقت داشته باشه\n@TweetPublic\n✔️",
-        "date": "2026-07-28T00:37:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2765_0_d62f6c6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2765"
       }
     ]
   },
-  "last_update": "2026-08-02T16:43:35.717022+00:00",
+  "last_update": "2026-08-02T17:50:30.621533+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1079,
-    "total_files": 1079,
+    "total_media": 1080,
+    "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
+      "image": 987,
       "video": 85,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1079,
-    "existing_media_files": 1078,
-    "total_size_mb": 440.75,
-    "last_calculation": "2026-08-02T16:43:35.726853+00:00"
+    "referenced_files": 1080,
+    "existing_media_files": 1079,
+    "total_size_mb": 440.8,
+    "last_calculation": "2026-08-02T17:50:30.629755+00:00"
   }
 }
