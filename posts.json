@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2886,
+        "text": "خبرنگار: آیا حمله برنامه‌ریزی‌شده شما به ایران، شامل اهداف انرژی می‌شد؟\n🔴\nترامپ: نمی‌توانم این را بگویم؛ اما قرار بود حمله‌ای عظیم باشد، بزرگترین!\n🔴\nدرنهایت خواهیم دید چه میشود؛ خواهیم دید آیا به یک توافق با ایران می‌رسیم یا نه!\n@TweetPublic\n✔️",
+        "date": "2026-08-02T23:15:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2886_0_3053f9a6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2886_1_02ea5758.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2886"
+      },
+      {
+        "id": 2885,
+        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتشه وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
+        "date": "2026-08-02T23:13:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2885_0_3053f9a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2885_1_6790f8f1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2885"
+      },
+      {
         "id": 2884,
         "text": "🔴\nفوری ترامپ: فردا بعد از ظهر مذاکرات با ایران آغاز می‌شود.\n@TweetPublic\n✔️",
         "date": "2026-08-02T22:07:50+00:00",
@@ -14439,60 +14477,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2773"
-      },
-      {
-        "id": 2772,
-        "text": "ریکشن خنده موقتا بسته شد",
-        "date": "2026-07-28T01:03:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2772_0_d62f6c6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2772"
-      },
-      {
-        "id": 2771,
-        "text": "این پستی که نشر میشه فیکه\nطبق قوانین اسلام اگه اعدام تا طلوع آفتاب [ساعت 05:15] اجرایی نشه، باید این سه نفر بخشیده شن و اعدام لغو میشه.\n@TweetPublic\n✔️",
-        "date": "2026-07-28T01:01:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2771_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2771_1_67f2af3a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2771"
       }
     ]
   },
-  "last_update": "2026-08-02T22:15:41.476729+00:00",
+  "last_update": "2026-08-02T23:25:19.345301+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 986,
-      "video": 86,
+      "video": 87,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 442.27,
-    "last_calculation": "2026-08-02T22:15:41.489242+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 447.13,
+    "last_calculation": "2026-08-02T23:25:19.358006+00:00"
   }
 }
