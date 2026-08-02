@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2882,
+        "text": "تو تهران ی دزد می‌ره ی ساعت 8 میلیارد تومنی میدزد بعد مال خر میفهمه این ساعتو دزده براش نیاورده که ازش بخره و ساعته رو دزده گذاشته تو خونه ی مادرش بعد مال خر میره به ی دزد لباس پلیس میده میفرستش خونه ی مادر دزده و ساعت 8 میلیاردیو با لباس پلیس میدزده بعد دزده که ساعتشو دزدیدن میره زنگ میزنه پلیس میگه ساعتمو دزدیدن،پلیسم همشونو میگیره :))))\n@TweetPublic\n✔️",
+        "date": "2026-08-02T19:28:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2882_0_3053f9a6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2882_1_1496ca19.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2882"
+      },
+      {
         "id": 2881,
         "text": "در حالی که منتظریم تکلیف جنگ مشخص شه؛\nتکلیف زندگیمون مشخص شه؛\nرسیدیم به اواسط برج 5...\nاصلاً نفهمیدیم 1405 چجوری گذشت؛\nانگار این مدتو زندگی نکردیم...\nدر صورتی که این جوونیمونه که تو بلاتکلیفی داره تموم میشه...\n@TweetPublic\n✔️",
         "date": "2026-08-02T18:31:53+00:00",
@@ -14454,29 +14473,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2769"
-      },
-      {
-        "id": 2768,
-        "text": "🔴\nدفتر رضا پهلوی از جامعه جهانی خواسته هرچه زودتر برای جلوگیری از اعدام معترضان در اصفهان وارد عمل بشن.\n@TweetPublic\n✔️",
-        "date": "2026-07-28T00:51:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2768_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2768_1_f0de95ba.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2768"
       }
     ]
   },
-  "last_update": "2026-08-02T19:10:20.372817+00:00",
+  "last_update": "2026-08-02T20:03:51.426612+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14484,15 +14484,15 @@
     "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 987,
-      "video": 85,
+      "image": 986,
+      "video": 86,
       "file": 5,
       "document": 1,
       "audio": 2
     },
     "referenced_files": 1080,
     "existing_media_files": 1079,
-    "total_size_mb": 440.85,
-    "last_calculation": "2026-08-02T19:10:20.385413+00:00"
+    "total_size_mb": 442.27,
+    "last_calculation": "2026-08-02T20:03:51.434496+00:00"
   }
 }
