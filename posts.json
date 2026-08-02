@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2884,
+        "text": "🔴\nفوری ترامپ: فردا بعد از ظهر مذاکرات با ایران آغاز می‌شود.\n@TweetPublic\n✔️",
+        "date": "2026-08-02T22:07:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2884_0_3053f9a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2884"
+      },
+      {
         "id": 2883,
         "text": "اختلال گسترده‌ای روی اینترنت به‌وجود اومده!\nبه نظر می‌رسه روتینگ داخلی بعضی اپراتورها تغییر کرده؛ قبلاً ترافیک از مسیر آذربایجان عبور می‌کرد، اما الان در برخی بررسی‌ها به آلمان منتقل شده.\n@TweetPublic\n✔️",
         "date": "2026-08-02T21:07:33+00:00",
@@ -14458,25 +14473,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2771"
-      },
-      {
-        "id": 2770,
-        "text": "طبق گزارشات مامورا دارن به سمت مردم تیر جنگی شلیک میکنن\n@TweetPublic\n✔️",
-        "date": "2026-07-28T01:00:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2770_0_d62f6c6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2770"
       }
     ]
   },
-  "last_update": "2026-08-02T21:14:25.905831+00:00",
+  "last_update": "2026-08-02T22:15:41.476729+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14493,6 +14493,6 @@
     "referenced_files": 1080,
     "existing_media_files": 1079,
     "total_size_mb": 442.27,
-    "last_calculation": "2026-08-02T21:14:25.918901+00:00"
+    "last_calculation": "2026-08-02T22:15:41.489242+00:00"
   }
 }
