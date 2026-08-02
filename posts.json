@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2878,
+        "text": "@TweetPublic\n✔️",
+        "date": "2026-08-02T15:17:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2878_0_3053f9a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2878_1_ffff13fe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2878"
+      },
+      {
         "id": 2877,
         "text": "هوش مصنوعی گروک:\nاز زمان آغاز جنگ با ایران، ترامپ حداقل 10 بار از تهدید خود عقب‌نشینی کرده و حملاتش به ایران را لغو کرده است!\n@TweetPublic\n✔️",
         "date": "2026-08-02T12:45:38+00:00",
@@ -14450,49 +14469,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2765"
-      },
-      {
-        "id": 2763,
-        "text": "لحظه اذان و اعدام شدن بچه ها\n💔\n@TweetPublic\n✔️",
-        "date": "2026-07-28T00:26:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2763_0_d62f6c6f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2763_1_9d8d7795.mp4"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2763_2_71405bed.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2763"
       }
     ]
   },
-  "last_update": "2026-08-02T14:45:01.482296+00:00",
+  "last_update": "2026-08-02T15:50:23.765631+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1079,
+    "total_files": 1079,
     "total_links": 172,
     "files_by_type": {
-      "image": 985,
-      "video": 87,
+      "image": 986,
+      "video": 85,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 456.46,
-    "last_calculation": "2026-08-02T14:45:01.494935+00:00"
+    "referenced_files": 1079,
+    "existing_media_files": 1078,
+    "total_size_mb": 440.75,
+    "last_calculation": "2026-08-02T15:50:23.778589+00:00"
   }
 }
