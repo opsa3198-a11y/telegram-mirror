@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 2889,
+        "text": "عکس چنگیز کص کون کنار سیدورف\n@TweetPublic\n✔️",
+        "date": "2026-08-03T08:10:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2889_0_3053f9a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2889_1_96eac36b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2889"
+      },
+      {
+        "id": 2888,
+        "text": "نیلا فرخی زن بیژن مرتضوی: شاهزاده بخاطر فراخوانی که داده مقصره، کشتار مردم کار موساد بوده و مردم از روی احساسات به خیابان اومدن\n@TweetPublic\n✔️",
+        "date": "2026-08-03T06:50:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2888_0_3053f9a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2888"
+      },
+      {
+        "id": 2887,
+        "text": "همیشه سخت‌ترین مسیرها به زیباترین مقصدها می‌رسن عجله نکن...\nصبحتون بهشت\n@TweetPublic\n✔️",
+        "date": "2026-08-03T05:29:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2887_0_3053f9a6.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2887_1_472609b3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2887"
+      },
+      {
         "id": 2886,
         "text": "خبرنگار: آیا حمله برنامه‌ریزی‌شده شما به ایران، شامل اهداف انرژی می‌شد؟\n🔴\nترامپ: نمی‌توانم این را بگویم؛ اما قرار بود حمله‌ای عظیم باشد، بزرگترین!\n🔴\nدرنهایت خواهیم دید چه میشود؛ خواهیم دید آیا به یک توافق با ایران می‌رسیم یا نه!\n@TweetPublic\n✔️",
         "date": "2026-08-02T23:15:31+00:00",
@@ -14432,71 +14485,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2776"
-      },
-      {
-        "id": 2775,
-        "text": "اعدام سیاسی یکی از منفورترین،فجیع‌ترین و مسموم ترین اعدام هاست.\nاز همین رو در زمان انقلاب،مراقبِ اولین سری که از بدن جدا میکنید،باشید!\nچرا که آن سر اشتهای مردم را به انقلاب چند‌برابر میکند\n- ویکتور هوگو\n@TweetPublic\n✔️",
-        "date": "2026-07-28T01:56:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2775_0_cb205985.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2775"
-      },
-      {
-        "id": 2774,
-        "text": "🔴\nخبرگزاری فارس :  هر سه نفر اعدام شدن.\n@TweetPublic\n✔️",
-        "date": "2026-07-28T01:46:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2774_0_cb205985.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2774"
-      },
-      {
-        "id": 2773,
-        "text": "تاریخ از شرف مردم اصفهان خواهد گفت.\n@TweetPublic\n✔️",
-        "date": "2026-07-28T01:09:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2773_0_d62f6c6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2773"
       }
     ]
   },
-  "last_update": "2026-08-03T05:26:33.535716+00:00",
+  "last_update": "2026-08-03T08:21:12.579040+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1081,
-    "total_files": 1081,
+    "total_media": 1083,
+    "total_files": 1083,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
-      "video": 87,
+      "image": 987,
+      "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1081,
-    "existing_media_files": 1080,
-    "total_size_mb": 447.13,
-    "last_calculation": "2026-08-03T05:26:33.548798+00:00"
+    "referenced_files": 1083,
+    "existing_media_files": 1082,
+    "total_size_mb": 451.98,
+    "last_calculation": "2026-08-03T08:21:12.592276+00:00"
   }
 }
