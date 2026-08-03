@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2896,
+        "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-03T14:59:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2896_0_366bc649.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2896_1_2ebb4544.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2896"
+      },
+      {
         "id": 2895,
         "text": "علت زود تموم شدن بسته های اینترنت مشخص شد!\nطبق گفته کاربر ها، اوپراتور ها ضریب 2.7 اعمال کردن روی بسته های اینترنتشون.\nهمچنین برخی میگن که این ضریب حتی روی اینترنت داخلی هم هست!\nیعنی واسه اوپراتور فرقی نمیکنه شما به کجا وصلید؛ هر یک گیگی که مصرف میکنید رو 2.7 گیگ حساب میکنن و از بسته شما کم میکنن.\n@TweetPublic\n✔️",
         "date": "2026-08-03T14:09:41+00:00",
@@ -14454,41 +14473,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2783"
-      },
-      {
-        "id": 2782,
-        "text": "یه ضرب‌المثل چینی هست که میگه\n\"اگر بخت همراهت نیست، شجاعت را امتحان کن.\"\n@TweetPublic\n✔️",
-        "date": "2026-07-29T17:18:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2782_0_d5f8e2e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2782"
       }
     ]
   },
-  "last_update": "2026-08-03T14:39:21.108713+00:00",
+  "last_update": "2026-08-03T16:44:09.183338+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1079,
-    "total_files": 1079,
+    "total_media": 1080,
+    "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 983,
+      "image": 984,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1079,
-    "existing_media_files": 1078,
-    "total_size_mb": 451.66,
-    "last_calculation": "2026-08-03T14:39:21.121280+00:00"
+    "referenced_files": 1080,
+    "existing_media_files": 1079,
+    "total_size_mb": 451.74,
+    "last_calculation": "2026-08-03T16:44:09.196418+00:00"
   }
 }
