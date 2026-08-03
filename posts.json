@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 2901,
+        "text": "🛑\nدرگیری بین زوار ایرانی و دسته صادق شیرازی\nقضیه از این قراره که دو شب پیش بین زائرین ایرانی که رفتن کربلا برای زیارت و گروه منتسب به صادق شیرازی درگیری رخ داده که نیروهای امنیتی عراق وارد این درگیری شدن و حدود ۱۰۰ نفر بازداشت و مصدوم شدند.\n@TweetPublic\n✔️",
+        "date": "2026-08-03T21:42:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2901_0_366bc649.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2901_1_78892efb.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2901_2_d6ffde09.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2901"
+      },
+      {
         "id": 2900,
         "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.  @TweetPublic\n✔️",
         "date": "2026-08-03T21:10:28+00:00",
@@ -14462,45 +14485,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2788"
-      },
-      {
-        "id": 2787,
-        "text": "⏺\nفوری-تایید آغاز حمله امریکا به ایران\n@TweetPublic\n✔️",
-        "date": "2026-07-29T23:16:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2787_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2787_1_f2df4769.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2787"
       }
     ]
   },
-  "last_update": "2026-08-03T21:35:40.823987+00:00",
+  "last_update": "2026-08-03T22:48:53.317943+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1082,
-    "total_files": 1082,
+    "total_media": 1083,
+    "total_files": 1083,
     "total_links": 172,
     "files_by_type": {
-      "image": 985,
-      "video": 89,
+      "image": 984,
+      "video": 91,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1082,
-    "existing_media_files": 1081,
-    "total_size_mb": 454.16,
-    "last_calculation": "2026-08-03T21:35:40.836525+00:00"
+    "referenced_files": 1083,
+    "existing_media_files": 1082,
+    "total_size_mb": 460.98,
+    "last_calculation": "2026-08-03T22:48:53.330593+00:00"
   }
 }
