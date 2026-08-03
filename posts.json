@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 2898,
+        "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.  @TweetPublic\n✔️",
+        "date": "2026-08-03T18:04:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2898_0_366bc649.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2898_1_fd1b5018.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2898_2_e4518234.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2898"
+      },
+      {
+        "id": 2897,
+        "text": "☑️\nاولین قدمتو خالی برندار!\nتوی زومابت از همون شروع، ۵۰ دلار بونوس ثبت‌نام منتظرته؛ بعدش انتخاب با توئه: فوتبال، بازی زنده یا کازینو\n🎰\n⚽️\n💸\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nعضو شو، بونوس‌تو بردار و ببین زوما چه خبره!\n🔥",
+        "date": "2026-08-03T18:00:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2897_0_366bc649.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2897_1_1a62515b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2897"
+      },
+      {
         "id": 2896,
         "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.\n@TweetPublic\n✔️",
         "date": "2026-08-03T14:59:59+00:00",
@@ -14439,60 +14481,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2785"
-      },
-      {
-        "id": 2784,
-        "text": "🔴\nسپاه اعلام کرد حساب روابط عمومی این نهاد در تلگرام بسته شده است.\nسپاه در واکنش گفت: بستن کانال روابط عمومی سپاه نشون می‌ده دشمن از انتشار اطلاعات و داده‌های دقیق درباره مواضع آمریکایی‌ها در منطقه ترسیده است.\n@TweetPublic\n✔️",
-        "date": "2026-07-29T21:13:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2784_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2784_1_a69dbae1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2784"
-      },
-      {
-        "id": 2783,
-        "text": "🔴\nسپاه یه اکانت تلگرامی ساخته بود و از شهروندان اردن\n🇯🇴\nو کویت\n🇰🇼\nخواسته بود که تحرکات نظامیان آمریکایی رو بهش گزارش بدن؛\nلحظاتی پیش، این اکانت توسط تلگرام\n📱\nمسدود شد.\n@TweetPublic\n✔️",
-        "date": "2026-07-29T20:20:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2783_0_d5f8e2e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2783"
       }
     ]
   },
-  "last_update": "2026-08-03T16:44:09.183338+00:00",
+  "last_update": "2026-08-03T18:30:30.158710+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1082,
+    "total_files": 1082,
     "total_links": 172,
     "files_by_type": {
-      "image": 984,
-      "video": 88,
+      "image": 985,
+      "video": 89,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 451.74,
-    "last_calculation": "2026-08-03T16:44:09.196418+00:00"
+    "referenced_files": 1082,
+    "existing_media_files": 1081,
+    "total_size_mb": 454.19,
+    "last_calculation": "2026-08-03T18:30:30.171522+00:00"
   }
 }
