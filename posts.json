@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2904,
+        "text": "من اگه میدونستم باید شوخیمو بهت توضیح بدم اصلا باهات شوخی نمیکردم آخه\n@TweetPublic\n✔️",
+        "date": "2026-08-03T23:50:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2904_0_366bc649.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2904"
+      },
+      {
+        "id": 2903,
+        "text": "🎾\nتوپ تو زمین توئه؛ وقتشه بازی رو شروع کنی!\nاز پیش‌بینی مسابقات ورزشی تا کازینو آنلاین، هر لحظه یه انتخاب تازه و یه هیجان جدید توی زومابت منتظرته.\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nانتخابتو انجام بده و محکم وارد بازی شو!\n🚀",
+        "date": "2026-08-03T23:49:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2903_0_366bc649.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2903_1_a10fc76d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2903"
+      },
+      {
         "id": 2901,
         "text": "🛑\nدرگیری بین زوار ایرانی و دسته صادق شیرازی\nقضیه از این قراره که دو شب پیش بین زائرین ایرانی که رفتن کربلا برای زیارت و گروه منتسب به صادق شیرازی درگیری رخ داده که نیروهای امنیتی عراق وارد این درگیری شدن و حدود ۱۰۰ نفر بازداشت و مصدوم شدند.\n@TweetPublic\n✔️",
         "date": "2026-08-03T21:42:21+00:00",
@@ -14455,56 +14489,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2790"
-      },
-      {
-        "id": 2789,
-        "text": "🔴\nانفجار در بوشهر.\n@TweetPublic\n✔️",
-        "date": "2026-07-30T00:11:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2789_0_d5f8e2e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2789"
-      },
-      {
-        "id": 2788,
-        "text": "⭕️\nانفجار در آبادان و کیش\n@TweetPublic\n✔️",
-        "date": "2026-07-30T00:07:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2788_0_d5f8e2e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2788"
       }
     ]
   },
-  "last_update": "2026-08-03T22:48:53.317943+00:00",
+  "last_update": "2026-08-03T23:57:40.926546+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1083,
-    "total_files": 1083,
+    "total_media": 1084,
+    "total_files": 1084,
     "total_links": 172,
     "files_by_type": {
-      "image": 984,
+      "image": 985,
       "video": 91,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1083,
-    "existing_media_files": 1082,
-    "total_size_mb": 460.98,
-    "last_calculation": "2026-08-03T22:48:53.330593+00:00"
+    "referenced_files": 1084,
+    "existing_media_files": 1083,
+    "total_size_mb": 461.1,
+    "last_calculation": "2026-08-03T23:57:40.939271+00:00"
   }
 }
