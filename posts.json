@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2893,
+        "text": "‏شما با آدم بالغ که معاشرت کنی میفهمی اصن چیزی به اسم روابط پیچیده انسانی وجود نداره.\n@TweetPublic\n✔️",
+        "date": "2026-08-03T10:42:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2893_0_3053f9a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2893"
+      },
+      {
+        "id": 2892,
+        "text": "🎰\nوقتش یه تجربه متفاوت رو شروع کنی!\nاز بازی‌های کازینویی و میزهای زنده تا پیش‌بینی مسابقات، همه‌چیز توی زومابت یک‌جا منتظرته\n🔥\n🎁\n۵۰ دلار بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nبازی موردعلاقه‌تو انتخاب کن و وارد هیجان شو!\n🚀",
+        "date": "2026-08-03T10:41:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2892_0_3053f9a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2892_1_3244fa20.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2892"
+      },
+      {
         "id": 2891,
         "text": "🔴\nیه دختر به بهونه سفر شمال، ۷ مرد رو توی تله انداخت!\nیه دختر توی تهران 7 مرد رو راضی می‌کنه که باهاش برن شمال و بهشون میگه:\n«من تک شما همه!»\nاز این 7 نفر، 4 نفر متأهل بودن،2 نفر دندان‌پزشک بودن و یکی هم نمایشگاه ماشین داشته.دختر قبل از سفر توی چند جای ویلا\nدوربین مخفی\nکار می‌ذاره و از اون‌ها فیلم می‌گیره. بعد هم با تهدید به انتشار فیلم‌ها، از هر کدوم 50 میلیون تومان پول می‌خواسته.\nدر نهایت این ماجرا باعث طلاق ۲ نفر از اون مردها شده و خودِ دختر هم بازداشت شده.\n@TweetPublic\n✔️",
         "date": "2026-08-03T08:38:16+00:00",
@@ -14447,64 +14481,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2779"
-      },
-      {
-        "id": 2778,
-        "text": "🔴\nپاول دورف مدیر تلگرام، به اتهام تسهیل فعالیت‌های تروریستی، از طرف سرویس امنیت روسیه تحت تعقیب بین المللی قرار گرفت!\nدر همین راستا پاول دورف پروفایل اکانت تلگرامش رو به این عکس تغییر داد.\n@monk\n@TweetPublic\n✔️",
-        "date": "2026-07-29T12:38:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2778_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2778_1_634254ce.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2778"
-      },
-      {
-        "id": 2777,
-        "text": "🔴\nمارک لوین، مجری فاکس نیوز با انتشار تصاویری از اعتراضات امشب اصفهان گفت : با این نازی‌ها ( ج.ا ) مذاکره نکنید. مردم رو مسلح کنید.\n@TweetPublic\n✔️",
-        "date": "2026-07-28T02:19:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2777_0_cb205985.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2777_1_b4d5a5d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2777"
       }
     ]
   },
-  "last_update": "2026-08-03T09:45:45.558668+00:00",
+  "last_update": "2026-08-03T11:51:44.795801+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1083,
-    "total_files": 1083,
+    "total_media": 1082,
+    "total_files": 1082,
     "total_links": 172,
     "files_by_type": {
-      "image": 987,
+      "image": 986,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1083,
-    "existing_media_files": 1082,
-    "total_size_mb": 451.98,
-    "last_calculation": "2026-08-03T09:45:45.566540+00:00"
+    "referenced_files": 1082,
+    "existing_media_files": 1081,
+    "total_size_mb": 451.91,
+    "last_calculation": "2026-08-03T11:51:44.808392+00:00"
   }
 }
