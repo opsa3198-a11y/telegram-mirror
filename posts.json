@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2895,
+        "text": "علت زود تموم شدن بسته های اینترنت مشخص شد!\nطبق گفته کاربر ها، اوپراتور ها ضریب 2.7 اعمال کردن روی بسته های اینترنتشون.\nهمچنین برخی میگن که این ضریب حتی روی اینترنت داخلی هم هست!\nیعنی واسه اوپراتور فرقی نمیکنه شما به کجا وصلید؛ هر یک گیگی که مصرف میکنید رو 2.7 گیگ حساب میکنن و از بسته شما کم میکنن.\n@TweetPublic\n✔️",
+        "date": "2026-08-03T14:09:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2895_0_3053f9a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2895"
+      },
+      {
+        "id": 2894,
+        "text": "المیادین به نقل از یک منبع ایرانی: ایالات متحده در موضوع مربوط به بسته ماندن مسیر جنوبی در تنگه هرمز، امتیازی به ایران ارائه کرده است\n🔴\nایران در پاسخ به آخرین پیشنهاد آمریکا، با رد این پیشنهاد اعلام کرده است که تا پایان کامل جنگ، تنگه هرمز را باز نخواهد کرد\n@TweetPublic\n✔️",
+        "date": "2026-08-03T13:17:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2894_0_3053f9a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2894"
+      },
+      {
         "id": 2893,
         "text": "‏شما با آدم بالغ که معاشرت کنی میفهمی اصن چیزی به اسم روابط پیچیده انسانی وجود نداره.\n@TweetPublic\n✔️",
         "date": "2026-08-03T10:42:37+00:00",
@@ -14439,68 +14469,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2782"
-      },
-      {
-        "id": 2781,
-        "text": "🔥\nشروع قوی، با ۵۰ دلار بونوس!\nتو زومابت از پیش‌بینی فوتبال و مسابقات زنده تا بازی‌های کازینو، همه‌چیز برای یه تجربه پرهیجان آماده‌ست.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\n👇\nورود به سایت\n👇",
-        "date": "2026-07-29T17:15:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2781_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2781_1_7dc82946.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2781"
-      },
-      {
-        "id": 2779,
-        "text": "🔴\nچند روز پیش یه 206، یه دختر 17 ساله به اسم سایه رو فقط بخاطر اینکه موتور سوار شده بوده، زیر میگیره!\nحالا پدرش گفته من ول نکن‌‌ترین پدر دنیام و تا این طرفو گیر نیارم، ولش نمی کنم.\nهمچنین پدرش همه کار و زندگیش رو ول کرده تا خودش از سایه پرستاری و مراقبت کنه.\nحالا این حرکت زیباش حسابی مورد تشویق قرار گرفته.\n@TweetPublic\n✔️",
-        "date": "2026-07-29T16:14:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2779_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2779_1_3e3a470b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2779_2_0e4899ed.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2779"
       }
     ]
   },
-  "last_update": "2026-08-03T11:51:44.795801+00:00",
+  "last_update": "2026-08-03T14:10:27.908313+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1082,
-    "total_files": 1082,
+    "total_media": 1079,
+    "total_files": 1079,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
+      "image": 983,
       "video": 88,
       "file": 5,
       "document": 1,
       "audio": 2
     },
-    "referenced_files": 1082,
-    "existing_media_files": 1081,
-    "total_size_mb": 451.91,
-    "last_calculation": "2026-08-03T11:51:44.808392+00:00"
+    "referenced_files": 1079,
+    "existing_media_files": 1078,
+    "total_size_mb": 451.66,
+    "last_calculation": "2026-08-03T14:10:27.921159+00:00"
   }
 }
