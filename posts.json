@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2899,
+        "text": "🔴\nنيروي انتظامي تهران یه دختر پسره رو توی پارک با گزارشات همسایه دستگیر کردن.\nگویا این دختر پسر هر روز میومدن پارک؛ دختره به پاهاش کیک میمالیده و پسره پاهاشو می‌خورده و فیلم فوت فیتیش\n🔞\nضبط میکردن.\n@TweetPublic\n✔️",
+        "date": "2026-08-03T20:08:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2899_0_366bc649.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2899_1_5272f6e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2899"
+      },
+      {
         "id": 2898,
         "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.  @TweetPublic\n✔️",
         "date": "2026-08-03T18:04:08+00:00",
@@ -14462,29 +14481,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2786"
-      },
-      {
-        "id": 2785,
-        "text": "📱\nبعد از تلگرام، حالا در ایکس هم حساب‌های تسنیم به‌زبان فارسی و‌ انگلیسی مسدود شدن\n.\n@TweetPublic\n✔️",
-        "date": "2026-07-29T21:44:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2785_0_d5f8e2e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2785_1_0347d5ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2785"
       }
     ]
   },
-  "last_update": "2026-08-03T19:37:44.767013+00:00",
+  "last_update": "2026-08-03T20:11:54.662537+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14500,7 +14500,7 @@
     },
     "referenced_files": 1082,
     "existing_media_files": 1081,
-    "total_size_mb": 454.19,
-    "last_calculation": "2026-08-03T19:37:44.773819+00:00"
+    "total_size_mb": 454.26,
+    "last_calculation": "2026-08-03T20:11:54.675756+00:00"
   }
 }
