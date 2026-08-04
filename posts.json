@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2925,
+        "text": "🔴\nپلیس های عراق از یه فرد ایرانی تو کربلا یه کیف پر کاندوم گرفتن:\n+رفتی کربلا زیارت یا طقه زنی./البته طبق گفته دوستانی که رفتن اونجا از این خبرا خیلی زیاد بود\n@TweetPublic\n✔️",
+        "date": "2026-08-04T20:42:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2925_0_ff8d7306.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2925_1_63ce02ac.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2925"
+      },
+      {
+        "id": 2924,
+        "text": "مراد ویسی:\nجمهوری اسلامی دریای خزر رو فروخت رفت!در تازه‌ترین قرارداد جمهوری اسلامی دریای خزر رو تقدیم روسیه کرده و یواشکی دارن میبرن مجلس و تصویبش کنن.سهم ایران فقط به 11 درصد رسیده.\n@TweetPublic\n✔️",
+        "date": "2026-08-04T20:06:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2924_0_ff8d7306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2924"
+      },
+      {
         "id": 2923,
         "text": "فرماندار کربلا بعد درگیری بزرگ زائرین ایرانی در عراق:\nزائرین ایرانی را نباید از سال دیگر به‌ عراق راه داد، اینها افرادی هستند که دنبال غذای رایگان و مسائل جنسی به کربلا می‌آیند،\nنه هیچ پولی دارند که خرج کنند (گدا هستند)\nنه زیارت کردن بلد هستند\nاکثریت آنها نماز خواندن هم بلد نیستند\n@TweetPublic\n✔️",
         "date": "2026-08-04T19:51:11+00:00",
@@ -14481,44 +14515,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2805"
-      },
-      {
-        "id": 2804,
-        "text": "عکس منتسب به قشم!\n@TweetPublic\n✔️",
-        "date": "2026-07-30T02:07:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2804_0_0c3d8738.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2804_1_d1793003.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2804"
-      },
-      {
-        "id": 2803,
-        "text": "⭕️\nفوری اهوار باز صدای انفجار خیلی شدیدددد\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:58:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2803_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2803"
       }
     ]
   },
-  "last_update": "2026-08-04T20:06:11.838605+00:00",
+  "last_update": "2026-08-04T21:44:42.977631+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14526,15 +14526,15 @@
     "total_files": 1089,
     "total_links": 173,
     "files_by_type": {
-      "image": 993,
-      "video": 89,
+      "image": 992,
+      "video": 90,
       "file": 5,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 1089,
     "existing_media_files": 1088,
-    "total_size_mb": 451.49,
-    "last_calculation": "2026-08-04T20:06:11.851851+00:00"
+    "total_size_mb": 455.16,
+    "last_calculation": "2026-08-04T21:44:42.990569+00:00"
   }
 }
