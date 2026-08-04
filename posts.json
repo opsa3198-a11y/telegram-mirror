@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 2922,
+        "text": "طی یه حرکت غافلگیرانه اپلیکیشن بله وارد اپ استور شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-04T18:57:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2922_0_ff8d7306.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2922_1_d9e48009.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2922"
+      },
+      {
+        "id": 2921,
+        "text": "‏ترامپ به ایران تا فردا مهلت داده بیاید توافق کند در غیراینصورت زنگ می زنم به بن سلمان و ازش می پرسم صلح بهتر است یا جنگ؟\nاگر گفت صلح بهتره، خب به شما حمله نمی کنم\nو اگر گفت جنگ بهتر است در آنصورت بهتر است بیایند مذاکره کنند و توافق کنند.\n@TweetPublic\n✔️",
+        "date": "2026-08-04T18:44:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2921_0_ff8d7306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2921"
+      },
+      {
+        "id": 2920,
+        "text": "️\n🎰\nدر بلک‌جک، هر دست یک داستان تازه است…\nگاهی یک کارت، امید را زنده می‌کند.\nگاهی یک تصمیم، مسیر بازی را عوض می‌کند.\n🃏\nبرنده واقعی، کسی است که بهترین لحظه را برای تصمیم گرفتن بشناسد.\n🃏\n💰\nZOMABET.COM",
+        "date": "2026-08-04T18:44:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2920_0_ff8d7306.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2920_1_0c703389.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2920"
+      },
+      {
         "id": 2919,
         "text": "امروز تولد جاویدنام مسعود ذات‌پروره.\nتولدت مبارک قهرمان؛ یادت هیچ‌وقت از خاطره‌ی ایران پاک نمی‌شه.\n@TweetPublic\n✔️",
         "date": "2026-08-04T17:05:16+00:00",
@@ -14462,63 +14515,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2802"
-      },
-      {
-        "id": 2801,
-        "text": "لحظه انفجار در اهواز...\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:52:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2801_0_0c3d8738.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2801_1_2a43d716.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2801"
-      },
-      {
-        "id": 2800,
-        "text": "⭕️\nارسالی : از صدا و شدت انفجار دقایقی پیش در اهواز.\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:40:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2800_0_0c3d8738.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "TweetPublic_2800_1_067608aa.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2800"
-      },
-      {
-        "id": 2799,
-        "text": "⭕️\nتسنیم: برق برخی نقاط اهواز قطع شده.\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:29:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2799_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2799"
       }
     ]
   },
-  "last_update": "2026-08-04T18:22:01.727343+00:00",
+  "last_update": "2026-08-04T19:40:05.921221+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14526,15 +14526,15 @@
     "total_files": 1089,
     "total_links": 173,
     "files_by_type": {
-      "image": 991,
-      "video": 90,
+      "image": 993,
+      "video": 89,
       "file": 5,
       "document": 1,
-      "audio": 2
+      "audio": 1
     },
     "referenced_files": 1089,
     "existing_media_files": 1088,
-    "total_size_mb": 452.9,
-    "last_calculation": "2026-08-04T18:22:01.740494+00:00"
+    "total_size_mb": 451.49,
+    "last_calculation": "2026-08-04T19:40:05.934336+00:00"
   }
 }
