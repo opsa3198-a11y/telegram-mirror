@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2923,
+        "text": "فرماندار کربلا بعد درگیری بزرگ زائرین ایرانی در عراق:\nزائرین ایرانی را نباید از سال دیگر به‌ عراق راه داد، اینها افرادی هستند که دنبال غذای رایگان و مسائل جنسی به کربلا می‌آیند،\nنه هیچ پولی دارند که خرج کنند (گدا هستند)\nنه زیارت کردن بلد هستند\nاکثریت آنها نماز خواندن هم بلد نیستند\n@TweetPublic\n✔️",
+        "date": "2026-08-04T19:51:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2923_0_ff8d7306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2923"
+      },
+      {
         "id": 2922,
         "text": "طی یه حرکت غافلگیرانه اپلیکیشن بله وارد اپ استور شد.\n@TweetPublic\n✔️",
         "date": "2026-08-04T18:57:48+00:00",
@@ -14500,25 +14515,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2803"
-      },
-      {
-        "id": 2802,
-        "text": "⭕️\nفوری انفجار شدید مجدد در اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:53:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2802_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2802"
       }
     ]
   },
-  "last_update": "2026-08-04T19:40:05.921221+00:00",
+  "last_update": "2026-08-04T20:06:11.838605+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14535,6 +14535,6 @@
     "referenced_files": 1089,
     "existing_media_files": 1088,
     "total_size_mb": 451.49,
-    "last_calculation": "2026-08-04T19:40:05.934336+00:00"
+    "last_calculation": "2026-08-04T20:06:11.851851+00:00"
   }
 }
