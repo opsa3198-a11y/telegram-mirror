@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 2928,
+        "text": "گویا دقایقی پیش به جون دونالد جی‌ترامپ رئیس‌جمهور ایالات متحده آمریکا سوءقصد شده  @TweetPublic\n✔️",
+        "date": "2026-08-04T23:19:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2928_0_ff8d7306.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2928_1_c0c91952.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2928"
+      },
+      {
+        "id": 2927,
+        "text": "گویا دقایقی پیش به جون دونالد جی‌ترامپ رئیس‌جمهور ایالات متحده آمریکا سوءقصد شده\n@TweetPublic\n✔️",
+        "date": "2026-08-04T23:13:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2927_0_ff8d7306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2927"
+      },
+      {
+        "id": 2926,
+        "text": "🔥\nحرکت بعدی می‌تونه همه‌چی رو عوض کنه!\nتوی زومابت، از پیش‌بینی مسابقات زنده تا هیجان بازی‌های کازینو، هر لحظه یه انتخاب تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\n♟️\nصفحه چیده شده؛ حالا نوبت حرکت توئه!",
+        "date": "2026-08-04T22:52:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2926_0_ff8d7306.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2926_1_40b81683.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2926"
+      },
+      {
         "id": 2925,
         "text": "🔴\nپلیس های عراق از یه فرد ایرانی تو کربلا یه کیف پر کاندوم گرفتن:\n+رفتی کربلا زیارت یا طقه زنی./البته طبق گفته دوستانی که رفتن اونجا از این خبرا خیلی زیاد بود\n@TweetPublic\n✔️",
         "date": "2026-08-04T20:42:33+00:00",
@@ -14466,75 +14519,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2808"
-      },
-      {
-        "id": 2807,
-        "text": "⭕️\nاولین واکنش کاظمی به انفجار های امشب در اهواز :\n@TweetPublic\n✔️",
-        "date": "2026-07-30T02:17:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2807_0_0c3d8738.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "TweetPublic_2807_1_17801a91.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2807"
-      },
-      {
-        "id": 2806,
-        "text": "زمین لرزه داره پشماش میریزه از حجم و شدت انفجار های اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-30T02:15:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2806_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2806"
-      },
-      {
-        "id": 2805,
-        "text": "⭕️\nفوری دو انفجار شدید دیگر در اهواز\n@TweetPublic\n✔️",
-        "date": "2026-07-30T02:13:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2805_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2805"
       }
     ]
   },
-  "last_update": "2026-08-04T22:51:07.178459+00:00",
+  "last_update": "2026-08-04T23:52:32.866216+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1089,
-    "total_files": 1089,
+    "total_media": 1090,
+    "total_files": 1090,
     "total_links": 173,
     "files_by_type": {
-      "image": 992,
-      "video": 90,
+      "image": 993,
+      "video": 91,
       "file": 5,
-      "document": 1,
-      "audio": 1
+      "document": 1
     },
-    "referenced_files": 1089,
-    "existing_media_files": 1088,
-    "total_size_mb": 455.16,
-    "last_calculation": "2026-08-04T22:51:07.191828+00:00"
+    "referenced_files": 1090,
+    "existing_media_files": 1089,
+    "total_size_mb": 457.69,
+    "last_calculation": "2026-08-04T23:52:32.879419+00:00"
   }
 }
