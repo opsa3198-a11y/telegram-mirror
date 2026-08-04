@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2913,
+        "text": "الجزیره : اعلام توافق برای بازگشایی کامل تنگه، ممکنه تا چند ساعت دیگه یا نهایتاً فردا انجام بشه\n@TweetPublic\n✔️",
+        "date": "2026-08-04T14:36:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2913_0_366bc649.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2913"
+      },
+      {
         "id": 2912,
         "text": "اگه توی گوگل سرچ کنید \"پدر استعفای ایران\" با چنین صحنه ای مواجه میشید.\n😂\n@TweetPublic\n✔️",
         "date": "2026-08-04T11:32:58+00:00",
@@ -14496,25 +14511,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2798"
-      },
-      {
-        "id": 2797,
-        "text": "⭕️\n۳ انفجار در اهواز شدید اونقدری شدید بود که مردم از خونه ریختن\n@TweetPublic\n✔️",
-        "date": "2026-07-30T01:21:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2797_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2797"
       }
     ]
   },
-  "last_update": "2026-08-04T14:11:53.788466+00:00",
+  "last_update": "2026-08-04T14:56:36.734392+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14531,6 +14531,6 @@
     "referenced_files": 1088,
     "existing_media_files": 1087,
     "total_size_mb": 452.81,
-    "last_calculation": "2026-08-04T14:11:53.801341+00:00"
+    "last_calculation": "2026-08-04T14:56:36.744695+00:00"
   }
 }
