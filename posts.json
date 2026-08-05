@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2934,
+        "text": "اسکای نیوز عربی: وزارت خزانه‌داری آمریکا از لغو تحریم‌های مرتبط با ایران خبر داد‌‌.\n@TweetPublic\n✔️",
+        "date": "2026-08-05T14:15:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2934_0_ff8d7306.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2934"
+      },
+      {
         "id": 2933,
         "text": "فقط افسانه‌ها آن را به خاطر خواهند آورد :))\n@TweetPublic\n✔️",
         "date": "2026-08-05T11:33:02+00:00",
@@ -14512,25 +14527,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2814"
-      },
-      {
-        "id": 2813,
-        "text": "صداوسیما: امروز صبح در حملات آمریکا به ایران، 6 تا جنگنده F-35 رو زدیم. 3 تاشون کامل منهدم شدن، 3 تاشون هم خسارت دیدن.\n@TweetPublic\n✔️",
-        "date": "2026-07-30T10:58:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2813_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2813"
       }
     ]
   },
-  "last_update": "2026-08-05T14:09:47.463593+00:00",
+  "last_update": "2026-08-05T14:42:20.392280+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14546,6 +14546,6 @@
     "referenced_files": 1092,
     "existing_media_files": 1091,
     "total_size_mb": 449.72,
-    "last_calculation": "2026-08-05T14:09:47.476086+00:00"
+    "last_calculation": "2026-08-05T14:42:20.405518+00:00"
   }
 }
