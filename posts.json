@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2935,
+        "text": "اسکای نیوز عربی: وزارت خزانه‌داری آمریکا از لغو تحریم‌های مرتبط با ایران خبر داد‌‌.  @TweetPublic\n✔️",
+        "date": "2026-08-05T15:20:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2935_0_d2ed2453.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2935"
+      },
+      {
         "id": 2934,
         "text": "اسکای نیوز عربی: وزارت خزانه‌داری آمریکا از لغو تحریم‌های مرتبط با ایران خبر داد‌‌.\n@TweetPublic\n✔️",
         "date": "2026-08-05T14:15:40+00:00",
@@ -14508,44 +14523,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2815"
-      },
-      {
-        "id": 2814,
-        "text": "🔴\nویدویی از لحظه دستگیریِ نوید زیادخان قره‌داغی وسط خیابون؛\nحاوی خون و خون‌ریزی\n🔞\n@TweetPublic\n✔️",
-        "date": "2026-07-30T13:07:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2814_0_0c3d8738.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2814_1_cf79d256.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2814"
       }
     ]
   },
-  "last_update": "2026-08-05T14:42:20.392280+00:00",
+  "last_update": "2026-08-05T16:25:25.724826+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1092,
-    "total_files": 1092,
+    "total_media": 1091,
+    "total_files": 1091,
     "total_links": 173,
     "files_by_type": {
       "image": 996,
-      "video": 90,
+      "video": 89,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1092,
-    "existing_media_files": 1091,
-    "total_size_mb": 449.72,
-    "last_calculation": "2026-08-05T14:42:20.405518+00:00"
+    "referenced_files": 1091,
+    "existing_media_files": 1090,
+    "total_size_mb": 445.63,
+    "last_calculation": "2026-08-05T16:25:25.738484+00:00"
   }
 }
