@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2943,
+        "text": "@TweetPublic\n✔️",
+        "date": "2026-08-06T00:24:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2943_0_d2ed2453.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2943_1_c6917309.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2943"
+      },
+      {
+        "id": 2942,
+        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
+        "date": "2026-08-06T00:17:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2942_0_d2ed2453.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2942_1_97fc17dd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2942"
+      },
+      {
         "id": 2941,
         "text": "🔴\nکامنت یه کاربر زیر پست تلگرام:\nمن آدرس مخفیگاه پاول دروف رو می‌خوام.\nاکانت رسمی تلگرام:\nاونو که نمی‌دونم ولی منو می‌تونی تو خونه مامانت پیدا کنی!\n@TweetPublic\n✔️",
         "date": "2026-08-05T21:02:57+00:00",
@@ -14485,59 +14523,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2824"
-      },
-      {
-        "id": 2823,
-        "text": "یه پست روانشناسی بود میگفت:\nکسایی که میخوان بهتون دروغ بگن نمیتونن تو چشماتون نگاه کنن\nفکر کنم طرف تا حالا املاکی و نمایشگاه ماشین نرفته بود.\n@TweetPublic\n✔️",
-        "date": "2026-07-30T23:25:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2823_0_0c3d8738.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2823"
-      },
-      {
-        "id": 2822,
-        "text": "♠️\nگاهی فقط یک انتخاب...\nسرنوشت بازی را تغییر می‌دهد.\nبالا یا پایین؛\nتصمیم با توست...\n🎯\nجرأت انتخاب داری؟\n🎰\nZOMABET.COM",
-        "date": "2026-07-30T23:25:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2822_0_0c3d8738.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2822_1_4175b34c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2822"
       }
     ]
   },
-  "last_update": "2026-08-05T23:27:37.720421+00:00",
+  "last_update": "2026-08-06T00:50:01.237139+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1090,
-    "total_files": 1090,
+    "total_media": 1091,
+    "total_files": 1091,
     "total_links": 173,
     "files_by_type": {
-      "image": 996,
+      "image": 997,
       "video": 88,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1090,
-    "existing_media_files": 1089,
-    "total_size_mb": 434.18,
-    "last_calculation": "2026-08-05T23:27:37.733534+00:00"
+    "referenced_files": 1091,
+    "existing_media_files": 1090,
+    "total_size_mb": 434.23,
+    "last_calculation": "2026-08-06T00:50:01.250399+00:00"
   }
 }
