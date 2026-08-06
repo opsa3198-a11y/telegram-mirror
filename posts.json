@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2946,
+        "text": "شاهکار جدید پزشکیان:)\nپزشکیان:ما بچه که بودیم پنکه نداشتیم\nمجری: آخه آذربایجان خنکه\nپزشکیان: من تو زابل خدمت میکردم\nمجری: آخه شما میگی وقتی بچه بودم\nپزشکیان: من تو زابل خدمت میکردم و پنکه‌ام نداشتم، حالا چی میگی؟ :)))\n@TweetPublic\n✔️",
+        "date": "2026-08-06T11:12:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2946_0_d2ed2453.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2946_1_75c7daf7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2946"
+      },
+      {
+        "id": 2945,
+        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتش وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
+        "date": "2026-08-06T11:12:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2945_0_d2ed2453.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2945_1_84598de4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2945"
+      },
+      {
         "id": 2944,
         "text": "آیا اگر یک معتاد آلزایمر بگیرد، مواد کشیدن هم یادش می‌رود؟\n@TweetPublic\n✔️",
         "date": "2026-08-06T06:53:18+00:00",
@@ -14465,55 +14503,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2834"
-      },
-      {
-        "id": 2833,
-        "text": "عباسی، عضو کمیسیون آموزش مجلس:\nچون کنکور یک ماه دیرتر برگزار شده است، سال تحصیلی جدید دانشگاه‌ها نیز یک ماه دیرتر و احتمالا در آبان‌ماه شروع خواهد شد\n@TweetPublic\n✔️",
-        "date": "2026-07-31T11:00:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2833_0_a34a2e1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2833"
-      },
-      {
-        "id": 2832,
-        "text": "🔺\nیک اتفاق خیلی عجیب و بی سابقه  در دو روز اخیر هزاران پناهجوی غیرقانونیِ مراکشی\n🇲🇦\nو الجزایری\n🇩🇿\n، از طریق ساحل مراکش شنا کردن و به شهر سئوتای اسپانیا\n🇪🇸\nرسیدن که هرج و مرج گسترده‌ای درست کردن.\n🔹\nاین شهر تقریبا پر از مهاجر شده به طوری که از دولت مرکزی خواسته…",
-        "date": "2026-07-31T10:51:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2832_0_a34a2e1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2832"
       }
     ]
   },
-  "last_update": "2026-08-06T09:18:34.212721+00:00",
+  "last_update": "2026-08-06T11:38:06.267258+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 173,
     "files_by_type": {
-      "image": 998,
-      "video": 80,
+      "image": 999,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 416.12,
-    "last_calculation": "2026-08-06T09:18:34.225939+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 417.98,
+    "last_calculation": "2026-08-06T11:38:06.277590+00:00"
   }
 }
