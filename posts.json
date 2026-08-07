@@ -12703,6 +12703,63 @@
     ],
     "TweetPublic": [
       {
+        "id": 2958,
+        "text": "کامل ترین ربات اینستاگرام دانلودر",
+        "date": "2026-08-07T09:23:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2958_0_35ef12c4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2958_1_683244d7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2958"
+      },
+      {
+        "id": 2957,
+        "text": "کامل ترین ربات اینستاگرام دانلودر",
+        "date": "2026-08-07T09:19:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2957_0_35ef12c4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2957_1_24ff6f71.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2957"
+      },
+      {
+        "id": 2956,
+        "text": "وضعیت همیشگیم:\n@TweetPublic\n✔️",
+        "date": "2026-08-07T09:14:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2956_0_35ef12c4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2956_1_9243e544.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2956"
+      },
+      {
         "id": 2955,
         "text": "⭕️\nتوئیت جدید ترامپ :\n\"دونالد ترامپ در جنگ با ایران پیروز شد.\"\n@TweetPublic\n✔️",
         "date": "2026-08-07T07:00:12+00:00",
@@ -14450,78 +14507,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2847"
-      },
-      {
-        "id": 2846,
-        "text": "وال استریت ژورنال:\nترامپ در جلسه امروز تیم امنیت ملی خود،\nدستور حمله نظامی جدید آمریکا به ایران را صادر کرده است\n@TweetPublic\n✔️",
-        "date": "2026-07-31T21:42:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2846_0_a34a2e1e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2846"
-      },
-      {
-        "id": 2845,
-        "text": "🔴\nآمریکا\n🇺🇸\nو اسرائیل\n🇮🇱\nدر حال آماده‌سازی یه عملیات بزرگ مشترک واسه بمباران زیرساخت‌های انرژی ایران، از جمله نیروگاه‌ها و پالایشگاه‌ها هستن!\nدونالد ترامپ هنوز مجوز نهایی این حملات رو صادر نکرده، ولی در صورت تأیید، احتمال داره حملات از همین آخر هفته آغاز بشه...\n@TweetPublic\n✔️",
-        "date": "2026-07-31T21:20:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2845_0_a34a2e1e.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2845_1_dce5f998.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2845"
-      },
-      {
-        "id": 2842,
-        "text": "⏺\nترامپ: اگر من نبودم ایران، اسرائیل را نابود کرده بود!\nایران نمی‌تواند سلاح هسته‌ای داشته باشد. آن‌ها از آن استفاده می‌کردند.\nاگر من نبودم، اسرائیل امروز وجود نداشت. اصلاً وجود نداشت.\nآن‌ها فقط دو هفته با دستیابی به سلاح هسته‌ای فاصله داشتند.\n@TweetPublic\n✔️",
-        "date": "2026-07-31T20:52:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2842_0_a34a2e1e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2842_1_7d9c4e15.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2842"
       }
     ]
   },
-  "last_update": "2026-08-07T08:04:07.613345+00:00",
+  "last_update": "2026-08-07T09:28:44.619172+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1087,
+    "total_files": 1087,
     "total_links": 173,
     "files_by_type": {
-      "image": 999,
-      "video": 81,
+      "image": 1001,
+      "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 414.0,
-    "last_calculation": "2026-08-07T08:04:07.626510+00:00"
+    "referenced_files": 1087,
+    "existing_media_files": 1086,
+    "total_size_mb": 404.82,
+    "last_calculation": "2026-08-07T09:28:44.631997+00:00"
   }
 }
