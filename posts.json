@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2968,
+        "text": "🔴\nپر بازدیدترین ویدیوی اینستاگرام فارسی در ۲۴ساعت اخیر:\nمنم مثل شما کلی سوال دارم.\n@TweetPublic\n✔️",
+        "date": "2026-08-07T21:47:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2968_0_ef08b12c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2968_1_b2641d5e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2968"
+      },
+      {
+        "id": 2967,
+        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
+        "date": "2026-08-07T21:47:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2967_0_ef08b12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2967_1_f22e8331.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2967"
+      },
+      {
         "id": 2966,
         "text": "امروز روزِ جهانی گربه‌ست.\nیفرستید برای پیشی های زندگیتون\n@TweetPublic\n✔️",
         "date": "2026-08-07T21:05:47+00:00",
@@ -14473,55 +14511,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2857"
-      },
-      {
-        "id": 2856,
-        "text": "‏یه زمانی تعداد مشکلات و اتفاقای ناراحت‌کننده در حدی بود که یاس میتونست تو یه اهنگ جمعش کنه.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T11:38:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2856_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2856"
-      },
-      {
-        "id": 2855,
-        "text": "⏺\nفرماندار اسلام آباد غرب: تا این لحظه ‌حمله‌ای به این منطقه صورت نگرفته؛ علت انفجار ‌از توپ برجای مانده از زمان دفاع مقدس 8 ساله بود.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T10:48:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2855_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2855"
       }
     ]
   },
-  "last_update": "2026-08-07T21:07:03.864429+00:00",
+  "last_update": "2026-08-07T22:02:10.133027+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1088,
+    "total_files": 1088,
     "total_links": 173,
     "files_by_type": {
-      "image": 1001,
-      "video": 79,
+      "image": 1002,
+      "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 400.66,
-    "last_calculation": "2026-08-07T21:07:03.874798+00:00"
+    "referenced_files": 1088,
+    "existing_media_files": 1087,
+    "total_size_mb": 401.42,
+    "last_calculation": "2026-08-07T22:02:10.146194+00:00"
   }
 }
