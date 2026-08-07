@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2966,
+        "text": "امروز روزِ جهانی گربه‌ست.\nیفرستید برای پیشی های زندگیتون\n@TweetPublic\n✔️",
+        "date": "2026-08-07T21:05:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2966_0_ef08b12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2966_1_410d09d4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2966"
+      },
+      {
+        "id": 2965,
+        "text": "🔴\nدقایقی پیش مختار به دعوت حق لبیک گفت و برای هزارمین بار کشته شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-07T20:32:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2965_0_ef08b12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2965_1_2d3f8418.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2965"
+      },
+      {
         "id": 2964,
         "text": "مجلس سنای آمریکا در راستای محکم کردن توافق‌ با ایران، با 86 رای موافق و 11 رای مخالف، طرح تحریم ایران و روسیه رو تصویب کرد.\nطبق این طرح ترامپ میتونه تعرفه‌ی 100 درصدی روی واردات نفت خام یا گاز از روسیه\n🇷🇺\nبذاره.\nهمچنین تحریم‌های انرژی و صنایع تسلیحاتی ایران\n🇮🇷\n، تا سال 2031 تمدید شدن.\n@TweetPublic\n✔️",
         "date": "2026-08-07T17:55:00+00:00",
@@ -14465,55 +14503,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2855"
-      },
-      {
-        "id": 2854,
-        "text": "🔴\nترامپ: گرینلند تا 2029 مال ماست!\n@TweetPublic\n✔️",
-        "date": "2026-08-01T09:17:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2854_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2854"
-      },
-      {
-        "id": 2853,
-        "text": "🚨\nکانال 12 عبری: نتانیاهو موفق شد ترامپ را متقاعد کند تا حملاتی را علیه بخش های انرژی ایران آغاز کند\n@TweetPublic\n✔️",
-        "date": "2026-08-01T08:05:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2853_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2853"
       }
     ]
   },
-  "last_update": "2026-08-07T20:26:39.879039+00:00",
+  "last_update": "2026-08-07T21:07:03.864429+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 173,
     "files_by_type": {
-      "image": 999,
+      "image": 1001,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 400.48,
-    "last_calculation": "2026-08-07T20:26:39.892361+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 400.66,
+    "last_calculation": "2026-08-07T21:07:03.874798+00:00"
   }
 }
