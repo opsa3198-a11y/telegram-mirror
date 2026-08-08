@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2979,
+        "text": "کاشت ناخن تو کاشان ممنوع شد!\nهر سالن یا آرایشگاه زنونه ای کاشت ناخن انجام بده پلمپ میشه...\n@TweetPublic\n✔️",
+        "date": "2026-08-08T16:33:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2979_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2979_1_9434c539.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2979"
+      },
+      {
+        "id": 2978,
+        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌خونی؟\nپس حدست رو فقط برای خودت نگه ندار!\nوارد زومابت شو، بازی موردنظرت رو انتخاب کن و پیش‌بینی‌تو ثبت کن.\n⚽️\n🔥\n🎁\nتازه‌واردی؟ 50$ بونوس شروع هم منتظرته",
+        "date": "2026-08-08T16:32:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2978_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2978_1_141f9e5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2978"
+      },
+      {
         "id": 2977,
         "text": "🔴\nتو مازندران یه زنه با شلوارک اومده بیرون و یه زن دیگه اومد به زور شلوار پاش کرد:\n@TweetPublic\n✔️",
         "date": "2026-08-08T13:24:34+00:00",
@@ -14497,48 +14535,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2865"
-      },
-      {
-        "id": 2864,
-        "text": "️\n💵\nبازی رو هوشمند شروع کن!\nاز بلک‌جک و کازینو لایو تا پیش‌بینی مسابقات، توی زومابت همیشه یک انتخاب تازه برای هیجان بیشتر منتظرته.\n🃏\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nآماده‌ای؟ وارد شو، بازی موردعلاقه‌تو انتخاب کن و دست اول رو شروع کن!\n🚀",
-        "date": "2026-08-01T17:19:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2864_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2864_1_a999912f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2864"
-      },
-      {
-        "id": 2863,
-        "text": "ترامپ با سربازان امریکایی در نیوجرسی دیدار کرد.  @TweetPublic\n✔️",
-        "date": "2026-08-01T16:17:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2863_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2863_1_7dc60d9d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2863"
       }
     ]
   },
-  "last_update": "2026-08-08T16:17:28.504427+00:00",
+  "last_update": "2026-08-08T16:59:08.376591+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14553,7 +14553,7 @@
     },
     "referenced_files": 1094,
     "existing_media_files": 1093,
-    "total_size_mb": 422.71,
-    "last_calculation": "2026-08-08T16:17:28.517713+00:00"
+    "total_size_mb": 422.7,
+    "last_calculation": "2026-08-08T16:59:08.389894+00:00"
   }
 }
