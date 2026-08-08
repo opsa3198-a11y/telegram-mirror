@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2970,
+        "text": "‏\nترامپ: لاولی ایسلامیک ریپابلیک آف ایران\n!.\n@TweetPublic\n✔️",
+        "date": "2026-08-08T06:32:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2970_0_ef08b12c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2970_1_e8a760e3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2970"
+      },
+      {
         "id": 2969,
         "text": "یه مرد ۲۶ ساله که با لباس عزرائیل از پشت‌بوم بیمارستان به بیمارها زل می‌زد، توسط پلیس دستگیر شد.\n@TweetPublic\n✔️",
         "date": "2026-08-08T05:50:58+00:00",
@@ -14500,40 +14519,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2859"
-      },
-      {
-        "id": 2858,
-        "text": "سفارت خونه های امریکا تو کشور های خاورمیانه همگی هشدار تخلیه دادن به شهروندان امریکایی.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T14:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2858_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2858"
       }
     ]
   },
-  "last_update": "2026-08-08T06:02:34.712088+00:00",
+  "last_update": "2026-08-08T06:53:08.840358+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1089,
-    "total_files": 1089,
+    "total_media": 1090,
+    "total_files": 1090,
     "total_links": 173,
     "files_by_type": {
       "image": 1003,
-      "video": 80,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1089,
-    "existing_media_files": 1088,
-    "total_size_mb": 401.47,
-    "last_calculation": "2026-08-08T06:02:34.725569+00:00"
+    "referenced_files": 1090,
+    "existing_media_files": 1089,
+    "total_size_mb": 404.3,
+    "last_calculation": "2026-08-08T06:53:08.853058+00:00"
   }
 }
