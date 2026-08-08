@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2981,
+        "text": "اون پسره 50 کیلویی تو باشگاه که از شدت لاغری سیکس پک داره و همش جلو آینه لخت میشه فکر میکنه خیلی خفنه\n😂\n😂\n@TweetPublic\n✔️",
+        "date": "2026-08-08T22:47:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2981_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2981_1_8d786381.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2981"
+      },
+      {
         "id": 2980,
         "text": "ویدیو جدید از عروسی رونالدو و جورجینا\n@TweetPublic\n✔️",
         "date": "2026-08-08T21:35:53+00:00",
@@ -14520,40 +14539,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2867"
-      },
-      {
-        "id": 2866,
-        "text": "تهران به کشورهای عربی پیغام فرستاده اگر جلوی جنگ رو نگیرید ٫ کشورهاتون به خاکستر تبدیل میشن\nقطر داره رایزنی میکنه با امریکا\n@TweetPublic\n✔️",
-        "date": "2026-08-01T17:49:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2866_0_e32ea6eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2866"
       }
     ]
   },
-  "last_update": "2026-08-08T22:15:36.718536+00:00",
+  "last_update": "2026-08-08T22:53:12.504007+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1095,
+    "total_files": 1095,
     "total_links": 173,
     "files_by_type": {
-      "image": 1004,
+      "image": 1005,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 430.24,
-    "last_calculation": "2026-08-08T22:15:36.731304+00:00"
+    "referenced_files": 1095,
+    "existing_media_files": 1094,
+    "total_size_mb": 430.31,
+    "last_calculation": "2026-08-08T22:53:12.517433+00:00"
   }
 }
