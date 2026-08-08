@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2977,
+        "text": "🔴\nتو مازندران یه زنه با شلوارک اومده بیرون و یه زن دیگه اومد به زور شلوار پاش کرد:\n@TweetPublic\n✔️",
+        "date": "2026-08-08T13:24:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2977_0_ef08b12c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2977_1_c2f5f9a7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2977"
+      },
+      {
         "id": 2973,
         "text": "🔴\nتسنیم: حمیدرضا رجب‌زاده، مداحی که چند روزی بود گم شده بود، به قتل رسیده و فیلم لحظه قتلش به خانواده‌‌اش ارسال شده، پلیس فعلا داره پیگیری می‌کنه.\nدیروز هم یه کانال تلگرامی مدعی شده که نیروهاش \"حمیدرضا رجب‌زاده\" ، مداحی که دو هفته‌ای هست گم شده بود رو کُشتن!\nعلت قتل رو هم گفتن که این مداح جزو نیروهای سرکوبگر بوده و تو 18-19 دی، تک تیراندازی می‌کرده.\n@TweetPublic\n✔️",
         "date": "2026-08-08T09:49:04+00:00",
@@ -14516,29 +14535,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2863"
-      },
-      {
-        "id": 2862,
-        "text": "ترامپ با سربازان امریکایی در نیوجرسی دیدار کرد.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T16:15:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2862_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2862_1_bb047a22.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2862"
       }
     ]
   },
-  "last_update": "2026-08-08T13:23:54.014646+00:00",
+  "last_update": "2026-08-08T14:03:09.983644+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14553,7 +14553,7 @@
     },
     "referenced_files": 1094,
     "existing_media_files": 1093,
-    "total_size_mb": 420.76,
-    "last_calculation": "2026-08-08T13:23:54.028248+00:00"
+    "total_size_mb": 422.71,
+    "last_calculation": "2026-08-08T14:03:09.996506+00:00"
   }
 }
