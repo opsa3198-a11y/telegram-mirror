@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2982,
+        "text": "❤️\nاین ربات اینستا دانلودر رو یک گوشه داشته باشید که تمامی قابلیت هارو داره از جمله دانلود استوری,دانلود پست و ریلز,دانلود هایلایت کامل و خفن ترینشون اینه آهنگ های پست هارو هم بهتون میده\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
+        "date": "2026-08-08T22:59:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2982_0_37a2e908.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2982"
+      },
+      {
         "id": 2981,
         "text": "اون پسره 50 کیلویی تو باشگاه که از شدت لاغری سیکس پک داره و همش جلو آینه لخت میشه فکر میکنه خیلی خفنه\n😂\n😂\n@TweetPublic\n✔️",
         "date": "2026-08-08T22:47:11+00:00",
@@ -14520,44 +14535,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2868"
-      },
-      {
-        "id": 2867,
-        "text": "🚨\nمرندی عضو تیم مذاکره‌کننده:\nاگه ترامپ امشب حمله کنه، پاسخ کوبنده ایران بلافاصله آغاز میشه. همه مردم باید آماده بشن تا دیکتاتوری‌های خانوادگی جنایتکار تو خلیج فارس رو فورا ترک کنن.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T18:13:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2867_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2867_1_89dcd2a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2867"
       }
     ]
   },
-  "last_update": "2026-08-08T22:53:12.504007+00:00",
+  "last_update": "2026-08-08T23:16:26.374618+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1095,
-    "total_files": 1095,
+    "total_media": 1094,
+    "total_files": 1094,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1004,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1095,
-    "existing_media_files": 1094,
-    "total_size_mb": 430.31,
-    "last_calculation": "2026-08-08T22:53:12.517433+00:00"
+    "referenced_files": 1094,
+    "existing_media_files": 1093,
+    "total_size_mb": 430.26,
+    "last_calculation": "2026-08-08T23:16:26.384872+00:00"
   }
 }
