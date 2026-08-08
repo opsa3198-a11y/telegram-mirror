@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2969,
+        "text": "یه مرد ۲۶ ساله که با لباس عزرائیل از پشت‌بوم بیمارستان به بیمارها زل می‌زد، توسط پلیس دستگیر شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-08T05:50:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2969_0_ef08b12c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2969_1_34428bb0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2969"
+      },
+      {
         "id": 2968,
         "text": "🔴\nپر بازدیدترین ویدیوی اینستاگرام فارسی در ۲۴ساعت اخیر:\nمنم مثل شما کلی سوال دارم.\n@TweetPublic\n✔️",
         "date": "2026-08-07T21:47:03+00:00",
@@ -14496,40 +14515,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2858"
-      },
-      {
-        "id": 2857,
-        "text": "مجلس با رأی اکثریت، وزیر آموزش و پرورش را به استیضاح دعوت کرد.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T14:02:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2857_0_b622303b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2857"
       }
     ]
   },
-  "last_update": "2026-08-08T05:12:38.687373+00:00",
+  "last_update": "2026-08-08T06:02:34.712088+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1089,
+    "total_files": 1089,
     "total_links": 173,
     "files_by_type": {
-      "image": 1002,
+      "image": 1003,
       "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 401.42,
-    "last_calculation": "2026-08-08T05:12:38.694941+00:00"
+    "referenced_files": 1089,
+    "existing_media_files": 1088,
+    "total_size_mb": 401.47,
+    "last_calculation": "2026-08-08T06:02:34.725569+00:00"
   }
 }
