@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 2980,
+        "text": "ویدیو جدید از عروسی رونالدو و جورجینا\n@TweetPublic\n✔️",
+        "date": "2026-08-08T21:35:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2980_0_37a2e908.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2980_1_f9e9a8f3.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2980"
+      },
+      {
         "id": 2979,
         "text": "کاشت ناخن تو کاشان ممنوع شد!\nهر سالن یا آرایشگاه زنونه ای کاشت ناخن انجام بده پلمپ میشه...\n@TweetPublic\n✔️",
         "date": "2026-08-08T16:33:00+00:00",
@@ -14516,29 +14535,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2866"
-      },
-      {
-        "id": 2865,
-        "text": "این زن بخاطر اینکه شوهرش تو صورتش گوزیده با چاقو کشتش بنظرم جون آدمم به گوز بنده :)))\n@TweetPublic\n✔️",
-        "date": "2026-08-01T17:19:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2865_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2865_1_7bbf805e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2865"
       }
     ]
   },
-  "last_update": "2026-08-08T21:18:15.011999+00:00",
+  "last_update": "2026-08-08T21:51:59.273337+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14546,14 +14546,14 @@
     "total_files": 1094,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
-      "video": 83,
+      "image": 1004,
+      "video": 84,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1094,
     "existing_media_files": 1093,
-    "total_size_mb": 422.7,
-    "last_calculation": "2026-08-08T21:18:15.019894+00:00"
+    "total_size_mb": 430.24,
+    "last_calculation": "2026-08-08T21:51:59.284309+00:00"
   }
 }
