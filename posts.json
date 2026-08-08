@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 2984,
+        "text": "دخترا هر روزی که، به pms نزدیکتر می شن :\n@TweetPublic\n✔️",
+        "date": "2026-08-08T23:48:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2984_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2984_1_7650cd95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2984"
+      },
+      {
+        "id": 2983,
+        "text": "🎾\nتوپ تو زمین توئه؛ وقتشه بازی رو شروع کنی!\nاز پیش‌بینی مسابقات ورزشی تا کازینو آنلاین، هر لحظه یه انتخاب تازه و یه هیجان جدید توی زومابت منتظرته.\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nانتخابتو انجام بده و محکم وارد بازی شو!\n🚀",
+        "date": "2026-08-08T23:43:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2983_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2983_1_9d3e63c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2983"
+      },
+      {
         "id": 2982,
         "text": "❤️\nاین ربات اینستا دانلودر رو یک گوشه داشته باشید که تمامی قابلیت هارو داره از جمله دانلود استوری,دانلود پست و ریلز,دانلود هایلایت کامل و خفن ترینشون اینه آهنگ های پست هارو هم بهتون میده\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
         "date": "2026-08-08T22:59:30+00:00",
@@ -14505,55 +14543,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2870"
-      },
-      {
-        "id": 2869,
-        "text": "⏺\nکانال 13 اسرائیل: به گفته میانجی‌ها، احتمال حمله آمریکا به ایران بیش از هر زمان دیگری شده.\nهشدارهای امنیتی اخیر آمریکا به شهروندانش در خاورمیانه نشانه‌های آمادگی برای حمله‌ست؛ مگه اینکه ایران به مذاکرات برگرده.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T21:15:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2869_0_e32ea6eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2869"
-      },
-      {
-        "id": 2868,
-        "text": "المیادین:\nاطلاعاتی وجود داره که تایید میکنه گروه های کُرد دارن توی خاک عراق خودشونو آماده میکنن تا از غرب کشور به ایران حمله کنن.\n@TweetPublic\n✔️",
-        "date": "2026-08-01T21:06:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2868_0_e32ea6eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2868"
       }
     ]
   },
-  "last_update": "2026-08-08T23:16:26.374618+00:00",
+  "last_update": "2026-08-08T23:50:35.834628+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1096,
+    "total_files": 1096,
     "total_links": 173,
     "files_by_type": {
-      "image": 1004,
+      "image": 1006,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 430.26,
-    "last_calculation": "2026-08-08T23:16:26.384872+00:00"
+    "referenced_files": 1096,
+    "existing_media_files": 1095,
+    "total_size_mb": 430.41,
+    "last_calculation": "2026-08-08T23:50:35.847701+00:00"
   }
 }
