@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 2991,
+        "text": "⏺\nوقتی از عثمان دمبله درباره حجاب همسر مسلمانش پرسیدن، گفت:\nراستش منم گاهی ازش خواستم توی جمع صورتش رو نشون بده، اما اون گفت: عثمان، من می‌خوام فقط تو صورت زیبای منو ببینی\n@TweetPublic\n✔️",
+        "date": "2026-08-09T12:29:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2991_0_37a2e908.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2991_1_634b3670.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2991_2_255d6ba1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2991"
+      },
+      {
+        "id": 2990,
+        "text": "🃏\nگاهی یک کارت، همه‌چیز را تغییر می‌دهد...\nجرأت ادامه دادن داری؟\nیا همین حالا بردت را حفظ می‌کنی؟\n♠️\nانتخاب همیشه با توست.\n🎰\nZOMABET.COM",
+        "date": "2026-08-09T12:29:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2990_0_37a2e908.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2990_1_05f54629.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2990"
+      },
+      {
         "id": 2989,
         "text": "قدرت اول منطقه برقمون رو قطع کرد.\n@TweetPublic\n✔️",
         "date": "2026-08-09T10:49:17+00:00",
@@ -14513,59 +14555,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2875"
-      },
-      {
-        "id": 2874,
-        "text": "🔴\nروبیو : این رژیم باید تغییر کنه\nشاید تغییر رژیم اتفاق نیفته، اما رفتار این رژیم باید عوض بشه\nاونا دنبال صدور انقلاب هستن و این هم باید تغییر کنه\n@TweetPublic\n✔️",
-        "date": "2026-08-02T07:34:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2874_0_e32ea6eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2874"
-      },
-      {
-        "id": 2873,
-        "text": "🇺🇸\nترامپ : حمله کنسله و مذاکره میکنیم؛\nآمریکا مسلح و آماده حمله به جمهوری اسلامی ایرانه، با سطح وحشتناک نظامی، قدرت و زوری که از جنگ جهانی دوم به این طرف ندیدیم.\nبا این حال، ایران و چند تا کشور دیگه خاورمیانه ازمون خواستن حمله رو عقب بندازیم چون چارچوب یه توافق رو قبول کردن،\nاین توافق شامل باز شدن فوری، کامل و تمام‌ و کمال تنگه هرمز میشه و تموم شدن تهدید هسته‌ای ایران.\nبر اساس این درخواست، من موافقت کردم برای نفع آینده کل دنیا و همچنین بقای یه ایران موفق و آباد، حمله رو لغو کنم، به شرطی که بتونیم سریع یه معامله ببندیم. کشور اسرائیل هم تو این تعهد با من همراهه.\n@TweetPublic\n✔️",
-        "date": "2026-08-02T02:22:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2873_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2873_1_82241129.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2873"
       }
     ]
   },
-  "last_update": "2026-08-09T12:23:23.807634+00:00",
+  "last_update": "2026-08-09T12:50:36.797961+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1099,
+    "total_files": 1099,
     "total_links": 173,
     "files_by_type": {
-      "image": 1006,
-      "video": 85,
+      "image": 1007,
+      "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 433.09,
-    "last_calculation": "2026-08-09T12:23:23.820519+00:00"
+    "referenced_files": 1099,
+    "existing_media_files": 1098,
+    "total_size_mb": 434.5,
+    "last_calculation": "2026-08-09T12:50:36.811385+00:00"
   }
 }
