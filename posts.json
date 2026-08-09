@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 2994,
+        "text": "با حکم پزشکیان، محسن رضایی به عنوان دبیر شورای عالی امنیت ملی منصوب شد!\n@TweetPublic\n✔️",
+        "date": "2026-08-09T18:39:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2994_0_140dc5f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2994"
+      },
+      {
+        "id": 2993,
+        "text": "گزارش‌ها از وقوع «حادثه امنیتی» در نزدیکی باشگاه گلف ترامپ در نیوجرسی.\nفرماندهی دفاع هوافضای آمریکای شمالی اعلام کرد جنگنده‌های این واحد، دو فروند هواپیما را که به حریم هوایی ممنوعه در نزدیکی باشگاه گلف دونالد ترامپ در بیدمینستر ایالت نیوجرسی وارد شده بودند، رهگیری کردند.\n@TweetPublic\n✔️",
+        "date": "2026-08-09T18:36:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2993_0_140dc5f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2993"
+      },
+      {
         "id": 2991,
         "text": "⏺\nوقتی از عثمان دمبله درباره حجاب همسر مسلمانش پرسیدن، گفت:\nراستش منم گاهی ازش خواستم توی جمع صورتش رو نشون بده، اما اون گفت: عثمان، من می‌خوام فقط تو صورت زیبای منو ببینی\n@TweetPublic\n✔️",
         "date": "2026-08-09T12:29:43+00:00",
@@ -14517,63 +14547,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2877"
-      },
-      {
-        "id": 2876,
-        "text": "🔥\nشروع قوی، با ۵۰ دلار بونوس!\nتو زومابت از پیش‌بینی فوتبال و مسابقات زنده تا بازی‌های کازینو، همه‌چیز برای یه تجربه پرهیجان آماده‌ست.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\n👇\nورود به سایت\n👇",
-        "date": "2026-08-02T12:43:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2876_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2876_1_80fdc6fa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2876"
-      },
-      {
-        "id": 2875,
-        "text": "باراک راوید خبرنگار آکسیوس:\nاعلام لغو حمله توسط ترامپ بار دیگر نشان داد توانایی نتانیاهو برای نفوذ بر رئیس جمهور آمریکا خیلی کاهش یافته است\n@TweetPublic\n✔️",
-        "date": "2026-08-02T07:58:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2875_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2875_1_fa842433.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2875"
       }
     ]
   },
-  "last_update": "2026-08-09T18:21:22.661426+00:00",
+  "last_update": "2026-08-09T18:40:30.210391+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1099,
-    "total_files": 1099,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 173,
     "files_by_type": {
-      "image": 1007,
+      "image": 1005,
       "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1099,
-    "existing_media_files": 1098,
-    "total_size_mb": 434.5,
-    "last_calculation": "2026-08-09T18:21:22.674300+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 434.37,
+    "last_calculation": "2026-08-09T18:40:30.223740+00:00"
   }
 }
