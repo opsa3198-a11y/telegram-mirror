@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 2996,
+        "text": "⏺\nمشاور قالیباف: ترامپ با ما توافق نخواهد کرد\n@TweetPublic\n✔️",
+        "date": "2026-08-09T22:36:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2996_0_140dc5f0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2996"
+      },
+      {
+        "id": 2995,
+        "text": "⚽️\nفکر می‌کنی بازی بعدی رو درست می‌خونی؟\nحدست رو قبل از سوت ثبت کن و هیجان مسابقه رو یه لِول بالاتر ببر.\n🔥\nتوی زومابت، فوتبال، پیش‌بینی زنده و بازی‌های کازینو همه یه‌جا منتظرته.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100٪ کریپتو | 30٪ تومانی\nببینیم پیش‌بینیت چقدر خوبه!\n👀",
+        "date": "2026-08-09T22:35:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2995_0_140dc5f0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2995_1_1e0803eb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2995"
+      },
+      {
         "id": 2994,
         "text": "با حکم پزشکیان، محسن رضایی به عنوان دبیر شورای عالی امنیت ملی منصوب شد!\n@TweetPublic\n✔️",
         "date": "2026-08-09T18:39:00+00:00",
@@ -14509,63 +14543,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2879"
-      },
-      {
-        "id": 2878,
-        "text": "@TweetPublic\n✔️",
-        "date": "2026-08-02T15:17:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2878_0_3053f9a6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2878_1_ffff13fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2878"
-      },
-      {
-        "id": 2877,
-        "text": "هوش مصنوعی گروک:\nاز زمان آغاز جنگ با ایران، ترامپ حداقل 10 بار از تهدید خود عقب‌نشینی کرده و حملاتش به ایران را لغو کرده است!\n@TweetPublic\n✔️",
-        "date": "2026-08-02T12:45:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2877_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2877_1_0ef6048e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2877"
       }
     ]
   },
-  "last_update": "2026-08-09T22:19:01.483777+00:00",
+  "last_update": "2026-08-09T22:56:07.092050+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1096,
+    "total_files": 1096,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1004,
       "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 434.37,
-    "last_calculation": "2026-08-09T22:19:01.497124+00:00"
+    "referenced_files": 1096,
+    "existing_media_files": 1095,
+    "total_size_mb": 434.31,
+    "last_calculation": "2026-08-09T22:56:07.105219+00:00"
   }
 }
