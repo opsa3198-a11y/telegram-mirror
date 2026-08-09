@@ -12703,6 +12703,37 @@
     ],
     "TweetPublic": [
       {
+        "id": 2985,
+        "text": "🔴\nشاید باورتون نشه ولی تو اینستاگرام خبر اینکه رونالدو تاریخ عروسیش رو بخاطر فوت پدر مسی عقب انداخته رو جدی گرفتن و همگی دارن میگن دمش گرم\n🖤\nیکی هم اون وسط معتقده که \"منبع مهم نيس شک نکنید رونالدو این کارو میکنه...\"\n@TweetPublic\n✔️",
+        "date": "2026-08-09T07:13:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2985_0_37a2e908.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_2985_1_01df358a.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2985_2_3825786c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2985_3_e3c4bb65.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_2985_4_12482ad6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2985"
+      },
+      {
         "id": 2984,
         "text": "دخترا هر روزی که، به pms نزدیکتر می شن :\n@TweetPublic\n✔️",
         "date": "2026-08-08T23:48:51+00:00",
@@ -14524,44 +14555,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2871"
-      },
-      {
-        "id": 2870,
-        "text": "🎙️\nفوتبال، فقط ۹۰ دقیقه نیست...\nهیجان، از اولین پیش‌بینی شروع می‌شود.\nاز مسابقات زنده تا بازی‌های کازینو، همه‌چیز در یک مقصد جمع شده است.\n🔥\nزومابت؛ جایی که هیجان هیچ‌وقت تمام نمی‌شود.\n⚽️\nZOMABET.COM",
-        "date": "2026-08-01T22:25:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2870_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2870_1_7ffc2bf6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2870"
       }
     ]
   },
-  "last_update": "2026-08-09T06:56:56.194886+00:00",
+  "last_update": "2026-08-09T07:28:45.332731+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1096,
-    "total_files": 1096,
+    "total_media": 1099,
+    "total_files": 1099,
     "total_links": 173,
     "files_by_type": {
-      "image": 1006,
-      "video": 84,
+      "image": 1008,
+      "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1096,
-    "existing_media_files": 1095,
-    "total_size_mb": 430.41,
-    "last_calculation": "2026-08-09T06:56:56.205318+00:00"
+    "referenced_files": 1099,
+    "existing_media_files": 1098,
+    "total_size_mb": 433.4,
+    "last_calculation": "2026-08-09T07:28:45.345790+00:00"
   }
 }
