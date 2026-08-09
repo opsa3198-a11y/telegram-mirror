@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 2989,
+        "text": "قدرت اول منطقه برقمون رو قطع کرد.\n@TweetPublic\n✔️",
+        "date": "2026-08-09T10:49:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_2989_0_37a2e908.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/2989"
+      },
+      {
         "id": 2985,
         "text": "🔴\nشاید باورتون نشه ولی تو اینستاگرام خبر اینکه رونالدو تاریخ عروسیش رو بخاطر فوت پدر مسی عقب انداخته رو جدی گرفتن و همگی دارن میگن دمش گرم\n🖤\nیکی هم اون وسط معتقده که \"منبع مهم نيس شک نکنید رونالدو این کارو میکنه...\"\n@TweetPublic\n✔️",
         "date": "2026-08-09T07:13:21+00:00",
@@ -14532,48 +14547,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2873"
-      },
-      {
-        "id": 2871,
-        "text": "تو نیجریه عروس تا وقتی پولی که موقع عروسی بهش میدن به نظرش کافی و منصفانه نباشه، لبخند نمی‌زنه!\n@TweetPublic\n✔️",
-        "date": "2026-08-01T22:25:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2871_0_e32ea6eb.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2871_1_6d04ba29.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2871_2_f77c0199.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2871"
       }
     ]
   },
-  "last_update": "2026-08-09T10:01:46.995308+00:00",
+  "last_update": "2026-08-09T10:58:25.021684+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1099,
-    "total_files": 1099,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 173,
     "files_by_type": {
-      "image": 1008,
+      "image": 1006,
       "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1099,
-    "existing_media_files": 1098,
-    "total_size_mb": 433.4,
-    "last_calculation": "2026-08-09T10:01:47.008250+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 433.09,
+    "last_calculation": "2026-08-09T10:58:25.034805+00:00"
   }
 }
