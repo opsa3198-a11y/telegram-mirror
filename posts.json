@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3002,
+        "text": "با حکم سید مجتبی خامنه‌ای، علی عبداللهی فرمانده ستاد کل، احمد وحیدی فرمانده کل سپاه، کیومرث حیدری جانشین رئیس ستاد کل، ایزدی جانشین فرماندهی سپاه، عظمایی فرمانده نیرو دریایی سپاه و طائب رئیس بسیج شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-10T15:53:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3002_0_4973e1d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3002"
+      },
+      {
         "id": 3001,
         "text": "ترجمه و دوبله دقیق از صداسیما\n👌\n@TweetPublic\n✔️",
         "date": "2026-08-10T12:24:48+00:00",
@@ -14532,25 +14547,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2884"
-      },
-      {
-        "id": 2883,
-        "text": "اختلال گسترده‌ای روی اینترنت به‌وجود اومده!\nبه نظر می‌رسه روتینگ داخلی بعضی اپراتورها تغییر کرده؛ قبلاً ترافیک از مسیر آذربایجان عبور می‌کرد، اما الان در برخی بررسی‌ها به آلمان منتقل شده.\n@TweetPublic\n✔️",
-        "date": "2026-08-02T21:07:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2883_0_3053f9a6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2883"
       }
     ]
   },
-  "last_update": "2026-08-10T15:30:18.282573+00:00",
+  "last_update": "2026-08-10T16:18:25.250466+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14566,6 +14566,6 @@
     "referenced_files": 1097,
     "existing_media_files": 1096,
     "total_size_mb": 433.35,
-    "last_calculation": "2026-08-10T15:30:18.290092+00:00"
+    "last_calculation": "2026-08-10T16:18:25.263636+00:00"
   }
 }
