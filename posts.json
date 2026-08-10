@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3003,
+        "text": "وقتی بهش گفتی هیچی از سوپرمارکت نمیخوای و واقعا هیچی نخریده\n@TweetPublic\n✔️",
+        "date": "2026-08-10T17:52:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3003_0_4973e1d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3003_1_0e960ed8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3003"
+      },
+      {
         "id": 3002,
         "text": "با حکم سید مجتبی خامنه‌ای، علی عبداللهی فرمانده ستاد کل، احمد وحیدی فرمانده کل سپاه، کیومرث حیدری جانشین رئیس ستاد کل، ایزدی جانشین فرماندهی سپاه، عظمایی فرمانده نیرو دریایی سپاه و طائب رئیس بسیج شد.\n@TweetPublic\n✔️",
         "date": "2026-08-10T15:53:53+00:00",
@@ -14532,40 +14551,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2885"
-      },
-      {
-        "id": 2884,
-        "text": "🔴\nفوری ترامپ: فردا بعد از ظهر مذاکرات با ایران آغاز می‌شود.\n@TweetPublic\n✔️",
-        "date": "2026-08-02T22:07:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2884_0_3053f9a6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2884"
       }
     ]
   },
-  "last_update": "2026-08-10T17:14:52.175603+00:00",
+  "last_update": "2026-08-10T18:09:42.972038+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1098,
+    "total_files": 1098,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1006,
       "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 433.35,
-    "last_calculation": "2026-08-10T17:14:52.188751+00:00"
+    "referenced_files": 1098,
+    "existing_media_files": 1097,
+    "total_size_mb": 433.42,
+    "last_calculation": "2026-08-10T18:09:42.985381+00:00"
   }
 }
