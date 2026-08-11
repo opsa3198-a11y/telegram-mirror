@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3009,
+        "text": "قلعه نویی: پاداش 70 میلیاردی در مقایسه با سرمربی‌های دیگه ناچیزه\n🔴\nمهم این بود افتخار آفرینی کردیم\n@TweetPublic\n✔️",
+        "date": "2026-08-11T04:20:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3009_0_4973e1d6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3009"
+      },
+      {
         "id": 3007,
         "text": "توی ایسلند یه زن از شوهرش به‌خاطر زود ارضا شدن شکایت می‌کنه. دادگاه هم برای بررسی ماجرا یه نفر رو می‌فرسته که رابطه‌شون رو بررسی کنه و طرف بعد از تحقیقات می‌بینه بله، آقا حدود 2 دقیقه‌ای کارش تموم میشه و دادگاه هم حکم میده 70 هزار یورو غرامت پرداخت کنه.\n@TweetPublic\n✔️",
         "date": "2026-08-10T22:12:16+00:00",
@@ -14528,44 +14543,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2891"
-      },
-      {
-        "id": 2889,
-        "text": "عکس چنگیز کص کون کنار سیدورف\n@TweetPublic\n✔️",
-        "date": "2026-08-03T08:10:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2889_0_3053f9a6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2889_1_96eac36b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2889"
       }
     ]
   },
-  "last_update": "2026-08-11T03:24:23.486554+00:00",
+  "last_update": "2026-08-11T04:45:42.423378+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1096,
+    "total_files": 1096,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1004,
       "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 427.13,
-    "last_calculation": "2026-08-11T03:24:23.499239+00:00"
+    "referenced_files": 1096,
+    "existing_media_files": 1095,
+    "total_size_mb": 427.04,
+    "last_calculation": "2026-08-11T04:45:42.436280+00:00"
   }
 }
