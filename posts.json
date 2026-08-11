@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3013,
+        "text": "بی حیا شدن\n@TweetPublic\n✔️",
+        "date": "2026-08-11T10:44:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3013_0_4973e1d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3013_1_8e0acc94.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3013"
+      },
+      {
         "id": 3012,
         "text": "پلیس مردی رو که\n8\nگوسفند رو دزدیده بود توسط پلیس امنیت مشهد دستگیر شد\nیه مرد توی مشهد که تولدش بوده، روز تولد میره 8 تا گوسفند میدزده میاره خونه قربونی میکنه همشو میپزه درست میکنه زنگ میزنه کل فک و فامیل و رفیقاشو دعوت میکنه و همه رو شام میده\n😂\n😂\n😂\n😂\n😂\n😂\n😂\n@TweetPublic\n✔️",
         "date": "2026-08-11T09:35:18+00:00",
@@ -14532,40 +14551,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2895"
-      },
-      {
-        "id": 2894,
-        "text": "المیادین به نقل از یک منبع ایرانی: ایالات متحده در موضوع مربوط به بسته ماندن مسیر جنوبی در تنگه هرمز، امتیازی به ایران ارائه کرده است\n🔴\nایران در پاسخ به آخرین پیشنهاد آمریکا، با رد این پیشنهاد اعلام کرده است که تا پایان کامل جنگ، تنگه هرمز را باز نخواهد کرد\n@TweetPublic\n✔️",
-        "date": "2026-08-03T13:17:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2894_0_3053f9a6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2894"
       }
     ]
   },
-  "last_update": "2026-08-11T10:23:03.552241+00:00",
+  "last_update": "2026-08-11T11:10:45.808013+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1098,
+    "total_files": 1098,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1006,
       "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 427.13,
-    "last_calculation": "2026-08-11T10:23:03.565245+00:00"
+    "referenced_files": 1098,
+    "existing_media_files": 1097,
+    "total_size_mb": 427.2,
+    "last_calculation": "2026-08-11T11:10:45.817882+00:00"
   }
 }
