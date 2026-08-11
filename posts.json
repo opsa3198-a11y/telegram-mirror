@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3015,
+        "text": "این آقای آمریکایی مچ دوست دخترش رو موقع خیانت گرفته و برای انتقام، عکس\nساک زدن\nدختره رو روی تی‌شرتش چاپ کرده و رفته محل کار دختره.\n@TweetPublic\n✔️",
+        "date": "2026-08-11T12:47:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3015_0_4973e1d6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3015_1_c863fbbb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3015"
+      },
+      {
         "id": 3014,
         "text": "کافیه کلمه\n/direct\nرو به ربات زیر بفرستی تا هرچی توی اینستاگرام دیدی بدون نیاز به کپی لینک توی تلگرام تحویل بگیری\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
         "date": "2026-08-11T11:14:56+00:00",
@@ -14532,29 +14551,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2897"
-      },
-      {
-        "id": 2896,
-        "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-03T14:59:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2896_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2896_1_2ebb4544.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2896"
       }
     ]
   },
-  "last_update": "2026-08-11T12:03:33.935769+00:00",
+  "last_update": "2026-08-11T13:05:07.940011+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14569,7 +14569,7 @@
     },
     "referenced_files": 1098,
     "existing_media_files": 1097,
-    "total_size_mb": 427.2,
-    "last_calculation": "2026-08-11T12:03:33.949104+00:00"
+    "total_size_mb": 427.18,
+    "last_calculation": "2026-08-11T13:05:07.949587+00:00"
   }
 }
