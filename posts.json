@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3021,
+        "text": "‏چجوریه گربه‌ها نه گوشی دارن، نه کامیونیتی؛ ولی کل اینستاگرام و تایملاین دست اوناست؟\n@TweetPublic\n✔️",
+        "date": "2026-08-12T08:10:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3021_0_65013841.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3021"
+      },
+      {
         "id": 3020,
         "text": "با این ربات دیگه نیاز نیست بخاطر ریلز پست یه فیلم به\nکسکشی\nبیوفتی\nکه بری توی گروه صیغه یابی و فروش پکیج و کریپتو و آهنگ عضو بشی تا یه ریلز از اینستا دانلود کنی\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
         "date": "2026-08-12T07:55:04+00:00",
@@ -14520,48 +14535,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2903"
-      },
-      {
-        "id": 2901,
-        "text": "🛑\nدرگیری بین زوار ایرانی و دسته صادق شیرازی\nقضیه از این قراره که دو شب پیش بین زائرین ایرانی که رفتن کربلا برای زیارت و گروه منتسب به صادق شیرازی درگیری رخ داده که نیروهای امنیتی عراق وارد این درگیری شدن و حدود ۱۰۰ نفر بازداشت و مصدوم شدند.\n@TweetPublic\n✔️",
-        "date": "2026-08-03T21:42:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2901_0_366bc649.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2901_1_78892efb.mp4"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2901_2_d6ffde09.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2901"
       }
     ]
   },
-  "last_update": "2026-08-12T08:07:51.819641+00:00",
+  "last_update": "2026-08-12T09:35:58.928448+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1096,
-    "total_files": 1096,
+    "total_media": 1094,
+    "total_files": 1094,
     "total_links": 173,
     "files_by_type": {
       "image": 1005,
-      "video": 85,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1096,
-    "existing_media_files": 1095,
-    "total_size_mb": 424.92,
-    "last_calculation": "2026-08-12T08:07:51.832355+00:00"
+    "referenced_files": 1094,
+    "existing_media_files": 1093,
+    "total_size_mb": 418.08,
+    "last_calculation": "2026-08-12T09:35:58.941639+00:00"
   }
 }
