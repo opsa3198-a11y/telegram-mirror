@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3020,
+        "text": "با این ربات دیگه نیاز نیست بخاطر ریلز پست یه فیلم به\nکسکشی\nبیوفتی\nکه بری توی گروه صیغه یابی و فروش پکیج و کریپتو و آهنگ عضو بشی تا یه ریلز از اینستا دانلود کنی\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
+        "date": "2026-08-12T07:55:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3020_0_65013841.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3020"
+      },
+      {
         "id": 3019,
         "text": "تو کتاب «ازدواج بدون شکست»\nیه جمله خیلی قشنگ هست که میگه:\n\"لطفاً وقتی عصبانی یا ناراحتی،\nفراموش نکن دوستت دارم؛\nمن حتی وسط دعوا هم پناهم خودتی\nو به مهربونیت نیاز دارم\"\n👤\nویلیام گلاسر\n@TweetPublic\n✔️",
         "date": "2026-08-11T23:30:29+00:00",
@@ -14528,44 +14543,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2901"
-      },
-      {
-        "id": 2900,
-        "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.  @TweetPublic\n✔️",
-        "date": "2026-08-03T21:10:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2900_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2900_1_96adf20a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2900"
       }
     ]
   },
-  "last_update": "2026-08-12T07:24:44.853350+00:00",
+  "last_update": "2026-08-12T08:07:51.819641+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1096,
+    "total_files": 1096,
     "total_links": 173,
     "files_by_type": {
-      "image": 1006,
+      "image": 1005,
       "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 424.93,
-    "last_calculation": "2026-08-12T07:24:44.866240+00:00"
+    "referenced_files": 1096,
+    "existing_media_files": 1095,
+    "total_size_mb": 424.92,
+    "last_calculation": "2026-08-12T08:07:51.832355+00:00"
   }
 }
