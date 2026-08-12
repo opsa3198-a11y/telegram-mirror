@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3026,
+        "text": "🔹\nفوری، معاون استاندار کرمان: از امشب قیمت هر لیتر بنزین آزاد توی استان کرمان، 87 هزار تومنه\n🫪\n@TweetPublic\n✔️",
+        "date": "2026-08-12T17:14:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3026_0_37468e79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3026"
+      },
+      {
         "id": 3025,
         "text": "🔴\nترامپ: فکر می‌کنم کنترل تنگه هرمز را حفظ خواهیم کرد و تنها چیزی که ایران دارد فیک نیوز و یک تورم 300 درصدی است؛ الحمدلله!\n@TweetPublic\n✔️",
         "date": "2026-08-12T14:43:16+00:00",
@@ -14506,44 +14521,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2910"
-      },
-      {
-        "id": 2909,
-        "text": "یه ویدیو سم براتون اوردم از یه نمونه گرایش خودجنس گرایی یا همون اتوسکشوال:\n+حالا یعنی چی؟!\nیعنی طرف با اندام های جنسی خودش تحریک میشه و اینجوری کسخلیش درمیره.\n@TweetPublic\n✔️",
-        "date": "2026-08-04T08:37:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2909_0_366bc649.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2909_1_32d24e0c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2909"
       }
     ]
   },
-  "last_update": "2026-08-12T16:15:17.354417+00:00",
+  "last_update": "2026-08-12T17:24:32.988763+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1093,
-    "total_files": 1093,
+    "total_media": 1092,
+    "total_files": 1092,
     "total_links": 172,
     "files_by_type": {
       "image": 1004,
-      "video": 83,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1093,
-    "existing_media_files": 1092,
-    "total_size_mb": 419.53,
-    "last_calculation": "2026-08-12T16:15:17.367711+00:00"
+    "referenced_files": 1092,
+    "existing_media_files": 1091,
+    "total_size_mb": 417.73,
+    "last_calculation": "2026-08-12T17:24:33.001583+00:00"
   }
 }
