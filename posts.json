@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3023,
+        "text": "این آقا پسر توی روز سوم کاریش با رئیسش خوابیده و به دستیار مدیر ترفیع گرفته.\n@TweetPublic\n✔️",
+        "date": "2026-08-12T09:57:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3023_0_65013841.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3023_1_b78ede8f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3023"
+      },
+      {
+        "id": 3022,
+        "text": "️\n💵\nبازی رو هوشمند شروع کن!\nاز بلک‌جک و کازینو لایو تا پیش‌بینی مسابقات، توی زومابت همیشه یک انتخاب تازه برای هیجان بیشتر منتظرته.\n🃏\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nآماده‌ای؟ وارد شو، بازی موردعلاقه‌تو انتخاب کن و دست اول رو شروع کن!\n🚀",
+        "date": "2026-08-12T09:57:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3022_0_65013841.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3022_1_e2f0bfcf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3022"
+      },
+      {
         "id": 3021,
         "text": "‏چجوریه گربه‌ها نه گوشی دارن، نه کامیونیتی؛ ولی کل اینستاگرام و تایملاین دست اوناست؟\n@TweetPublic\n✔️",
         "date": "2026-08-12T08:10:41+00:00",
@@ -14501,59 +14539,25 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/2905"
-      },
-      {
-        "id": 2904,
-        "text": "من اگه میدونستم باید شوخیمو بهت توضیح بدم اصلا باهات شوخی نمیکردم آخه\n@TweetPublic\n✔️",
-        "date": "2026-08-03T23:50:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2904_0_366bc649.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2904"
-      },
-      {
-        "id": 2903,
-        "text": "🎾\nتوپ تو زمین توئه؛ وقتشه بازی رو شروع کنی!\nاز پیش‌بینی مسابقات ورزشی تا کازینو آنلاین، هر لحظه یه انتخاب تازه و یه هیجان جدید توی زومابت منتظرته.\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nانتخابتو انجام بده و محکم وارد بازی شو!\n🚀",
-        "date": "2026-08-03T23:49:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2903_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2903_1_a10fc76d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2903"
       }
     ]
   },
-  "last_update": "2026-08-12T09:35:58.928448+00:00",
+  "last_update": "2026-08-12T10:48:58.237651+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1095,
+    "total_files": 1095,
     "total_links": 173,
     "files_by_type": {
-      "image": 1005,
+      "image": 1006,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 418.08,
-    "last_calculation": "2026-08-12T09:35:58.941639+00:00"
+    "referenced_files": 1095,
+    "existing_media_files": 1094,
+    "total_size_mb": 418.15,
+    "last_calculation": "2026-08-12T10:48:58.250595+00:00"
   }
 }
