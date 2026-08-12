@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3025,
+        "text": "🔴\nترامپ: فکر می‌کنم کنترل تنگه هرمز را حفظ خواهیم کرد و تنها چیزی که ایران دارد فیک نیوز و یک تورم 300 درصدی است؛ الحمدلله!\n@TweetPublic\n✔️",
+        "date": "2026-08-12T14:43:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3025_0_37468e79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3025_1_cf4e7720.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3025"
+      },
+      {
         "id": 3024,
         "text": "اینایی که کارشون قلنج شکوندنه دارن به جاهای خطرناکی میرن ؛\nیکیشون اومده قلنج\nکون\nداره میشکونه\n😐\n@TweetPublic\n✔️",
         "date": "2026-08-12T13:40:50+00:00",
@@ -14506,29 +14525,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2909"
-      },
-      {
-        "id": 2908,
-        "text": "همه زن‌ها مثل همن، فرقی نمی‌کنه چه نوعی باشن.\n😂\n@TweetPublic\n✔\n️",
-        "date": "2026-08-04T06:37:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2908_0_366bc649.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2908_1_11ffe5c9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2908"
       }
     ]
   },
-  "last_update": "2026-08-12T14:10:55.559809+00:00",
+  "last_update": "2026-08-12T15:26:16.704853+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14536,14 +14536,14 @@
     "total_files": 1093,
     "total_links": 172,
     "files_by_type": {
-      "image": 1003,
-      "video": 84,
+      "image": 1004,
+      "video": 83,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1093,
     "existing_media_files": 1092,
-    "total_size_mb": 419.86,
-    "last_calculation": "2026-08-12T14:10:55.572838+00:00"
+    "total_size_mb": 419.53,
+    "last_calculation": "2026-08-12T15:26:16.718178+00:00"
   }
 }
