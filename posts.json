@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3019,
+        "text": "تو کتاب «ازدواج بدون شکست»\nیه جمله خیلی قشنگ هست که میگه:\n\"لطفاً وقتی عصبانی یا ناراحتی،\nفراموش نکن دوستت دارم؛\nمن حتی وسط دعوا هم پناهم خودتی\nو به مهربونیت نیاز دارم\"\n👤\nویلیام گلاسر\n@TweetPublic\n✔️",
+        "date": "2026-08-11T23:30:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3019_0_65013841.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3019"
+      },
+      {
+        "id": 3018,
+        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتشه وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
+        "date": "2026-08-11T23:30:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3018_0_65013841.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3018_1_47ca604e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3018"
+      },
+      {
         "id": 3016,
         "text": "این کشاورز احمق توی کلمبیا، موقع کار 600 میلیون دلار از توی زمین پیدا کرده و همشو تحویل پلیس داده.\nگفته میشه این پول‌ها مربوط به بخشی از ثروت پابلو اسکوبار بوده که داخل بشکه های پلاستیکی مخفی شده بودن.\nبا این پول میشد ۳۰ تا جزیره یا ۳۰۰ تا پنت هاوس در بهترین جای آمریکا خرید.\n@TweetPublic\n✔️",
         "date": "2026-08-11T20:16:38+00:00",
@@ -14513,67 +14547,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2900"
-      },
-      {
-        "id": 2899,
-        "text": "🔴\nنيروي انتظامي تهران یه دختر پسره رو توی پارک با گزارشات همسایه دستگیر کردن.\nگویا این دختر پسر هر روز میومدن پارک؛ دختره به پاهاش کیک میمالیده و پسره پاهاشو می‌خورده و فیلم فوت فیتیش\n🔞\nضبط میکردن.\n@TweetPublic\n✔️",
-        "date": "2026-08-03T20:08:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2899_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2899_1_5272f6e7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2899"
-      },
-      {
-        "id": 2898,
-        "text": "امیر و رهام، خواننده‌های گروه ماکان بند از هم جدا شدن و این گروه منحل شد.  @TweetPublic\n✔️",
-        "date": "2026-08-03T18:04:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2898_0_366bc649.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2898_1_fd1b5018.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2898_2_e4518234.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2898"
       }
     ]
   },
-  "last_update": "2026-08-11T23:11:51.267371+00:00",
+  "last_update": "2026-08-12T00:05:12.821099+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1099,
-    "total_files": 1099,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 173,
     "files_by_type": {
-      "image": 1007,
-      "video": 86,
+      "image": 1006,
+      "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1099,
-    "existing_media_files": 1098,
-    "total_size_mb": 427.33,
-    "last_calculation": "2026-08-11T23:11:51.275989+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 424.93,
+    "last_calculation": "2026-08-12T00:05:12.834103+00:00"
   }
 }
