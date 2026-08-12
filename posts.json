@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3028,
+        "text": "من وقتی میبینم رفیقم داره با یکی صمیمی میشه:\n@TweetPublic\n✔️",
+        "date": "2026-08-12T17:53:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3028_0_37468e79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3028_1_f827e1e4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3028"
+      },
+      {
+        "id": 3027,
+        "text": "♠️\nگاهی فقط یک انتخاب...\nسرنوشت بازی را تغییر می‌دهد.\nبالا یا پایین؛\nتصمیم با توست...\n🎯\nجرأت انتخاب داری؟\n🎰\nZOMABET.COM",
+        "date": "2026-08-12T17:50:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3027_0_37468e79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3027_1_d7f18ba3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3027"
+      },
+      {
         "id": 3026,
         "text": "🔹\nفوری، معاون استاندار کرمان: از امشب قیمت هر لیتر بنزین آزاد توی استان کرمان، 87 هزار تومنه\n🫪\n@TweetPublic\n✔️",
         "date": "2026-08-12T17:14:27+00:00",
@@ -14483,48 +14521,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2912"
-      },
-      {
-        "id": 2911,
-        "text": "علم واقعا پیشرفت کرده\n😂\n😂\nچین با تکنولوژی هوش مصنوعی اومده یه سوتین ساخته که باز شدنش فقط با اثر انگشت شوهر صورت میگیره .\n@TweetPublic\n✔️",
-        "date": "2026-08-04T09:51:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2911_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2911_1_a9957ad4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2911"
-      },
-      {
-        "id": 2910,
-        "text": "🃏\nگاهی یک کارت، همه‌چیز را تغییر می‌دهد...\nجرأت ادامه دادن داری؟\nیا همین حالا بردت را حفظ می‌کنی؟\n♠️\nانتخاب همیشه با توست.\n🎰\nZOMABET.COM",
-        "date": "2026-08-04T09:50:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2910_0_366bc649.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2910_1_e48dee78.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2910"
       }
     ]
   },
-  "last_update": "2026-08-12T17:24:32.988763+00:00",
+  "last_update": "2026-08-12T18:13:13.535018+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14539,7 +14539,7 @@
     },
     "referenced_files": 1092,
     "existing_media_files": 1091,
-    "total_size_mb": 417.73,
-    "last_calculation": "2026-08-12T17:24:33.001583+00:00"
+    "total_size_mb": 417.71,
+    "last_calculation": "2026-08-12T18:13:13.547783+00:00"
   }
 }
