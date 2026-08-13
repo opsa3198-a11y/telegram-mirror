@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3037,
+        "text": "دستگیری فردی که کامنت جاویدشاه گذاشته بوده..\nرسانه های داخلی با انتشار این پست اعلام کردن که کامنت گذاشتن و لایک کردن پستای رضا پهلوی و اینترنشنال و... جرمه و کسایی که اینکارو بکنن دستگیر میشن.\n@TweetPublic\n✔️",
+        "date": "2026-08-13T18:07:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3037_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3037_1_4446e2b1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3037"
+      },
+      {
+        "id": 3036,
+        "text": "🎁\nبعضی هدیه‌ها را باید خودت باز کنی…\nدر زومابت، هر ثبت‌نام می‌تواند شروع یک سورپرایز باشد.\n🎉\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\nهدیه‌ات منتظر توست…\n✨\n💰\nZOMABET.COM",
+        "date": "2026-08-13T18:06:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3036_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3036_1_f0d6f9c2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3036"
+      },
+      {
         "id": 3035,
         "text": "آخرش به غیر منتظره ترین شکل تموم شد.\n@TweetPublic\n✔️",
         "date": "2026-08-13T17:09:26+00:00",
@@ -14491,59 +14529,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2926"
-      },
-      {
-        "id": 2925,
-        "text": "🔴\nپلیس های عراق از یه فرد ایرانی تو کربلا یه کیف پر کاندوم گرفتن:\n+رفتی کربلا زیارت یا طقه زنی./البته طبق گفته دوستانی که رفتن اونجا از این خبرا خیلی زیاد بود\n@TweetPublic\n✔️",
-        "date": "2026-08-04T20:42:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2925_0_ff8d7306.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2925_1_63ce02ac.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2925"
-      },
-      {
-        "id": 2924,
-        "text": "مراد ویسی:\nجمهوری اسلامی دریای خزر رو فروخت رفت!در تازه‌ترین قرارداد جمهوری اسلامی دریای خزر رو تقدیم روسیه کرده و یواشکی دارن میبرن مجلس و تصویبش کنن.سهم ایران فقط به 11 درصد رسیده.\n@TweetPublic\n✔️",
-        "date": "2026-08-04T20:06:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2924_0_ff8d7306.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2924"
       }
     ]
   },
-  "last_update": "2026-08-13T17:25:22.073500+00:00",
+  "last_update": "2026-08-13T18:13:51.029958+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1093,
-    "total_files": 1093,
+    "total_media": 1094,
+    "total_files": 1094,
     "total_links": 172,
     "files_by_type": {
-      "image": 1004,
+      "image": 1005,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1093,
-    "existing_media_files": 1092,
-    "total_size_mb": 420.05,
-    "last_calculation": "2026-08-13T17:25:22.083426+00:00"
+    "referenced_files": 1094,
+    "existing_media_files": 1093,
+    "total_size_mb": 420.8,
+    "last_calculation": "2026-08-13T18:13:51.042894+00:00"
   }
 }
