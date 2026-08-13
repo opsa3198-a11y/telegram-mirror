@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3034,
+        "text": "كسى كه زود سين ميزنه يه حس خوبى بهت ميده يه حسى كه يعنى مزاحم نيستى، خوشحالم كه پيام دادى، منتظر پيامت بودم،\nهمينقدر قشنگ.\n@TweetPublic\n✔️",
+        "date": "2026-08-13T12:36:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3034_0_37468e79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3034"
+      },
+      {
         "id": 3033,
         "text": "🔴\nپسره به دوست دخترش دوتا النگو داده گفته برات طلا خریدم، حالا بعد از چند وقت رابطشون تموم شده دختره اومده طلاهارو بفروشه یه پولی بیاد دستش میبینه النگو ها بدلن:\n@TweetPublic\n✔️",
         "date": "2026-08-13T10:25:37+00:00",
@@ -14506,44 +14521,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2923"
-      },
-      {
-        "id": 2922,
-        "text": "طی یه حرکت غافلگیرانه اپلیکیشن بله وارد اپ استور شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-04T18:57:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2922_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2922_1_d9e48009.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2922"
       }
     ]
   },
-  "last_update": "2026-08-13T11:37:05.557379+00:00",
+  "last_update": "2026-08-13T12:39:59.930280+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1093,
-    "total_files": 1093,
+    "total_media": 1092,
+    "total_files": 1092,
     "total_links": 172,
     "files_by_type": {
-      "image": 1004,
+      "image": 1003,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1093,
-    "existing_media_files": 1092,
-    "total_size_mb": 420.05,
-    "last_calculation": "2026-08-13T11:37:05.570455+00:00"
+    "referenced_files": 1092,
+    "existing_media_files": 1091,
+    "total_size_mb": 420.01,
+    "last_calculation": "2026-08-13T12:39:59.943950+00:00"
   }
 }
