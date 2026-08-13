@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3038,
+        "text": "امروز 14 آگوست، تولد 13 سالگی تلگرامه.\nبا اینکه چند سالی میشه تلگرام مثل قدیم دیگه جذابیتی نداره، ولی همچنان بهترین اپلیکشن دنیاست\n@TweetPublic\n✔️",
+        "date": "2026-08-13T20:56:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3038_0_c27f1fe1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3038"
+      },
+      {
         "id": 3037,
         "text": "دستگیری فردی که کامنت جاویدشاه گذاشته بوده..\nرسانه های داخلی با انتشار این پست اعلام کردن که کامنت گذاشتن و لایک کردن پستای رضا پهلوی و اینترنشنال و... جرمه و کسایی که اینکارو بکنن دستگیر میشن.\n@TweetPublic\n✔️",
         "date": "2026-08-13T18:07:22+00:00",
@@ -14510,44 +14525,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2927"
-      },
-      {
-        "id": 2926,
-        "text": "🔥\nحرکت بعدی می‌تونه همه‌چی رو عوض کنه!\nتوی زومابت، از پیش‌بینی مسابقات زنده تا هیجان بازی‌های کازینو، هر لحظه یه انتخاب تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\n♟️\nصفحه چیده شده؛ حالا نوبت حرکت توئه!",
-        "date": "2026-08-04T22:52:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2926_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2926_1_40b81683.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2926"
       }
     ]
   },
-  "last_update": "2026-08-13T20:27:42.866601+00:00",
+  "last_update": "2026-08-13T21:12:27.863383+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1093,
+    "total_files": 1093,
     "total_links": 172,
     "files_by_type": {
-      "image": 1005,
+      "image": 1004,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 420.8,
-    "last_calculation": "2026-08-13T20:27:42.880337+00:00"
+    "referenced_files": 1093,
+    "existing_media_files": 1092,
+    "total_size_mb": 420.71,
+    "last_calculation": "2026-08-13T21:12:27.876619+00:00"
   }
 }
