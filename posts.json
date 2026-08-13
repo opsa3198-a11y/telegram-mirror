@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3033,
+        "text": "🔴\nپسره به دوست دخترش دوتا النگو داده گفته برات طلا خریدم، حالا بعد از چند وقت رابطشون تموم شده دختره اومده طلاهارو بفروشه یه پولی بیاد دستش میبینه النگو ها بدلن:\n@TweetPublic\n✔️",
+        "date": "2026-08-13T10:25:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3033_0_37468e79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3033_1_d5c46c7b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3033"
+      },
+      {
+        "id": 3032,
+        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرته.",
+        "date": "2026-08-13T10:25:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3032_0_37468e79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3032_1_3f5b5863.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3032"
+      },
+      {
         "id": 3031,
         "text": "کاش حداقل پول چراغتو‌ داشتی\n@TweetPublic\n✔️",
         "date": "2026-08-13T07:45:08+00:00",
@@ -14487,59 +14525,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2922"
-      },
-      {
-        "id": 2921,
-        "text": "‏ترامپ به ایران تا فردا مهلت داده بیاید توافق کند در غیراینصورت زنگ می زنم به بن سلمان و ازش می پرسم صلح بهتر است یا جنگ؟\nاگر گفت صلح بهتره، خب به شما حمله نمی کنم\nو اگر گفت جنگ بهتر است در آنصورت بهتر است بیایند مذاکره کنند و توافق کنند.\n@TweetPublic\n✔️",
-        "date": "2026-08-04T18:44:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2921_0_ff8d7306.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2921"
-      },
-      {
-        "id": 2920,
-        "text": "️\n🎰\nدر بلک‌جک، هر دست یک داستان تازه است…\nگاهی یک کارت، امید را زنده می‌کند.\nگاهی یک تصمیم، مسیر بازی را عوض می‌کند.\n🃏\nبرنده واقعی، کسی است که بهترین لحظه را برای تصمیم گرفتن بشناسد.\n🃏\n💰\nZOMABET.COM",
-        "date": "2026-08-04T18:44:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2920_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2920_1_0c703389.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2920"
       }
     ]
   },
-  "last_update": "2026-08-13T09:37:04.699040+00:00",
+  "last_update": "2026-08-13T10:50:12.487315+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1092,
-    "total_files": 1092,
+    "total_media": 1093,
+    "total_files": 1093,
     "total_links": 172,
     "files_by_type": {
       "image": 1004,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1092,
-    "existing_media_files": 1091,
-    "total_size_mb": 417.71,
-    "last_calculation": "2026-08-13T09:37:04.711687+00:00"
+    "referenced_files": 1093,
+    "existing_media_files": 1092,
+    "total_size_mb": 420.05,
+    "last_calculation": "2026-08-13T10:50:12.500638+00:00"
   }
 }
