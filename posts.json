@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3031,
+        "text": "کاش حداقل پول چراغتو‌ داشتی\n@TweetPublic\n✔️",
+        "date": "2026-08-13T07:45:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3031_0_37468e79.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3031_1_202fe0bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3031"
+      },
+      {
         "id": 3030,
         "text": "امروز، روز جهانی چپ دست هاست.\n@TweetPublic\n✔️",
         "date": "2026-08-13T06:28:54+00:00",
@@ -14502,29 +14521,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2920"
-      },
-      {
-        "id": 2919,
-        "text": "امروز تولد جاویدنام مسعود ذات‌پروره.\nتولدت مبارک قهرمان؛ یادت هیچ‌وقت از خاطره‌ی ایران پاک نمی‌شه.\n@TweetPublic\n✔️",
-        "date": "2026-08-04T17:05:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2919_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2919_1_b790d5af.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2919"
       }
     ]
   },
-  "last_update": "2026-08-13T07:27:00.258858+00:00",
+  "last_update": "2026-08-13T08:09:25.570518+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14539,7 +14539,7 @@
     },
     "referenced_files": 1092,
     "existing_media_files": 1091,
-    "total_size_mb": 417.7,
-    "last_calculation": "2026-08-13T07:27:00.268819+00:00"
+    "total_size_mb": 417.71,
+    "last_calculation": "2026-08-13T08:09:25.584269+00:00"
   }
 }
