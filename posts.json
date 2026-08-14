@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3045,
+        "text": "منو برگردونین به اون دوران؛))))))\n@TweetPublic\n✔️",
+        "date": "2026-08-14T12:49:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3045_0_f47b33ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3045_1_7903859a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3045"
+      },
+      {
         "id": 3044,
         "text": "🔴\nچند روز پیش یه بلاگر خانم اومد با مداحیِ \"بریم نجف\" یه ویدیو گرفت؛\nاول همه فکر کردن قراره بره کربلا ولی ورداشت غذا درست کرد و بین سگ و گربه‌ها پخش کرد.\nاین ویدیو خیلی وایرال شد و به تعداد زیادی از افراد مذهبی‌ برخورد و این ویدئو رو توهین به امام علی دونستن...\nپلیس هم امشب پیج این خانم رو بست.\n@TweetPublic\n✔️",
         "date": "2026-08-14T10:20:26+00:00",
@@ -14514,29 +14533,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2933"
-      },
-      {
-        "id": 2932,
-        "text": "🔴\nتوی «رشت» گشت ارشاد شروع به فعالیت کرده به دخترا بابت حجاب تذکر میده و حالا مصاحبه این خانم رشتی:\nاحساس امنیت میکنم واقعا خسته نباشین، امیدوارم ادامه‌دار باشه دم پلیس گرم.\nاین چه وضعشه دخترا میان بیرون؟ چهره شهرو زشت کردن\nهیچکس موافق این نوع پوشش نیست، امیدوارم تذکرات بیشتر بشه.\n@TweetPublic\n✔️",
-        "date": "2026-08-05T11:06:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2932_0_ff8d7306.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2932_1_fed7b617.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2932"
       }
     ]
   },
-  "last_update": "2026-08-14T12:36:13.092536+00:00",
+  "last_update": "2026-08-14T13:06:01.751609+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14544,14 +14544,14 @@
     "total_files": 1095,
     "total_links": 172,
     "files_by_type": {
-      "image": 1006,
-      "video": 83,
+      "image": 1007,
+      "video": 82,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1095,
     "existing_media_files": 1094,
-    "total_size_mb": 424.7,
-    "last_calculation": "2026-08-14T12:36:13.105569+00:00"
+    "total_size_mb": 420.18,
+    "last_calculation": "2026-08-14T13:06:01.764914+00:00"
   }
 }
