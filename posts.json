@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3044,
+        "text": "🔴\nچند روز پیش یه بلاگر خانم اومد با مداحیِ \"بریم نجف\" یه ویدیو گرفت؛\nاول همه فکر کردن قراره بره کربلا ولی ورداشت غذا درست کرد و بین سگ و گربه‌ها پخش کرد.\nاین ویدیو خیلی وایرال شد و به تعداد زیادی از افراد مذهبی‌ برخورد و این ویدئو رو توهین به امام علی دونستن...\nپلیس هم امشب پیج این خانم رو بست.\n@TweetPublic\n✔️",
+        "date": "2026-08-14T10:20:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3044_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3044_1_8fad107f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3044"
+      },
+      {
+        "id": 3043,
+        "text": "️\n👐\nهمه دست‌ها شبیه هم هستند…\nاما یکی، حقیقت را پنهان کرده است.\n👀\nفقط یک سؤال؛\n🙌\nتو می‌توانی آن را پیدا کنی؟\n💸\nZOMABET.COM",
+        "date": "2026-08-14T10:19:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3043_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3043_1_cefda766.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3043"
+      },
+      {
         "id": 3041,
         "text": "اگه توی اینستاگرام‌ کسی توی کلوزفرندش اددتون کرده بود؛ اگه شکل سمت چپ براتون اومد یعنی فقط شما رو ادد کرده ولی اگه شکل سمت راست بود یعنی جز شما افراد دیگه ای رو هم ادد کرده.\n@TweetPublic\n✔️",
         "date": "2026-08-14T08:15:21+00:00",
@@ -14495,48 +14533,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2932"
-      },
-      {
-        "id": 2931,
-        "text": "🎙️\nفوتبال، فقط ۹۰ دقیقه نیست...\nهیجان، از اولین پیش‌بینی شروع می‌شود.\nاز مسابقات زنده تا بازی‌های کازینو، همه‌چیز در یک مقصد جمع شده است.\n🔥\nزومابت؛ جایی که هیجان هیچ‌وقت تمام نمی‌شود.\n⚽️\nZOMABET.COM",
-        "date": "2026-08-05T10:27:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2931_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2931_1_db78b9fd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2931"
-      },
-      {
-        "id": 2930,
-        "text": "🔴\nیه زن 67 ساله کلمبیایی با فروش خبرای خاله زنکی، دو تا خونه خرید!\nاین زن هر روز تمام رفت و آمدهای محل رو زیر نظر میگیره و یادداشت میکنه!\nبعدش خبرای ساده رو 2 دلار و خبرای حساس‌تر مثل خیانت رو بین 50-100 دلار به همسایه‌ها می‌فروخته.\nاز کساییم که مدرک خیانت و... داشته، حق السکوت میگرفته و در نهایت طی چند سال، برا خودش 2 تا خونه میخره.\n@TweetPublic\n✔️",
-        "date": "2026-08-05T09:34:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2930_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2930_1_55009e24.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2930"
       }
     ]
   },
-  "last_update": "2026-08-14T09:31:53.001289+00:00",
+  "last_update": "2026-08-14T10:46:06.605281+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14544,14 +14544,14 @@
     "total_files": 1095,
     "total_links": 172,
     "files_by_type": {
-      "image": 1007,
-      "video": 82,
+      "image": 1006,
+      "video": 83,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1095,
     "existing_media_files": 1094,
-    "total_size_mb": 418.4,
-    "last_calculation": "2026-08-14T09:31:53.011714+00:00"
+    "total_size_mb": 424.7,
+    "last_calculation": "2026-08-14T10:46:06.618877+00:00"
   }
 }
