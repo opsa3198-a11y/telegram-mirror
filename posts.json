@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3040,
+        "text": "🔴\nوقتی به دوست مجازیم گفتم اومدم شهرتون فقط گفت خوشبگذره\n@TweetPublic\n✔️",
+        "date": "2026-08-13T23:29:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3040_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3040_1_90ea4839.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3040"
+      },
+      {
+        "id": 3039,
+        "text": "️\n⚽️\nفوتبال فقط آغاز ماجراست…\nاز هیجان مسابقات زنده\nتا پیش‌بینی‌های لحظه‌ای و بونوس‌های ویژه،\nZOMABET جاییه که هر لحظه بازی، هیجان خودش رو داره.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\nفراتر از فوتبال، فراتر از انتظار.",
+        "date": "2026-08-13T23:26:25+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3039_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3039_1_6638e906.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3039"
+      },
+      {
         "id": 3038,
         "text": "امروز 14 آگوست، تولد 13 سالگی تلگرامه.\nبا اینکه چند سالی میشه تلگرام مثل قدیم دیگه جذابیتی نداره، ولی همچنان بهترین اپلیکشن دنیاست\n@TweetPublic\n✔️",
         "date": "2026-08-13T20:56:10+00:00",
@@ -14491,59 +14529,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2929"
-      },
-      {
-        "id": 2928,
-        "text": "گویا دقایقی پیش به جون دونالد جی‌ترامپ رئیس‌جمهور ایالات متحده آمریکا سوءقصد شده  @TweetPublic\n✔️",
-        "date": "2026-08-04T23:19:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2928_0_ff8d7306.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2928_1_c0c91952.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2928"
-      },
-      {
-        "id": 2927,
-        "text": "گویا دقایقی پیش به جون دونالد جی‌ترامپ رئیس‌جمهور ایالات متحده آمریکا سوءقصد شده\n@TweetPublic\n✔️",
-        "date": "2026-08-04T23:13:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2927_0_ff8d7306.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2927"
       }
     ]
   },
-  "last_update": "2026-08-13T23:09:15.180971+00:00",
+  "last_update": "2026-08-14T00:04:06.314974+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1093,
-    "total_files": 1093,
+    "total_media": 1094,
+    "total_files": 1094,
     "total_links": 172,
     "files_by_type": {
-      "image": 1004,
-      "video": 83,
+      "image": 1006,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1093,
-    "existing_media_files": 1092,
-    "total_size_mb": 420.71,
-    "last_calculation": "2026-08-13T23:09:15.194101+00:00"
+    "referenced_files": 1094,
+    "existing_media_files": 1093,
+    "total_size_mb": 418.39,
+    "last_calculation": "2026-08-14T00:04:06.327814+00:00"
   }
 }
