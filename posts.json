@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3041,
+        "text": "اگه توی اینستاگرام‌ کسی توی کلوزفرندش اددتون کرده بود؛ اگه شکل سمت چپ براتون اومد یعنی فقط شما رو ادد کرده ولی اگه شکل سمت راست بود یعنی جز شما افراد دیگه ای رو هم ادد کرده.\n@TweetPublic\n✔️",
+        "date": "2026-08-14T08:15:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3041_0_c27f1fe1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3041_1_4f76de63.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3041"
+      },
+      {
         "id": 3040,
         "text": "🔴\nوقتی به دوست مجازیم گفتم اومدم شهرتون فقط گفت خوشبگذره\n@TweetPublic\n✔️",
         "date": "2026-08-13T23:29:17+00:00",
@@ -14514,40 +14533,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2930"
-      },
-      {
-        "id": 2929,
-        "text": "بسته‌های اینترنت شبیه بسته‌بندی چیپس شدن.\n80 درصدش هواست، تهش هم دو گیگ اینترنته که ضریب 2.7 مصرف بین‌الملل هم بهش می‌خوره.\n@TweetPublic\n✔️",
-        "date": "2026-08-05T06:10:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2929_0_ff8d7306.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2929"
       }
     ]
   },
-  "last_update": "2026-08-14T08:05:40.170920+00:00",
+  "last_update": "2026-08-14T09:31:53.001289+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1095,
+    "total_files": 1095,
     "total_links": 172,
     "files_by_type": {
-      "image": 1006,
+      "image": 1007,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 418.39,
-    "last_calculation": "2026-08-14T08:05:40.184228+00:00"
+    "referenced_files": 1095,
+    "existing_media_files": 1094,
+    "total_size_mb": 418.4,
+    "last_calculation": "2026-08-14T09:31:53.011714+00:00"
   }
 }
