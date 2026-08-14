@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3047,
+        "text": "ادعای ترامپ در مورد ایران: به زودی، من تنگه هرمز را به عنوان قلمرو ایالات متحده اعلام خواهم کرد\n@TweetPublic\n✔️",
+        "date": "2026-08-14T20:32:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3047_0_f47b33ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3047"
+      },
+      {
         "id": 3046,
         "text": "🔴\nتو تهران دو تا پسر جوون تو فضای مجازی سر دختر دعواشون میشه باهم قرار دعوا میذارن و دیشب تو یکی از خیابونای تهران یکیشون اون یکی رو با ضربات مکرر چاقو به قتل میرسونه.\n@TweetPublic\n✔️",
         "date": "2026-08-14T19:55:59+00:00",
@@ -14514,25 +14529,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2935"
-      },
-      {
-        "id": 2934,
-        "text": "اسکای نیوز عربی: وزارت خزانه‌داری آمریکا از لغو تحریم‌های مرتبط با ایران خبر داد‌‌.\n@TweetPublic\n✔️",
-        "date": "2026-08-05T14:15:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2934_0_ff8d7306.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2934"
       }
     ]
   },
-  "last_update": "2026-08-14T20:32:00.208041+00:00",
+  "last_update": "2026-08-14T21:13:56.774734+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14548,6 +14548,6 @@
     "referenced_files": 1094,
     "existing_media_files": 1093,
     "total_size_mb": 420.14,
-    "last_calculation": "2026-08-14T20:32:00.221371+00:00"
+    "last_calculation": "2026-08-14T21:13:56.783397+00:00"
   }
 }
