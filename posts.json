@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3046,
+        "text": "🔴\nتو تهران دو تا پسر جوون تو فضای مجازی سر دختر دعواشون میشه باهم قرار دعوا میذارن و دیشب تو یکی از خیابونای تهران یکیشون اون یکی رو با ضربات مکرر چاقو به قتل میرسونه.\n@TweetPublic\n✔️",
+        "date": "2026-08-14T19:55:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3046_0_f47b33ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3046"
+      },
+      {
         "id": 3045,
         "text": "منو برگردونین به اون دوران؛))))))\n@TweetPublic\n✔️",
         "date": "2026-08-14T12:49:09+00:00",
@@ -14514,44 +14529,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2934"
-      },
-      {
-        "id": 2933,
-        "text": "فقط افسانه‌ها آن را به خاطر خواهند آورد :))\n@TweetPublic\n✔️",
-        "date": "2026-08-05T11:33:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2933_0_ff8d7306.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2933_1_3d37cc70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2933"
       }
     ]
   },
-  "last_update": "2026-08-14T19:24:46.905007+00:00",
+  "last_update": "2026-08-14T20:00:33.464469+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1095,
-    "total_files": 1095,
+    "total_media": 1094,
+    "total_files": 1094,
     "total_links": 172,
     "files_by_type": {
-      "image": 1007,
+      "image": 1006,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1095,
-    "existing_media_files": 1094,
-    "total_size_mb": 420.18,
-    "last_calculation": "2026-08-14T19:24:46.917848+00:00"
+    "referenced_files": 1094,
+    "existing_media_files": 1093,
+    "total_size_mb": 420.14,
+    "last_calculation": "2026-08-14T20:00:33.477629+00:00"
   }
 }
