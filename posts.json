@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3057,
+        "text": "@TweetPublic\n✔️",
+        "date": "2026-08-15T17:35:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3057_0_f3b35765.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3057_1_29d60a55.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3057"
+      },
+      {
         "id": 3055,
         "text": "جول فرشاد بازیگر دورگه ایرانی-آمریکایی مدعی شده رامین رضاییان تو دایرکت ازش عکس های +18 خواسته و هر روز توی دایرکتش داره باهاش لاس میزنه.\n@TweetPublic\n✔️",
         "date": "2026-08-15T13:12:08+00:00",
@@ -14530,29 +14549,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2941"
-      },
-      {
-        "id": 2940,
-        "text": "🔴\nصدف بیوتی، بلاگر حوزه زیبایی یه پست توی اینستاگرام از خودش گذاشته، بعد یادش رفته اکانتش رو عوض کنه و با اکانت اصلی خودش کامنت گذاشته:\nوای صدف جان تو عالی‌ای، به حرفای منفی توجه نکن، بهترین بیوتی بلاگر ایرانی، چون زیباترینی بقیه از حسادت بهت هیت میدن\n🤣\n@TweetPublic\n✔️",
-        "date": "2026-08-05T19:01:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2940_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2940_1_3f6830b5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2940"
       }
     ]
   },
-  "last_update": "2026-08-15T17:10:16.827429+00:00",
+  "last_update": "2026-08-15T17:41:50.170844+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14567,7 +14567,7 @@
     },
     "referenced_files": 1099,
     "existing_media_files": 1098,
-    "total_size_mb": 426.26,
-    "last_calculation": "2026-08-15T17:10:16.840924+00:00"
+    "total_size_mb": 426.23,
+    "last_calculation": "2026-08-15T17:41:50.183949+00:00"
   }
 }
