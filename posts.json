@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3064,
+        "text": "طلا بايد براى استفاده و زيبايى و لذت میبود،\nماشين بايد براى سوار شدن میبود، خونه بايد سرپناه میبود،\nزمين بايد براى خونه ساختن میبود...\nهيچ كدوم نبايد سرمايه وكاسبی میشدن!\nهيچ كدوم نبايد مايه‌ی اين حجم از اضطراب و استرس و بخريم يا بفروشيم میشدن.\n@TweetPublic\n✔️",
+        "date": "2026-08-15T23:12:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3064_0_f3b35765.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3064"
+      },
+      {
+        "id": 3063,
+        "text": "⚡️\n۹۰ دقیقه برای بقیه‌ست؛ هیجان تو زودتر شروع میشه!\nبازی رو انتخاب کن، پیش‌بینی‌تو بچین و تا آخرین دقیقه همراهش باش.\n⚽️\n🔥\n🎁\n50 دلار بونوس برای تازه‌واردها\n💰\nبونوس‌های ویژه واریز هم آماده‌ست.\nسوت شروع نزدیکه؛ آماده‌ای؟",
+        "date": "2026-08-15T23:10:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3063_0_f3b35765.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3063_1_0b4f5c07.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3063"
+      },
+      {
         "id": 3062,
         "text": "🔴\nامشب مراسم آشتی‌کنون بین دو هیئت عزادار یزدی و تبریزی تو حرم امام رضا انجام شد و برای اینکه داداشی بودن خودشون رو ثابت کنن به همدیگه شاخه گل\n🌷\nهدیه دادن:\n@TweetPublic\n✔️",
         "date": "2026-08-15T22:31:43+00:00",
@@ -14511,63 +14545,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2947"
-      },
-      {
-        "id": 2946,
-        "text": "شاهکار جدید پزشکیان:)\nپزشکیان:ما بچه که بودیم پنکه نداشتیم\nمجری: آخه آذربایجان خنکه\nپزشکیان: من تو زابل خدمت میکردم\nمجری: آخه شما میگی وقتی بچه بودم\nپزشکیان: من تو زابل خدمت میکردم و پنکه‌ام نداشتم، حالا چی میگی؟ :)))\n@TweetPublic\n✔️",
-        "date": "2026-08-06T11:12:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2946_0_d2ed2453.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2946_1_75c7daf7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2946"
-      },
-      {
-        "id": 2945,
-        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتش وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
-        "date": "2026-08-06T11:12:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2945_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2945_1_84598de4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2945"
       }
     ]
   },
-  "last_update": "2026-08-15T23:09:31.670819+00:00",
+  "last_update": "2026-08-15T23:40:48.177393+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1099,
-    "total_files": 1099,
+    "total_media": 1098,
+    "total_files": 1098,
     "total_links": 172,
     "files_by_type": {
       "image": 1008,
-      "video": 85,
+      "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1099,
-    "existing_media_files": 1098,
-    "total_size_mb": 441.12,
-    "last_calculation": "2026-08-15T23:09:31.684180+00:00"
+    "referenced_files": 1098,
+    "existing_media_files": 1097,
+    "total_size_mb": 439.35,
+    "last_calculation": "2026-08-15T23:40:48.185369+00:00"
   }
 }
