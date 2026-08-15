@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3048,
+        "text": "تمسخر ایرانی‌ها توسط یک عراقی\n‼️\n🔴\nیه عراقی با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن.\nاونم میخنده و این ویدیو رو منتشر کرده و حالا در سطح جهان همه میگن ایرانیا ماشین ندیده ان.\n@TweetPublic\n✔️",
+        "date": "2026-08-15T05:36:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3048_0_f47b33ab.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3048_1_5c42ae59.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3048"
+      },
+      {
         "id": 3047,
         "text": "ادعای ترامپ در مورد ایران: به زودی، من تنگه هرمز را به عنوان قلمرو ایالات متحده اعلام خواهم کرد\n@TweetPublic\n✔️",
         "date": "2026-08-14T20:32:36+00:00",
@@ -14514,40 +14533,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2936"
-      },
-      {
-        "id": 2935,
-        "text": "اسکای نیوز عربی: وزارت خزانه‌داری آمریکا از لغو تحریم‌های مرتبط با ایران خبر داد‌‌.  @TweetPublic\n✔️",
-        "date": "2026-08-05T15:20:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2935_0_d2ed2453.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2935"
       }
     ]
   },
-  "last_update": "2026-08-15T05:16:20.193852+00:00",
+  "last_update": "2026-08-15T05:47:12.173481+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1094,
-    "total_files": 1094,
+    "total_media": 1095,
+    "total_files": 1095,
     "total_links": 172,
     "files_by_type": {
       "image": 1006,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1094,
-    "existing_media_files": 1093,
-    "total_size_mb": 420.14,
-    "last_calculation": "2026-08-15T05:16:20.207517+00:00"
+    "referenced_files": 1095,
+    "existing_media_files": 1094,
+    "total_size_mb": 425.9,
+    "last_calculation": "2026-08-15T05:47:12.186864+00:00"
   }
 }
