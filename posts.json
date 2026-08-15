@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3054,
+        "text": "وقتی ساعت 2 شب اسنپ گرفتی و هم خودت هم راننده مجبورین وانمود کنین از همدیگه نمیترسین:\n@TweetPublic\n✔️",
+        "date": "2026-08-15T10:31:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3054_0_f47b33ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3054_1_a303336f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3054"
+      },
+      {
+        "id": 3053,
+        "text": "💣\nبعضی‌ها منتظر شانس می‌مانند...\nبعضی‌ها، ضریب را شکار می‌کنند.\n🎯\n🎰\nفرصت را از دست نده؛\nشلیک کن و قبل از انفجار، بردت را نقد کن!\n💥\n⚽️\nZOMABET.COM",
+        "date": "2026-08-15T10:26:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3053_0_f47b33ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3053_1_ab247892.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3053"
+      },
+      {
         "id": 3051,
         "text": "زنه به عروسش شک کرده و برا همین رفته تو اتاق خوابشون دوربین نصب کرده تا سکس اولشون رو ببینه تا مطمئن باشه عروسش پرده داره، ولی متاسفانه اوضاع جور دیگه‌ای پیش میره :\n@TweetPublic\n✔️",
         "date": "2026-08-15T08:26:04+00:00",
@@ -14507,59 +14545,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2939"
-      },
-      {
-        "id": 2938,
-        "text": "هنوز که هنوزه اینو می‌بینم پاره میشم\n@TweetPublic\n✔️",
-        "date": "2026-08-05T18:13:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2938_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2938_1_bd72c56b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2938"
-      },
-      {
-        "id": 2937,
-        "text": "❤️\nاین ربات اینستا دانلودر رو یک گوشه داشته باشید که تمامی قابلیت هارو داره از جمله دانلود استوری,دانلود پست و ریلز,دانلود هایلایت کامل و خفن ترینشون اینه آهنگ های پست هارو هم بهتون میده  @instaRoxinoBot",
-        "date": "2026-08-05T16:46:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2937_0_d2ed2453.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2937"
       }
     ]
   },
-  "last_update": "2026-08-15T10:10:22.521134+00:00",
+  "last_update": "2026-08-15T10:44:29.518964+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1098,
+    "total_files": 1098,
     "total_links": 172,
     "files_by_type": {
-      "image": 1008,
+      "image": 1009,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 426.09,
-    "last_calculation": "2026-08-15T10:10:22.533871+00:00"
+    "referenced_files": 1098,
+    "existing_media_files": 1097,
+    "total_size_mb": 426.21,
+    "last_calculation": "2026-08-15T10:44:29.529186+00:00"
   }
 }
