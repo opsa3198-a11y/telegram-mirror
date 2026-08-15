@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 3059,
+        "text": "😂\n😂\n😂\nپس\nاون قضیه\nدرست بوده. کسخل حالا مردم میگفتن دختره میخواد دیده شه از خودش در آورده، تو چرا تایید کردی.\n@TweetPublic\n✔️",
+        "date": "2026-08-15T19:35:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3059_0_f3b35765.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3059_1_34d6061f.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3059_2_62e59f38.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3059"
+      },
+      {
+        "id": 3058,
+        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
+        "date": "2026-08-15T19:28:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3058_0_f3b35765.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3058_1_8a2ce9e1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3058"
+      },
+      {
         "id": 3057,
         "text": "@TweetPublic\n✔️",
         "date": "2026-08-15T17:35:05+00:00",
@@ -14511,63 +14553,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2943"
-      },
-      {
-        "id": 2942,
-        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
-        "date": "2026-08-06T00:17:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2942_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2942_1_97fc17dd.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2942"
-      },
-      {
-        "id": 2941,
-        "text": "🔴\nکامنت یه کاربر زیر پست تلگرام:\nمن آدرس مخفیگاه پاول دروف رو می‌خوام.\nاکانت رسمی تلگرام:\nاونو که نمی‌دونم ولی منو می‌تونی تو خونه مامانت پیدا کنی!\n@TweetPublic\n✔️",
-        "date": "2026-08-05T21:02:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2941_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2941_1_fe8d0a8a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2941"
       }
     ]
   },
-  "last_update": "2026-08-15T19:12:15.409952+00:00",
+  "last_update": "2026-08-15T19:41:30.491429+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1099,
-    "total_files": 1099,
+    "total_media": 1100,
+    "total_files": 1100,
     "total_links": 172,
     "files_by_type": {
       "image": 1010,
-      "video": 83,
+      "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1099,
-    "existing_media_files": 1098,
-    "total_size_mb": 426.23,
-    "last_calculation": "2026-08-15T19:12:15.419969+00:00"
+    "referenced_files": 1100,
+    "existing_media_files": 1099,
+    "total_size_mb": 435.95,
+    "last_calculation": "2026-08-15T19:41:30.499149+00:00"
   }
 }
