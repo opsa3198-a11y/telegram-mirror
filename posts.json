@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3055,
+        "text": "جول فرشاد بازیگر دورگه ایرانی-آمریکایی مدعی شده رامین رضاییان تو دایرکت ازش عکس های +18 خواسته و هر روز توی دایرکتش داره باهاش لاس میزنه.\n@TweetPublic\n✔️",
+        "date": "2026-08-15T13:12:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3055_0_f3b35765.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3055_1_4a042f1f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3055_2_64e652c3.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3055"
+      },
+      {
         "id": 3054,
         "text": "وقتی ساعت 2 شب اسنپ گرفتی و هم خودت هم راننده مجبورین وانمود کنین از همدیگه نمیترسین:\n@TweetPublic\n✔️",
         "date": "2026-08-15T10:31:39+00:00",
@@ -14526,44 +14549,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2940"
-      },
-      {
-        "id": 2939,
-        "text": "🔥\nشروع بازی، با ۵۰ دلار هدیه!\nتو زومابت فقط تماشاگر نیستی؛\nاز پیش‌بینی فوتبال تا بازی‌های کازینو، هر لحظه یه هیجان تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nهمین حالا وارد شو و با دست پُر شروع کن!\n🚀",
-        "date": "2026-08-05T18:56:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2939_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2939_1_208946d7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2939"
       }
     ]
   },
-  "last_update": "2026-08-15T13:04:42.355093+00:00",
+  "last_update": "2026-08-15T13:48:39.013665+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1098,
-    "total_files": 1098,
+    "total_media": 1099,
+    "total_files": 1099,
     "total_links": 172,
     "files_by_type": {
-      "image": 1009,
+      "image": 1010,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1098,
-    "existing_media_files": 1097,
-    "total_size_mb": 426.21,
-    "last_calculation": "2026-08-15T13:04:42.361783+00:00"
+    "referenced_files": 1099,
+    "existing_media_files": 1098,
+    "total_size_mb": 426.26,
+    "last_calculation": "2026-08-15T13:48:39.026741+00:00"
   }
 }
