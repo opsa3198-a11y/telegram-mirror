@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3051,
+        "text": "زنه به عروسش شک کرده و برا همین رفته تو اتاق خوابشون دوربین نصب کرده تا سکس اولشون رو ببینه تا مطمئن باشه عروسش پرده داره، ولی متاسفانه اوضاع جور دیگه‌ای پیش میره :\n@TweetPublic\n✔️",
+        "date": "2026-08-15T08:26:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3051_0_f47b33ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3051_1_64beb8ae.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3051_2_70913414.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3051"
+      },
+      {
         "id": 3048,
         "text": "تمسخر ایرانی‌ها توسط یک عراقی\n‼️\n🔴\nیه عراقی با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن.\nاونم میخنده و این ویدیو رو منتشر کرده و حالا در سطح جهان همه میگن ایرانیا ماشین ندیده ان.\n@TweetPublic\n✔️",
         "date": "2026-08-15T05:36:50+00:00",
@@ -14518,40 +14541,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2937"
-      },
-      {
-        "id": 2936,
-        "text": "❤️\nاین ربات اینستا دانلودر رو یک گوشه داشته باشید که تمامی قابلیت هارو داره از جمله دانلود استوری,دانلود پست و ریلز,دانلود هایلایت کامل و خفن ترینشون اینه آهنگ های پست هارو هم بهتون میده\n@instaRoxinoBot",
-        "date": "2026-08-05T16:43:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2936_0_d2ed2453.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2936"
       }
     ]
   },
-  "last_update": "2026-08-15T08:13:05.984413+00:00",
+  "last_update": "2026-08-15T08:51:03.940514+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1095,
-    "total_files": 1095,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 172,
     "files_by_type": {
-      "image": 1006,
+      "image": 1008,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1095,
-    "existing_media_files": 1094,
-    "total_size_mb": 425.9,
-    "last_calculation": "2026-08-15T08:13:05.998050+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 426.09,
+    "last_calculation": "2026-08-15T08:51:03.953898+00:00"
   }
 }
