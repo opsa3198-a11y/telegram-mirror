@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3062,
+        "text": "🔴\nامشب مراسم آشتی‌کنون بین دو هیئت عزادار یزدی و تبریزی تو حرم امام رضا انجام شد و برای اینکه داداشی بودن خودشون رو ثابت کنن به همدیگه شاخه گل\n🌷\nهدیه دادن:\n@TweetPublic\n✔️",
+        "date": "2026-08-15T22:31:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3062_0_f3b35765.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3062_1_88e7a517.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3062"
+      },
+      {
         "id": 3061,
         "text": "‏جدی کات کردن اینطوریه طلاق چقد وحشتناکه پس.\n@TweetPublic\n✔️",
         "date": "2026-08-15T21:15:20+00:00",
@@ -14530,29 +14549,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2945"
-      },
-      {
-        "id": 2944,
-        "text": "آیا اگر یک معتاد آلزایمر بگیرد، مواد کشیدن هم یادش می‌رود؟\n@TweetPublic\n✔️",
-        "date": "2026-08-06T06:53:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2944_0_d2ed2453.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2944_1_c0f3d7c3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2944"
       }
     ]
   },
-  "last_update": "2026-08-15T22:08:24.814565+00:00",
+  "last_update": "2026-08-15T22:43:44.794705+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14560,14 +14560,14 @@
     "total_files": 1099,
     "total_links": 172,
     "files_by_type": {
-      "image": 1009,
-      "video": 84,
+      "image": 1008,
+      "video": 85,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1099,
     "existing_media_files": 1098,
-    "total_size_mb": 435.91,
-    "last_calculation": "2026-08-15T22:08:24.827612+00:00"
+    "total_size_mb": 441.12,
+    "last_calculation": "2026-08-15T22:43:44.807663+00:00"
   }
 }
