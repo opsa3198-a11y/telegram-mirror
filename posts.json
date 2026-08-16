@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3083,
+        "text": "مردی که پول نداره درواقع قدرت و احترامی نداره و جدی گرفته نمیشه، پس تا وقتی که پول به قدر کافی نداری وارد هیچ رابطه ای نشو تا عزت نفست نابود نشه.\n@TweetPublic\n✔️",
+        "date": "2026-08-16T21:57:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3083_0_0e66f2f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3083"
+      },
+      {
+        "id": 3082,
+        "text": "💣\nبعضی‌ها منتظر شانس می‌مانند...\nبعضی‌ها، ضریب را شکار می‌کنند.\n🎯\n🎰\nفرصت را از دست نده؛\nشلیک کن و قبل از انفجار، بردت را نقد کن!\n💥\n⚽️\nZOMABET.COM",
+        "date": "2026-08-16T21:49:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3082_0_0e66f2f2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3082_1_f4eeee6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3082"
+      },
+      {
         "id": 3081,
         "text": "مهلت 60 روزه ایران واسه مذاکره رسما تموم شد.\n@TweetPublic\n✔️",
         "date": "2026-08-16T21:30:54+00:00",
@@ -14507,44 +14541,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2963"
-      },
-      {
-        "id": 2962,
-        "text": "دعوا با باباها هم عجیبه، اصلا چیزی به اسم قهر کردن بعد پروسه ی دعوا تو سیستمشون وجود نداره، هرچقدرم دعوا بد باشه پنج دقیقه بعدش میان میگن این فیلترشکنم چرا کار نمیکنه بابا؟\n@TweetPublic\n✔️",
-        "date": "2026-08-07T17:36:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2962_0_ef08b12c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2962"
-      },
-      {
-        "id": 2961,
-        "text": "دیشب تو یه پارک یه اکیپ دخترونه چندتایی ریختن سر یه پسر و تا جایی که میخورد کتکش زدن؛\nحالا دلیلش چی بوده؟ پسره به رفیقشون خیانت کرده بوده!\n@TweetPublic\n✔️",
-        "date": "2026-08-07T15:49:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2961_0_ef08b12c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2961_1_9baa8244.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2961"
       }
     ]
   },
-  "last_update": "2026-08-16T21:40:21.461729+00:00",
+  "last_update": "2026-08-16T22:08:27.538564+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14552,14 +14552,14 @@
     "total_files": 1097,
     "total_links": 172,
     "files_by_type": {
-      "image": 1006,
-      "video": 85,
+      "image": 1007,
+      "video": 84,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1097,
     "existing_media_files": 1096,
-    "total_size_mb": 444.58,
-    "last_calculation": "2026-08-16T21:40:21.474652+00:00"
+    "total_size_mb": 442.52,
+    "last_calculation": "2026-08-16T22:08:27.548934+00:00"
   }
 }
