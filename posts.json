@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3081,
+        "text": "مهلت 60 روزه ایران واسه مذاکره رسما تموم شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-16T21:30:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3081_0_0e66f2f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3081"
+      },
+      {
         "id": 3080,
         "text": "🔴\n🔴\nاوه اوه\nپست جدید نوید محمدزاده!! من از اسرائیل بدم میاد و تا ابد فلسطین رو انتحاب میکنم\n@TweetPublic\n✔️",
         "date": "2026-08-16T20:53:48+00:00",
@@ -14526,44 +14541,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2961"
-      },
-      {
-        "id": 2960,
-        "text": "عادی ترین بطری آب آقایون تو باشگاه.\n@TweetPublic\n✔️",
-        "date": "2026-08-07T10:37:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2960_0_35ef12c4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2960_1_c839d068.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2960"
       }
     ]
   },
-  "last_update": "2026-08-16T21:09:00.050043+00:00",
+  "last_update": "2026-08-16T21:40:21.461729+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1098,
-    "total_files": 1098,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 172,
     "files_by_type": {
-      "image": 1007,
+      "image": 1006,
       "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1098,
-    "existing_media_files": 1097,
-    "total_size_mb": 444.62,
-    "last_calculation": "2026-08-16T21:09:00.063592+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 444.58,
+    "last_calculation": "2026-08-16T21:40:21.474652+00:00"
   }
 }
