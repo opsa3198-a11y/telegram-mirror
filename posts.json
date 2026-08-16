@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3076,
+        "text": "پشمام تا حالا شنیده بودم ولی ندیده بودم!\nالبته واسه ماها سایزش خیلی کوچیکه فکرنکنم بشکنه\n@TweetPublic\n✔️",
+        "date": "2026-08-16T17:08:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3076_0_0e66f2f2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3076_1_88fcaacc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3076"
+      },
+      {
         "id": 3075,
         "text": "ایرانسل فک کنم یه بسته رو به چند نفر میفروشه.\n- لیتل بی\n@TweetPublic\n✔️",
         "date": "2026-08-16T15:13:23+00:00",
@@ -14534,29 +14553,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2956"
-      },
-      {
-        "id": 2955,
-        "text": "⭕️\nتوئیت جدید ترامپ :\n\"دونالد ترامپ در جنگ با ایران پیروز شد.\"\n@TweetPublic\n✔️",
-        "date": "2026-08-07T07:00:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2955_0_35ef12c4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2955_1_a6f54eca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2955"
       }
     ]
   },
-  "last_update": "2026-08-16T16:46:56.497677+00:00",
+  "last_update": "2026-08-16T17:10:06.170542+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14564,14 +14564,14 @@
     "total_files": 1100,
     "total_links": 172,
     "files_by_type": {
-      "image": 1011,
-      "video": 83,
+      "image": 1010,
+      "video": 84,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1100,
     "existing_media_files": 1099,
-    "total_size_mb": 436.5,
-    "last_calculation": "2026-08-16T16:46:56.504279+00:00"
+    "total_size_mb": 439.04,
+    "last_calculation": "2026-08-16T17:10:06.183809+00:00"
   }
 }
