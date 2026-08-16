@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3065,
+        "text": "🚨\nمعاون پزشکیان:\nممکنه بنزین در هر استان به نرخ متفاوتی توزیع بشه.\nطی 10-15 روز آینده دولت تصمیم نهایی خودش در مورد بنزین رو میگیره.\n@TweetPublic\n✔️",
+        "date": "2026-08-16T07:58:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3065_0_f3b35765.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3065"
+      },
+      {
         "id": 3064,
         "text": "طلا بايد براى استفاده و زيبايى و لذت میبود،\nماشين بايد براى سوار شدن میبود، خونه بايد سرپناه میبود،\nزمين بايد براى خونه ساختن میبود...\nهيچ كدوم نبايد سرمايه وكاسبی میشدن!\nهيچ كدوم نبايد مايه‌ی اين حجم از اضطراب و استرس و بخريم يا بفروشيم میشدن.\n@TweetPublic\n✔️",
         "date": "2026-08-15T23:12:30+00:00",
@@ -14526,44 +14541,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2950"
-      },
-      {
-        "id": 2947,
-        "text": "⭕\nآی‌شو اسپید، یوتیوبر معروف اعلام کرد:\nبعد از آروم شدن اوضاع در خاورمیانه، به ایران سفر خواهد کرد\n@TweetPublic\n✔️",
-        "date": "2026-08-06T14:34:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2947_0_35ef12c4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2947_1_f76ddc4c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2947"
       }
     ]
   },
-  "last_update": "2026-08-16T07:50:52.212467+00:00",
+  "last_update": "2026-08-16T08:14:36.716098+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1098,
-    "total_files": 1098,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 172,
     "files_by_type": {
-      "image": 1008,
+      "image": 1007,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1098,
-    "existing_media_files": 1097,
-    "total_size_mb": 439.35,
-    "last_calculation": "2026-08-16T07:50:52.226312+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 439.31,
+    "last_calculation": "2026-08-16T08:14:36.729032+00:00"
   }
 }
