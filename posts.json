@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3075,
+        "text": "ایرانسل فک کنم یه بسته رو به چند نفر میفروشه.\n- لیتل بی\n@TweetPublic\n✔️",
+        "date": "2026-08-16T15:13:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3075_0_0e66f2f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3075"
+      },
+      {
         "id": 3071,
         "text": "🔴\nجول فرشاد (Jewell Farshad) هستن، همونی که رامین تو\nدایرکت\nازش نود خواسته\n@TweetPublic\n✔️",
         "date": "2026-08-16T12:46:52+00:00",
@@ -14538,44 +14553,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2955"
-      },
-      {
-        "id": 2954,
-        "text": "🇺🇸\nترامپ:\nبه نظر من جنگ به زودی به پایان می‌رسه. اون‌ها بیشتر از این دیگه نمیتونن این وضعیت رو تحمل کنن.\n@TweetPublic\n✔️",
-        "date": "2026-08-06T21:21:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2954_0_35ef12c4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2954_1_5cdc1dd7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2954"
       }
     ]
   },
-  "last_update": "2026-08-16T15:09:57.784422+00:00",
+  "last_update": "2026-08-16T15:42:06.309786+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1101,
-    "total_files": 1101,
+    "total_media": 1100,
+    "total_files": 1100,
     "total_links": 172,
     "files_by_type": {
       "image": 1011,
-      "video": 84,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1101,
-    "existing_media_files": 1100,
-    "total_size_mb": 438.37,
-    "last_calculation": "2026-08-16T15:09:57.792170+00:00"
+    "referenced_files": 1100,
+    "existing_media_files": 1099,
+    "total_size_mb": 436.5,
+    "last_calculation": "2026-08-16T15:42:06.323366+00:00"
   }
 }
