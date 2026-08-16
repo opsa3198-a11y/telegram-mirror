@@ -12703,6 +12703,37 @@
     ],
     "TweetPublic": [
       {
+        "id": 3071,
+        "text": "🔴\nجول فرشاد (Jewell Farshad) هستن، همونی که رامین تو\nدایرکت\nازش نود خواسته\n@TweetPublic\n✔️",
+        "date": "2026-08-16T12:46:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3071_0_0e66f2f2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3071_1_5b661e87.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3071_2_c49d069b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3071_3_fba17610.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3071_4_edd2a8fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3071"
+      },
+      {
         "id": 3068,
         "text": "🔴\nبرخی از رسانه های داخلی اومدن این عکس و ویدیو رو به عنوان دیدار پزشکیان و مجتبی خامنه ای منتشر کردن\n+ احتمال اینکه این عکس و فیلم فیک و از هوش مصنوعی باشه بالاعه\n@TweetPublic\n✔️",
         "date": "2026-08-16T11:44:46+00:00",
@@ -14526,44 +14557,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2954"
-      },
-      {
-        "id": 2953,
-        "text": "🔴\nدیشب یه دخترِ موتورسوار رو جو گرفت، رفت به یه پسره گفت کورس بندازیم؟\nو نهایتا این شاهکار خلق شد:\n@TweetPublic\n✔️",
-        "date": "2026-08-06T20:14:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2953_0_35ef12c4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2953_1_b4f26217.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2953"
       }
     ]
   },
-  "last_update": "2026-08-16T12:38:38.375627+00:00",
+  "last_update": "2026-08-16T13:06:27.417989+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1098,
-    "total_files": 1098,
+    "total_media": 1101,
+    "total_files": 1101,
     "total_links": 172,
     "files_by_type": {
-      "image": 1007,
-      "video": 85,
+      "image": 1011,
+      "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1098,
-    "existing_media_files": 1097,
-    "total_size_mb": 441.58,
-    "last_calculation": "2026-08-16T12:38:38.388943+00:00"
+    "referenced_files": 1101,
+    "existing_media_files": 1100,
+    "total_size_mb": 438.37,
+    "last_calculation": "2026-08-16T13:06:27.436911+00:00"
   }
 }
