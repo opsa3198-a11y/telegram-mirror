@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3091,
+        "text": "‏یه خانم مکزیکی بعد از اینکه عکس شوهرشو با یه خانم دیگه تو موبایلش می بینه، 17 بار با چاقو به شوهرش ضربه زده و بعدش تازه متوجه میشه که در واقع عکسای خودشه که اوایل رابطه با شوهرش گرفتن و چون اون موقع جوان تر و لاغرتر بوده، خودشو نشناخته.\n@TweetPublic\n✔️",
+        "date": "2026-08-17T21:16:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3091_0_1672eec4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3091_1_c0eb391d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3091"
+      },
+      {
         "id": 3090,
         "text": "‏خواب عصر نزدیک‌ترین تجربه به مرگه.\n@TweetPublic\n✔️",
         "date": "2026-08-17T20:14:24+00:00",
@@ -14518,29 +14537,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2970"
-      },
-      {
-        "id": 2969,
-        "text": "یه مرد ۲۶ ساله که با لباس عزرائیل از پشت‌بوم بیمارستان به بیمارها زل می‌زد، توسط پلیس دستگیر شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-08T05:50:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2969_0_ef08b12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2969_1_34428bb0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2969"
       }
     ]
   },
-  "last_update": "2026-08-17T21:14:34.571639+00:00",
+  "last_update": "2026-08-17T21:46:10.450585+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14555,7 +14555,7 @@
     },
     "referenced_files": 1096,
     "existing_media_files": 1095,
-    "total_size_mb": 452.93,
-    "last_calculation": "2026-08-17T21:14:34.584606+00:00"
+    "total_size_mb": 452.94,
+    "last_calculation": "2026-08-17T21:46:10.460904+00:00"
   }
 }
