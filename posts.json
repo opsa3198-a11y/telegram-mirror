@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3084,
+        "text": "🚨\nوال‌استریت‌ژورنال:\nجمهوری‌اسلامی معتقده جنگ نهایی تو راهه.\n@TweetPublic\n✔️",
+        "date": "2026-08-17T08:12:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3084_0_0e66f2f2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3084_1_eb163e00.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3084"
+      },
+      {
         "id": 3083,
         "text": "مردی که پول نداره درواقع قدرت و احترامی نداره و جدی گرفته نمیشه، پس تا وقتی که پول به قدر کافی نداری وارد هیچ رابطه ای نشو تا عزت نفست نابود نشه.\n@TweetPublic\n✔️",
         "date": "2026-08-16T21:57:03+00:00",
@@ -14522,29 +14541,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2964"
-      },
-      {
-        "id": 2963,
-        "text": "🎰\nوقتش یه تجربه متفاوت رو شروع کنی!\nاز بازی‌های کازینویی و میزهای زنده تا پیش‌بینی مسابقات، همه‌چیز توی زومابت یک‌جا منتظرته\n🔥\n🎁\n۵۰ دلار بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nبازی موردعلاقه‌تو انتخاب کن و وارد هیجان شو!\n🚀",
-        "date": "2026-08-07T17:54:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2963_0_ef08b12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2963_1_7b55038b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2963"
       }
     ]
   },
-  "last_update": "2026-08-17T07:41:34.388812+00:00",
+  "last_update": "2026-08-17T08:28:51.731011+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14559,7 +14559,7 @@
     },
     "referenced_files": 1097,
     "existing_media_files": 1096,
-    "total_size_mb": 442.52,
-    "last_calculation": "2026-08-17T07:41:34.401712+00:00"
+    "total_size_mb": 442.49,
+    "last_calculation": "2026-08-17T08:28:51.743867+00:00"
   }
 }
