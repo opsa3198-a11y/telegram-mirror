@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3092,
+        "text": "🔴\nیه دختره داشته با دوست‌پسرش بحث میکرده که یکم دعوا بالا میگیره و تصمیم میگیره گوش دوست‌پسرشو گاز بگیره و یه تیکه‌ش رو هم جدا کنه!\nتا این صحنه رو میبینه خودش پشماش میریزه و پسره رو سریع میبره بیمارستان.\n@TweetPublic\n✔️",
+        "date": "2026-08-17T22:09:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3092_0_1672eec4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3092_1_51dbb972.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3092"
+      },
+      {
         "id": 3091,
         "text": "‏یه خانم مکزیکی بعد از اینکه عکس شوهرشو با یه خانم دیگه تو موبایلش می بینه، 17 بار با چاقو به شوهرش ضربه زده و بعدش تازه متوجه میشه که در واقع عکسای خودشه که اوایل رابطه با شوهرش گرفتن و چون اون موقع جوان تر و لاغرتر بوده، خودشو نشناخته.\n@TweetPublic\n✔️",
         "date": "2026-08-17T21:16:35+00:00",
@@ -14518,29 +14537,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2971"
-      },
-      {
-        "id": 2970,
-        "text": "‏\nترامپ: لاولی ایسلامیک ریپابلیک آف ایران\n!.\n@TweetPublic\n✔️",
-        "date": "2026-08-08T06:32:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2970_0_ef08b12c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2970_1_e8a760e3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2970"
       }
     ]
   },
-  "last_update": "2026-08-17T21:46:10.450585+00:00",
+  "last_update": "2026-08-17T22:11:36.966842+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14555,7 +14555,7 @@
     },
     "referenced_files": 1096,
     "existing_media_files": 1095,
-    "total_size_mb": 452.94,
-    "last_calculation": "2026-08-17T21:46:10.460904+00:00"
+    "total_size_mb": 451.82,
+    "last_calculation": "2026-08-17T22:11:36.977212+00:00"
   }
 }
