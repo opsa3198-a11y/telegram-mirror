@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3090,
+        "text": "‏خواب عصر نزدیک‌ترین تجربه به مرگه.\n@TweetPublic\n✔️",
+        "date": "2026-08-17T20:14:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3090_0_1672eec4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3090"
+      },
+      {
         "id": 3089,
         "text": "پوزیشن معمول اون آدمی که میاد و مشکلات رو حل میکنه\n@TweetPublic\n✔️",
         "date": "2026-08-17T16:45:32+00:00",
@@ -14522,44 +14537,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2969"
-      },
-      {
-        "id": 2968,
-        "text": "🔴\nپر بازدیدترین ویدیوی اینستاگرام فارسی در ۲۴ساعت اخیر:\nمنم مثل شما کلی سوال دارم.\n@TweetPublic\n✔️",
-        "date": "2026-08-07T21:47:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2968_0_ef08b12c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2968_1_b2641d5e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2968"
       }
     ]
   },
-  "last_update": "2026-08-17T20:12:56.324518+00:00",
+  "last_update": "2026-08-17T20:49:15.019311+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1097,
-    "total_files": 1097,
+    "total_media": 1096,
+    "total_files": 1096,
     "total_links": 172,
     "files_by_type": {
       "image": 1006,
-      "video": 85,
+      "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1097,
-    "existing_media_files": 1096,
-    "total_size_mb": 453.58,
-    "last_calculation": "2026-08-17T20:12:56.334516+00:00"
+    "referenced_files": 1096,
+    "existing_media_files": 1095,
+    "total_size_mb": 452.93,
+    "last_calculation": "2026-08-17T20:49:15.032336+00:00"
   }
 }
