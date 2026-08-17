@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3087,
+        "text": "آدم با فرهنگ حتی از عرش هم به فرش بیوفته باز هم هیچوقت اون فرهنگ و اون باکلاس صحبت کردن و رفتارشو از دست نمیده\n@TweetPublic\n✔️",
+        "date": "2026-08-17T11:00:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3087_0_0e66f2f2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3087"
+      },
+      {
         "id": 3086,
         "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرت",
         "date": "2026-08-17T10:52:19+00:00",
@@ -14526,44 +14541,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2967"
-      },
-      {
-        "id": 2966,
-        "text": "امروز روزِ جهانی گربه‌ست.\nیفرستید برای پیشی های زندگیتون\n@TweetPublic\n✔️",
-        "date": "2026-08-07T21:05:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2966_0_ef08b12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2966_1_410d09d4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2966"
       }
     ]
   },
-  "last_update": "2026-08-17T10:54:10.874063+00:00",
+  "last_update": "2026-08-17T11:14:35.437478+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1098,
-    "total_files": 1098,
+    "total_media": 1097,
+    "total_files": 1097,
     "total_links": 172,
     "files_by_type": {
-      "image": 1007,
+      "image": 1006,
       "video": 85,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1098,
-    "existing_media_files": 1097,
-    "total_size_mb": 453.7,
-    "last_calculation": "2026-08-17T10:54:10.887117+00:00"
+    "referenced_files": 1097,
+    "existing_media_files": 1096,
+    "total_size_mb": 453.6,
+    "last_calculation": "2026-08-17T11:14:35.450396+00:00"
   }
 }
