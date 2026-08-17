@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3089,
+        "text": "پوزیشن معمول اون آدمی که میاد و مشکلات رو حل میکنه\n@TweetPublic\n✔️",
+        "date": "2026-08-17T16:45:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3089_0_1672eec4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3089_1_fc6f4d98.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3089"
+      },
+      {
         "id": 3087,
         "text": "آدم با فرهنگ حتی از عرش هم به فرش بیوفته باز هم هیچوقت اون فرهنگ و اون باکلاس صحبت کردن و رفتارشو از دست نمیده\n@TweetPublic\n✔️",
         "date": "2026-08-17T11:00:27+00:00",
@@ -14522,29 +14541,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2968"
-      },
-      {
-        "id": 2967,
-        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
-        "date": "2026-08-07T21:47:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2967_0_ef08b12c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2967_1_f22e8331.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2967"
       }
     ]
   },
-  "last_update": "2026-08-17T16:12:34.875368+00:00",
+  "last_update": "2026-08-17T16:51:15.780398+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14559,7 +14559,7 @@
     },
     "referenced_files": 1097,
     "existing_media_files": 1096,
-    "total_size_mb": 453.6,
-    "last_calculation": "2026-08-17T16:12:34.888749+00:00"
+    "total_size_mb": 453.58,
+    "last_calculation": "2026-08-17T16:51:15.793690+00:00"
   }
 }
