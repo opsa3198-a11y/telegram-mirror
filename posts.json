@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3095,
+        "text": "ما‌ میگفتیم نوید محمدزاده بازیگر خوبی نیست ولی نقش معتاد رو خیلی خوب بازی میکنه\nنگو دلیلش اینه که یارو خودش معتاده\n@TweetPublic\n✔️",
+        "date": "2026-08-18T07:57:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3095_0_1672eec4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3095"
+      },
+      {
         "id": 3094,
         "text": "به چت جی پی تی گفتم: میخوام بابت اطلاعات پزشکی اشتباهی که بهم دادی ازت شکایت کنم!\nگفت: حق داری، میخوای کمکت کنم باهم متن شکایت نامه رو آماده کنیم؟\n@TweetPublic\n✔️",
         "date": "2026-08-17T22:22:58+00:00",
@@ -14502,56 +14517,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2977"
-      },
-      {
-        "id": 2973,
-        "text": "🔴\nتسنیم: حمیدرضا رجب‌زاده، مداحی که چند روزی بود گم شده بود، به قتل رسیده و فیلم لحظه قتلش به خانواده‌‌اش ارسال شده، پلیس فعلا داره پیگیری می‌کنه.\nدیروز هم یه کانال تلگرامی مدعی شده که نیروهاش \"حمیدرضا رجب‌زاده\" ، مداحی که دو هفته‌ای هست گم شده بود رو کُشتن!\nعلت قتل رو هم گفتن که این مداح جزو نیروهای سرکوبگر بوده و تو 18-19 دی، تک تیراندازی می‌کرده.\n@TweetPublic\n✔️",
-        "date": "2026-08-08T09:49:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2973_0_ef08b12c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2973_1_ade7ff43.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2973_2_2aaafb72.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2973_3_45c41a12.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2973_4_b747a40c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2973"
       }
     ]
   },
-  "last_update": "2026-08-18T07:11:09.459528+00:00",
+  "last_update": "2026-08-18T07:59:10.094394+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1095,
-    "total_files": 1095,
+    "total_media": 1091,
+    "total_files": 1091,
     "total_links": 172,
     "files_by_type": {
-      "image": 1006,
-      "video": 83,
+      "image": 1003,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1095,
-    "existing_media_files": 1094,
-    "total_size_mb": 441.02,
-    "last_calculation": "2026-08-18T07:11:09.473069+00:00"
+    "referenced_files": 1091,
+    "existing_media_files": 1090,
+    "total_size_mb": 435.36,
+    "last_calculation": "2026-08-18T07:59:10.102383+00:00"
   }
 }
