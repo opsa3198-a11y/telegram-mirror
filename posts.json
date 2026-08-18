@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3099,
+        "text": "تو صداسیما جایزه جمع کردن برای کسی که ترامپ‌و بکشه 181 میلیون جمع شده،\nبعد بلیط هواپیما تا آمریکا 400 میلیونه.\n@TweetPublic\n✔️",
+        "date": "2026-08-18T10:45:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3099_0_1672eec4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3099"
+      },
+      {
         "id": 3098,
         "text": "حرف‌های داییم یک ساعت قبل از تقسیم ارث تو جمع خاله‌هام:\n@TweetPublic\n✔️",
         "date": "2026-08-18T09:13:56+00:00",
@@ -14494,44 +14509,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2981"
-      },
-      {
-        "id": 2980,
-        "text": "ویدیو جدید از عروسی رونالدو و جورجینا\n@TweetPublic\n✔️",
-        "date": "2026-08-08T21:35:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2980_0_37a2e908.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2980_1_f9e9a8f3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2980"
       }
     ]
   },
-  "last_update": "2026-08-18T10:15:43.655122+00:00",
+  "last_update": "2026-08-18T10:52:20.615504+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1090,
-    "total_files": 1090,
+    "total_media": 1089,
+    "total_files": 1089,
     "total_links": 172,
     "files_by_type": {
       "image": 1002,
-      "video": 82,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1090,
-    "existing_media_files": 1089,
-    "total_size_mb": 434.17,
-    "last_calculation": "2026-08-18T10:15:43.668280+00:00"
+    "referenced_files": 1089,
+    "existing_media_files": 1088,
+    "total_size_mb": 426.59,
+    "last_calculation": "2026-08-18T10:52:20.625495+00:00"
   }
 }
