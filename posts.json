@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3108,
+        "text": "دیگران : واقعاً خوب از پسِ اون ماجرا براومدی.\nمن ساعت 3 صبح :\n@TweetPublic\n✔️",
+        "date": "2026-08-18T22:00:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3108_0_e1b6f447.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3108_1_cb28fb5a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3108"
+      },
+      {
+        "id": 3107,
+        "text": "🏆\nهر مسابقه یه داستان داره؛ انتخاب تو بخشی از اون داستانه.\nاز بازی‌های بزرگ تا پیش‌بینی زنده، همه‌چی برای یه شب فوتبالی کامل توی ZOMABET آماده‌ست.\n⚽️\n🔥\n🎁\n50$ بونوس خوش‌آمدگویی",
+        "date": "2026-08-18T21:58:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3107_0_e1b6f447.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3107_1_dfc57ddd.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3107"
+      },
+      {
         "id": 3106,
         "text": "سرعت اینترنت به‌قدری کنده که مطلبی رو که می‌خوام بذارم با تیپاکس براتون بفرستم، زودتر می‌رسه.\n@TweetPublic\n✔️",
         "date": "2026-08-18T21:43:25+00:00",
@@ -14455,48 +14493,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2994"
-      },
-      {
-        "id": 2993,
-        "text": "گزارش‌ها از وقوع «حادثه امنیتی» در نزدیکی باشگاه گلف ترامپ در نیوجرسی.\nفرماندهی دفاع هوافضای آمریکای شمالی اعلام کرد جنگنده‌های این واحد، دو فروند هواپیما را که به حریم هوایی ممنوعه در نزدیکی باشگاه گلف دونالد ترامپ در بیدمینستر ایالت نیوجرسی وارد شده بودند، رهگیری کردند.\n@TweetPublic\n✔️",
-        "date": "2026-08-09T18:36:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2993_0_140dc5f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2993"
-      },
-      {
-        "id": 2991,
-        "text": "⏺\nوقتی از عثمان دمبله درباره حجاب همسر مسلمانش پرسیدن، گفت:\nراستش منم گاهی ازش خواستم توی جمع صورتش رو نشون بده، اما اون گفت: عثمان، من می‌خوام فقط تو صورت زیبای منو ببینی\n@TweetPublic\n✔️",
-        "date": "2026-08-09T12:29:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2991_0_37a2e908.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2991_1_634b3670.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2991_2_255d6ba1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2991"
       }
     ]
   },
-  "last_update": "2026-08-18T21:43:51.960567+00:00",
+  "last_update": "2026-08-18T22:10:10.729314+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14504,14 +14504,14 @@
     "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 998,
-      "video": 81,
+      "image": 999,
+      "video": 80,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1085,
     "existing_media_files": 1084,
-    "total_size_mb": 430.66,
-    "last_calculation": "2026-08-18T21:43:51.971420+00:00"
+    "total_size_mb": 429.37,
+    "last_calculation": "2026-08-18T22:10:10.736964+00:00"
   }
 }
