@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3104,
+        "text": "🔴\nوقتی گل با شیشه رو ترکیبی میزنی و میری ورزشگاه که حوصلت سر نداره‌.\n😂\nاز دستش ندید، یکی از بهترین مصاحبه‌هایی که هر ثانیش می‌تونه شمارو شگفت‌زده کنه:\n@TweetPublic\n✔️",
+        "date": "2026-08-18T19:42:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3104_0_e1b6f447.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3104_1_89686bc8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3104"
+      },
+      {
         "id": 3103,
         "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتش وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
         "date": "2026-08-18T18:52:39+00:00",
@@ -14474,56 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2989"
-      },
-      {
-        "id": 2985,
-        "text": "🔴\nشاید باورتون نشه ولی تو اینستاگرام خبر اینکه رونالدو تاریخ عروسیش رو بخاطر فوت پدر مسی عقب انداخته رو جدی گرفتن و همگی دارن میگن دمش گرم\n🖤\nیکی هم اون وسط معتقده که \"منبع مهم نيس شک نکنید رونالدو این کارو میکنه...\"\n@TweetPublic\n✔️",
-        "date": "2026-08-09T07:13:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2985_0_37a2e908.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2985_1_01df358a.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2985_2_3825786c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2985_3_e3c4bb65.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2985_4_12482ad6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2985"
       }
     ]
   },
-  "last_update": "2026-08-18T19:04:01.495586+00:00",
+  "last_update": "2026-08-18T19:47:06.531439+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 1001,
+      "image": 998,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 426.58,
-    "last_calculation": "2026-08-18T19:04:01.503542+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 430.69,
+    "last_calculation": "2026-08-18T19:47:06.544588+00:00"
   }
 }
