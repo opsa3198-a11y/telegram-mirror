@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 3098,
+        "text": "حرف‌های داییم یک ساعت قبل از تقسیم ارث تو جمع خاله‌هام:\n@TweetPublic\n✔️",
+        "date": "2026-08-18T09:13:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3098_0_1672eec4.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3098_1_02a88cfc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3098"
+      },
+      {
+        "id": 3097,
+        "text": "🏆\nوقتشه از بازی بیشتر از ۹۰ دقیقه لذت ببری!\n⚽\nهیجان مسابقات\n💵\nبردهای بزرگ\n🎁\nبونوس‌های ویژه\nهمه در یک جا…\n⚽️\nZOMABET.COM\n⚽️",
+        "date": "2026-08-18T09:12:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3097_0_1672eec4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3097_1_47a7a347.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3097"
+      },
+      {
+        "id": 3096,
+        "text": "تو این هوای داغ چی می‌چسبه؟ آفرین، یه همسر داغ‌تر.\n@TweetPublic\n✔️",
+        "date": "2026-08-18T08:34:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3096_0_1672eec4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3096"
+      },
+      {
         "id": 3095,
         "text": "ما‌ میگفتیم نوید محمدزاده بازیگر خوبی نیست ولی نقش معتاد رو خیلی خوب بازی میکنه\nنگو دلیلش اینه که یارو خودش معتاده\n@TweetPublic\n✔️",
         "date": "2026-08-18T07:57:29+00:00",
@@ -14460,82 +14513,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2980"
-      },
-      {
-        "id": 2979,
-        "text": "کاشت ناخن تو کاشان ممنوع شد!\nهر سالن یا آرایشگاه زنونه ای کاشت ناخن انجام بده پلمپ میشه...\n@TweetPublic\n✔️",
-        "date": "2026-08-08T16:33:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2979_0_37a2e908.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2979_1_9434c539.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2979"
-      },
-      {
-        "id": 2978,
-        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌خونی؟\nپس حدست رو فقط برای خودت نگه ندار!\nوارد زومابت شو، بازی موردنظرت رو انتخاب کن و پیش‌بینی‌تو ثبت کن.\n⚽️\n🔥\n🎁\nتازه‌واردی؟ 50$ بونوس شروع هم منتظرته",
-        "date": "2026-08-08T16:32:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2978_0_37a2e908.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2978_1_141f9e5a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2978"
-      },
-      {
-        "id": 2977,
-        "text": "🔴\nتو مازندران یه زنه با شلوارک اومده بیرون و یه زن دیگه اومد به زور شلوار پاش کرد:\n@TweetPublic\n✔️",
-        "date": "2026-08-08T13:24:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2977_0_ef08b12c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_2977_1_c2f5f9a7.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2977"
       }
     ]
   },
-  "last_update": "2026-08-18T08:32:56.760190+00:00",
+  "last_update": "2026-08-18T09:20:11.989926+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1091,
-    "total_files": 1091,
+    "total_media": 1090,
+    "total_files": 1090,
     "total_links": 172,
     "files_by_type": {
-      "image": 1003,
+      "image": 1002,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1091,
-    "existing_media_files": 1090,
-    "total_size_mb": 435.36,
-    "last_calculation": "2026-08-18T08:32:56.773369+00:00"
+    "referenced_files": 1090,
+    "existing_media_files": 1089,
+    "total_size_mb": 434.17,
+    "last_calculation": "2026-08-18T09:20:12.003010+00:00"
   }
 }
