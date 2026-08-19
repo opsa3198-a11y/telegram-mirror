@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3115,
+        "text": "اسب سواری چرا ورزشه دیگه؟ اسب میدوعه تو که نمیدویی، وا.\n@TweetPublic\n✔️",
+        "date": "2026-08-19T17:46:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3115_0_710dd479.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3115"
+      },
+      {
         "id": 3114,
         "text": "🔴\nامروز تولد جاویدنام مهرداد مشتاقیه که اگه زنده بود، 28 ساله میشد.\nمهرداد دانشجوی رشته معماری بود و تو کنکور سراسری رتبه 200 شده بود.\nاون عاشق رئال و استقلال بود. آرزو داشت برای یکبار هم که شده، بره سانتیاگو برنابئو و بازی رئال رو از نزدیک تماشا کنه. روی مزارش هم عکس لوگو رئال حک شده.\n19 دی‌ماه تو اراک از ناحیه سر تیر میخوره و به شدت مجروح میشه. اون رو به بیمارستان انتقال میدن ولی به‌خاطر جراحات شدیدی که داشته چند روز بعد فوت میشه و تو آرامستان اراک به خاک سپرده میشه.\n@TweetPublic\n✔️",
         "date": "2026-08-19T16:06:52+00:00",
@@ -14474,44 +14489,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3002"
-      },
-      {
-        "id": 3001,
-        "text": "ترجمه و دوبله دقیق از صداسیما\n👌\n@TweetPublic\n✔️",
-        "date": "2026-08-10T12:24:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3001_0_140dc5f0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3001_1_c688818e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3001"
       }
     ]
   },
-  "last_update": "2026-08-19T17:15:48.143469+00:00",
+  "last_update": "2026-08-19T17:47:24.901109+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1085,
-    "total_files": 1085,
+    "total_media": 1084,
+    "total_files": 1084,
     "total_links": 172,
     "files_by_type": {
       "image": 997,
-      "video": 82,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1085,
-    "existing_media_files": 1084,
-    "total_size_mb": 435.5,
-    "last_calculation": "2026-08-19T17:15:48.156512+00:00"
+    "referenced_files": 1084,
+    "existing_media_files": 1083,
+    "total_size_mb": 435.21,
+    "last_calculation": "2026-08-19T17:47:24.913954+00:00"
   }
 }
