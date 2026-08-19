@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3113,
+        "text": "🔴\nهیکه کوئینز مدل اونلی فنز ۲۲ ساله که با\nلئوناردو دی‌کاپریو\nتو رابطه بود گفته؛ لئوناردو دی‌کاپریو اینقدر از شنیدن صدای دخترا در حین رابطه‌ی\nجنسی\nمتنفره که هدفون میذاره و صداشو تا آخر زیاد میکنه تا صدای دخترارو نشنوه.\n@TweetPublic\n✔️",
+        "date": "2026-08-19T12:49:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3113_0_710dd479.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3113_1_bcb52fd6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3113"
+      },
+      {
         "id": 3112,
         "text": "اوضاع کشور خیلی بگاییه؛ یه دختره پاشده رفته بیرون که یه دزد میاد کیفشو بدزده ولی ایشون مقاومت میکنه و دزد هم یچیزی میزنه تو چشم این بنده خدا و این بلا رو سرش میاره!\n@TweetPublic\n✔️",
         "date": "2026-08-19T09:32:56+00:00",
@@ -14474,40 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3000"
-      },
-      {
-        "id": 2999,
-        "text": "❤️\nاین ربات اینستا دانلودر رو یک گوشه داشته باشید که تمامی قابلیت هارو داره از جمله دانلود استوری,دانلود پست و ریلز,دانلود هایلایت کامل و خفن ترینشون اینه آهنگ های پست هارو هم بهتون میده  @instaRoxinoBot ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
-        "date": "2026-08-10T11:45:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2999_0_140dc5f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2999"
       }
     ]
   },
-  "last_update": "2026-08-19T12:47:06.138424+00:00",
+  "last_update": "2026-08-19T13:22:28.778158+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 997,
+      "image": 998,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 433.78,
-    "last_calculation": "2026-08-19T12:47:06.151182+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 433.85,
+    "last_calculation": "2026-08-19T13:22:28.790995+00:00"
   }
 }
