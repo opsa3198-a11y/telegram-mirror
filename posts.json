@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3112,
+        "text": "اوضاع کشور خیلی بگاییه؛ یه دختره پاشده رفته بیرون که یه دزد میاد کیفشو بدزده ولی ایشون مقاومت میکنه و دزد هم یچیزی میزنه تو چشم این بنده خدا و این بلا رو سرش میاره!\n@TweetPublic\n✔️",
+        "date": "2026-08-19T09:32:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3112_0_e1b6f447.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3112_1_0c76fc29.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3112"
+      },
+      {
+        "id": 3111,
+        "text": "🃏\nگاهی یک کارت، همه‌چیز را تغییر می‌دهد...\nجرأت ادامه دادن داری؟\nیا همین حالا بردت را حفظ می‌کنی؟\n♠️\nانتخاب همیشه با توست.\n🎰\nZOMABET.COM",
+        "date": "2026-08-19T09:31:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3111_0_e1b6f447.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3111_1_5ecd7809.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3111"
+      },
+      {
         "id": 3110,
         "text": "🚨\nحمید رسایی:\nمردم ایران همیشه در حال آه و ناله و غر زدنن، حتی اگه وضع اقتصادی هم خوب باشه، باز فرقی نمیکنه. مردم جز غر زدن و ناله کردن چیز دیگه‌ای بلد نیستن.\n@TweetPublic\n✔️",
         "date": "2026-08-19T08:17:09+00:00",
@@ -14451,48 +14489,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2999"
-      },
-      {
-        "id": 2997,
-        "text": "یه گربه‌ی ۱۷ کیلویی خواست از کلینیک لاغری فرار کنه، ولی یه جایی گیر کرد و نتونست در بره\n@TweetPublic\n✔️",
-        "date": "2026-08-10T09:37:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2997_0_140dc5f0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2997_1_c55e2dc8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2997_2_a1f7d013.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2997"
-      },
-      {
-        "id": 2996,
-        "text": "⏺\nمشاور قالیباف: ترامپ با ما توافق نخواهد کرد\n@TweetPublic\n✔️",
-        "date": "2026-08-09T22:36:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2996_0_140dc5f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2996"
       }
     ]
   },
-  "last_update": "2026-08-19T09:20:35.934308+00:00",
+  "last_update": "2026-08-19T09:54:53.152590+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14500,14 +14500,14 @@
     "total_files": 1084,
     "total_links": 172,
     "files_by_type": {
-      "image": 998,
-      "video": 80,
+      "image": 997,
+      "video": 81,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1084,
     "existing_media_files": 1083,
-    "total_size_mb": 429.27,
-    "last_calculation": "2026-08-19T09:20:35.947438+00:00"
+    "total_size_mb": 433.78,
+    "last_calculation": "2026-08-19T09:54:53.165555+00:00"
   }
 }
