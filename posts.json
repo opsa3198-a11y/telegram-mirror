@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3118,
+        "text": "میوت درنیاد\n@TweetPublic\n✔️",
+        "date": "2026-08-19T20:29:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3118_0_710dd479.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3118_1_0f5732c6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3118"
+      },
+      {
         "id": 3117,
         "text": "روزنامه همشهری: اروپایی ها از گرما میمیرن ولی ما گوسفند هامون هم کولر دارن\n@TweetPublic\n✔️",
         "date": "2026-08-19T18:26:44+00:00",
@@ -14470,29 +14489,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3005"
-      },
-      {
-        "id": 3004,
-        "text": "🐔\nجرأت داری تا آخر زمین پیش بری؟\n⚽\nهر گل، ضریب رو بالاتر می‌بره... اما حواست باشه!\n👀\nهر قدمی که جلوتر میری، بردت بزرگ‌تر میشه و ریسکش هم بیشتر!\n🔥\n🎯\nتو تا کدوم ضریب ادامه میدی؟\n⚡\n🐔\nآماده‌ای؟",
-        "date": "2026-08-10T18:27:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3004_0_4973e1d6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3004_1_971a4c75.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3004"
       }
     ]
   },
-  "last_update": "2026-08-19T20:13:29.366061+00:00",
+  "last_update": "2026-08-19T20:50:40.833657+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14500,14 +14500,14 @@
     "total_files": 1084,
     "total_links": 172,
     "files_by_type": {
-      "image": 997,
-      "video": 81,
+      "image": 998,
+      "video": 80,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1084,
     "existing_media_files": 1083,
-    "total_size_mb": 435.22,
-    "last_calculation": "2026-08-19T20:13:29.375942+00:00"
+    "total_size_mb": 433.6,
+    "last_calculation": "2026-08-19T20:50:40.840296+00:00"
   }
 }
