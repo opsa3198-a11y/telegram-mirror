@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3119,
+        "text": "عکس تازه پخش شده از تتلو تو زندان\n@TweetPublic\n✔️",
+        "date": "2026-08-19T22:03:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3119_0_710dd479.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3119_1_82b08a95.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3119"
+      },
+      {
         "id": 3118,
         "text": "میوت درنیاد\n@TweetPublic\n✔️",
         "date": "2026-08-19T20:29:07+00:00",
@@ -14474,40 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3006"
-      },
-      {
-        "id": 3005,
-        "text": "سود سهام عدالت رو تا اول شهریور واریز میکنن میتونین باهاش یه جای خواب جور کنین برای وقتی کارنامه ها اومد\n@TweetPublic\n✔️",
-        "date": "2026-08-10T18:30:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3005_0_4973e1d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3005"
       }
     ]
   },
-  "last_update": "2026-08-19T21:46:22.189140+00:00",
+  "last_update": "2026-08-19T22:12:21.361437+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 998,
+      "image": 999,
       "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 433.6,
-    "last_calculation": "2026-08-19T21:46:22.204364+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 433.66,
+    "last_calculation": "2026-08-19T22:12:21.374154+00:00"
   }
 }
