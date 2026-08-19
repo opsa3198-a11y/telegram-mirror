@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3110,
+        "text": "🚨\nحمید رسایی:\nمردم ایران همیشه در حال آه و ناله و غر زدنن، حتی اگه وضع اقتصادی هم خوب باشه، باز فرقی نمیکنه. مردم جز غر زدن و ناله کردن چیز دیگه‌ای بلد نیستن.\n@TweetPublic\n✔️",
+        "date": "2026-08-19T08:17:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3110_0_e1b6f447.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3110"
+      },
+      {
+        "id": 3109,
+        "text": "عضو کمیسیون امنیت ملی:\nاحتمال حمله هسته‌ای آمریکا هنوز وجود داره\n@TweetPublic\n✔️",
+        "date": "2026-08-19T08:00:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3109_0_e1b6f447.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3109"
+      },
+      {
         "id": 3108,
         "text": "دیگران : واقعاً خوب از پسِ اون ماجرا براومدی.\nمن ساعت 3 صبح :\n@TweetPublic\n✔️",
         "date": "2026-08-18T22:00:59+00:00",
@@ -14459,59 +14489,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/2996"
-      },
-      {
-        "id": 2995,
-        "text": "⚽️\nفکر می‌کنی بازی بعدی رو درست می‌خونی؟\nحدست رو قبل از سوت ثبت کن و هیجان مسابقه رو یه لِول بالاتر ببر.\n🔥\nتوی زومابت، فوتبال، پیش‌بینی زنده و بازی‌های کازینو همه یه‌جا منتظرته.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100٪ کریپتو | 30٪ تومانی\nببینیم پیش‌بینیت چقدر خوبه!\n👀",
-        "date": "2026-08-09T22:35:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2995_0_140dc5f0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_2995_1_1e0803eb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2995"
-      },
-      {
-        "id": 2994,
-        "text": "با حکم پزشکیان، محسن رضایی به عنوان دبیر شورای عالی امنیت ملی منصوب شد!\n@TweetPublic\n✔️",
-        "date": "2026-08-09T18:39:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_2994_0_140dc5f0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/2994"
       }
     ]
   },
-  "last_update": "2026-08-19T07:58:50.590229+00:00",
+  "last_update": "2026-08-19T08:33:05.300897+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1085,
-    "total_files": 1085,
+    "total_media": 1084,
+    "total_files": 1084,
     "total_links": 172,
     "files_by_type": {
-      "image": 999,
+      "image": 998,
       "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1085,
-    "existing_media_files": 1084,
-    "total_size_mb": 429.37,
-    "last_calculation": "2026-08-19T07:58:50.602998+00:00"
+    "referenced_files": 1084,
+    "existing_media_files": 1083,
+    "total_size_mb": 429.27,
+    "last_calculation": "2026-08-19T08:33:05.314191+00:00"
   }
 }
