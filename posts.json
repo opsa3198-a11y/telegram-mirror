@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3117,
+        "text": "روزنامه همشهری: اروپایی ها از گرما میمیرن ولی ما گوسفند هامون هم کولر دارن\n@TweetPublic\n✔️",
+        "date": "2026-08-19T18:26:44+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3117_0_710dd479.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3117"
+      },
+      {
+        "id": 3116,
+        "text": "🔥\nبازی‌های بزرگ، انتخاب‌های بزرگ می‌خوان!\nتو زومابت بازی‌های مهم رو دنبال کن، پیش‌بینی‌تو ثبت کن و تا آخرین دقیقه وسط هیجان\nبمون.\n⚽️\n🎁\n50$ بونوس ثبت‌نام\n💰\n100٪ بونوس کریپتو | 30٪ بونوس تومانی\nسوت زده میشه؛ انتخاب تو چیه؟\n👀",
+        "date": "2026-08-19T18:23:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3116_0_710dd479.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3116_1_79ee9593.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3116"
+      },
+      {
         "id": 3115,
         "text": "اسب سواری چرا ورزشه دیگه؟ اسب میدوعه تو که نمیدویی، وا.\n@TweetPublic\n✔️",
         "date": "2026-08-19T17:46:58+00:00",
@@ -14455,44 +14489,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3004"
-      },
-      {
-        "id": 3003,
-        "text": "وقتی بهش گفتی هیچی از سوپرمارکت نمیخوای و واقعا هیچی نخریده\n@TweetPublic\n✔️",
-        "date": "2026-08-10T17:52:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3003_0_4973e1d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3003_1_0e960ed8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3003"
-      },
-      {
-        "id": 3002,
-        "text": "با حکم سید مجتبی خامنه‌ای، علی عبداللهی فرمانده ستاد کل، احمد وحیدی فرمانده کل سپاه، کیومرث حیدری جانشین رئیس ستاد کل، ایزدی جانشین فرماندهی سپاه، عظمایی فرمانده نیرو دریایی سپاه و طائب رئیس بسیج شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-10T15:53:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3002_0_4973e1d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3002"
       }
     ]
   },
-  "last_update": "2026-08-19T18:15:33.116125+00:00",
+  "last_update": "2026-08-19T18:36:39.051981+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14507,7 +14507,7 @@
     },
     "referenced_files": 1084,
     "existing_media_files": 1083,
-    "total_size_mb": 435.21,
-    "last_calculation": "2026-08-19T18:15:33.129156+00:00"
+    "total_size_mb": 435.22,
+    "last_calculation": "2026-08-19T18:36:39.064833+00:00"
   }
 }
