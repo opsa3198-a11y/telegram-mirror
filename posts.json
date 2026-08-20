@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3137,
+        "text": "🔥\nشروع بازی، با ۵۰ دلار هدیه!\nتو زومابت فقط تماشاگر نیستی؛\nاز پیش‌بینی فوتبال تا بازی‌های کازینو، هر لحظه یه هیجان تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nهمین حالا وارد شو و با دست پُر شروع کن!\n🚀",
+        "date": "2026-08-20T23:12:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3137_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3137_1_a76bc03c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3137"
+      },
+      {
         "id": 3136,
         "text": "یکی از دلایلی که نباید با آدم متاهل وارد رابطه بشید.\n@TweetPublic\n✔️",
         "date": "2026-08-20T22:47:40+00:00",
@@ -14486,29 +14505,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3024"
-      },
-      {
-        "id": 3023,
-        "text": "این آقا پسر توی روز سوم کاریش با رئیسش خوابیده و به دستیار مدیر ترفیع گرفته.\n@TweetPublic\n✔️",
-        "date": "2026-08-12T09:57:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3023_0_65013841.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3023_1_b78ede8f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3023"
       }
     ]
   },
-  "last_update": "2026-08-20T22:50:34.748654+00:00",
+  "last_update": "2026-08-20T23:14:48.068323+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14524,6 +14524,6 @@
     "referenced_files": 1088,
     "existing_media_files": 1087,
     "total_size_mb": 439.53,
-    "last_calculation": "2026-08-20T22:50:34.761334+00:00"
+    "last_calculation": "2026-08-20T23:14:48.081247+00:00"
   }
 }
