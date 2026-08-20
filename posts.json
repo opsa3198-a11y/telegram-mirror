@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 3129,
+        "text": "🔴\nماشین جدید رضا گلزار،تنها رولز رویس کولینان منصوری ایران به ارزش 200 میلیارد تومنه :\n@TweetPublic\n✔️",
+        "date": "2026-08-20T14:00:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3129_0_d72af656.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3129_1_be03806d.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3129_2_83b6f3c1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3129"
+      },
+      {
+        "id": 3128,
+        "text": "حال بهم زن ترین و سم ترین آیتم جهان:\n@TweetPublic\n✔️",
+        "date": "2026-08-20T13:38:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3128_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3128_1_7d39633c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3128"
+      },
+      {
         "id": 3126,
         "text": "🔴\nهمتی؛ رئیس بانک مرکزی:\nمن میخوام بشم بدمن دولت،البته نه بتمن، بلکه بدمن دولت\nیعنی هرکی بیاد بگه پول میخوام میگم شرمنده نداریم.\n@TweetPublic\n✔️",
         "date": "2026-08-20T11:56:55+00:00",
@@ -14463,59 +14505,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3016"
-      },
-      {
-        "id": 3015,
-        "text": "این آقای آمریکایی مچ دوست دخترش رو موقع خیانت گرفته و برای انتقام، عکس\nساک زدن\nدختره رو روی تی‌شرتش چاپ کرده و رفته محل کار دختره.\n@TweetPublic\n✔️",
-        "date": "2026-08-11T12:47:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3015_0_4973e1d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3015_1_c863fbbb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3015"
-      },
-      {
-        "id": 3014,
-        "text": "کافیه کلمه\n/direct\nرو به ربات زیر بفرستی تا هرچی توی اینستاگرام دیدی بدون نیاز به کپی لینک توی تلگرام تحویل بگیری\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
-        "date": "2026-08-11T11:14:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3014_0_4973e1d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3014"
       }
     ]
   },
-  "last_update": "2026-08-20T13:24:03.730347+00:00",
+  "last_update": "2026-08-20T14:05:23.734631+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1088,
+    "total_files": 1088,
     "total_links": 172,
     "files_by_type": {
-      "image": 1000,
-      "video": 80,
+      "image": 1001,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 432.58,
-    "last_calculation": "2026-08-20T13:24:03.743431+00:00"
+    "referenced_files": 1088,
+    "existing_media_files": 1087,
+    "total_size_mb": 435.02,
+    "last_calculation": "2026-08-20T14:05:23.747194+00:00"
   }
 }
