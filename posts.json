@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3134,
+        "text": "🔴\nیه هواپیما از بریتانیا داشت به سمت اسپانیا می‌رفت، مسافرا از داخل دستشویی صدای ناله شنیدن و نگران شدن نکنه اتفاقی افتاده!\nوقتی مهماندار درو باز کرد، به یه صحنه جالب و عجیب برخوردن :))\n@TweetPublic\n✔️",
+        "date": "2026-08-20T19:28:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3134_0_d72af656.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3134_1_42ba3f30.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3134"
+      },
+      {
         "id": 3133,
         "text": "شتتتتتت ، اقا به دخترامون تا وقتی اموزش اصولی ندیدن و واقعا ماهر نشدن موتور ندین دستشون ، موتور وسیله خطرناکیه تروخدا از سر جوگیری سوارش نشید\n@TweetPublic\n✔️",
         "date": "2026-08-20T18:12:29+00:00",
@@ -14486,40 +14505,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3021"
-      },
-      {
-        "id": 3020,
-        "text": "با این ربات دیگه نیاز نیست بخاطر ریلز پست یه فیلم به\nکسکشی\nبیوفتی\nکه بری توی گروه صیغه یابی و فروش پکیج و کریپتو و آهنگ عضو بشی تا یه ریلز از اینستا دانلود کنی\n@instaRoxinoBot\n⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬⁮⁮⁮⁮ ⁪⁬⁮⁪⁬⁮⁪⁬⁮⁮⁪⁬⁮⁮⁪⁪⁬⁮⁮⁪⁬",
-        "date": "2026-08-12T07:55:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3020_0_65013841.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3020"
       }
     ]
   },
-  "last_update": "2026-08-20T19:08:54.229806+00:00",
+  "last_update": "2026-08-20T19:53:20.932772+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1087,
-    "total_files": 1087,
+    "total_media": 1088,
+    "total_files": 1088,
     "total_links": 172,
     "files_by_type": {
       "image": 999,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1087,
-    "existing_media_files": 1086,
-    "total_size_mb": 438.38,
-    "last_calculation": "2026-08-20T19:08:54.237582+00:00"
+    "referenced_files": 1088,
+    "existing_media_files": 1087,
+    "total_size_mb": 439.56,
+    "last_calculation": "2026-08-20T19:53:20.945755+00:00"
   }
 }
