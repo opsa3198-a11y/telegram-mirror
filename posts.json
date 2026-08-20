@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3135,
+        "text": "رها كن و برو؛\nنمى ارزه،\nچون اگه مى ارزيد\nبه فكر رفتن نميفتادى.\n@TweetPublic\n✔️",
+        "date": "2026-08-20T20:51:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3135_0_d72af656.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3135"
+      },
+      {
         "id": 3134,
         "text": "🔴\nیه هواپیما از بریتانیا داشت به سمت اسپانیا می‌رفت، مسافرا از داخل دستشویی صدای ناله شنیدن و نگران شدن نکنه اتفاقی افتاده!\nوقتی مهماندار درو باز کرد، به یه صحنه جالب و عجیب برخوردن :))\n@TweetPublic\n✔️",
         "date": "2026-08-20T19:28:45+00:00",
@@ -14490,25 +14505,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3022"
-      },
-      {
-        "id": 3021,
-        "text": "‏چجوریه گربه‌ها نه گوشی دارن، نه کامیونیتی؛ ولی کل اینستاگرام و تایملاین دست اوناست؟\n@TweetPublic\n✔️",
-        "date": "2026-08-12T08:10:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3021_0_65013841.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3021"
       }
     ]
   },
-  "last_update": "2026-08-20T20:15:51.529475+00:00",
+  "last_update": "2026-08-20T20:52:06.203203+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14524,6 +14524,6 @@
     "referenced_files": 1088,
     "existing_media_files": 1087,
     "total_size_mb": 439.56,
-    "last_calculation": "2026-08-20T20:15:51.542718+00:00"
+    "last_calculation": "2026-08-20T20:52:06.216090+00:00"
   }
 }
