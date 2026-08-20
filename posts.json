@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3136,
+        "text": "یکی از دلایلی که نباید با آدم متاهل وارد رابطه بشید.\n@TweetPublic\n✔️",
+        "date": "2026-08-20T22:47:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3136_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3136_1_56497bb8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3136"
+      },
+      {
         "id": 3135,
         "text": "رها كن و برو؛\nنمى ارزه،\nچون اگه مى ارزيد\nبه فكر رفتن نميفتادى.\n@TweetPublic\n✔️",
         "date": "2026-08-20T20:51:41+00:00",
@@ -14486,29 +14505,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3023"
-      },
-      {
-        "id": 3022,
-        "text": "️\n💵\nبازی رو هوشمند شروع کن!\nاز بلک‌جک و کازینو لایو تا پیش‌بینی مسابقات، توی زومابت همیشه یک انتخاب تازه برای هیجان بیشتر منتظرته.\n🃏\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡\n۳۰٪ بونوس واریز تومانی\nآماده‌ای؟ وارد شو، بازی موردعلاقه‌تو انتخاب کن و دست اول رو شروع کن!\n🚀",
-        "date": "2026-08-12T09:57:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3022_0_65013841.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3022_1_e2f0bfcf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3022"
       }
     ]
   },
-  "last_update": "2026-08-20T22:14:15.200670+00:00",
+  "last_update": "2026-08-20T22:50:34.748654+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14523,7 +14523,7 @@
     },
     "referenced_files": 1088,
     "existing_media_files": 1087,
-    "total_size_mb": 439.56,
-    "last_calculation": "2026-08-20T22:14:15.213631+00:00"
+    "total_size_mb": 439.53,
+    "last_calculation": "2026-08-20T22:50:34.761334+00:00"
   }
 }
