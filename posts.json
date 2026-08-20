@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3138,
+        "text": "‏«اگر هر چیزی ارائه کردید کافی نبود؛\nنبودتان را ارائه کنید.»\n💬\nfredo\n@TweetPublic\n✔️",
+        "date": "2026-08-20T23:15:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3138_0_d72af656.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3138"
+      },
+      {
         "id": 3137,
         "text": "🔥\nشروع بازی، با ۵۰ دلار هدیه!\nتو زومابت فقط تماشاگر نیستی؛\nاز پیش‌بینی فوتبال تا بازی‌های کازینو، هر لحظه یه هیجان تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nهمین حالا وارد شو و با دست پُر شروع کن!\n🚀",
         "date": "2026-08-20T23:12:35+00:00",
@@ -14486,44 +14501,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3025"
-      },
-      {
-        "id": 3024,
-        "text": "اینایی که کارشون قلنج شکوندنه دارن به جاهای خطرناکی میرن ؛\nیکیشون اومده قلنج\nکون\nداره میشکونه\n😐\n@TweetPublic\n✔️",
-        "date": "2026-08-12T13:40:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3024_0_37468e79.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3024_1_48c35035.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3024"
       }
     ]
   },
-  "last_update": "2026-08-20T23:14:48.068323+00:00",
+  "last_update": "2026-08-20T23:46:27.500084+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1087,
+    "total_files": 1087,
     "total_links": 172,
     "files_by_type": {
       "image": 999,
-      "video": 83,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 439.53,
-    "last_calculation": "2026-08-20T23:14:48.081247+00:00"
+    "referenced_files": 1087,
+    "existing_media_files": 1086,
+    "total_size_mb": 437.67,
+    "last_calculation": "2026-08-20T23:46:27.513544+00:00"
   }
 }
