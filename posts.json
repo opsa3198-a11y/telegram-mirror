@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3126,
+        "text": "🔴\nهمتی؛ رئیس بانک مرکزی:\nمن میخوام بشم بدمن دولت،البته نه بتمن، بلکه بدمن دولت\nیعنی هرکی بیاد بگه پول میخوام میگم شرمنده نداریم.\n@TweetPublic\n✔️",
+        "date": "2026-08-20T11:56:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3126_0_d72af656.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3126_1_99801d2d.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3126_2_6cf4518a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3126"
+      },
+      {
         "id": 3125,
         "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرت",
         "date": "2026-08-20T11:15:43+00:00",
@@ -14474,44 +14497,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3014"
-      },
-      {
-        "id": 3013,
-        "text": "بی حیا شدن\n@TweetPublic\n✔️",
-        "date": "2026-08-11T10:44:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3013_0_4973e1d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3013_1_8e0acc94.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3013"
       }
     ]
   },
-  "last_update": "2026-08-20T11:48:22.876132+00:00",
+  "last_update": "2026-08-20T12:22:09.717469+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1085,
-    "total_files": 1085,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
       "image": 1000,
-      "video": 79,
+      "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1085,
-    "existing_media_files": 1084,
-    "total_size_mb": 432.08,
-    "last_calculation": "2026-08-20T11:48:22.888625+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 432.58,
+    "last_calculation": "2026-08-20T12:22:09.730213+00:00"
   }
 }
