@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3133,
+        "text": "شتتتتتت ، اقا به دخترامون تا وقتی اموزش اصولی ندیدن و واقعا ماهر نشدن موتور ندین دستشون ، موتور وسیله خطرناکیه تروخدا از سر جوگیری سوارش نشید\n@TweetPublic\n✔️",
+        "date": "2026-08-20T18:12:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3133_0_d72af656.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3133_1_0838ace2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3133"
+      },
+      {
+        "id": 3132,
+        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرته.",
+        "date": "2026-08-20T18:08:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3132_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3132_1_8a5efdfc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3132"
+      },
+      {
         "id": 3131,
         "text": "یه اتفاق بی‌صدایی هم افتاده که از تورم بدتره.\nآدم‌ها دارن آینده رو از برنامه‌هاشون پاک می‌کنن.\nنه سفر رو برای سال بعد می‌چینن.\nنه بچه رو برای چند سال بعد.\nنه حتی خرید یه مبل رو.\nتورم فقط قیمت‌ها رو بالا نبرد؛\nتقویم زندگی رو کوتاه کرد.\n@TweetPublic\n✔️",
         "date": "2026-08-20T17:03:15+00:00",
@@ -14463,59 +14501,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3020"
-      },
-      {
-        "id": 3019,
-        "text": "تو کتاب «ازدواج بدون شکست»\nیه جمله خیلی قشنگ هست که میگه:\n\"لطفاً وقتی عصبانی یا ناراحتی،\nفراموش نکن دوستت دارم؛\nمن حتی وسط دعوا هم پناهم خودتی\nو به مهربونیت نیاز دارم\"\n👤\nویلیام گلاسر\n@TweetPublic\n✔️",
-        "date": "2026-08-11T23:30:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3019_0_65013841.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3019"
-      },
-      {
-        "id": 3018,
-        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتشه وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
-        "date": "2026-08-11T23:30:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3018_0_65013841.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3018_1_47ca604e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3018"
       }
     ]
   },
-  "last_update": "2026-08-20T17:53:19.970173+00:00",
+  "last_update": "2026-08-20T18:19:50.872214+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1087,
+    "total_files": 1087,
     "total_links": 172,
     "files_by_type": {
       "image": 999,
-      "video": 81,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 434.77,
-    "last_calculation": "2026-08-20T17:53:19.982993+00:00"
+    "referenced_files": 1087,
+    "existing_media_files": 1086,
+    "total_size_mb": 438.38,
+    "last_calculation": "2026-08-20T18:19:50.885085+00:00"
   }
 }
