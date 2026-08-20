@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3123,
+        "text": "به قول شيرازيا:\nاولين اشتباه هر انسانى پاشدن از خوابه،\nبعد از اونه كه اشتباهات ديگه پشت سر هم اتفاق ميوفته.\n@TweetPublic\n✔️",
+        "date": "2026-08-20T09:43:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3123_0_710dd479.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3123"
+      },
+      {
         "id": 3122,
         "text": "درستش اینطوریه پس\n@TweetPublic\n✔️",
         "date": "2026-08-20T08:04:34+00:00",
@@ -14478,44 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3011"
-      },
-      {
-        "id": 3010,
-        "text": "🔴\nفارس:\nطبق اعلامِ رهبر انقلاب «سید مجتبی خامنه ای»؛ قرارگاه خاتم الانبیا با ستاد کل نیروهای مسلح ادغام شده و از این به بعد فرماندشون یکیه.\n+ اکثرِ فعالین سیاسی معتقدن این یعنی ادغام نیروهای مسلح شروع شده و ممکنه به زودی سپاه و ارتش هم ادغام بشن و بشه ارتش ایران.\n@TweetPublic\n✔️",
-        "date": "2026-08-11T07:33:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3010_0_4973e1d6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3010_1_972eae2f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3010"
       }
     ]
   },
-  "last_update": "2026-08-20T09:02:29.228769+00:00",
+  "last_update": "2026-08-20T09:56:03.361193+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 1001,
+      "image": 1000,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 432.15,
-    "last_calculation": "2026-08-20T09:02:29.241364+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 432.1,
+    "last_calculation": "2026-08-20T09:56:03.374216+00:00"
   }
 }
