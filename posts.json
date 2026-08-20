@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3131,
+        "text": "یه اتفاق بی‌صدایی هم افتاده که از تورم بدتره.\nآدم‌ها دارن آینده رو از برنامه‌هاشون پاک می‌کنن.\nنه سفر رو برای سال بعد می‌چینن.\nنه بچه رو برای چند سال بعد.\nنه حتی خرید یه مبل رو.\nتورم فقط قیمت‌ها رو بالا نبرد؛\nتقویم زندگی رو کوتاه کرد.\n@TweetPublic\n✔️",
+        "date": "2026-08-20T17:03:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3131_0_d72af656.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3131"
+      },
+      {
         "id": 3129,
         "text": "🔴\nماشین جدید رضا گلزار،تنها رولز رویس کولینان منصوری ایران به ارزش 200 میلیارد تومنه :\n@TweetPublic\n✔️",
         "date": "2026-08-20T14:00:34+00:00",
@@ -14482,48 +14497,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3018"
-      },
-      {
-        "id": 3016,
-        "text": "این کشاورز احمق توی کلمبیا، موقع کار 600 میلیون دلار از توی زمین پیدا کرده و همشو تحویل پلیس داده.\nگفته میشه این پول‌ها مربوط به بخشی از ثروت پابلو اسکوبار بوده که داخل بشکه های پلاستیکی مخفی شده بودن.\nبا این پول میشد ۳۰ تا جزیره یا ۳۰۰ تا پنت هاوس در بهترین جای آمریکا خرید.\n@TweetPublic\n✔️",
-        "date": "2026-08-11T20:16:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3016_0_65013841.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3016_1_0363e01f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3016_2_7c244104.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3016"
       }
     ]
   },
-  "last_update": "2026-08-20T16:57:30.149992+00:00",
+  "last_update": "2026-08-20T17:21:42.124450+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 1001,
+      "image": 999,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 435.02,
-    "last_calculation": "2026-08-20T16:57:30.159170+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 434.77,
+    "last_calculation": "2026-08-20T17:21:42.137561+00:00"
   }
 }
