@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3125,
+        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرت",
+        "date": "2026-08-20T11:15:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3125_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3125_1_752efa24.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3125"
+      },
+      {
         "id": 3124,
         "text": "⭕️\nعارف، معاون پزشکیان: گران شدن بنزین تا محدوده 80 هزار تومن قطعیه\n@TweetPublic\n✔️",
         "date": "2026-08-20T10:16:26+00:00",
@@ -14474,40 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3013"
-      },
-      {
-        "id": 3012,
-        "text": "پلیس مردی رو که\n8\nگوسفند رو دزدیده بود توسط پلیس امنیت مشهد دستگیر شد\nیه مرد توی مشهد که تولدش بوده، روز تولد میره 8 تا گوسفند میدزده میاره خونه قربونی میکنه همشو میپزه درست میکنه زنگ میزنه کل فک و فامیل و رفیقاشو دعوت میکنه و همه رو شام میده\n😂\n😂\n😂\n😂\n😂\n😂\n😂\n@TweetPublic\n✔️",
-        "date": "2026-08-11T09:35:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3012_0_4973e1d6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3012"
       }
     ]
   },
-  "last_update": "2026-08-20T11:15:24.566882+00:00",
+  "last_update": "2026-08-20T11:48:22.876132+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 999,
+      "image": 1000,
       "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 431.99,
-    "last_calculation": "2026-08-20T11:15:24.579903+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 432.08,
+    "last_calculation": "2026-08-20T11:48:22.888625+00:00"
   }
 }
