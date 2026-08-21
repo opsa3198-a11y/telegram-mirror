@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3140,
+        "text": "🔴\nامروز August 21، روز جهانی بزه\nاین روز رو به بز کوچولوی بامزه و کیوت زندگیت تبریک بگو\n✨️\n@TweetPublic\n✔️",
+        "date": "2026-08-21T10:18:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3140_0_d72af656.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3140_1_753652af.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3140_2_2945c894.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3140"
+      },
+      {
         "id": 3139,
         "text": "بدترین بدهکاری،\nبدهکاری آدمیزاد به خودش است\nآنجا که می‌توانستی\nبیشتر تلاش کنی و بهتر باشی،\nاما انتخابت چیز دیگری بود ...\n@TweetPublic\n✔️",
         "date": "2026-08-21T08:58:31+00:00",
@@ -14482,40 +14505,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3027"
-      },
-      {
-        "id": 3026,
-        "text": "🔹\nفوری، معاون استاندار کرمان: از امشب قیمت هر لیتر بنزین آزاد توی استان کرمان، 87 هزار تومنه\n🫪\n@TweetPublic\n✔️",
-        "date": "2026-08-12T17:14:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3026_0_37468e79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3026"
       }
     ]
   },
-  "last_update": "2026-08-21T09:57:10.964988+00:00",
+  "last_update": "2026-08-21T10:21:21.273758+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1088,
+    "total_files": 1088,
     "total_links": 172,
     "files_by_type": {
-      "image": 998,
+      "image": 1000,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 437.57,
-    "last_calculation": "2026-08-21T09:57:10.978757+00:00"
+    "referenced_files": 1088,
+    "existing_media_files": 1087,
+    "total_size_mb": 437.75,
+    "last_calculation": "2026-08-21T10:21:21.286698+00:00"
   }
 }
