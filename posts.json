@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3159,
+        "text": "اما شهریار به جای \"کارما\" گفته:\nفلک همیشه به کام یکی نمی‌گردد،\nکه آسیای طبیعت به نوبتست ای دوست...\n@TweetPublic\n✔️",
+        "date": "2026-08-21T23:10:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3159_0_3d60419e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3159"
+      },
+      {
+        "id": 3158,
+        "text": "� بازی بزرگ فقط توی زمین شروع نمی‌شه…\nاز همون لحظه‌ای که انتخابتو می‌کنی، هیجانش فرق می‌کنه.\n⚽️\nپیش‌بینی مسابقات، بازی زنده و کازینو، همه توی ZOMABET آماده‌ست.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100٪ کریپتو | 30٪ تومانی\nتو فقط تماشا می‌کنی یا وارد بازی می‌شی؟\n👀",
+        "date": "2026-08-21T23:08:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3158_0_3d60419e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3158_1_a58d6aa5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3158"
+      },
+      {
         "id": 3157,
         "text": "مشکل اون آدم‌خوبه‌ی زندگیا،\nکه احتمالا تو زندگیت یه‌بار بیشتر بهش برنمی‌خوری،\nاینه که تو باید دوراتو بزنی تا بفهمی که آدم‌خوبه اون بوده.\nولی وقتی دوراتو بزنی و برگردی،\nاون ولی دیگه جایی نداری تو دلش.\nواست میشه یه حسرت ابدی.\n@TweetPublic\n✔️",
         "date": "2026-08-21T20:30:04+00:00",
@@ -14463,44 +14497,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3039"
-      },
-      {
-        "id": 3038,
-        "text": "امروز 14 آگوست، تولد 13 سالگی تلگرامه.\nبا اینکه چند سالی میشه تلگرام مثل قدیم دیگه جذابیتی نداره، ولی همچنان بهترین اپلیکشن دنیاست\n@TweetPublic\n✔️",
-        "date": "2026-08-13T20:56:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3038_0_c27f1fe1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3038"
-      },
-      {
-        "id": 3037,
-        "text": "دستگیری فردی که کامنت جاویدشاه گذاشته بوده..\nرسانه های داخلی با انتشار این پست اعلام کردن که کامنت گذاشتن و لایک کردن پستای رضا پهلوی و اینترنشنال و... جرمه و کسایی که اینکارو بکنن دستگیر میشن.\n@TweetPublic\n✔️",
-        "date": "2026-08-13T18:07:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3037_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3037_1_4446e2b1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3037"
       }
     ]
   },
-  "last_update": "2026-08-21T22:46:43.029102+00:00",
+  "last_update": "2026-08-21T23:12:13.287250+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14508,14 +14508,14 @@
     "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 996,
-      "video": 84,
+      "image": 997,
+      "video": 83,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1086,
     "existing_media_files": 1085,
-    "total_size_mb": 440.27,
-    "last_calculation": "2026-08-21T22:46:43.036905+00:00"
+    "total_size_mb": 435.98,
+    "last_calculation": "2026-08-21T23:12:13.300182+00:00"
   }
 }
