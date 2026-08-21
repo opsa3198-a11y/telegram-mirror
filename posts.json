@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3144,
+        "text": "‏ولی خیلی از بچه‌هایی که امروز باید کنکور می‌دادن زیر خاکن\n@TweetPublic\n✔️",
+        "date": "2026-08-21T11:31:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3144_0_3d60419e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3144"
+      },
+      {
         "id": 3143,
         "text": "بهترین نصیحت پدرانه رو صادق کامیاب میکنه که میگه:\n«هر کس به اندازه‌ای که برای ما ارزش قائل است، باید ذهن و دلمان را اشغال کند، نه به اندازه‌ای که ما دوستش داریم.»\nهر روز بخونیدش،هر روز.\n@TweetPublic\n✔️",
         "date": "2026-08-21T11:06:09+00:00",
@@ -14482,44 +14497,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3030"
-      },
-      {
-        "id": 3029,
-        "text": "پاول دورف گیفت تدی تروریست منتشر کرد\n😂\n😂\n@TweetPublic\n✔️",
-        "date": "2026-08-12T19:53:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3029_0_37468e79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3029_1_2ae32ca1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3029"
       }
     ]
   },
-  "last_update": "2026-08-21T11:15:07.388232+00:00",
+  "last_update": "2026-08-21T11:48:21.834411+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1087,
-    "total_files": 1087,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 999,
+      "image": 998,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1087,
-    "existing_media_files": 1086,
-    "total_size_mb": 437.69,
-    "last_calculation": "2026-08-21T11:15:07.400861+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 437.65,
+    "last_calculation": "2026-08-21T11:48:21.845059+00:00"
   }
 }
