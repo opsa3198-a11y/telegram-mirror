@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3156,
+        "text": "📱\nاینستاگرام صفحه‌ای که مربوط به مقبره علی‌خامنه‌ای بود رو مسدود کرد.\n@TweetPublic\n✔️",
+        "date": "2026-08-21T19:33:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3156_0_3d60419e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3156_1_bab7115e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3156"
+      },
+      {
         "id": 3155,
         "text": "من وقتی از روی کنجکاوی تنظیمات زبان گوشیم رو چینی کردم\n@TweetPublic\n✔️",
         "date": "2026-08-21T18:29:53+00:00",
@@ -14482,29 +14501,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3036"
-      },
-      {
-        "id": 3035,
-        "text": "آخرش به غیر منتظره ترین شکل تموم شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-13T17:09:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3035_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3035_1_2c4946ef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3035"
       }
     ]
   },
-  "last_update": "2026-08-21T19:04:07.770861+00:00",
+  "last_update": "2026-08-21T19:44:09.248483+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14519,7 +14519,7 @@
     },
     "referenced_files": 1087,
     "existing_media_files": 1086,
-    "total_size_mb": 440.22,
-    "last_calculation": "2026-08-21T19:04:07.783712+00:00"
+    "total_size_mb": 440.35,
+    "last_calculation": "2026-08-21T19:44:09.255168+00:00"
   }
 }
