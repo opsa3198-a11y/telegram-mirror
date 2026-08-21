@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3143,
+        "text": "بهترین نصیحت پدرانه رو صادق کامیاب میکنه که میگه:\n«هر کس به اندازه‌ای که برای ما ارزش قائل است، باید ذهن و دلمان را اشغال کند، نه به اندازه‌ای که ما دوستش داریم.»\nهر روز بخونیدش،هر روز.\n@TweetPublic\n✔️",
+        "date": "2026-08-21T11:06:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3143_0_3d60419e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3143"
+      },
+      {
+        "id": 3142,
+        "text": "♠️\nگاهی فقط یک انتخاب...\nسرنوشت بازی را تغییر می‌دهد.\nبالا یا پایین؛\nتصمیم با توست...\n🎯\nجرأت انتخاب داری؟\n🎰\nZOMABET.COM",
+        "date": "2026-08-21T11:05:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3142_0_3d60419e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3142_1_12e51bce.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3142"
+      },
+      {
         "id": 3140,
         "text": "🔴\nامروز August 21، روز جهانی بزه\nاین روز رو به بز کوچولوی بامزه و کیوت زندگیت تبریک بگو\n✨️\n@TweetPublic\n✔️",
         "date": "2026-08-21T10:18:28+00:00",
@@ -14467,63 +14501,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3029"
-      },
-      {
-        "id": 3028,
-        "text": "من وقتی میبینم رفیقم داره با یکی صمیمی میشه:\n@TweetPublic\n✔️",
-        "date": "2026-08-12T17:53:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3028_0_37468e79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3028_1_f827e1e4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3028"
-      },
-      {
-        "id": 3027,
-        "text": "♠️\nگاهی فقط یک انتخاب...\nسرنوشت بازی را تغییر می‌دهد.\nبالا یا پایین؛\nتصمیم با توست...\n🎯\nجرأت انتخاب داری؟\n🎰\nZOMABET.COM",
-        "date": "2026-08-12T17:50:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3027_0_37468e79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3027_1_d7f18ba3.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3027"
       }
     ]
   },
-  "last_update": "2026-08-21T10:54:27.553639+00:00",
+  "last_update": "2026-08-21T11:15:07.388232+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1088,
-    "total_files": 1088,
+    "total_media": 1087,
+    "total_files": 1087,
     "total_links": 172,
     "files_by_type": {
-      "image": 1000,
+      "image": 999,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1088,
-    "existing_media_files": 1087,
-    "total_size_mb": 437.75,
-    "last_calculation": "2026-08-21T10:54:27.566921+00:00"
+    "referenced_files": 1087,
+    "existing_media_files": 1086,
+    "total_size_mb": 437.69,
+    "last_calculation": "2026-08-21T11:15:07.400861+00:00"
   }
 }
