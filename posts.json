@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3155,
+        "text": "من وقتی از روی کنجکاوی تنظیمات زبان گوشیم رو چینی کردم\n@TweetPublic\n✔️",
+        "date": "2026-08-21T18:29:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3155_0_3d60419e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3155_1_9b287764.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3155"
+      },
+      {
+        "id": 3154,
+        "text": "💸\nاین یه شروع معمولی نیست؛ با دست پُر وارد زوما شو!\nفوتبال، پیش‌بینی زنده، کازینو و کلی بازی متنوع؛ هر مدل هیجانی که بخوای، یک‌جا منتظرته.\n⚽️\n🎰\n🔥\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\nوقتش وارد شی، بازی خودتو پیدا کنی و هیجان رو شروع کنی!\n🚀",
+        "date": "2026-08-21T18:28:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3154_0_3d60419e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3154_1_038187c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3154"
+      },
+      {
         "id": 3153,
         "text": "هر چی که با پ شروع می شه چیز خوبیه\nپول ، پاییز ، پیتزا ، پتو ، پاستیل ، پلی استیشن ، پنت هاوس\n@TweetPublic\n✔️",
         "date": "2026-08-21T17:28:46+00:00",
@@ -14463,59 +14501,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3035"
-      },
-      {
-        "id": 3034,
-        "text": "كسى كه زود سين ميزنه يه حس خوبى بهت ميده يه حسى كه يعنى مزاحم نيستى، خوشحالم كه پيام دادى، منتظر پيامت بودم،\nهمينقدر قشنگ.\n@TweetPublic\n✔️",
-        "date": "2026-08-13T12:36:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3034_0_37468e79.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3034"
-      },
-      {
-        "id": 3033,
-        "text": "🔴\nپسره به دوست دخترش دوتا النگو داده گفته برات طلا خریدم، حالا بعد از چند وقت رابطشون تموم شده دختره اومده طلاهارو بفروشه یه پولی بیاد دستش میبینه النگو ها بدلن:\n@TweetPublic\n✔️",
-        "date": "2026-08-13T10:25:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3033_0_37468e79.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3033_1_d5c46c7b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3033"
       }
     ]
   },
-  "last_update": "2026-08-21T18:19:27.937600+00:00",
+  "last_update": "2026-08-21T18:36:25.009871+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1087,
+    "total_files": 1087,
     "total_links": 172,
     "files_by_type": {
-      "image": 996,
+      "image": 997,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 442.19,
-    "last_calculation": "2026-08-21T18:19:27.945190+00:00"
+    "referenced_files": 1087,
+    "existing_media_files": 1086,
+    "total_size_mb": 440.22,
+    "last_calculation": "2026-08-21T18:36:25.023007+00:00"
   }
 }
