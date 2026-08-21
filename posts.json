@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3157,
+        "text": "مشکل اون آدم‌خوبه‌ی زندگیا،\nکه احتمالا تو زندگیت یه‌بار بیشتر بهش برنمی‌خوری،\nاینه که تو باید دوراتو بزنی تا بفهمی که آدم‌خوبه اون بوده.\nولی وقتی دوراتو بزنی و برگردی،\nاون ولی دیگه جایی نداری تو دلش.\nواست میشه یه حسرت ابدی.\n@TweetPublic\n✔️",
+        "date": "2026-08-21T20:30:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3157_0_3d60419e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3157"
+      },
+      {
         "id": 3156,
         "text": "📱\nاینستاگرام صفحه‌ای که مربوط به مقبره علی‌خامنه‌ای بود رو مسدود کرد.\n@TweetPublic\n✔️",
         "date": "2026-08-21T19:33:07+00:00",
@@ -14482,44 +14497,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3037"
-      },
-      {
-        "id": 3036,
-        "text": "🎁\nبعضی هدیه‌ها را باید خودت باز کنی…\nدر زومابت، هر ثبت‌نام می‌تواند شروع یک سورپرایز باشد.\n🎉\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\nهدیه‌ات منتظر توست…\n✨\n💰\nZOMABET.COM",
-        "date": "2026-08-13T18:06:22+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3036_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3036_1_f0d6f9c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3036"
       }
     ]
   },
-  "last_update": "2026-08-21T20:11:53.406219+00:00",
+  "last_update": "2026-08-21T20:45:33.143988+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1087,
-    "total_files": 1087,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 997,
+      "image": 996,
       "video": 84,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1087,
-    "existing_media_files": 1086,
-    "total_size_mb": 440.35,
-    "last_calculation": "2026-08-21T20:11:53.413099+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 440.27,
+    "last_calculation": "2026-08-21T20:45:33.153926+00:00"
   }
 }
