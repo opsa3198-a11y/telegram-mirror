@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3139,
+        "text": "بدترین بدهکاری،\nبدهکاری آدمیزاد به خودش است\nآنجا که می‌توانستی\nبیشتر تلاش کنی و بهتر باشی،\nاما انتخابت چیز دیگری بود ...\n@TweetPublic\n✔️",
+        "date": "2026-08-21T08:58:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3139_0_d72af656.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3139"
+      },
+      {
         "id": 3138,
         "text": "‏«اگر هر چیزی ارائه کردید کافی نبود؛\nنبودتان را ارائه کنید.»\n💬\nfredo\n@TweetPublic\n✔️",
         "date": "2026-08-20T23:15:46+00:00",
@@ -14482,44 +14497,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3026"
-      },
-      {
-        "id": 3025,
-        "text": "🔴\nترامپ: فکر می‌کنم کنترل تنگه هرمز را حفظ خواهیم کرد و تنها چیزی که ایران دارد فیک نیوز و یک تورم 300 درصدی است؛ الحمدلله!\n@TweetPublic\n✔️",
-        "date": "2026-08-12T14:43:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3025_0_37468e79.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3025_1_cf4e7720.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3025"
       }
     ]
   },
-  "last_update": "2026-08-21T08:02:36.864777+00:00",
+  "last_update": "2026-08-21T09:04:51.393591+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1087,
-    "total_files": 1087,
+    "total_media": 1086,
+    "total_files": 1086,
     "total_links": 172,
     "files_by_type": {
-      "image": 999,
+      "image": 998,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1087,
-    "existing_media_files": 1086,
-    "total_size_mb": 437.67,
-    "last_calculation": "2026-08-21T08:02:36.872447+00:00"
+    "referenced_files": 1086,
+    "existing_media_files": 1085,
+    "total_size_mb": 437.57,
+    "last_calculation": "2026-08-21T09:04:51.406890+00:00"
   }
 }
