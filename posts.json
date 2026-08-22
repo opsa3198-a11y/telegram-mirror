@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3163,
+        "text": "دخترا: مریم رو فقط 10ساله میشناسم اعتماد ندارم بهش!\nپسرا بعد 1ساعت آشنایی درحال تعمیر کولری که مال خودشونم نیست:\n@TweetPublic\n✔️",
+        "date": "2026-08-22T10:52:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3163_0_a22a5325.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3163_1_d94ae1d9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3163"
+      },
+      {
+        "id": 3162,
+        "text": "� عصر فوتبالی از همین‌جا شروع میشه!\nمنچستر یونایتد مقابل هال سیتی؛ ۹۰ دقیقه برای یه شروع داغ و پراتفاق.\n⚽️\nقبل از سوت، انتخابتو ثبت کن و با زومابت وارد جریان بازی شو.\n⏰\nامروز | 15:00\n🎁\n50$ هدیه ثبت‌نام\n💰\n100٪ کریپتو | 30٪ تومانی",
+        "date": "2026-08-22T10:49:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3162_0_a22a5325.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3162_1_9b1effa8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3162"
+      },
+      {
         "id": 3161,
         "text": "🔴\nسایت ترب که زیر نظر دولت فعالیت میکنه طی یک حرکت عجیب؛ فروش محصولات جـنسی مثل\nدیلـدو\nرو آزاد کرده\nولی ناموسا گرونه\nتازه؛ نکته عجیب ماجرا اینجاست که نوشته قابل استفاده برای آقایون هم هست\n🗿\n@TweetPublic\n✔️",
         "date": "2026-08-22T10:00:36+00:00",
@@ -14455,48 +14493,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3044"
-      },
-      {
-        "id": 3043,
-        "text": "️\n👐\nهمه دست‌ها شبیه هم هستند…\nاما یکی، حقیقت را پنهان کرده است.\n👀\nفقط یک سؤال؛\n🙌\nتو می‌توانی آن را پیدا کنی؟\n💸\nZOMABET.COM",
-        "date": "2026-08-14T10:19:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3043_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3043_1_cefda766.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3043"
-      },
-      {
-        "id": 3041,
-        "text": "اگه توی اینستاگرام‌ کسی توی کلوزفرندش اددتون کرده بود؛ اگه شکل سمت چپ براتون اومد یعنی فقط شما رو ادد کرده ولی اگه شکل سمت راست بود یعنی جز شما افراد دیگه ای رو هم ادد کرده.\n@TweetPublic\n✔️",
-        "date": "2026-08-14T08:15:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3041_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3041_1_4f76de63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3041"
       }
     ]
   },
-  "last_update": "2026-08-22T10:45:38.432981+00:00",
+  "last_update": "2026-08-22T11:10:23.572634+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14511,7 +14511,7 @@
     },
     "referenced_files": 1085,
     "existing_media_files": 1084,
-    "total_size_mb": 435.85,
-    "last_calculation": "2026-08-22T10:45:38.445983+00:00"
+    "total_size_mb": 435.9,
+    "last_calculation": "2026-08-22T11:10:23.585611+00:00"
   }
 }
