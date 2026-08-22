@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3160,
+        "text": "به ياد آنان كه جسارت بيشترى از ما داشتند، حرف ما را بلندتر فرياد زدند و امروز كنار ما نيستند\n🖤\n@TweetPublic\n✔️",
+        "date": "2026-08-22T02:28:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3160_0_3d60419e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3160"
+      },
+      {
         "id": 3159,
         "text": "اما شهریار به جای \"کارما\" گفته:\nفلک همیشه به کام یکی نمی‌گردد،\nکه آسیای طبیعت به نوبتست ای دوست...\n@TweetPublic\n✔️",
         "date": "2026-08-21T23:10:53+00:00",
@@ -14478,44 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3040"
-      },
-      {
-        "id": 3039,
-        "text": "️\n⚽️\nفوتبال فقط آغاز ماجراست…\nاز هیجان مسابقات زنده\nتا پیش‌بینی‌های لحظه‌ای و بونوس‌های ویژه،\nZOMABET جاییه که هر لحظه بازی، هیجان خودش رو داره.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\nفراتر از فوتبال، فراتر از انتظار.",
-        "date": "2026-08-13T23:26:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3039_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3039_1_6638e906.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3039"
       }
     ]
   },
-  "last_update": "2026-08-22T02:07:15.570362+00:00",
+  "last_update": "2026-08-22T02:44:04.974135+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1086,
-    "total_files": 1086,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 997,
+      "image": 996,
       "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1086,
-    "existing_media_files": 1085,
-    "total_size_mb": 435.98,
-    "last_calculation": "2026-08-22T02:07:15.580373+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 435.9,
+    "last_calculation": "2026-08-22T02:44:04.986805+00:00"
   }
 }
