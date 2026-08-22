@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3164,
+        "text": "امروز روز جهانی فرشته‌هاست.\n@TweetPublic\n✔️",
+        "date": "2026-08-22T18:59:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3164_0_a22a5325.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3164_1_caab9002.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3164"
+      },
+      {
         "id": 3163,
         "text": "دخترا: مریم رو فقط 10ساله میشناسم اعتماد ندارم بهش!\nپسرا بعد 1ساعت آشنایی درحال تعمیر کولری که مال خودشونم نیست:\n@TweetPublic\n✔️",
         "date": "2026-08-22T10:52:16+00:00",
@@ -14474,29 +14493,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3045"
-      },
-      {
-        "id": 3044,
-        "text": "🔴\nچند روز پیش یه بلاگر خانم اومد با مداحیِ \"بریم نجف\" یه ویدیو گرفت؛\nاول همه فکر کردن قراره بره کربلا ولی ورداشت غذا درست کرد و بین سگ و گربه‌ها پخش کرد.\nاین ویدیو خیلی وایرال شد و به تعداد زیادی از افراد مذهبی‌ برخورد و این ویدئو رو توهین به امام علی دونستن...\nپلیس هم امشب پیج این خانم رو بست.\n@TweetPublic\n✔️",
-        "date": "2026-08-14T10:20:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3044_0_c27f1fe1.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3044_1_8fad107f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3044"
       }
     ]
   },
-  "last_update": "2026-08-22T18:54:02.706343+00:00",
+  "last_update": "2026-08-22T19:13:51.589714+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14504,14 +14504,14 @@
     "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 996,
-      "video": 83,
+      "image": 997,
+      "video": 82,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1085,
     "existing_media_files": 1084,
-    "total_size_mb": 435.9,
-    "last_calculation": "2026-08-22T18:54:02.719442+00:00"
+    "total_size_mb": 429.55,
+    "last_calculation": "2026-08-22T19:13:51.602882+00:00"
   }
 }
