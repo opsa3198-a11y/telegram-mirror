@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3168,
+        "text": "دلار وارد کانال 200 تومن شد.\n@TweetPublic\n✔️",
+        "date": "2026-08-23T10:33:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3168_0_0b724ba0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3168_1_4bae9de8.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3168"
+      },
+      {
+        "id": 3167,
+        "text": "قبلا میگفتن واسه آیندتون طلا بخرید، بعد شد نقره، الان میگن بیاید شمش مس بخرید\nاحتمالا سال دیگه این موقع داریم قوطی رانی رو از ضایعاتی با بیست درصد اجرت و ۹ درصد مالیات میخریم که تو شیش ماهه دوم بتونیم با سودش یه ساندویچ سرد رو چهارقسطه پیش خرید کنیم\n- ویلی وانکا\n@TweetPublic\n✔️",
+        "date": "2026-08-23T10:22:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3167_0_0b724ba0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3167"
+      },
+      {
         "id": 3166,
         "text": "دلار سقف جدیدی زد و وارد کانال 198 هزارتومانی شد @TweetPublic\n✔️",
         "date": "2026-08-23T08:56:10+00:00",
@@ -14455,44 +14489,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3051"
-      },
-      {
-        "id": 3048,
-        "text": "تمسخر ایرانی‌ها توسط یک عراقی\n‼️\n🔴\nیه عراقی با ماشینش اومده ایران، و همه با حسرت بهش نگاه میکنن و فیلم میگیرن.\nاونم میخنده و این ویدیو رو منتشر کرده و حالا در سطح جهان همه میگن ایرانیا ماشین ندیده ان.\n@TweetPublic\n✔️",
-        "date": "2026-08-15T05:36:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3048_0_f47b33ab.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3048_1_5c42ae59.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3048"
-      },
-      {
-        "id": 3047,
-        "text": "ادعای ترامپ در مورد ایران: به زودی، من تنگه هرمز را به عنوان قلمرو ایالات متحده اعلام خواهم کرد\n@TweetPublic\n✔️",
-        "date": "2026-08-14T20:32:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3047_0_f47b33ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3047"
       }
     ]
   },
-  "last_update": "2026-08-23T10:11:25.275772+00:00",
+  "last_update": "2026-08-23T10:46:53.803728+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14507,7 +14507,7 @@
     },
     "referenced_files": 1084,
     "existing_media_files": 1083,
-    "total_size_mb": 429.45,
-    "last_calculation": "2026-08-23T10:11:25.289232+00:00"
+    "total_size_mb": 424.57,
+    "last_calculation": "2026-08-23T10:46:53.816651+00:00"
   }
 }
