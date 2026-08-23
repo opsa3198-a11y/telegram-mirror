@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3171,
+        "text": "گاهی باید از چیزی دست بکشی،\nنه چون بی‌ارزش است؛\nچون دیگر ارزش تو را نمی‌فهمد...\n@TweetPublic\n✔️",
+        "date": "2026-08-23T21:36:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3171_0_0b724ba0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3171"
+      },
+      {
         "id": 3170,
         "text": "سخنگوی دولت: خبر خوش برای مردم، سود سهام عدالت از 2 تا 8 شهریور واریز میشه.\n😂\n😂\n😂\n@TweetPublic\n✔️",
         "date": "2026-08-23T17:13:28+00:00",
@@ -14462,44 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3055"
-      },
-      {
-        "id": 3054,
-        "text": "وقتی ساعت 2 شب اسنپ گرفتی و هم خودت هم راننده مجبورین وانمود کنین از همدیگه نمیترسین:\n@TweetPublic\n✔️",
-        "date": "2026-08-15T10:31:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3054_0_f47b33ab.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3054_1_a303336f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3054"
       }
     ]
   },
-  "last_update": "2026-08-23T21:10:02.593826+00:00",
+  "last_update": "2026-08-23T21:41:58.820331+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1082,
-    "total_files": 1082,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
-      "image": 994,
+      "image": 993,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1082,
-    "existing_media_files": 1081,
-    "total_size_mb": 424.4,
-    "last_calculation": "2026-08-23T21:10:02.606918+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 424.33,
+    "last_calculation": "2026-08-23T21:41:58.830411+00:00"
   }
 }
