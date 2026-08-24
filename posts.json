@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3174,
+        "text": "ساعت 21:30 امشب به وقت تهران\nتحریم‌های آمریکا اعلام می‌ شه\n@TweetPublic\n✔️",
+        "date": "2026-08-24T15:54:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3174_0_0e24bd2b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3174"
+      },
+      {
         "id": 3173,
         "text": "اگر بسته اینترنتتون زود تموم میشه، حتما وضعیت رومینگ خطتون رو چک کنید و اگر روشنه، خاموش کنید.\nگویا اوپراتور ها رومینگ برخی کاربر ها رو روشن کردن به صورت خودکار.\nواسه غیر فعال سازی رومینگ از کد دستوری های زیر میتونید استفاده کنید:\nایرانسل:\n*1111*2#\nهمراه اول:\n*10*291#\nبقیه اوپراتور ها رو هم میتونید داخل گوگل سرچ کنید و کد دستوری هاشون رو پیدا کنید.\n@TweetPublic\n✔️",
         "date": "2026-08-24T10:18:06+00:00",
@@ -14446,44 +14461,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3059"
-      },
-      {
-        "id": 3058,
-        "text": "🔥\nشروع هیجان، با 50$ هدیه!\nتو زومابت، از همون لحظه ثبت‌نام با دست پر وارد بازی می‌شی.\nپیش‌بینی مسابقات، کازینو آنلاین، بونوس‌های ویژه و کلی فرصت برای تجربه یه هیجان متفاوت.\n🎁\n50$ بونوس ثبت‌نام\n💰\n100% بونوس واریز کریپتو\n⚡\n30% بونوس واریز تومانی\n🚀\nوقتشه وارد دنیای زومابت بشی",
-        "date": "2026-08-15T19:28:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3058_0_f3b35765.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3058_1_8a2ce9e1.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3058"
       }
     ]
   },
-  "last_update": "2026-08-24T15:06:35.329822+00:00",
+  "last_update": "2026-08-24T16:05:49.996122+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1078,
-    "total_files": 1078,
+    "total_media": 1077,
+    "total_files": 1077,
     "total_links": 172,
     "files_by_type": {
-      "image": 990,
+      "image": 989,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1078,
-    "existing_media_files": 1077,
-    "total_size_mb": 424.18,
-    "last_calculation": "2026-08-24T15:06:35.336467+00:00"
+    "referenced_files": 1077,
+    "existing_media_files": 1076,
+    "total_size_mb": 424.08,
+    "last_calculation": "2026-08-24T16:05:50.003983+00:00"
   }
 }
