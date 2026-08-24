@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3176,
+        "text": "در زندگی مثل یاسر باشید :\n@TweetPublic\n✔️",
+        "date": "2026-08-24T19:35:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3176_0_0e24bd2b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3176_1_4cbf00be.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3176"
+      },
+      {
         "id": 3175,
         "text": "🔴\nفوری\nیورش اقتصادی علیه تمام ارتباطات مالی ایران را آغاز کردیم\n👤\nاسکات بسنت، وزیر خزانه‌داری آمریکا:\n\"هدف ما قطع کردن تمامی شریان‌های اقتصادی است که این حکومت را سرپا نگه می‌دارند، تا زمانی که ایران کاملاً منزوی و تنها بماند.\nما یک یورش اقتصادی علیه ارتباطات مالی ایران در سراسر جهان آغاز کرده‌ایم.\nوزارت خزانه‌داری آمریکا عملیات ECONOMIC OUTCAST را آغاز کرده است؛ یک کارزار بی‌سابقه علیه جمهوری اسلامی ایران و همچنین عوامل و تسهیل‌کنندگان آن.\nدر جنگ جهانی دوم، روز D آغاز تاریخی یک کارزار با متحدان ما بود؛ کارزاری برای هدف قرار دادن دشمن و بیرون راندن آن از مواضعش، ازجمله مواضعی که در کشورهای ثالث داشت.\"\n@TweetPublic\n✔️",
         "date": "2026-08-24T17:17:10+00:00",
@@ -14438,40 +14457,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3062"
-      },
-      {
-        "id": 3061,
-        "text": "‏جدی کات کردن اینطوریه طلاق چقد وحشتناکه پس.\n@TweetPublic\n✔️",
-        "date": "2026-08-15T21:15:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3061_0_f3b35765.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3061"
       }
     ]
   },
-  "last_update": "2026-08-24T19:11:53.088760+00:00",
+  "last_update": "2026-08-24T19:57:55.833692+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1075,
-    "total_files": 1075,
+    "total_media": 1076,
+    "total_files": 1076,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
+      "image": 989,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1075,
-    "existing_media_files": 1074,
-    "total_size_mb": 414.28,
-    "last_calculation": "2026-08-24T19:11:53.101694+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1075,
+    "total_size_mb": 414.35,
+    "last_calculation": "2026-08-24T19:57:55.843652+00:00"
   }
 }
