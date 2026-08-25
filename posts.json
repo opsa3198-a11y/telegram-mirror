@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3187,
+        "text": "\"تلگرامتو ببین\" یعنی داستان، یعنی اسکرین شات.\n@TweetPublic\n✔️",
+        "date": "2026-08-25T21:48:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3187_0_73861953.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3187"
+      },
+      {
+        "id": 3186,
+        "text": "اسم بزرگ، بازی آسون نمی‌سازه\n⚽️\nرئال مادرید با اسم و ستاره‌هاش میاد، ولی سوسیداد از اون تیم‌هاست که اگه بازی رو به ریتم خودش ببره، می‌تونه هر حریفی رو اذیت کنه.\n⏰\n۴ شهریور | ۲۲:۳۰",
+        "date": "2026-08-25T21:47:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3186_0_73861953.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3186_1_3829329b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3186"
+      },
+      {
         "id": 3185,
         "text": "🔴\nدیروز کسایی که سال 1404 برای ثبت‌نام یه ساله لاماری شرکت کرده بودن و هنوز ماشینشون رو تحویل نگرفته بودن؛\nبه این شکل رفتن جلوی شرکت مربوطه و مثل سربازای جنگ‌های صلیبی داشتن به شرکت اتک می‌زدن که حقشونو بگیرن :\n@TweetPublic\n✔️",
         "date": "2026-08-25T20:41:27+00:00",
@@ -14407,63 +14441,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3078"
-      },
-      {
-        "id": 3077,
-        "text": "🔥\nحرکت بعدی می‌تونه همه‌چی رو عوض کنه!\nتوی زومابت، از پیش‌بینی مسابقات زنده تا هیجان بازی‌های کازینو، هر لحظه یه انتخاب تازه منتظرته.\n⚽️\n🎰\n🎁\n۵۰$ بونوس ثبت‌نام\n💰\n۱۰۰٪ بونوس واریز کریپتو\n⚡️\n۳۰٪ بونوس واریز تومانی\n♟️\nصفحه چیده شده؛ حالا نوبت حرکت توئه!",
-        "date": "2026-08-16T18:22:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3077_0_0e66f2f2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3077_1_2079f9aa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3077"
-      },
-      {
-        "id": 3076,
-        "text": "پشمام تا حالا شنیده بودم ولی ندیده بودم!\nالبته واسه ماها سایزش خیلی کوچیکه فکرنکنم بشکنه\n@TweetPublic\n✔️",
-        "date": "2026-08-16T17:08:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3076_0_0e66f2f2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3076_1_88fcaacc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3076"
       }
     ]
   },
-  "last_update": "2026-08-25T21:15:47.452047+00:00",
+  "last_update": "2026-08-25T21:49:27.061308+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1073,
-    "total_files": 1073,
+    "total_media": 1072,
+    "total_files": 1072,
     "total_links": 172,
     "files_by_type": {
       "image": 987,
-      "video": 80,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1073,
-    "existing_media_files": 1072,
-    "total_size_mb": 409.56,
-    "last_calculation": "2026-08-25T21:15:47.458969+00:00"
+    "referenced_files": 1072,
+    "existing_media_files": 1071,
+    "total_size_mb": 407.0,
+    "last_calculation": "2026-08-25T21:49:27.074071+00:00"
   }
 }
