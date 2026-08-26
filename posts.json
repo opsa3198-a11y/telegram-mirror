@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3191,
+        "text": "وقتی ازت میپرسه آهنگ مورد علاقت چیه و تو یکی از آهنگای پروفایلش رو براش میفرستی :\n@TweetPublic\n✔️",
+        "date": "2026-08-26T12:14:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3191_0_c5145c60.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3191_1_0078b321.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3191"
+      },
+      {
+        "id": 3190,
+        "text": "این بازی رو ساده نبین\n🇬🇧\nتاتنهام شاید روی کاغذ دست بالاتر رو داشته باشه، ولی فوتبال انگلیس پر از بازی‌هاییه که تیم ضعیف‌تر همه‌چی رو به‌هم می‌زنه.\n👀\nچارلتون اگه بازی رو ببنده و تاتنهام زود به گل نرسه، این مسابقه می‌تونه خیلی بیشتر از چیزی که فکر می‌کنیم دردسرساز بشه.\n⏰\n۴ شهریور | ۲۲:15",
+        "date": "2026-08-26T12:13:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3190_0_c5145c60.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3190_1_28b494e7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3190"
+      },
+      {
         "id": 3189,
         "text": "وایسا برقا بیاد یه جوری ازتون انتقام میگیرم که اون سرش ناپیدا.(درجه کولر رو میذارم رو 16 درجه)\n@TweetPublic\n✔️",
         "date": "2026-08-26T11:52:29+00:00",
@@ -14411,55 +14449,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3082"
-      },
-      {
-        "id": 3081,
-        "text": "مهلت 60 روزه ایران واسه مذاکره رسما تموم شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-16T21:30:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3081_0_0e66f2f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3081"
-      },
-      {
-        "id": 3080,
-        "text": "🔴\n🔴\nاوه اوه\nپست جدید نوید محمدزاده!! من از اسرائیل بدم میاد و تا ابد فلسطین رو انتحاب میکنم\n@TweetPublic\n✔️",
-        "date": "2026-08-16T20:53:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3080_0_0e66f2f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3080"
       }
     ]
   },
-  "last_update": "2026-08-26T11:52:40.768228+00:00",
+  "last_update": "2026-08-26T12:24:00.940487+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1072,
-    "total_files": 1072,
+    "total_media": 1074,
+    "total_files": 1074,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
-      "video": 78,
+      "image": 989,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1072,
-    "existing_media_files": 1071,
-    "total_size_mb": 401.47,
-    "last_calculation": "2026-08-26T11:52:40.780695+00:00"
+    "referenced_files": 1074,
+    "existing_media_files": 1073,
+    "total_size_mb": 402.17,
+    "last_calculation": "2026-08-26T12:24:00.953223+00:00"
   }
 }
