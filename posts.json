@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3193,
+        "text": "🔴\nشبکه 14 اسرائیل\n🇮🇱\n:\nمجتبی خامنه‌ای یا مرده یا مرگ مغزی شده و از اول ماه دیگه هیچ خبری ازش نیست؛\nچند ماهه که اصلاً دیده نشده، حتی تو مراسم یادبود پدرش هم نبوده و فقط چند نفر محدود ادعا می‌کنن دیدنش.\nالان عملاً سپاه و بقیه دارن کشور رو می‌چرخونن و یه خلأ قدرت خطرناک ایجاد شده.\n@TweetPublic\n✔️",
+        "date": "2026-08-26T18:06:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3193_0_c5145c60.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3193_1_26425ebe.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3193"
+      },
+      {
         "id": 3192,
         "text": "🔴\nعجیب‌ترین سارق خودرو\nایشون یه بلاگر معروف اینستاگرامی بوده و\nکه تو برنامه دیوار ماشینای مدل بالا پیدا میکرد\nو میگفت برم یه تست از ماشینتون بگیرم\nماشینو میگرفت تا چند روز غیبش میزد\nبعد از چند روز زنگ میزد به مالک ماشین میگفت ماشینت پیشم امانت بود و ماشینو تحویل میداد\nبه صاحبش\n@TweetPublic\n✔️",
         "date": "2026-08-26T15:43:56+00:00",
@@ -14434,40 +14453,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3084"
-      },
-      {
-        "id": 3083,
-        "text": "مردی که پول نداره درواقع قدرت و احترامی نداره و جدی گرفته نمیشه، پس تا وقتی که پول به قدر کافی نداری وارد هیچ رابطه ای نشو تا عزت نفست نابود نشه.\n@TweetPublic\n✔️",
-        "date": "2026-08-16T21:57:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3083_0_0e66f2f2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3083"
       }
     ]
   },
-  "last_update": "2026-08-26T16:08:01.827293+00:00",
+  "last_update": "2026-08-26T18:09:48.194783+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1074,
-    "total_files": 1074,
+    "total_media": 1075,
+    "total_files": 1075,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
+      "image": 989,
       "video": 80,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1074,
-    "existing_media_files": 1073,
-    "total_size_mb": 407.01,
-    "last_calculation": "2026-08-26T16:08:01.840542+00:00"
+    "referenced_files": 1075,
+    "existing_media_files": 1074,
+    "total_size_mb": 407.09,
+    "last_calculation": "2026-08-26T18:09:48.207784+00:00"
   }
 }
