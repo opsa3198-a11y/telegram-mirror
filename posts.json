@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3195,
+        "text": "🔴\nجفت کنین؛ همراه اول توی جدیدترین لاشی بازی خودش، حداکثر حجم قابل استفاده برای اینترنت نامحدود شبانه رو، از ۱۰۰ گیگ به ۲۰ گیگ کاهش داده!\nاینترنت نامحدود در ایران = ۲۰ گیگابایت\n@TweetPublic\n✔️",
+        "date": "2026-08-26T19:17:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3195_0_c5145c60.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3195_1_2c776540.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3195"
+      },
+      {
+        "id": 3194,
+        "text": "فوتبال قشنگ یا فوتبال بی‌رحم؟\n🇪🇸\nبارسا دوست داره توپ رو داشته باشه.\nبیلبائو دوست داره نذاره نفس بکشی.\n😈\n⚽️\nوقتی این دو سبک بهم می‌رسن، معمولاً بازی دیدنی میشه\n🔥\n⏰\n۲۲:۳۰\nمالکیت بارسا جواب میده یا فشار بیلبائو؟",
+        "date": "2026-08-26T19:03:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3194_0_c5145c60.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3194_1_52d4a3ae.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3194"
+      },
+      {
         "id": 3193,
         "text": "🔴\nشبکه 14 اسرائیل\n🇮🇱\n:\nمجتبی خامنه‌ای یا مرده یا مرگ مغزی شده و از اول ماه دیگه هیچ خبری ازش نیست؛\nچند ماهه که اصلاً دیده نشده، حتی تو مراسم یادبود پدرش هم نبوده و فقط چند نفر محدود ادعا می‌کنن دیدنش.\nالان عملاً سپاه و بقیه دارن کشور رو می‌چرخونن و یه خلأ قدرت خطرناک ایجاد شده.\n@TweetPublic\n✔️",
         "date": "2026-08-26T18:06:16+00:00",
@@ -14415,48 +14453,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3086"
-      },
-      {
-        "id": 3085,
-        "text": "هنوز هم این صحنه از «مرد عنکبوتی» سم ریمی برای من محبوب‌ترین سکانس در بین تمامی فرنچایزهاست. بدون هیچ جلوه‌‌های ویژه‌ای این صحنه خلق شده، ۱۶ ساعت فیلمبرداری و ۱۵۶ برداشت اتفاق افتاده تا توبی مگوایر بتونه این صحنه زیبای سینی رو خلق کنه.\n@TweetPublic\n✔️",
-        "date": "2026-08-17T09:31:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3085_0_0e66f2f2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3085_1_deb0829e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3085"
-      },
-      {
-        "id": 3084,
-        "text": "🚨\nوال‌استریت‌ژورنال:\nجمهوری‌اسلامی معتقده جنگ نهایی تو راهه.\n@TweetPublic\n✔️",
-        "date": "2026-08-17T08:12:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3084_0_0e66f2f2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3084_1_eb163e00.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3084"
       }
     ]
   },
-  "last_update": "2026-08-26T18:09:48.194783+00:00",
+  "last_update": "2026-08-26T19:46:25.097190+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14464,14 +14464,14 @@
     "total_files": 1075,
     "total_links": 172,
     "files_by_type": {
-      "image": 989,
-      "video": 80,
+      "image": 990,
+      "video": 79,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1075,
     "existing_media_files": 1074,
-    "total_size_mb": 407.09,
-    "last_calculation": "2026-08-26T18:09:48.207784+00:00"
+    "total_size_mb": 396.05,
+    "last_calculation": "2026-08-26T19:46:25.105387+00:00"
   }
 }
