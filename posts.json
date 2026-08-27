@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3202,
+        "text": "🔴\nهواشناسی:\nاز سه‌شنبه هفته بعد هوای خنک وارد کشور خواهد شد و گرمای تابستان را خواهد شکست و در بعضی مناطق تا 10 درجه کاهش دما خواهیم داشت\n@TweetPublic\n✔️",
+        "date": "2026-08-27T07:37:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3202_0_c5145c60.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3202"
+      },
+      {
         "id": 3201,
         "text": "این‌ روزا وقتی میرم خرید تنها چیزی که می‌تونم بگیرم جلوی خودمه\n@TweetPublic\n✔️",
         "date": "2026-08-26T23:03:21+00:00",
@@ -14430,44 +14445,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3093"
-      },
-      {
-        "id": 3092,
-        "text": "🔴\nیه دختره داشته با دوست‌پسرش بحث میکرده که یکم دعوا بالا میگیره و تصمیم میگیره گوش دوست‌پسرشو گاز بگیره و یه تیکه‌ش رو هم جدا کنه!\nتا این صحنه رو میبینه خودش پشماش میریزه و پسره رو سریع میبره بیمارستان.\n@TweetPublic\n✔️",
-        "date": "2026-08-17T22:09:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3092_0_1672eec4.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3092_1_51dbb972.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3092"
       }
     ]
   },
-  "last_update": "2026-08-27T05:24:19.833910+00:00",
+  "last_update": "2026-08-27T07:52:34.782489+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1074,
-    "total_files": 1074,
+    "total_media": 1073,
+    "total_files": 1073,
     "total_links": 172,
     "files_by_type": {
       "image": 988,
-      "video": 80,
+      "video": 79,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1074,
-    "existing_media_files": 1073,
-    "total_size_mb": 399.05,
-    "last_calculation": "2026-08-27T05:24:19.846396+00:00"
+    "referenced_files": 1073,
+    "existing_media_files": 1072,
+    "total_size_mb": 397.35,
+    "last_calculation": "2026-08-27T07:52:34.794986+00:00"
   }
 }
