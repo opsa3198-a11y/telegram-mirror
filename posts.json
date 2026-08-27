@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3207,
+        "text": "🔴\nوزیر نیرو :\nهر کسی میخواد برقش قطع نشه میتونه از بورس برق با قیمت آزاد خریداری کنه..\nیعنی برق هم شد کالای لوکس!\n😐\nقبلاً پول می‌دادی قبض برق، حالا باید پول بدی که اصلاً برق داشته باشی!\nکم‌کم به جایی می‌رسیم که «زندگی با برق» برای قشر مرفه باشه و بقیه با شمع و چراغ‌قوه خاطرات گذشته‌شون رو مرور کنن.\nفقط مونده بگن: هرکی می‌خواد آبش قطع نشه، از بورس آب با قیمت آزاد خریداری کنه!\n😂\n@TweetPublic\n✔️",
+        "date": "2026-08-27T15:24:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3207_0_9ecfdf13.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3207_1_86b7ac67.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3207"
+      },
+      {
+        "id": 3206,
+        "text": "🔴\nبانک ملی :\nبه‌خاطر اختلال اخیر، بعضی تراکنش‌ها درست تو حساب‌ها ثبت نشده بودن.\nالان بانک در حال اصلاح این تراکنش‌ها و موجودی حساب‌هاست؛ پس ممکنه موجودی بعضی‌ها کم یا زیاد بشه تا مانده واقعی حساب مشخص بشه.\n@TweetPublic\n✔️",
+        "date": "2026-08-27T13:41:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3206_0_9ecfdf13.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3206_1_bfb2e6c5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3206"
+      },
+      {
         "id": 3205,
         "text": "اینطوری شده که شما تو صف پمپ بنزین سهروردی وایمیستی، صف میره جلو، میبینی تو صف شریعتی بودی.\n@TweetPublic\n✔️",
         "date": "2026-08-27T11:49:43+00:00",
@@ -14415,59 +14453,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3098"
-      },
-      {
-        "id": 3097,
-        "text": "🏆\nوقتشه از بازی بیشتر از ۹۰ دقیقه لذت ببری!\n⚽\nهیجان مسابقات\n💵\nبردهای بزرگ\n🎁\nبونوس‌های ویژه\nهمه در یک جا…\n⚽️\nZOMABET.COM\n⚽️",
-        "date": "2026-08-18T09:12:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3097_0_1672eec4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3097_1_47a7a347.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3097"
-      },
-      {
-        "id": 3096,
-        "text": "تو این هوای داغ چی می‌چسبه؟ آفرین، یه همسر داغ‌تر.\n@TweetPublic\n✔️",
-        "date": "2026-08-18T08:34:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3096_0_1672eec4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3096"
       }
     ]
   },
-  "last_update": "2026-08-27T12:05:12.039818+00:00",
+  "last_update": "2026-08-27T16:36:37.769464+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1074,
-    "total_files": 1074,
+    "total_media": 1075,
+    "total_files": 1075,
     "total_links": 172,
     "files_by_type": {
       "image": 988,
-      "video": 80,
+      "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1074,
-    "existing_media_files": 1073,
-    "total_size_mb": 401.78,
-    "last_calculation": "2026-08-27T12:05:12.053200+00:00"
+    "referenced_files": 1075,
+    "existing_media_files": 1074,
+    "total_size_mb": 402.86,
+    "last_calculation": "2026-08-27T16:36:37.777327+00:00"
   }
 }
