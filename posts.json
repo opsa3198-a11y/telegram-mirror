@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3223,
+        "text": "لیگ برتر انگلیس\n🇬🇧\nاسم لیورپول بزرگه؛ ولی بازی رو اسم‌ها نمی‌برن\n🔥\nفارست اگه فضاها رو ببنده و بازی رو از ریتم بندازه، لیورپول باید برای هر موقعیت جون بکنه.\nیه گل زودهنگام همه‌چی رو ساده می‌کنه؛\nولی اگه بازی دیر باز بشه، فشار میره بالا.\n⚽️\n🎯",
+        "date": "2026-08-28T22:51:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3223_0_59b85ddf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3223_1_e6769f54.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3223"
+      },
+      {
+        "id": 3222,
+        "text": "🔴\nمالی، روزنامه‌نگار:\nچند روز پیش تو یکی از بیمارستان‌های اهواز، یه مریض تو بخش ICU یهویی فوت میشه؛\nبعد که خانواده طرف پیگیر میشن، می‌فهمن که چندنفر از کادر بیمارستان\nاز قصد مریض رو کُشتن چون اون تخت رو به یکی دیگه فروخته بودن!\nتا الانم چندتا رزیدنت و کادر اون بیمارستان دستگیر شدن...\n@TweetPublic\n✔️",
+        "date": "2026-08-28T21:56:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3222_0_59b85ddf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3222_1_ba4404a0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3222"
+      },
+      {
         "id": 3221,
         "text": "🔴\nپزشکیان\n:\nفقط نرخ سوم قیمت بنزین پس از هماهنگی با همه نهاد ها و ارگان‌ها از 5 هزار تومان به 10 هزار تومان خواهد رسید\nنرخ سوم قیمت بنزین بیش از 10 هزار تومان نخواهد شد.\n@TweetPublic\n✔️",
         "date": "2026-08-28T20:02:02+00:00",
@@ -14423,48 +14461,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3114"
-      },
-      {
-        "id": 3113,
-        "text": "🔴\nهیکه کوئینز مدل اونلی فنز ۲۲ ساله که با\nلئوناردو دی‌کاپریو\nتو رابطه بود گفته؛ لئوناردو دی‌کاپریو اینقدر از شنیدن صدای دخترا در حین رابطه‌ی\nجنسی\nمتنفره که هدفون میذاره و صداشو تا آخر زیاد میکنه تا صدای دخترارو نشنوه.\n@TweetPublic\n✔️",
-        "date": "2026-08-19T12:49:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3113_0_710dd479.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3113_1_bcb52fd6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3113"
-      },
-      {
-        "id": 3112,
-        "text": "اوضاع کشور خیلی بگاییه؛ یه دختره پاشده رفته بیرون که یه دزد میاد کیفشو بدزده ولی ایشون مقاومت میکنه و دزد هم یچیزی میزنه تو چشم این بنده خدا و این بلا رو سرش میاره!\n@TweetPublic\n✔️",
-        "date": "2026-08-19T09:32:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3112_0_e1b6f447.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3112_1_0c76fc29.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3112"
       }
     ]
   },
-  "last_update": "2026-08-28T21:46:11.316332+00:00",
+  "last_update": "2026-08-28T22:55:33.034697+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14472,14 +14472,14 @@
     "total_files": 1077,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
-      "video": 83,
+      "image": 989,
+      "video": 82,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1077,
     "existing_media_files": 1076,
-    "total_size_mb": 400.72,
-    "last_calculation": "2026-08-28T21:46:11.329419+00:00"
+    "total_size_mb": 396.12,
+    "last_calculation": "2026-08-28T22:55:33.041484+00:00"
   }
 }
