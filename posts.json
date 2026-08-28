@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3215,
+        "text": "امروز روز جهانی ناز خریدنه.\n@TweetPublic\n✔️",
+        "date": "2026-08-28T09:09:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3215_0_59b85ddf.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3215_1_711de03a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3215"
+      },
+      {
         "id": 3214,
         "text": "کسی که تو را رنجانده،\nخواهد رنجید،\nدر حین شادی، در حین امید.\n@TweetPublic\n✔️",
         "date": "2026-08-27T23:35:51+00:00",
@@ -14430,29 +14449,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3106"
-      },
-      {
-        "id": 3105,
-        "text": "مدیر عامل تیپاکس به تازگی فوت کرده و حالا آقا نوید اینجوری هم روح ما رو و هم روح اون مرحوم رو شاد کرده\n@TweetPublic\n✔️",
-        "date": "2026-08-18T21:25:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3105_0_e1b6f447.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3105_1_4822596a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3105"
       }
     ]
   },
-  "last_update": "2026-08-28T01:11:49.141171+00:00",
+  "last_update": "2026-08-28T09:57:09.800145+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14467,7 +14467,7 @@
     },
     "referenced_files": 1074,
     "existing_media_files": 1073,
-    "total_size_mb": 395.11,
-    "last_calculation": "2026-08-28T01:11:49.153996+00:00"
+    "total_size_mb": 395.09,
+    "last_calculation": "2026-08-28T09:57:09.812970+00:00"
   }
 }
