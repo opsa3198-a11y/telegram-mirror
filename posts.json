@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3228,
+        "text": "🔴\nسعی کنید بک‌گراند گوشیتون همیشه یه عکس معقول بذارید که اگه خراب شد دادید تعمیر، این‌جوری آبروتون نره تو کونِ سگ..\n@TweetPublic\n✔️",
+        "date": "2026-08-29T16:26:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3228_0_50343a72.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3228_1_f7aaeff1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3228"
+      },
+      {
         "id": 3227,
         "text": "این مرد ایتالیایی\n🇮🇹\nبعد از اینکه مادرش فوت میکنه چیزی به کسی نمیگه و اونو توی خونه مومیایی میکنه و بعد خودشو به شکل مادرش در میاره تا مستمری سالیانه\n60\nهزار دلاری مادرش رو بگیره.\nاین پول چیکار میکنه با آدما.\n@TweetPublic\n✔️",
         "date": "2026-08-29T12:10:44+00:00",
@@ -14446,29 +14465,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3119"
-      },
-      {
-        "id": 3118,
-        "text": "میوت درنیاد\n@TweetPublic\n✔️",
-        "date": "2026-08-19T20:29:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3118_0_710dd479.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3118_1_0f5732c6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3118"
       }
     ]
   },
-  "last_update": "2026-08-29T15:21:54.354513+00:00",
+  "last_update": "2026-08-29T18:41:30.372028+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14476,14 +14476,14 @@
     "total_files": 1078,
     "total_links": 172,
     "files_by_type": {
-      "image": 991,
-      "video": 81,
+      "image": 990,
+      "video": 82,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1078,
     "existing_media_files": 1077,
-    "total_size_mb": 394.6,
-    "last_calculation": "2026-08-29T15:21:54.367596+00:00"
+    "total_size_mb": 396.56,
+    "last_calculation": "2026-08-29T18:41:30.384800+00:00"
   }
 }
