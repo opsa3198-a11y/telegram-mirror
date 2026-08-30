@@ -12703,6 +12703,52 @@
     ],
     "TweetPublic": [
       {
+        "id": 3239,
+        "text": "🔴\nعکس‌های جدید از مادورو (رئیس‌جمهور سابق ونزوئلا\n🇻🇪\nکه زنده گیریش کردن) از داخل زندان آمریکا که گویا اونجا از مردم ایران خوشحال‌تره.\n@TweetPublic\n✔️",
+        "date": "2026-08-30T15:23:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3239_0_9c1bd283.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3239_1_69e6b824.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3239_2_3c2495da.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3239"
+      },
+      {
+        "id": 3237,
+        "text": "🔴\nپنجشنبه هفته پیش، \"محسن نامجو\" خواننده، آهنگساز و نوازنده معروف ایرانی بعد حدود 20 سال، وارد ایران شد؛\nحالا آزاده اخلاقی، همسرش ویدئو گذاشته که بی‌ناموس تو که چهارتا ورقه گرفتی دستت گفتی دارم میرم همین سرکوچه (تو آمریکا\n🇺🇸\n) پرینت بگیرم، تو فرودگاه امام چیکار میکنی؟ چرا چمدون من رو اصلا دزدیدی؟\n😂\n@TweetPublic\n✔️",
+        "date": "2026-08-30T13:16:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3237_0_9c1bd283.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3237_1_023a08b3.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3237_2_597bb27c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3237"
+      },
+      {
         "id": 3236,
         "text": "لالیگا اسپانیا\n🇪🇸\nرئال مادرید طبیعتاً با کیفیت بیشتری وارد بازی میشه، ولی فوتبال اسپانیا پر از شب‌هاییه که تیم میزبان همه پیش‌بینی‌ها رو خراب کرده.\n👀\nمالاگا اگه بتونه شروع بازی رو بدون گل رد کنه، فشار کم‌کم میره سمت مادرید.\n⏰\n۸ شهریور | ۱۸:۳۰",
         "date": "2026-08-30T10:53:27+00:00",
@@ -14431,67 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3129"
-      },
-      {
-        "id": 3128,
-        "text": "حال بهم زن ترین و سم ترین آیتم جهان:\n@TweetPublic\n✔️",
-        "date": "2026-08-20T13:38:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3128_0_d72af656.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3128_1_7d39633c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3128"
-      },
-      {
-        "id": 3126,
-        "text": "🔴\nهمتی؛ رئیس بانک مرکزی:\nمن میخوام بشم بدمن دولت،البته نه بتمن، بلکه بدمن دولت\nیعنی هرکی بیاد بگه پول میخوام میگم شرمنده نداریم.\n@TweetPublic\n✔️",
-        "date": "2026-08-20T11:56:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3126_0_d72af656.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3126_1_99801d2d.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3126_2_6cf4518a.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3126"
       }
     ]
   },
-  "last_update": "2026-08-30T12:21:27.677355+00:00",
+  "last_update": "2026-08-30T16:10:55.024310+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 992,
-      "video": 82,
+      "video": 83,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 396.84,
-    "last_calculation": "2026-08-30T12:21:27.690713+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 408.16,
+    "last_calculation": "2026-08-30T16:10:55.033487+00:00"
   }
 }
