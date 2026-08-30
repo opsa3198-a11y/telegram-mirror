@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3236,
+        "text": "لالیگا اسپانیا\n🇪🇸\nرئال مادرید طبیعتاً با کیفیت بیشتری وارد بازی میشه، ولی فوتبال اسپانیا پر از شب‌هاییه که تیم میزبان همه پیش‌بینی‌ها رو خراب کرده.\n👀\nمالاگا اگه بتونه شروع بازی رو بدون گل رد کنه، فشار کم‌کم میره سمت مادرید.\n⏰\n۸ شهریور | ۱۸:۳۰",
+        "date": "2026-08-30T10:53:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3236_0_9c1bd283.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3236_1_04f45596.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3236"
+      },
+      {
+        "id": 3235,
+        "text": "🔴\nلیلی بازرگان، همسر سابق شاهین نجفی:\nشاهین نجفی عضو بسیج بوده و 3 سال پیش که دوماد سرخونه‌ی خونواده‌ی ما بود، برای بابام\nقرآن رو با صوت\nمیخوند.\n@TweetPublic\n✔️",
+        "date": "2026-08-30T08:22:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3235_0_9c1bd283.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3235_1_a9d9e3ba.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3235"
+      },
+      {
         "id": 3234,
         "text": ":)))\n@TweetPublic\n✔️",
         "date": "2026-08-29T22:00:18+00:00",
@@ -14435,59 +14473,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3126"
-      },
-      {
-        "id": 3125,
-        "text": "👀\nفکر می‌کنی فوتبال رو خوب می‌شناسی؟\nپس فقط تماشاگر نباش؛ پیش‌بینی‌تو ثبت کن و ببین چقدر درست بازی رو می‌خونی.\n🎯\n⚽️\n🎁\nکاربران جدید: ۵۰$ بونوس ثبت‌نام\n🚀\nبونوس‌های واریز هم منتظرت",
-        "date": "2026-08-20T11:15:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3125_0_d72af656.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3125_1_752efa24.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3125"
-      },
-      {
-        "id": 3124,
-        "text": "⭕️\nعارف، معاون پزشکیان: گران شدن بنزین تا محدوده 80 هزار تومن قطعیه\n@TweetPublic\n✔️",
-        "date": "2026-08-20T10:16:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3124_0_710dd479.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3124"
       }
     ]
   },
-  "last_update": "2026-08-30T07:35:06.338179+00:00",
+  "last_update": "2026-08-30T11:23:58.845309+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1079,
-    "total_files": 1079,
+    "total_media": 1080,
+    "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 991,
+      "image": 992,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1079,
-    "existing_media_files": 1078,
-    "total_size_mb": 396.71,
-    "last_calculation": "2026-08-30T07:35:06.350922+00:00"
+    "referenced_files": 1080,
+    "existing_media_files": 1079,
+    "total_size_mb": 396.84,
+    "last_calculation": "2026-08-30T11:23:58.858467+00:00"
   }
 }
