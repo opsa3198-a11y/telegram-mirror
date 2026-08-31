@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3268,
+        "text": "جام حذفی آلمان\n🇩🇪\nدورتموند کیفیت داره؛ هامبورگ جسارت\n🔥\nاین از اون بازی‌هاست که شاید روی کاغذ یه سمت سنگین‌تر باشه، ولی اگه هامبورگ از اسم حریف نترسه، می‌تونه خیلی جذابش کنه.\n👀\nتو برد دورتموند می‌بینی یا یه شب دردسرساز؟\n⏰\n۱۰ شهریور | 22:15",
+        "date": "2026-08-31T21:47:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3268_0_163a34b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3268_1_3a229497.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3268"
+      },
+      {
+        "id": 3267,
+        "text": "حاضرم هر روز سال رو تو این هوا زندگی  کنم ...\n@TweetPublic\n✔️",
+        "date": "2026-08-31T21:32:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3267_0_163a34b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3267_1_0e2dcfcc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3267"
+      },
+      {
         "id": 3266,
         "text": "🔴\nترامپ به شبکه فاکس نیوز:\nما امشب به حمله ایران به نیروهای آمریکایی که شب گذشته در اردن رخ داد، پاسخ خواهیم داد.\nما به آنها ضربه سختی وارد خواهیم کرد. پاسخ داده خواهد شد.\n@TweetPublic\n✔️",
         "date": "2026-08-31T20:12:28+00:00",
@@ -14395,48 +14433,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3165"
-      },
-      {
-        "id": 3164,
-        "text": "امروز روز جهانی فرشته‌هاست.\n@TweetPublic\n✔️",
-        "date": "2026-08-22T18:59:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3164_0_a22a5325.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3164_1_caab9002.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3164"
-      },
-      {
-        "id": 3163,
-        "text": "دخترا: مریم رو فقط 10ساله میشناسم اعتماد ندارم بهش!\nپسرا بعد 1ساعت آشنایی درحال تعمیر کولری که مال خودشونم نیست:\n@TweetPublic\n✔️",
-        "date": "2026-08-22T10:52:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3163_0_a22a5325.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3163_1_d94ae1d9.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3163"
       }
     ]
   },
-  "last_update": "2026-08-31T20:13:54.313596+00:00",
+  "last_update": "2026-08-31T22:33:46.054232+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14451,7 +14451,7 @@
     },
     "referenced_files": 1070,
     "existing_media_files": 1069,
-    "total_size_mb": 404.44,
-    "last_calculation": "2026-08-31T20:13:54.323694+00:00"
+    "total_size_mb": 404.62,
+    "last_calculation": "2026-08-31T22:33:46.066860+00:00"
   }
 }
