@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3257,
+        "text": "باک ماشینتونو پر میکنید که چی؟ تا کجا میخواید برید دقیقا با اون یه باک پر بنزین؟\nاز ایران میخوای فرار کنی با یه باک بنزین؟\nواقعا نمیفهمم هدف چیه چرا هرچی میشه سریع میرید بنزین بزنید.\n@TweetPublic\n✔️",
+        "date": "2026-08-30T22:41:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3257_0_9c1bd283.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3257"
+      },
+      {
+        "id": 3256,
+        "text": "- داداش شنیدی دوباره موشک زدن؟\n+ آره داداش اوضاع بده.\n- پس چرا همینطوری نشستی داداش؟\n+ چیکار کنم پس؟\n- پاشو برو بنزین بزن.\n@TweetPublic\n✔️",
+        "date": "2026-08-30T22:38:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3256_0_9c1bd283.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3256"
+      },
+      {
         "id": 3255,
         "text": "❗️\nپایگاه نظامی «موفق السلطی» آمریکا در اردن هدف قرار گرفت.\n@TweetPublic\n✔️",
         "date": "2026-08-30T21:48:02+00:00",
@@ -14407,40 +14437,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3154"
-      },
-      {
-        "id": 3153,
-        "text": "هر چی که با پ شروع می شه چیز خوبیه\nپول ، پاییز ، پیتزا ، پتو ، پاستیل ، پلی استیشن ، پنت هاوس\n@TweetPublic\n✔️",
-        "date": "2026-08-21T17:28:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3153_0_3d60419e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3153"
-      },
-      {
-        "id": 3147,
-        "text": "پزشکیان: کی گفته من باید بنزین رو بخرم لیتری 135 هزار تومن و بعد بدم به مردم لیتری 1500 تومن؟! کشور کلی کمبود منابع و مشکل مالی داره. اینطوری که نمیشه.\n@TweetPublic\n✔️",
-        "date": "2026-08-21T15:37:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3147_0_3d60419e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3147"
       }
     ]
   },
-  "last_update": "2026-08-30T22:11:24.604037+00:00",
+  "last_update": "2026-08-31T00:40:45.580273+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14456,6 +14456,6 @@
     "referenced_files": 1071,
     "existing_media_files": 1070,
     "total_size_mb": 397.18,
-    "last_calculation": "2026-08-30T22:11:24.616495+00:00"
+    "last_calculation": "2026-08-31T00:40:45.593372+00:00"
   }
 }
