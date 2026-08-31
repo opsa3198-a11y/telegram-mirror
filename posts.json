@@ -14436,7 +14436,7 @@
       }
     ]
   },
-  "last_update": "2026-08-31T12:53:45.467599+00:00",
+  "last_update": "2026-08-31T14:11:01.281829+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14452,6 +14452,6 @@
     "referenced_files": 1070,
     "existing_media_files": 1069,
     "total_size_mb": 398.79,
-    "last_calculation": "2026-08-31T12:53:45.475137+00:00"
+    "last_calculation": "2026-08-31T14:11:01.288439+00:00"
   }
 }
