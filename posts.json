@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3272,
+        "text": "پدربزرگم که اصرار داره بگه که طرفدار شاه بوده\nهمچنین پدربزرگم و رفیقاش سال ۱۳۵۷ :\n@TweetPublic\n✔️",
+        "date": "2026-09-01T10:02:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3272_0_b3143ee0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3272_1_88af3a8f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3272"
+      },
+      {
         "id": 3271,
         "text": "🔴\nبرخلاف باور عموم، امروز «روز دختر» نیست و منبع این ادعا هم پیج‌های فیک‌نیوز و زرد اینستاگرامی‌ان؛\nاما امروز «روز پدافند هوایی خاتم‌الانبیا»ست؛ پس اگه دوست‌دخترت بسیجیه، می‌تونی براش یه چفیه کادو بخری، امروز رو بهش تبریک بگی و در پایان امشب هم تو پویش «جان‌فدا» ثبت‌نامش کنی.\n@TweetPublic\n✔️",
         "date": "2026-09-01T06:09:30+00:00",
@@ -14430,40 +14449,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3168"
-      },
-      {
-        "id": 3167,
-        "text": "قبلا میگفتن واسه آیندتون طلا بخرید، بعد شد نقره، الان میگن بیاید شمش مس بخرید\nاحتمالا سال دیگه این موقع داریم قوطی رانی رو از ضایعاتی با بیست درصد اجرت و ۹ درصد مالیات میخریم که تو شیش ماهه دوم بتونیم با سودش یه ساندویچ سرد رو چهارقسطه پیش خرید کنیم\n- ویلی وانکا\n@TweetPublic\n✔️",
-        "date": "2026-08-23T10:22:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3167_0_0b724ba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3167"
       }
     ]
   },
-  "last_update": "2026-09-01T08:02:25.623909+00:00",
+  "last_update": "2026-09-01T11:13:13.319696+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1073,
-    "total_files": 1073,
+    "total_media": 1074,
+    "total_files": 1074,
     "total_links": 172,
     "files_by_type": {
       "image": 986,
-      "video": 81,
+      "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1073,
-    "existing_media_files": 1072,
-    "total_size_mb": 404.86,
-    "last_calculation": "2026-09-01T08:02:25.637557+00:00"
+    "referenced_files": 1074,
+    "existing_media_files": 1073,
+    "total_size_mb": 407.32,
+    "last_calculation": "2026-09-01T11:13:13.332795+00:00"
   }
 }
