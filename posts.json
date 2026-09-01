@@ -12703,6 +12703,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 3271,
+        "text": "🔴\nبرخلاف باور عموم، امروز «روز دختر» نیست و منبع این ادعا هم پیج‌های فیک‌نیوز و زرد اینستاگرامی‌ان؛\nاما امروز «روز پدافند هوایی خاتم‌الانبیا»ست؛ پس اگه دوست‌دخترت بسیجیه، می‌تونی براش یه چفیه کادو بخری، امروز رو بهش تبریک بگی و در پایان امشب هم تو پویش «جان‌فدا» ثبت‌نامش کنی.\n@TweetPublic\n✔️",
+        "date": "2026-09-01T06:09:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3271_0_163a34b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3271_1_962163c8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3271"
+      },
+      {
+        "id": 3269,
+        "text": "🔴\nکارمند بانک اسپرم، بخاطر اینکه روزانه\nیه لیوان از آب منی آقایون رو میخورده، بازداشت شد!\nتصاویر اون توسط دوربین مداربسته ضبط شده، اون گفته جای مشروب، اسپرم میخورده و تنها چیزی که حالشو خوب میکرده، همین بوده!\nبرای همینم سراغ این شغل اومده تا به یه منبع نامحدود دسترسی داشته باشه!\n@TweetPublic\n✔️",
+        "date": "2026-09-01T05:25:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3269_0_163a34b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3269_1_81c21268.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3269_2_fca0cf28.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3269"
+      },
+      {
         "id": 3268,
         "text": "جام حذفی آلمان\n🇩🇪\nدورتموند کیفیت داره؛ هامبورگ جسارت\n🔥\nاین از اون بازی‌هاست که شاید روی کاغذ یه سمت سنگین‌تر باشه، ولی اگه هامبورگ از اسم حریف نترسه، می‌تونه خیلی جذابش کنه.\n👀\nتو برد دورتموند می‌بینی یا یه شب دردسرساز؟\n⏰\n۱۰ شهریور | 22:15",
         "date": "2026-08-31T21:47:17+00:00",
@@ -14403,55 +14445,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3167"
-      },
-      {
-        "id": 3166,
-        "text": "دلار سقف جدیدی زد و وارد کانال 198 هزارتومانی شد @TweetPublic\n✔️",
-        "date": "2026-08-23T08:56:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3166_0_a22a5325.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3166"
-      },
-      {
-        "id": 3165,
-        "text": "دلار سقف جدیدی زد و وارد کانال 198 هزارتومانی شد\n@TweetPublic\n✔️",
-        "date": "2026-08-23T07:19:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3165_0_a22a5325.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3165"
       }
     ]
   },
-  "last_update": "2026-09-01T03:54:42.850791+00:00",
+  "last_update": "2026-09-01T06:53:24.390422+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1070,
-    "total_files": 1070,
+    "total_media": 1073,
+    "total_files": 1073,
     "total_links": 172,
     "files_by_type": {
-      "image": 983,
+      "image": 986,
       "video": 81,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1070,
-    "existing_media_files": 1069,
-    "total_size_mb": 404.62,
-    "last_calculation": "2026-09-01T03:54:42.863661+00:00"
+    "referenced_files": 1073,
+    "existing_media_files": 1072,
+    "total_size_mb": 404.86,
+    "last_calculation": "2026-09-01T06:53:24.400522+00:00"
   }
 }
