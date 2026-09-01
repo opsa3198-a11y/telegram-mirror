@@ -12703,6 +12703,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 3278,
+        "text": "🇺🇸\nسنتکام:\nلحظاتی پیش نیروهای ایالات متحده حمله به اهداف سپاه پاسداران انقلاب اسلامی (IRGC) تو ایران رو آغاز کردن.\nاین حملات پس از حملات اخیر سپاه پاسداران انقلاب اسلامی علیه کشتی‌های تجاری در تنگه هرمز و علیه نیروهای نظامی آمریکایی مستقر تو منطقه انجام شد.\n﻿\n@TweetPublic\n✔️",
+        "date": "2026-09-01T16:47:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3278_0_b3143ee0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3278_1_0de0d182.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3278"
+      },
+      {
+        "id": 3277,
+        "text": "سومین موج حملات به بندرعباس\n@TweetPublic\n✔️",
+        "date": "2026-09-01T16:31:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3277_0_b3143ee0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3277"
+      },
+      {
+        "id": 3276,
+        "text": "🚨\nطبق گفته کاربران؛\nدقایقی پیش صدایی شبیه به صدای انفجار تو بندرعباس و چابهار شنیده شده.\n@TweetPublic\n✔️",
+        "date": "2026-09-01T16:16:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3276_0_b3143ee0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3276"
+      },
+      {
         "id": 3275,
         "text": "وضعیت روحیم\n@TweetPublic\n✔️",
         "date": "2026-09-01T15:49:02+00:00",
@@ -14408,70 +14457,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3174"
-      },
-      {
-        "id": 3173,
-        "text": "اگر بسته اینترنتتون زود تموم میشه، حتما وضعیت رومینگ خطتون رو چک کنید و اگر روشنه، خاموش کنید.\nگویا اوپراتور ها رومینگ برخی کاربر ها رو روشن کردن به صورت خودکار.\nواسه غیر فعال سازی رومینگ از کد دستوری های زیر میتونید استفاده کنید:\nایرانسل:\n*1111*2#\nهمراه اول:\n*10*291#\nبقیه اوپراتور ها رو هم میتونید داخل گوگل سرچ کنید و کد دستوری هاشون رو پیدا کنید.\n@TweetPublic\n✔️",
-        "date": "2026-08-24T10:18:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3173_0_0b724ba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3173"
-      },
-      {
-        "id": 3172,
-        "text": "دلار سقف جدیدی زد و وارد کانال 198 هزارتومانی شد @TweetPublic\n✔️",
-        "date": "2026-08-24T09:53:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3172_0_0b724ba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3172"
-      },
-      {
-        "id": 3171,
-        "text": "گاهی باید از چیزی دست بکشی،\nنه چون بی‌ارزش است؛\nچون دیگر ارزش تو را نمی‌فهمد...\n@TweetPublic\n✔️",
-        "date": "2026-08-23T21:36:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3171_0_0b724ba0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3171"
       }
     ]
   },
-  "last_update": "2026-09-01T16:10:11.536449+00:00",
+  "last_update": "2026-09-01T17:29:23.828937+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1075,
-    "total_files": 1075,
+    "total_media": 1076,
+    "total_files": 1076,
     "total_links": 172,
     "files_by_type": {
-      "image": 987,
+      "image": 988,
       "video": 82,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1075,
-    "existing_media_files": 1074,
-    "total_size_mb": 414.19,
-    "last_calculation": "2026-09-01T16:10:11.546367+00:00"
+    "referenced_files": 1076,
+    "existing_media_files": 1075,
+    "total_size_mb": 414.26,
+    "last_calculation": "2026-09-01T17:29:23.841971+00:00"
   }
 }
