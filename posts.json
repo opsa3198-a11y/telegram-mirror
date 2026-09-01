@@ -12703,6 +12703,75 @@
     ],
     "TweetPublic": [
       {
+        "id": 3285,
+        "text": "🚨\nغیررسمی :\nدقایقی پیش تو مشهد، یه نفر با ماشین به یه تجمع شبانه حمله کرد و چندین نفر رو زیر گرفت!\n+ حاوی صحنه‌های دلخراش\n🔞\n@DrTeL",
+        "date": "2026-09-01T20:24:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3285_0_b3143ee0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3285_1_ed14068f.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3285_2_d94f1ea3.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3285_3_30146006.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3285"
+      },
+      {
+        "id": 3284,
+        "text": "🔴\nخبرگزاری مهر:\nپدافند شرق تهران فعال شد.\n@TweetPublic\n✔️",
+        "date": "2026-09-01T20:09:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3284_0_b3143ee0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3284"
+      },
+      {
+        "id": 3281,
+        "text": "🔴\nتصاویری که خبرگزاری فارس از حمله آمریکا به یه مراسم عروسی تو سیریک منتشر کرده؛\nتعداد کسایی که جونشون رو از دست دادن به 4 نفر و زخمی‌ها به 50 نفر رسید.\n@TweetPublic\n✔️",
+        "date": "2026-09-01T20:08:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3281_0_b3143ee0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3281_1_35c8665b.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3281_2_a22a61ff.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3281_3_3bfe1c3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3281"
+      },
+      {
         "id": 3280,
         "text": "🔴\nفرماندار سیریک؛\nامشب آمریکا\n🇺🇸\nبه یه منطقه مسکونی تو بندر کوهستک حمله کرده که تو این حمله چند نفر زخمی شدن و احتمال کشته شدن تعدادی از مردم هم وجود داره.\nبه گفته منابع محلی؛  ترکش‌های این حمله به یه مراسم عروسی خورده و چند نفر از کسایی که تو مراسم بودن زخمی شدن.\n@TweetPublic\n✔️",
         "date": "2026-09-01T19:30:12+00:00",
@@ -14408,78 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3179"
-      },
-      {
-        "id": 3178,
-        "text": "کسی که تو جوونیش 13 سال نرخ ارز ثابت بوده و زندگیش ر‌و ساخته\nداره منو نصیحت می کنه\nسیکتیر بابا\n@TweetPublic\n✔️",
-        "date": "2026-08-25T09:21:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3178_0_0e24bd2b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3178"
-      },
-      {
-        "id": 3177,
-        "text": "کسی نیمرو خواسته ؟\n@TweetPublic\n✔️",
-        "date": "2026-08-25T08:20:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3177_0_0e24bd2b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3177_1_a4b66ec6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3177"
-      },
-      {
-        "id": 3176,
-        "text": "در زندگی مثل یاسر باشید :\n@TweetPublic\n✔️",
-        "date": "2026-08-24T19:35:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3176_0_0e24bd2b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3176_1_4cbf00be.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3176"
       }
     ]
   },
-  "last_update": "2026-09-01T20:01:44.298086+00:00",
+  "last_update": "2026-09-01T20:39:12.557698+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1077,
-    "total_files": 1077,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 989,
-      "video": 82,
+      "video": 86,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1077,
-    "existing_media_files": 1076,
-    "total_size_mb": 414.43,
-    "last_calculation": "2026-09-01T20:01:44.306243+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 423.96,
+    "last_calculation": "2026-09-01T20:39:12.570502+00:00"
   }
 }
