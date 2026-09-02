@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3288,
+        "text": "🚨\nترامپ :\nبرخلاف ABC فیک نیوز، من به هیچ عنوان بدنبال مذاکره با ج.ا نیستم! اصلا برام مهم نیست که اونا توافق رو امضا کنن که هیچ ارزشی براشون نداره!\nمن موقعیت فعلی‌مون رو بیشتر دوست دارم، موقعیتی که کنترل کامل تنگه هرمز دست ماس و اقتصاد اونا درحال فروپاشیه!\nاونا صرفا دارن سرنگونی‌‌شون رو به تعویق میندازن.\nمردم ایران چه زمانی قیام میکنن و میجنگن؟\n@TweetPublic\n✔️",
+        "date": "2026-09-02T05:23:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3288_0_b3143ee0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3288_1_ed1116aa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3288"
+      },
+      {
         "id": 3285,
         "text": "🚨\nغیررسمی :\nدقایقی پیش تو مشهد، یه نفر با ماشین به یه تجمع شبانه حمله کرد و چندین نفر رو زیر گرفت!\n+ حاوی صحنه‌های دلخراش\n🔞\n@DrTeL",
         "date": "2026-09-01T20:24:03+00:00",
@@ -14458,29 +14477,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3180"
-      },
-      {
-        "id": 3179,
-        "text": "۹۰ دقیقه برای اثبات برتری\n🇸🇦\nیه بازی که می‌تونه خیلی زود باز بشه… یا تا آخر قفل بمونه.\nالاتفاق × النصر\n⏰\n۲۱:۳۰",
-        "date": "2026-08-25T11:34:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3179_0_73861953.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3179_1_9de1dcea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3179"
       }
     ]
   },
-  "last_update": "2026-09-02T05:12:01.327718+00:00",
+  "last_update": "2026-09-02T06:31:10.677233+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14495,7 +14495,7 @@
     },
     "referenced_files": 1081,
     "existing_media_files": 1080,
-    "total_size_mb": 423.96,
-    "last_calculation": "2026-09-02T05:12:01.340493+00:00"
+    "total_size_mb": 423.95,
+    "last_calculation": "2026-09-02T06:31:10.689899+00:00"
   }
 }
