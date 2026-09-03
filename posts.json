@@ -12703,6 +12703,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3310,
+        "text": "اکانت رسمی تلگرام داخل پلفترم ایکس (توییتر):\nحس میکنم خیلی کیوتم، شاید بعدا نود هام رو پست کنم.\n@TweetPublic\n✔️",
+        "date": "2026-09-03T15:44:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3310_0_48b041e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3310_1_be313149.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3310"
+      },
+      {
+        "id": 3308,
+        "text": "کاش یه NPC ساده تو بازی GTA 6 بودم.\nباور کنید خیلی بهتر از تو ایران زندگی کردنه.\n@TweetPublic\n✔️",
+        "date": "2026-09-03T14:49:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3308_0_48b041e2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3308"
+      },
+      {
         "id": 3306,
         "text": "طرف چون نمره خوب گرفته کادو زن گرفتن براش\n😐\n😐\nودف ؟؟؟\n@TweetPublic\n✔️",
         "date": "2026-09-03T11:27:28+00:00",
@@ -14435,44 +14469,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3200"
-      },
-      {
-        "id": 3198,
-        "text": "👈\nدایرکت پرسیدید با چی ویدیو مسیج کردی\n@AbzarMediaBot\nمیتونید باهاش ویدیو مسیج کنید حجم ویدیو رو کم کنید اینقدر آپشن داره تا صبح لیست کنم تموم نمیشن",
-        "date": "2026-08-26T20:33:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3198_0_c5145c60.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3198"
-      },
-      {
-        "id": 3197,
-        "text": "",
-        "date": "2026-08-26T20:30:37+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3197_0_c5145c60.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3197_1_3d7ff841.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3197"
       }
     ]
   },
-  "last_update": "2026-09-03T13:40:46.470573+00:00",
+  "last_update": "2026-09-03T15:54:36.291338+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14480,14 +14480,14 @@
     "total_files": 1079,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
-      "video": 87,
+      "image": 987,
+      "video": 86,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1079,
     "existing_media_files": 1078,
-    "total_size_mb": 434.97,
-    "last_calculation": "2026-09-03T13:40:46.483925+00:00"
+    "total_size_mb": 431.88,
+    "last_calculation": "2026-09-03T15:54:36.304412+00:00"
   }
 }
