@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3304,
+        "text": "🔴\nببینید از خانومی که داره از تجربیات رفتن خودش به تور کویر میگه,رفتی اونجا خواه نا خواه باید لنگارو بدی هوا. تور کویر یه بهونس واسه ادمایی که دنبال کارای +18 هستن .\n@TweetPublic\n✔️",
+        "date": "2026-09-03T07:32:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3304_0_48b041e2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3304_1_72d658ad.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3304"
+      },
+      {
         "id": 3303,
         "text": "انسان برای زنده ماندن،\nگاهی به سکوت نیاز دارد،\nنه به شلوغیِ بی‌پایان جهان...\n👤\nویرجینیا وولف\n@TweetPublic\n✔️",
         "date": "2026-09-02T22:51:37+00:00",
@@ -14446,29 +14465,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3195"
-      },
-      {
-        "id": 3194,
-        "text": "فوتبال قشنگ یا فوتبال بی‌رحم؟\n🇪🇸\nبارسا دوست داره توپ رو داشته باشه.\nبیلبائو دوست داره نذاره نفس بکشی.\n😈\n⚽️\nوقتی این دو سبک بهم می‌رسن، معمولاً بازی دیدنی میشه\n🔥\n⏰\n۲۲:۳۰\nمالکیت بارسا جواب میده یا فشار بیلبائو؟",
-        "date": "2026-08-26T19:03:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3194_0_c5145c60.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3194_1_52d4a3ae.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3194"
       }
     ]
   },
-  "last_update": "2026-09-03T06:35:20.543342+00:00",
+  "last_update": "2026-09-03T09:16:11.256496+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14476,14 +14476,14 @@
     "total_files": 1078,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
-      "video": 86,
+      "image": 985,
+      "video": 87,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1078,
     "existing_media_files": 1077,
-    "total_size_mb": 430.25,
-    "last_calculation": "2026-09-03T06:35:20.553508+00:00"
+    "total_size_mb": 434.75,
+    "last_calculation": "2026-09-03T09:16:11.269866+00:00"
   }
 }
