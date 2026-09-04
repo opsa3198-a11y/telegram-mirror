@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3315,
+        "text": "🔴\nایلان ماسک اعلام کرد که از سال بعد میتونید ربات‌های اُپتیموس رو بخريد.\nاین رباتا تو کارای خونه به شما کمک میکنند، وقتی تنهایین باهاتون حرف میزنن، میتونن باهاتون به پیاده روی بیان و....\n@TweetPublic\n✔️",
+        "date": "2026-09-04T08:37:37+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3315_0_3ace08ab.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3315_1_504adc80.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3315"
+      },
+      {
         "id": 3314,
         "text": "این سکانس فیلم هندی نیست، لحظه دستگیری یه قاتل فراری در ایرانه.\nقاتل با چاقو مامورا رو میزنه و داشت فرار میکرد که یکی از مامورا عین راموس تکل زد و طرف افتاد.\nبعدش یکی دیگه از مامورا ویلچر برداشت و میکوبید تو سر و بدن قاتل تا بیفته زمین، هر لحظه این فیلم عجیب‌تر میشه.\n@TweetPublic\n✔️",
         "date": "2026-09-03T19:38:18+00:00",
@@ -14454,29 +14473,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3205"
-      },
-      {
-        "id": 3204,
-        "text": "لالیگا اسپانیا\n🇪🇸\nنه اسم بزرگ، نه برد تضمینی\nاینجا خبری از تیم غول نیست؛\nولی دقیقاً همین بازی‌ها سخت‌ترین پیش‌بینی‌ها رو می‌سازن.\nسلتاویگو × اوساسونا\n⏰\n۲۲:۰۰\nکدوم تیم کمتر اشتباه می‌کنه؟",
-        "date": "2026-08-27T11:48:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3204_0_9ecfdf13.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3204_1_c96fdf63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3204"
       }
     ]
   },
-  "last_update": "2026-09-04T06:37:33.134010+00:00",
+  "last_update": "2026-09-04T09:09:56.663058+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14484,14 +14484,14 @@
     "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 987,
-      "video": 87,
+      "image": 986,
+      "video": 88,
       "file": 5,
       "document": 1
     },
     "referenced_files": 1080,
     "existing_media_files": 1079,
-    "total_size_mb": 435.54,
-    "last_calculation": "2026-09-04T06:37:33.146812+00:00"
+    "total_size_mb": 436.89,
+    "last_calculation": "2026-09-04T09:09:56.676271+00:00"
   }
 }
