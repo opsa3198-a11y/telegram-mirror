@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3320,
+        "text": "🔴\nیه نفر بخاطر اینکه خانمش رفته بود دادگاه مهریه بگیره، به این شکل وحشتناک زنشو با ماشین زیرگرفت!\nوقتی مردم بهش گفتن چیکار کردی احمق!؟ گفته زنه خودمه، به شما چه!\n⚠️\nحاوی تصاویر دلخراش\n🔞\n@TweetPublic\n✔️",
+        "date": "2026-09-04T14:18:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3320_0_3ace08ab.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3320_1_7d6c8b7b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3320"
+      },
+      {
         "id": 3318,
         "text": "خب دیگه گرما بسه، لطفا این هوا رو برگردونین\n😭\n✋🏻\n@TweetPublic\n✔️",
         "date": "2026-09-04T11:16:19+00:00",
@@ -14462,40 +14481,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3209"
-      },
-      {
-        "id": 3208,
-        "text": "درسته اون فحش هایی که میدم اصلا در شان من نیس\nولی خب کاملا در شان کسایی هست که نصیبشون میکنم\n‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌\n@TweetPublic\n✔️",
-        "date": "2026-08-27T17:14:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3208_0_9ecfdf13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3208"
       }
     ]
   },
-  "last_update": "2026-09-04T13:37:22.733095+00:00",
+  "last_update": "2026-09-04T15:52:35.092934+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1081,
-    "total_files": 1081,
+    "total_media": 1082,
+    "total_files": 1082,
     "total_links": 172,
     "files_by_type": {
       "image": 988,
-      "video": 87,
+      "video": 88,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1081,
-    "existing_media_files": 1080,
-    "total_size_mb": 436.06,
-    "last_calculation": "2026-09-04T13:37:22.740838+00:00"
+    "referenced_files": 1082,
+    "existing_media_files": 1081,
+    "total_size_mb": 440.42,
+    "last_calculation": "2026-09-04T15:52:35.108068+00:00"
   }
 }
