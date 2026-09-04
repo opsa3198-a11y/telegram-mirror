@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3316,
+        "text": "🔴\nدیوید دوبریک، یوتیوبر آمریکایی که در سال 2019، بعد از اینکه دوستش به شوخی گفت «هیچ‌کس با تو ازدواج نمی‌کنه»، در لاس‌وگاس با مادر 74 ساله‌ی همون دوستش ازدواج کرد تا ضایعش کنه.\n@TweetPublic\n✔️",
+        "date": "2026-09-04T09:45:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3316_0_3ace08ab.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3316_1_5b10e432.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3316"
+      },
+      {
         "id": 3315,
         "text": "🔴\nایلان ماسک اعلام کرد که از سال بعد میتونید ربات‌های اُپتیموس رو بخريد.\nاین رباتا تو کارای خونه به شما کمک میکنند، وقتی تنهایین باهاتون حرف میزنن، میتونن باهاتون به پیاده روی بیان و....\n@TweetPublic\n✔️",
         "date": "2026-09-04T08:37:37+00:00",
@@ -14458,40 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3206"
-      },
-      {
-        "id": 3205,
-        "text": "اینطوری شده که شما تو صف پمپ بنزین سهروردی وایمیستی، صف میره جلو، میبینی تو صف شریعتی بودی.\n@TweetPublic\n✔️",
-        "date": "2026-08-27T11:49:43+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3205_0_9ecfdf13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3205"
       }
     ]
   },
-  "last_update": "2026-09-04T09:09:56.663058+00:00",
+  "last_update": "2026-09-04T10:45:23.986522+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
-      "image": 986,
+      "image": 987,
       "video": 88,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 436.89,
-    "last_calculation": "2026-09-04T09:09:56.676271+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 436.96,
+    "last_calculation": "2026-09-04T10:45:24.002412+00:00"
   }
 }
