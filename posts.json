@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3324,
+        "text": "🚨\nگزارشاتی از انفجار در سیریک\n@TweetPublic\n✔️",
+        "date": "2026-09-04T20:01:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3324_0_3ace08ab.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3324"
+      },
+      {
         "id": 3323,
         "text": "🔴\nبعداز بریتانیا، حالا قراره کره‌جنوبی هم با هدف کمک به آزادی کشتیرانی تو تنگه هرمز وارد این منطقه بشه؛\nکره‌جنوبی اعلام کرده اگه دولت تصمیم نهایی رو بگیره، قراره تجهیزات نظامی مثل هواپیمای گشت دریایی، کشتی پشتیبانی لجستیکی یا واحد شناسایی و پاک‌سازی مینِ خودش رو به تنگه هرمز بفرسته.\n@TweetPublic\n✔️",
         "date": "2026-09-04T19:06:56+00:00",
@@ -14466,25 +14481,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3213"
-      },
-      {
-        "id": 3212,
-        "text": "🔴\nشب جمعس\n@TweetPublic\n✔️",
-        "date": "2026-08-27T23:21:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3212_0_9ecfdf13.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3212"
       }
     ]
   },
-  "last_update": "2026-09-04T19:43:07.755298+00:00",
+  "last_update": "2026-09-04T20:22:11.300259+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14500,6 +14500,6 @@
     "referenced_files": 1082,
     "existing_media_files": 1081,
     "total_size_mb": 438.92,
-    "last_calculation": "2026-09-04T19:43:07.768276+00:00"
+    "last_calculation": "2026-09-04T20:22:11.313168+00:00"
   }
 }
