@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3334,
+        "text": "وقتی بعد از مرگ\nاز ایرانی ها میپرسن زندگی چطور بود:\n@TweetPublic\n✔️",
+        "date": "2026-09-05T13:14:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3334_0_50e63646.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3334_1_f7b256ce.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3334"
+      },
+      {
         "id": 3333,
         "text": "شما به یه پسر ۵ ثانیه بیشتر زل بزنی\n‏میری توی لیست دخترایی که بهش پا دادن\n@TweetPublic\n✔️",
         "date": "2026-09-05T11:58:31+00:00",
@@ -14458,29 +14477,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3222"
-      },
-      {
-        "id": 3221,
-        "text": "🔴\nپزشکیان\n:\nفقط نرخ سوم قیمت بنزین پس از هماهنگی با همه نهاد ها و ارگان‌ها از 5 هزار تومان به 10 هزار تومان خواهد رسید\nنرخ سوم قیمت بنزین بیش از 10 هزار تومان نخواهد شد.\n@TweetPublic\n✔️",
-        "date": "2026-08-28T20:02:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3221_0_59b85ddf.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3221_1_fb2b3bd3.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3221"
       }
     ]
   },
-  "last_update": "2026-09-05T13:05:02.640810+00:00",
+  "last_update": "2026-09-05T14:43:00.862009+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14495,7 +14495,7 @@
     },
     "referenced_files": 1081,
     "existing_media_files": 1080,
-    "total_size_mb": 446.95,
-    "last_calculation": "2026-09-05T13:05:02.653832+00:00"
+    "total_size_mb": 452.36,
+    "last_calculation": "2026-09-05T14:43:00.875029+00:00"
   }
 }
