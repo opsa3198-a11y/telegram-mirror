@@ -12703,6 +12703,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 3333,
+        "text": "شما به یه پسر ۵ ثانیه بیشتر زل بزنی\n‏میری توی لیست دخترایی که بهش پا دادن\n@TweetPublic\n✔️",
+        "date": "2026-09-05T11:58:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3333_0_50e63646.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3333"
+      },
+      {
+        "id": 3332,
+        "text": "لالیگا اسپانیا\n🇪🇸\nبارسا اینجا حق خوابیدن نداره\n🔥\nبارسلونا اگه از همون اول ریتمشو بگیره، می‌تونه بازی رو به نفع خودش بچرخونه؛\nولی والنسیا فقط چند دقیقه خوب می‌خواد تا ورزشگاه رو پشت خودش بیاره و بازی رو عصبی کنه.\n👀\n🔥\n⏰\n۱۵ شهریور | ۱۷:۴۵",
+        "date": "2026-09-05T11:57:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3332_0_50e63646.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3332_1_8dae2639.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3332"
+      },
+      {
+        "id": 3331,
+        "text": "اوضاع یه طوری بگاییه که طرف رو کارت دعوت عروسیش نوشته حداقل پول شامی که قراره بخورید رو بیارید...\n@TweetPublic\n✔️",
+        "date": "2026-09-05T11:03:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3331_0_50e63646.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3331_1_0bd6c472.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3331"
+      },
+      {
         "id": 3329,
         "text": "🔴\nفیلم وایرال شده از افتتاحیه یک طلافروشی در شیراز.\nافراد معروفی مثل حامد بهداد؛ محمد بحرانی و محسن شریفیان هم تو فیلم دیده میشن.\nهنوز آب به طبقات بالای کشتی نرسیده و ما طبقات پایینیم که داریم نفسای آخر رو زیر آب میکشیم\n@TweetPublic\n✔️",
         "date": "2026-09-05T09:33:16+00:00",
@@ -14424,82 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3221"
-      },
-      {
-        "id": 3220,
-        "text": "🔴\nدختره بعد از چندین سال رابطه لانگ دیستنس(از راه دور) از آلمان بخاطر دوس پسرش بلند میشه میاد ایران و دوس پسرشو سوپرایز می‌کنه که ویدیوش حسابی وایرال شده :\n@TweetPublic\n✔️",
-        "date": "2026-08-28T19:02:10+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3220_0_59b85ddf.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3220_1_4e6cfd5e.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3220"
-      },
-      {
-        "id": 3219,
-        "text": "لیگ برتر خلیج فارس\n🇮🇷\nانزلی جای سه امتیاز راحت نیست\n🔥\nپرسپولیس با توقع برد میاد، ولی ملوان توی این مدل بازی‌ها دقیقاً همون تیمیه که می‌تونه ریتم حریف رو خراب کنه و بازی رو تا آخر زنده نگه داره.\n⚽️\n🔥\n🔴\nملوان × پرسپولیس\n⏰\n۷ شهریور | ۱۹:۱۵",
-        "date": "2026-08-28T18:34:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3219_0_59b85ddf.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3219_1_d4d97d9b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3219"
-      },
-      {
-        "id": 3218,
-        "text": "🔴\nاسرائیل هیوم:\nلحظه‌ی فروپاشیِ ایران\n🇮🇷\nاز هر لحظه‌ای نزدیکتره.\n@TweetPublic\n✔️",
-        "date": "2026-08-28T17:12:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3218_0_59b85ddf.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3218_1_1f12d6d2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3218"
       }
     ]
   },
-  "last_update": "2026-09-05T10:03:22.396834+00:00",
+  "last_update": "2026-09-05T13:05:02.640810+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1082,
-    "total_files": 1082,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 987,
-      "video": 89,
+      "video": 88,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1082,
-    "existing_media_files": 1081,
-    "total_size_mb": 449.48,
-    "last_calculation": "2026-09-05T10:03:22.409742+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 446.95,
+    "last_calculation": "2026-09-05T13:05:02.653832+00:00"
   }
 }
