@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3329,
+        "text": "🔴\nفیلم وایرال شده از افتتاحیه یک طلافروشی در شیراز.\nافراد معروفی مثل حامد بهداد؛ محمد بحرانی و محسن شریفیان هم تو فیلم دیده میشن.\nهنوز آب به طبقات بالای کشتی نرسیده و ما طبقات پایینیم که داریم نفسای آخر رو زیر آب میکشیم\n@TweetPublic\n✔️",
+        "date": "2026-09-05T09:33:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3329_0_50e63646.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3329_1_fa9280b3.mp4"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3329_2_fcca3739.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3329"
+      },
+      {
         "id": 3328,
         "text": "امروز دوس دخترم ازم ایفون 17 پرومکس رنگ پرتقالی میخواست، نمیدونه من خودم 2 ساله پرتقالم نخوردم.\n@TweetPublic\n✔️",
         "date": "2026-09-04T22:47:46+00:00",
@@ -14458,44 +14481,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3218"
-      },
-      {
-        "id": 3217,
-        "text": "تو یکی از خیابون‌های ساری، یه خانمی داشت خیابون رو برعکس میرفت!\nوقتی مردم بهش اعتراض کردن که داری خلاف میای، طلبکار شد و گفت من دارم درست میام، شماها اشتباه میکنین.\n@TweetPublic\n✔️",
-        "date": "2026-08-28T16:52:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3217_0_59b85ddf.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3217_1_c414ffe6.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3217"
       }
     ]
   },
-  "last_update": "2026-09-05T06:23:58.053323+00:00",
+  "last_update": "2026-09-05T09:33:35.035699+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1081,
-    "total_files": 1081,
+    "total_media": 1082,
+    "total_files": 1082,
     "total_links": 172,
     "files_by_type": {
       "image": 987,
-      "video": 88,
+      "video": 89,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1081,
-    "existing_media_files": 1080,
-    "total_size_mb": 438.89,
-    "last_calculation": "2026-09-05T06:23:58.066494+00:00"
+    "referenced_files": 1082,
+    "existing_media_files": 1081,
+    "total_size_mb": 449.48,
+    "last_calculation": "2026-09-05T09:33:35.045540+00:00"
   }
 }
