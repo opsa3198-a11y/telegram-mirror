@@ -12703,6 +12703,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3358,
+        "text": "سخنگوی دولت اعلام کرد:\nنرخ کارت جایگاه سوخت از بامداد ۱۷ شهریور به ۱۰ هزار تومان افزایش خواهد یافت.\n@TweetPublic\n✔️",
+        "date": "2026-09-06T17:47:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3358_0_b3c372ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3358"
+      },
+      {
+        "id": 3357,
+        "text": "دقت کردید که هر روز داریم اینترنت یک ماهه میخریم؟\n@TweetPublic\n✔️",
+        "date": "2026-09-06T17:06:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3357_0_b3c372ea.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3357"
+      },
+      {
         "id": 3355,
         "text": "⏺\nاین فیلم نشون میده که اگه شما بنزین رو لیتری 30 هزار تومن بخرید همیشه بنزین هست.\nجایگاه ها میگن کارت نداریم ولی شما بگو لیتری 30 هزار تومن میخرم ازت سریع بهت میده.\n@TweetPublic\n✔️",
         "date": "2026-09-06T13:18:41+00:00",
@@ -14435,63 +14465,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3243"
-      },
-      {
-        "id": 3242,
-        "text": "سری آ ایتالیا\n🇮🇹\nاسم‌ها یه چیز میگن؛ زمین یه چیز دیگه\n🔥\nناپولی طبیعتاً تیم بزرگ‌تره، ولی کومو از اون حریف‌هاست که اگه چند دقیقه اول رو سالم رد کنه، کم‌کم اعتمادبه‌نفس می‌گیره.\n👀\n⚽️\n⏰\n۸ شهریور | ۲۰:۰۰",
-        "date": "2026-08-30T19:22:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3242_0_9c1bd283.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3242_1_0a080258.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3242"
-      },
-      {
-        "id": 3241,
-        "text": "🔴\nپزشکیان تو جلسه هیئت دولت، خطاب به جبلی (رئیس صداوسیما):\nهروقت تلویزیون رو روشن میکنم، اعصابم خُرد میشه؛ برا همین دیگه با صداوسیما حال نمیکنم.\n@TweetPublic\n✔️",
-        "date": "2026-08-30T17:41:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3241_0_9c1bd283.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3241_1_23161300.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3241"
       }
     ]
   },
-  "last_update": "2026-09-06T15:52:16.779666+00:00",
+  "last_update": "2026-09-06T17:49:52.105449+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1078,
+    "total_files": 1078,
     "total_links": 172,
     "files_by_type": {
-      "image": 983,
-      "video": 91,
+      "image": 982,
+      "video": 90,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 471.76,
-    "last_calculation": "2026-09-06T15:52:16.792030+00:00"
+    "referenced_files": 1078,
+    "existing_media_files": 1077,
+    "total_size_mb": 470.21,
+    "last_calculation": "2026-09-06T17:49:52.112164+00:00"
   }
 }
