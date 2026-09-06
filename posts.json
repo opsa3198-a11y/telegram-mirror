@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3355,
+        "text": "⏺\nاین فیلم نشون میده که اگه شما بنزین رو لیتری 30 هزار تومن بخرید همیشه بنزین هست.\nجایگاه ها میگن کارت نداریم ولی شما بگو لیتری 30 هزار تومن میخرم ازت سریع بهت میده.\n@TweetPublic\n✔️",
+        "date": "2026-09-06T13:18:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3355_0_b3c372ea.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3355_1_5cf8bb73.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3355"
+      },
+      {
         "id": 3353,
         "text": "وزیر نیرو:\nمن نگفتم خاموشی‌ها تموم شده. فقط گفتم از تابستون عبور کردیم. الانم عجله نکنید تا به یه ثباتی برسیم. اول داریم تلاش میکنیم تا برق جنوب دیگه قطع نشه؛ بعدش میایم سراغ تهران و بعد از اون کم کم کل کشور. پس صبور باشید. مرسی.\n@TweetPublic\n✔️",
         "date": "2026-09-06T10:47:11+00:00",
@@ -14454,48 +14473,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3241"
-      },
-      {
-        "id": 3239,
-        "text": "🔴\nعکس‌های جدید از مادورو (رئیس‌جمهور سابق ونزوئلا\n🇻🇪\nکه زنده گیریش کردن) از داخل زندان آمریکا که گویا اونجا از مردم ایران خوشحال‌تره.\n@TweetPublic\n✔️",
-        "date": "2026-08-30T15:23:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3239_0_9c1bd283.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3239_1_69e6b824.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3239_2_3c2495da.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3239"
       }
     ]
   },
-  "last_update": "2026-09-06T12:40:18.040696+00:00",
+  "last_update": "2026-09-06T15:02:05.189462+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1081,
-    "total_files": 1081,
+    "total_media": 1080,
+    "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 985,
-      "video": 90,
+      "image": 983,
+      "video": 91,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1081,
-    "existing_media_files": 1080,
-    "total_size_mb": 463.82,
-    "last_calculation": "2026-09-06T12:40:18.053846+00:00"
+    "referenced_files": 1080,
+    "existing_media_files": 1079,
+    "total_size_mb": 471.76,
+    "last_calculation": "2026-09-06T15:02:05.202239+00:00"
   }
 }
