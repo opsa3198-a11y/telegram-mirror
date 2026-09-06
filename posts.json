@@ -12703,6 +12703,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3346,
+        "text": "بوکننده زنجیره‌ای باسن برای بار سوم دستگیر شد.\nکالیس کرودر که قبلاً هم به عنوان مجرم جنسی ثبت شده بود و به بوکننده زنجیره‌ای معروف شده، باز هم در کالیفرنیا دستگیر شد.\nکارمندهای مغازه‌ها گزارش دادن که اون مردم رو تعقیب می‌کرده و خم می‌شده تا بوشون کنه.\n@TweetPublic\n✔️",
+        "date": "2026-09-06T07:07:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3346_0_b3c372ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3346_1_5e9f197f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3346_2_31c49973.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3346"
+      },
+      {
         "id": 3345,
         "text": "صائب تبریزی چقد قشنگ جواب اون‌که رفته و برمیگرده رو میده:\n\"دلرُبایانه دگر بر سرِ ناز آمده‌ای....\nاز دلِ ما چه به جا مانده که باز آمده‌ای؟!\"\n@TweetPublic\n✔️",
         "date": "2026-09-05T23:36:12+00:00",
@@ -14470,44 +14493,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3231"
-      },
-      {
-        "id": 3230,
-        "text": "این بازی احتمالاً قشنگ نیست؛ ولی جذابه\n🇪🇸\nاتلتیکو از اون تیم‌هاست که بلده بازی رو زشت و سخت کنه؛ سویا هم اگه وارد همون جنگ بشه، ۹۰ دقیقه می‌تونه پر از درگیری و اعصاب‌خوردی باشه.\n😈\n⚽️\n⏰\n۷ شهریور | ۲۳:۰۰",
-        "date": "2026-08-29T19:15:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3230_0_50343a72.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3230_1_e1f176df.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3230"
       }
     ]
   },
-  "last_update": "2026-09-06T06:34:32.985651+00:00",
+  "last_update": "2026-09-06T09:00:20.539679+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1084,
-    "total_files": 1084,
+    "total_media": 1085,
+    "total_files": 1085,
     "total_links": 172,
     "files_by_type": {
-      "image": 988,
+      "image": 989,
       "video": 90,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1084,
-    "existing_media_files": 1083,
-    "total_size_mb": 468.87,
-    "last_calculation": "2026-09-06T06:34:32.995914+00:00"
+    "referenced_files": 1085,
+    "existing_media_files": 1084,
+    "total_size_mb": 468.92,
+    "last_calculation": "2026-09-06T09:00:20.552280+00:00"
   }
 }
