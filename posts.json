@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3353,
+        "text": "وزیر نیرو:\nمن نگفتم خاموشی‌ها تموم شده. فقط گفتم از تابستون عبور کردیم. الانم عجله نکنید تا به یه ثباتی برسیم. اول داریم تلاش میکنیم تا برق جنوب دیگه قطع نشه؛ بعدش میایم سراغ تهران و بعد از اون کم کم کل کشور. پس صبور باشید. مرسی.\n@TweetPublic\n✔️",
+        "date": "2026-09-06T10:47:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3353_0_b3c372ea.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3353_1_6dcf1aae.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3353"
+      },
+      {
         "id": 3352,
         "text": "🔴\nامید عالیشاه : من به خداداد عزیزی نگفتم بیناموس، فقط گفتم کارت ملیت رو نشون بده و ثابت کن افغانی نیستی.\n@TweetPublic\n✔️",
         "date": "2026-09-06T10:02:36+00:00",
@@ -14458,48 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3239"
-      },
-      {
-        "id": 3237,
-        "text": "🔴\nپنجشنبه هفته پیش، \"محسن نامجو\" خواننده، آهنگساز و نوازنده معروف ایرانی بعد حدود 20 سال، وارد ایران شد؛\nحالا آزاده اخلاقی، همسرش ویدئو گذاشته که بی‌ناموس تو که چهارتا ورقه گرفتی دستت گفتی دارم میرم همین سرکوچه (تو آمریکا\n🇺🇸\n) پرینت بگیرم، تو فرودگاه امام چیکار میکنی؟ چرا چمدون من رو اصلا دزدیدی؟\n😂\n@TweetPublic\n✔️",
-        "date": "2026-08-30T13:16:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3237_0_9c1bd283.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3237_1_023a08b3.mp4"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3237_2_597bb27c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3237"
       }
     ]
   },
-  "last_update": "2026-09-06T10:23:42.745736+00:00",
+  "last_update": "2026-09-06T12:40:18.040696+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1082,
-    "total_files": 1082,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 985,
-      "video": 91,
+      "video": 90,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1082,
-    "existing_media_files": 1081,
-    "total_size_mb": 472.86,
-    "last_calculation": "2026-09-06T10:23:42.759021+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 463.82,
+    "last_calculation": "2026-09-06T12:40:18.053846+00:00"
   }
 }
