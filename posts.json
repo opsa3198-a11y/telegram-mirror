@@ -12703,6 +12703,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3360,
+        "text": "دونالد ترامپ: ماه متعلق به ماست!\n@TweetPublic\n✔️",
+        "date": "2026-09-06T18:13:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3360_0_b3c372ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3360_1_eb425a0b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3360"
+      },
+      {
+        "id": 3359,
+        "text": "لیگ قهرمانان اروپا\n🇪🇺\nسیتی توپ رو می‌خواد؛ پورتو بازی رو\n🎯\nمنچسترسیتی احتمالاً می‌خواد از همون اول مالکیت و ریتم رو بگیره، ولی پورتو از اون تیم‌هاست که تو شب‌های اروپایی فقط منتظر یه لحظه‌ست تا ضربه بزنه.\n⚽️\n🔥\nهرچی بازی بدون گل بیشتر جلو بره، فشار روی سیتی بیشتر میشه.\nکنترل سیتی جواب میده یا پورتو بازی رو می‌دزده؟",
+        "date": "2026-09-06T18:03:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3359_0_b3c372ea.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3359_1_b6461ccf.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3359"
+      },
+      {
         "id": 3358,
         "text": "سخنگوی دولت اعلام کرد:\nنرخ کارت جایگاه سوخت از بامداد ۱۷ شهریور به ۱۰ هزار تومان افزایش خواهد یافت.\n@TweetPublic\n✔️",
         "date": "2026-09-06T17:47:10+00:00",
@@ -14435,55 +14473,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3245"
-      },
-      {
-        "id": 3244,
-        "text": "🚨\n🚨\n🚨\n🚨\nغیررسمی؛ طبق اخبار برخی منابع امریکا جزیره لارک رو مورد حمله قرار داد.   @TweetPublic\n✔️",
-        "date": "2026-08-30T19:28:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3244_0_9c1bd283.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3244"
-      },
-      {
-        "id": 3243,
-        "text": "🚨\n🚨\n🚨\n🚨\nغیررسمی؛ طبق اخبار برخی منابع امریکا جزیره لارک رو مورد حمله قرار داد.\n@TweetPublic\n✔️",
-        "date": "2026-08-30T19:25:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3243_0_9c1bd283.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3243"
       }
     ]
   },
-  "last_update": "2026-09-06T17:49:52.105449+00:00",
+  "last_update": "2026-09-06T19:40:59.497255+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1078,
-    "total_files": 1078,
+    "total_media": 1080,
+    "total_files": 1080,
     "total_links": 172,
     "files_by_type": {
-      "image": 982,
+      "image": 984,
       "video": 90,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1078,
-    "existing_media_files": 1077,
-    "total_size_mb": 470.21,
-    "last_calculation": "2026-09-06T17:49:52.112164+00:00"
+    "referenced_files": 1080,
+    "existing_media_files": 1079,
+    "total_size_mb": 470.44,
+    "last_calculation": "2026-09-06T19:40:59.510040+00:00"
   }
 }
