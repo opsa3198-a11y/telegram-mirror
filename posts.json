@@ -12703,6 +12703,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3361,
+        "text": "⏺\nمتاسفانه امروز یه جوون توی همدان بخاطر مشکلات مملکت خودشو آتیش زد و زنده زنده سوخت!\nمامورا برای اینکه خودکشی نکنه، کتکش میزدن!\nحاوی تصاویر به شدت دلخراش، اگه بیماری قلبی داری باز نکن.\n@TweetPublic\n✔️",
+        "date": "2026-09-06T20:04:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3361_0_b3c372ea.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3361_1_17a8502b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3361"
+      },
+      {
         "id": 3360,
         "text": "دونالد ترامپ: ماه متعلق به ماست!\n@TweetPublic\n✔️",
         "date": "2026-09-06T18:13:50+00:00",
@@ -14458,40 +14477,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3246"
-      },
-      {
-        "id": 3245,
-        "text": "🔴\nآکسیوس : ارتش آمریکا به حالت آماده باش کامل درومده و برای پاسخ به ایران آماده شده.\n@TweetPublic\n✔️",
-        "date": "2026-08-30T19:32:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3245_0_9c1bd283.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3245"
       }
     ]
   },
-  "last_update": "2026-09-06T20:04:31.839319+00:00",
+  "last_update": "2026-09-06T21:48:05.119790+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 1080,
-    "total_files": 1080,
+    "total_media": 1081,
+    "total_files": 1081,
     "total_links": 172,
     "files_by_type": {
       "image": 984,
-      "video": 90,
+      "video": 91,
       "file": 5,
       "document": 1
     },
-    "referenced_files": 1080,
-    "existing_media_files": 1079,
-    "total_size_mb": 470.44,
-    "last_calculation": "2026-09-06T20:04:31.852073+00:00"
+    "referenced_files": 1081,
+    "existing_media_files": 1080,
+    "total_size_mb": 472.51,
+    "last_calculation": "2026-09-06T21:48:05.132610+00:00"
   }
 }
