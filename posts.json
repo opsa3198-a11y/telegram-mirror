@@ -12703,6 +12703,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3375,
+        "text": "ایرانم جای جالبیه.\nبابک زنجانی که خودش سوء پیشینه داره، اعلام کرده که واسه استخدام شدن توی شرکتش باید گواهی عدم سوء پیشینه داشته باشید\n@TweetPublic\n✔️",
+        "date": "2026-09-07T12:00:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3375_0_e8e6edf6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3375"
+      },
+      {
         "id": 3374,
         "text": "صحبت های علی دایی در واکنش به دعوای عالیشاه و خداداد عزیزی\n🤣\n@TweetPublic\n✔️",
         "date": "2026-09-07T10:55:57+00:00",
@@ -14502,25 +14517,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3254"
-      },
-      {
-        "id": 3253,
-        "text": "🚨\nفوری : هم اکنون سپاه از بیدگنه و شیراز در حال شلیک موشکه.\n@TweetPublic\n✔️",
-        "date": "2026-08-30T21:26:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3253_0_9c1bd283.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3253"
       }
     ]
   },
-  "last_update": "2026-09-07T11:45:16.297782+00:00",
+  "last_update": "2026-09-07T12:48:58.418727+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -14537,6 +14537,6 @@
     "referenced_files": 1091,
     "existing_media_files": 1090,
     "total_size_mb": 497.56,
-    "last_calculation": "2026-09-07T11:45:16.310838+00:00"
+    "last_calculation": "2026-09-07T12:48:58.431879+00:00"
   }
 }
