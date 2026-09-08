@@ -11142,6 +11142,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3410,
+        "text": "⏺\nطبق گزارش رسانه های خارجی نفتکش های ایران توسط ارتش آمریکا هدف قرار گرفته شدن.\n@TweetPublic\n✔️",
+        "date": "2026-09-08T19:37:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3410_0_c06f2325.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3410"
+      },
+      {
+        "id": 3409,
+        "text": "⭕\n‏بهزاد اکبری، مدیرعامل شرکت ارتباطات زیرساخت گفته دلیل کندی اینترنت قطع فیبر نوری تو ارمنستانه و در حال پیگیری‌ان  @TweetPublic\n✔️",
+        "date": "2026-09-08T18:56:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3409_0_c06f2325.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3409_1_cc0239b9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3409"
+      },
+      {
         "id": 3408,
         "text": "لطفا هرچی سریع تر بمب اتم رو به ایران بزنید\n@TweetPublic\n✔️",
         "date": "2026-09-08T18:42:33+00:00",
@@ -12958,44 +12992,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3279"
-      },
-      {
-        "id": 3278,
-        "text": "🇺🇸\nسنتکام:\nلحظاتی پیش نیروهای ایالات متحده حمله به اهداف سپاه پاسداران انقلاب اسلامی (IRGC) تو ایران رو آغاز کردن.\nاین حملات پس از حملات اخیر سپاه پاسداران انقلاب اسلامی علیه کشتی‌های تجاری در تنگه هرمز و علیه نیروهای نظامی آمریکایی مستقر تو منطقه انجام شد.\n﻿\n@TweetPublic\n✔️",
-        "date": "2026-09-01T16:47:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3278_0_b3143ee0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3278_1_0de0d182.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3278"
-      },
-      {
-        "id": 3277,
-        "text": "سومین موج حملات به بندرعباس\n@TweetPublic\n✔️",
-        "date": "2026-09-01T16:31:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3277_0_b3143ee0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3277"
       }
     ]
   },
-  "last_update": "2026-09-08T18:52:55.768845+00:00",
+  "last_update": "2026-09-08T20:48:20.862523+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13003,15 +13003,15 @@
     "total_files": 784,
     "total_links": 172,
     "files_by_type": {
-      "image": 690,
-      "video": 89,
+      "image": 689,
+      "video": 90,
       "file": 3,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 784,
     "existing_media_files": 783,
-    "total_size_mb": 490.39,
-    "last_calculation": "2026-09-08T18:52:55.778721+00:00"
+    "total_size_mb": 490.99,
+    "last_calculation": "2026-09-08T20:48:20.868096+00:00"
   }
 }
