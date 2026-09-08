@@ -7455,10 +7455,6 @@
         "date": "2026-05-10T11:46:26+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_336452_0_22bd9afc.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_336452_1_59acf37d.mp4"
           }
@@ -7472,14 +7468,9 @@
         "id": 336451,
         "text": "در ادامه کارزار همبستگی ایرانیان خارج از کشور، ایرانیان مقیم استکهلم در تجمعی اعتراضی، در گفت‌وگو با مهران عباسیان، خبرنگار ایران‌اینترنشنال، با مردم داخل کشور اعلام همبستگی کردند.\n@iranintltv",
         "date": "2026-05-10T11:46:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336451_0_22bd9afc.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/336451"
       },
@@ -7487,18 +7478,9 @@
         "id": 336450,
         "text": "کارزار همبستگی ایرانیان خارج از کشور با «ملت در گروگان» در ایران ادامه دارد. این تجمع‌ها با فراخوان شاهزاده رضا پهلوی و در اعتراض به تشدید اعدام‌‌ها، سرکوب و قطع اینترنت در ایران، برگزار می‌شود.\nمهران عباسیان، خبرنگار ایران‌اینترنشنال، از تجمع شهر استکهلم گزارش می‌دهد\n@iranintltv",
         "date": "2026-05-10T11:42:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_336450_0_22bd9afc.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_336450_1_a8145080.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/336450"
       },
@@ -11160,6 +11142,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 3408,
+        "text": "لطفا هرچی سریع تر بمب اتم رو به ایران بزنید\n@TweetPublic\n✔️",
+        "date": "2026-09-08T18:42:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3408_0_c06f2325.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3408_1_6b18cb39.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3408"
+      },
+      {
+        "id": 3407,
+        "text": "لیگ قهرمانان اروپا\n🇪🇺\nبایرن اسم بزرگ‌تره؛ بودو ترس نداره\n🥶\nبایرن با کیفیت و تجربه میاد،\nولی بودو از اون تیم‌هاست که اگه چند دقیقه اول رو خوب رد کنه، با سرعت و جسارتش می‌تونه بازی رو از حالت عادی خارج کنه.\n👀\n⚽️\nقدرت بایرن جواب می‌ده یا جسارت بودو؟\n🔥",
+        "date": "2026-09-08T18:38:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3407_0_c06f2325.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3407_1_9629c4e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3407"
+      },
+      {
+        "id": 3406,
+        "text": "⭕\n‏بهزاد اکبری، مدیرعامل شرکت ارتباطات زیرساخت گفته دلیل کندی اینترنت قطع فیبر نوری تو ارمنستانه و در حال پیگیری‌ان\n@TweetPublic\n✔️",
+        "date": "2026-09-08T17:58:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3406_0_c06f2325.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3406"
+      },
+      {
         "id": 3397,
         "text": "🔴\nدیشب خدا وسط تابستون به شمالی‌ها شبیخون زد؛\nبارندگی‌های شدید دیشب باعث شد تو خیلی از مناطق شمال کشور سیل و آب‌گرفتگی راه بیفته،طوری که امروز بعضی مناطق به‌خاطر آب‌گرفتگی معابر و ساختمان‌ها تعطیل شدن.\n@TweetPublic\n✔️",
         "date": "2026-09-08T15:18:40+00:00",
@@ -12957,79 +12992,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3277"
-      },
-      {
-        "id": 3276,
-        "text": "🚨\nطبق گفته کاربران؛\nدقایقی پیش صدایی شبیه به صدای انفجار تو بندرعباس و چابهار شنیده شده.\n@TweetPublic\n✔️",
-        "date": "2026-09-01T16:16:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3276_0_b3143ee0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3276"
-      },
-      {
-        "id": 3275,
-        "text": "وضعیت روحیم\n@TweetPublic\n✔️",
-        "date": "2026-09-01T15:49:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3275_0_b3143ee0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3275_1_59403cb0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3275"
-      },
-      {
-        "id": 3274,
-        "text": "این شما و این عجیب‌ترین دعوای این ماه\nدیشب تو شیراز، دوتا دختر با ماشین میزنن به ماشینِ دوتا پسر؛ بعد گفتن ما مقصر نيستيم و داشتن فرار میکردن!\nپسرها هم گفتن چون بی‌ادبی کردی، باید بمونی خسارت بدی، بخاطر همین پریدن رو کاپوت ماشینِ دختره که فرار نکنه!\nاین وسط یه پیرمرده هم خیلی بی‌دلیل از دختره کتک خورد.\nتهشم دختره گفت دیگه این موضوع واسم مهم نیست چون زنگ زدم شوهرم سروان شهریزی، الان میاد کون همه‌تون رو پاره میکنه.\n@TweetPublic\n✔️",
-        "date": "2026-09-01T12:03:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3274_0_b3143ee0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3274_1_85919496.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3274"
       }
     ]
   },
-  "last_update": "2026-09-08T16:07:59.953836+00:00",
+  "last_update": "2026-09-08T18:52:55.768845+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 788,
-    "total_files": 788,
+    "total_media": 784,
+    "total_files": 784,
     "total_links": 172,
     "files_by_type": {
-      "image": 693,
-      "video": 90,
+      "image": 690,
+      "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 788,
-    "existing_media_files": 787,
-    "total_size_mb": 499.37,
-    "last_calculation": "2026-09-08T16:07:59.963562+00:00"
+    "referenced_files": 784,
+    "existing_media_files": 783,
+    "total_size_mb": 490.39,
+    "last_calculation": "2026-09-08T18:52:55.778721+00:00"
   }
 }
