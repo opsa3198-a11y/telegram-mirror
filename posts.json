@@ -11142,6 +11142,51 @@
     ],
     "TweetPublic": [
       {
+        "id": 3413,
+        "text": "🔴\nپرتاب موشک از اصفهان و خرم اباد و کرمانشاه\n@TweetPublic\n✔️",
+        "date": "2026-09-08T21:27:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3413_0_c06f2325.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3413"
+      },
+      {
+        "id": 3412,
+        "text": "🔴\nگزارش شلیک موشک از شهرهای مختلف ایران هم اکنون !!\n@TweetPublic\n✔️",
+        "date": "2026-09-08T21:24:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3412_0_c06f2325.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3412"
+      },
+      {
+        "id": 3411,
+        "text": "هم اکنون حمله سپاه به ناوشکن آرلی برک آمریکا در دریای عمان.\n@TweetPublic\n✔️",
+        "date": "2026-09-08T21:23:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3411_0_c06f2325.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3411"
+      },
+      {
         "id": 3410,
         "text": "⏺\nطبق گزارش رسانه های خارجی نفتکش های ایران توسط ارتش آمریکا هدف قرار گرفته شدن.\n@TweetPublic\n✔️",
         "date": "2026-09-08T19:37:13+00:00",
@@ -12931,87 +12976,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3284"
-      },
-      {
-        "id": 3281,
-        "text": "🔴\nتصاویری که خبرگزاری فارس از حمله آمریکا به یه مراسم عروسی تو سیریک منتشر کرده؛\nتعداد کسایی که جونشون رو از دست دادن به 4 نفر و زخمی‌ها به 50 نفر رسید.\n@TweetPublic\n✔️",
-        "date": "2026-09-01T20:08:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3281_0_b3143ee0.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3281_1_35c8665b.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3281_2_a22a61ff.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3281_3_3bfe1c3b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3281"
-      },
-      {
-        "id": 3280,
-        "text": "🔴\nفرماندار سیریک؛\nامشب آمریکا\n🇺🇸\nبه یه منطقه مسکونی تو بندر کوهستک حمله کرده که تو این حمله چند نفر زخمی شدن و احتمال کشته شدن تعدادی از مردم هم وجود داره.\nبه گفته منابع محلی؛  ترکش‌های این حمله به یه مراسم عروسی خورده و چند نفر از کسایی که تو مراسم بودن زخمی شدن.\n@TweetPublic\n✔️",
-        "date": "2026-09-01T19:30:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3280_0_b3143ee0.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3280"
-      },
-      {
-        "id": 3279,
-        "text": "جام حذفی آلمان\n🇩🇪\nبایرن باید زود کار رو یکسره کنه\n🎯\nاین مدل بازی‌ها برای تیم بزرگ یه قانون ساده دارن:\nهرچی گل اول دیرتر بیاد، حریف بیشتر باور می‌کنه که می‌تونه دردسر درست کنه.\n👀\n⚽️\nبایرن کیفیتش رو داره، ولی اوزنابروک چیزی برای از دست دادن نداره.\n⏰\n۱۱ شهریور | ۲۲:۱۵",
-        "date": "2026-09-01T19:28:46+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3279_0_b3143ee0.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3279_1_e2177974.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3279"
       }
     ]
   },
-  "last_update": "2026-09-08T20:48:20.862523+00:00",
+  "last_update": "2026-09-08T21:30:08.560706+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 784,
-    "total_files": 784,
+    "total_media": 780,
+    "total_files": 780,
     "total_links": 172,
     "files_by_type": {
-      "image": 689,
-      "video": 90,
+      "image": 686,
+      "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 784,
-    "existing_media_files": 783,
-    "total_size_mb": 490.99,
-    "last_calculation": "2026-09-08T20:48:20.868096+00:00"
+    "referenced_files": 780,
+    "existing_media_files": 779,
+    "total_size_mb": 490.18,
+    "last_calculation": "2026-09-08T21:30:08.569976+00:00"
   }
 }
