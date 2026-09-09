@@ -11142,6 +11142,67 @@
     ],
     "TweetPublic": [
       {
+        "id": 3420,
+        "text": "تصاویر فوق العاده ای از رعدوبرق های شب گذشته در تهران و رشت\n🤖\nدریافت شده توسط\n@instaRoxinoBot",
+        "date": "2026-09-09T11:46:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3420_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3420_1_e32fa4b9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3420_2_a5efdcb4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3420"
+      },
+      {
+        "id": 3419,
+        "text": "سری آ  -  ایتالیا\n🇮🇹\n🔥\nاین بازی بیشتر از چیزی که فکر می‌کنی بازه\n💥\nفیورنتینا کیفیت بیشتری داره، ولی ونتزیا اگه بازی رو تا نیمه دوم زنده نگه داره، می‌تونه کل فشار رو برگردونه سمت میزبان.\n👀\n⚽️\nفیورنتینا زود کارو درمیاره یا ونتزیا بازی رو می‌کشونه تا آخر؟\n🥶",
+        "date": "2026-09-09T11:44:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3419_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3419_1_92a00e8c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3419"
+      },
+      {
+        "id": 3418,
+        "text": "رعد و برق آسمون دیشب ساری\n@TweetPublic\n✔️",
+        "date": "2026-09-09T10:52:58+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3418_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3418_1_a5850d3e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3418"
+      },
+      {
         "id": 3417,
         "text": "‏\n🇮🇷\nمهران رجبی:\nاونی که نمیاد تجمعات باید بهش بگی فازت چیه که نمیای ؟\nاین وظیفه ملی و دینی ماست و باید بیایم کف خیابون\nضرر نداره بیایم و شما کاری میکنید که کفار ناراحت میشه پس بیاید\n@TweetPublic\n✔️",
         "date": "2026-09-09T09:23:41+00:00",
@@ -12923,75 +12984,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3293"
-      },
-      {
-        "id": 3292,
-        "text": "لیگ فرانسه\n🇫🇷\nاین یکی می‌تونه خیلی زود هیجانی بشه\n🔥\nلیل اگه فضا پیدا کنه، سرعتش دردسر می‌سازه؛ تولوز هم تیمی نیست که بشینه فقط دفاع کنه.\nیعنی فقط یه گل زودهنگام کافیه تا بازی از حالت حساب‌شده خارج بشه.\n🔥\n⚽️\n⏰\n۱۲ شهریور | ۲۲:۱۵",
-        "date": "2026-09-02T11:32:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3292_0_a39a6752.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3292_1_e716105f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3292"
-      },
-      {
-        "id": 3291,
-        "text": "یادش بخیر دو روز پیش دلار 210 بود  قیمت فعلی دلار :220 هزار تومن  @TweetPublic\n✔️",
-        "date": "2026-09-02T10:49:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3291_0_a39a6752.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3291"
-      },
-      {
-        "id": 3290,
-        "text": "یادش بخیر  دلار 210  @TweetPublic\n✔️",
-        "date": "2026-09-02T10:48:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3290_0_a39a6752.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3290"
       }
     ]
   },
-  "last_update": "2026-09-09T10:51:59.772227+00:00",
+  "last_update": "2026-09-09T12:01:48.226091+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 779,
-    "total_files": 779,
+    "total_media": 782,
+    "total_files": 782,
     "total_links": 172,
     "files_by_type": {
-      "image": 686,
-      "video": 88,
+      "image": 688,
+      "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 779,
-    "existing_media_files": 778,
-    "total_size_mb": 495.04,
-    "last_calculation": "2026-09-09T10:51:59.777372+00:00"
+    "referenced_files": 782,
+    "existing_media_files": 781,
+    "total_size_mb": 496.07,
+    "last_calculation": "2026-09-09T12:01:48.235561+00:00"
   }
 }
