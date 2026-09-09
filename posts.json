@@ -11142,6 +11142,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3422,
+        "text": "آپدیت جدید اسنپ برای استان گیلان\n@TweetPublic\n✔️",
+        "date": "2026-09-09T14:06:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3422_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3422_1_c8e8917a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3422"
+      },
+      {
         "id": 3420,
         "text": "تصاویر فوق العاده ای از رعدوبرق های شب گذشته در تهران و رشت\n🤖\nدریافت شده توسط\n@instaRoxinoBot",
         "date": "2026-09-09T11:46:46+00:00",
@@ -12969,41 +12988,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3294"
-      },
-      {
-        "id": 3293,
-        "text": "=من مطمئنم درآمدم بشه ماهی100 میلیون،\nخرجم می‌شه ماهی 101 میلیون؛\nباز آخر ماه به گوه خوردن می‌افتم.\n@TweetPublic\n✔️",
-        "date": "2026-09-02T11:40:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3293_0_a39a6752.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3293"
       }
     ]
   },
-  "last_update": "2026-09-09T12:01:48.226091+00:00",
+  "last_update": "2026-09-09T16:02:22.532334+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 782,
-    "total_files": 782,
+    "total_media": 783,
+    "total_files": 783,
     "total_links": 172,
     "files_by_type": {
-      "image": 688,
+      "image": 689,
       "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 782,
-    "existing_media_files": 781,
-    "total_size_mb": 496.07,
-    "last_calculation": "2026-09-09T12:01:48.235561+00:00"
+    "referenced_files": 783,
+    "existing_media_files": 782,
+    "total_size_mb": 496.12,
+    "last_calculation": "2026-09-09T16:02:22.541839+00:00"
   }
 }
