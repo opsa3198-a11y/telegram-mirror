@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3438,
+        "text": "احتمالا منظورشون 900 هزارتومن بوده\n@TweetPublic\n✔️",
+        "date": "2026-09-09T23:35:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3438_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3438_1_74ae93d0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3438"
+      },
+      {
+        "id": 3437,
+        "text": "لالیگا اسپانیا\n🇪🇸\nچند کیلومتر فاصله؛ ۹۰ دقیقه دشمنی\n🔥\nاسم رئال خیلی بزرگ‌تره، ولی جلوی رایو این بازی هیچ‌وقت فقط درباره اسم‌ها نیست.\nرایو اگه بتونه بازی رو درگیر و پرسرعت کنه، رئال باید برای تک‌تک توپ‌ها بجنگه.\n🔥\nدربی مادرید؛ این بار شهر دست کی می‌افته؟",
+        "date": "2026-09-09T23:35:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3437_0_0b32e2d9.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3437_1_a3f5df9b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3437"
+      },
+      {
         "id": 3436,
         "text": "خرجم داره دخلمو میاره\n💬\nVØID\n@TweetPublic\n✔️",
         "date": "2026-09-09T21:30:43+00:00",
@@ -12956,48 +12994,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3308"
-      },
-      {
-        "id": 3306,
-        "text": "طرف چون نمره خوب گرفته کادو زن گرفتن براش\n😐\n😐\nودف ؟؟؟\n@TweetPublic\n✔️",
-        "date": "2026-09-03T11:27:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3306_0_48b041e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3306_1_242f1cbc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3306"
-      },
-      {
-        "id": 3305,
-        "text": "لیگ برتر انگلیس\n🇬🇧\nلیورپول اسم بزرگ این بازیه،\nولی ایپسویچ از اون تیم‌هایی نیست که فقط برای عکس یادگاری بیاد زمین\n👌🏻\nاینجا یا قرمزها از همون اول کار رو می‌بندن،\nیا بازی میره سمتی که همه مجبور می‌شن جدی‌تر نگاش کنن.\n🔥\n⏰\n13 شهریور | ۲۲:30",
-        "date": "2026-09-03T11:26:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3305_0_48b041e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3305_1_25450f96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3305"
       }
     ]
   },
-  "last_update": "2026-09-09T22:03:16.209037+00:00",
+  "last_update": "2026-09-10T00:21:40.620757+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13013,7 +13013,7 @@
     },
     "referenced_files": 785,
     "existing_media_files": 784,
-    "total_size_mb": 489.1,
-    "last_calculation": "2026-09-09T22:03:16.217094+00:00"
+    "total_size_mb": 489.08,
+    "last_calculation": "2026-09-10T00:21:40.630484+00:00"
   }
 }
