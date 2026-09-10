@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3454,
+        "text": "یدونه امیرعلی پیدا میکردی دردش کمتر بود\n@TweetPublic\n✔️",
+        "date": "2026-09-10T20:17:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3454_0_078f329c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3454_1_05307e6b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3454"
+      },
+      {
         "id": 3453,
         "text": "من در حال خوردن خانومی وقتی بیش از حد ناز شده و دیگه نمیدونم چطوری بهش ابراز علاقه کنم:\n@TweetPublic\n✔️",
         "date": "2026-09-10T19:19:51+00:00",
@@ -12977,41 +12996,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3326"
-      },
-      {
-        "id": 3325,
-        "text": "مديريت پول من اينجوريه كه ميرينم تو كل پولام بعد اون ته موندشو مديريت ميكنم\n@TweetPublic\n✔️",
-        "date": "2026-09-04T21:55:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3325_0_3ace08ab.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3325"
       }
     ]
   },
-  "last_update": "2026-09-10T19:52:32.365173+00:00",
+  "last_update": "2026-09-10T20:29:58.234620+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 783,
-    "total_files": 783,
+    "total_media": 784,
+    "total_files": 784,
     "total_links": 173,
     "files_by_type": {
       "image": 691,
-      "video": 87,
+      "video": 88,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 783,
-    "existing_media_files": 782,
-    "total_size_mb": 483.6,
-    "last_calculation": "2026-09-10T19:52:32.372116+00:00"
+    "referenced_files": 784,
+    "existing_media_files": 783,
+    "total_size_mb": 484.77,
+    "last_calculation": "2026-09-10T20:29:58.241613+00:00"
   }
 }
