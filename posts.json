@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3439,
+        "text": "🔴\nویدیو وایرال شده از یه بانک که تو اون خانمی که کارمند بانک بوده از پشت باجه بلند شده و به خانمی که حجاب نداره میگه:\nاینجا هیچ خدماتی به تو نمیدیدم اینجا وظایف با منه و میگم باید حجاب داشته باشی...\n@TweetPublic\n✔️",
+        "date": "2026-09-10T07:54:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3439_0_078f329c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3439_1_fdf0b23e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3439"
+      },
+      {
         "id": 3438,
         "text": "احتمالا منظورشون 900 هزارتومن بوده\n@TweetPublic\n✔️",
         "date": "2026-09-09T23:35:54+00:00",
@@ -12979,41 +12998,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3310"
-      },
-      {
-        "id": 3308,
-        "text": "کاش یه NPC ساده تو بازی GTA 6 بودم.\nباور کنید خیلی بهتر از تو ایران زندگی کردنه.\n@TweetPublic\n✔️",
-        "date": "2026-09-03T14:49:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3308_0_48b041e2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3308"
       }
     ]
   },
-  "last_update": "2026-09-10T06:44:41.213914+00:00",
+  "last_update": "2026-09-10T09:18:31.180900+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 786,
+    "total_files": 786,
     "total_links": 172,
     "files_by_type": {
       "image": 691,
-      "video": 89,
+      "video": 90,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 489.08,
-    "last_calculation": "2026-09-10T06:44:41.223246+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 491.12,
+    "last_calculation": "2026-09-10T09:18:31.190485+00:00"
   }
 }
