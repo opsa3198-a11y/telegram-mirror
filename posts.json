@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3465,
+        "text": "@TweetPublic\n✔️",
+        "date": "2026-09-11T11:19:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3465_0_2e11603f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3465_1_2cf784ef.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3465"
+      },
+      {
+        "id": 3464,
+        "text": "لالیگا اسپانیا\n🇪🇸\nاین دقیقاً همون بازییه که بارسا نباید شل بگیره\n👀\nروی کاغذ انتخاب خیلی‌ها مشخصه؛ بارسلونا.\nولی دردسر از جایی شروع میشه که لوانته چند دقیقه اول رو سالم رد کنه و بفهمه واقعاً می‌تونه اذیتشون کنه.\n👀\n🔵\n🔴\nلوانته × بارسلونا\n⏰\n۲۲ شهریور | ۱۷:۴۵\nبارسا زود کارو درمیاره یا لوانته بازی رو کثیف و سخت می‌کنه?",
+        "date": "2026-09-11T11:16:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3464_0_2e11603f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3464_1_6ae8239e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3464"
+      },
+      {
         "id": 3460,
         "text": "🔴\n25 سال پیش تو صبحِ 11 سپتامبر، مرگبارترین حمله تروریستی تاريخ رخ داد؛\nجایی که 19 هواپیما رُبا از اعضای القاعده (15 نفرشون تبعه عربستان\n🇸🇦\n، و 4 نفر دیگه از امارات\n🇦🇪\n، مصر\n🇪🇬\nو لبنان\n🇱🇧\n) به رهبری اسامه بن‌لادن، 4 هواپیمای مسافربری آمریکا رو دزدیدن!\nدو هواپیما به برج‌های دوقلو که مرکز تجارت جهانی تو نیویورک بود، خوردن و هر دو برج به طور کامل ریختن.\nهواپیمای سوم به پنتاگون (وزارت دفاع آمریکا) برخورد کرد.\nهواپیمای چهارم، بعد درگیری مسافران با تروریست‌ها، تو پنسیلوانیا سقوط کرد و همگی کشته شدن.\nبعد این حملات، مسیر سیاست جهانی به شدت تغییر کرد و مستقیماً به آغاز «جنگ علیه تروریسم» آمریکا و جنگ افغانستان\n🇦🇫\nمنجر شد.\nدر\nمجموع اون روز 2,977 قربانی (بدون احتساب 19 هواپیماربا) کشته شدن که این شامل 415 نفر از نیروهای امدادی هم میشه...\n@TweetPublic\n✔️",
         "date": "2026-09-11T09:00:38+00:00",
@@ -12966,60 +13004,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3335"
-      },
-      {
-        "id": 3334,
-        "text": "وقتی بعد از مرگ\nاز ایرانی ها میپرسن زندگی چطور بود:\n@TweetPublic\n✔️",
-        "date": "2026-09-05T13:14:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3334_0_50e63646.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3334_1_f7b256ce.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3334"
-      },
-      {
-        "id": 3333,
-        "text": "شما به یه پسر ۵ ثانیه بیشتر زل بزنی\n‏میری توی لیست دخترایی که بهش پا دادن\n@TweetPublic\n✔️",
-        "date": "2026-09-05T11:58:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3333_0_50e63646.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3333"
       }
     ]
   },
-  "last_update": "2026-09-11T10:44:07.864511+00:00",
+  "last_update": "2026-09-11T13:40:33.120102+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 786,
+    "total_files": 786,
     "total_links": 173,
     "files_by_type": {
-      "image": 689,
-      "video": 91,
+      "image": 691,
+      "video": 90,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 493.92,
-    "last_calculation": "2026-09-11T10:44:07.874449+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 487.59,
+    "last_calculation": "2026-09-11T13:40:33.130164+00:00"
   }
 }
