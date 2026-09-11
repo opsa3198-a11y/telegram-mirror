@@ -11128,6 +11128,33 @@
     ],
     "TweetPublic": [
       {
+        "id": 3466,
+        "text": "⭕️\nاستوری های علی کریمی\n@TweetPublic\n✔️",
+        "date": "2026-09-11T14:37:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3466_0_2e11603f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3466_1_74abded7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3466_2_1b0d901c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3466_3_d9f4f036.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3466"
+      },
+      {
         "id": 3465,
         "text": "@TweetPublic\n✔️",
         "date": "2026-09-11T11:19:10+00:00",
@@ -12973,57 +13000,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3339"
-      },
-      {
-        "id": 3335,
-        "text": "🔴\nقتلی که کلِ پیرانشهر رو شوکه کرده؛\nچند وقت پیش یه دختر 27 ساله به نام \"نیلوفر مجاور\" با یه مرد 41 ساله به نام \"سید عزت‌الدین سیدطاهری\" آشنا میشه.\nبعد حدود یک ماه دوستی و ارتباط تلفنی، عزت‌الدین اون دختر رو با وعده‌هایی مثل ازدواج و... راضی می‌کنه که به خونه‌اش تو اطراف پیرانشهر بره.\nاونجا فعلا دقیقا معلوم نیست بینشون چی گذشته ولی نيلوفر میخواسته که برگرده خونه پدرش اما عزت‌الدین اجازه نداده و حبسش کرده.\nتو اون 10-12 روز، نیلوفر به شدت تحت شکنجه، تجاوز و بی‌آب و غذایی بوده‌.\nعزتِ حرومزاده این دختر رو به یه درمانگاه تحویل میده و میگه تصادف کردیم و بعد خودش یواشکی فرار می‌کنه (تو مرز بانه موقع خروج از کشور دستگیر شده).\nنیلوفر\nهم بخاطر ضربات سنگینی که به سرش وارد شده بود، دچار مرگ مغزی شد و نهایتا خانواده‌اش اعضای بدن دخترشون رو اهدا کردن...\n@TweetPublic\n✔️",
-        "date": "2026-09-05T15:09:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3335_0_50e63646.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3335_1_d4c7a2ac.mp4"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3335_2_ad2bdb05.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3335_3_336f03ec.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3335_4_3faefa63.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3335"
       }
     ]
   },
-  "last_update": "2026-09-11T13:40:33.120102+00:00",
+  "last_update": "2026-09-11T15:59:12.606315+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 786,
-    "total_files": 786,
+    "total_media": 785,
+    "total_files": 785,
     "total_links": 173,
     "files_by_type": {
       "image": 691,
-      "video": 90,
+      "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 786,
-    "existing_media_files": 785,
-    "total_size_mb": 487.59,
-    "last_calculation": "2026-09-11T13:40:33.130164+00:00"
+    "referenced_files": 785,
+    "existing_media_files": 784,
+    "total_size_mb": 480.1,
+    "last_calculation": "2026-09-11T15:59:12.615895+00:00"
   }
 }
