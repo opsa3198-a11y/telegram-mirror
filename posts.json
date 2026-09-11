@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3472,
+        "text": "خوشبحالتون پاسپورت تهران دارید و میتونید به 180 کشور بدون ویزا سفر کنید\n😍\n✌🏻\n@TweetPublic\n✔️",
+        "date": "2026-09-11T20:24:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3472_0_2e11603f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3472_1_65affffa.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3472"
+      },
+      {
         "id": 3471,
         "text": "بنده و کار:\n@TweetPublic\n✔️",
         "date": "2026-09-11T19:20:47+00:00",
@@ -12985,29 +13004,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3343"
-      },
-      {
-        "id": 3342,
-        "text": "🔴\nتوییت جدید اون دختره که بخاطر گرون شدن کفش کوه‌نوردیِ مدنظرش گریه کرده بود :\n\"خریدمش\nمبارکم باشه\nلعنت به اینترنشنال و مسیح علینژاد که همچی رو بزرگش میکنن و باعث بدبختی مردم میشن.\"\n+ ویدیو قبلی رو هم از صفحه خودش پاک کرد.\n@TweetPublic\n✔️",
-        "date": "2026-09-05T19:35:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3342_0_50e63646.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3342_1_253235fb.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3342"
       }
     ]
   },
-  "last_update": "2026-09-11T19:53:38.884552+00:00",
+  "last_update": "2026-09-11T20:34:34.544902+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13024,6 +13024,6 @@
     "referenced_files": 786,
     "existing_media_files": 785,
     "total_size_mb": 476.87,
-    "last_calculation": "2026-09-11T19:53:38.892001+00:00"
+    "last_calculation": "2026-09-11T20:34:34.554451+00:00"
   }
 }
