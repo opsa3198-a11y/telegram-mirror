@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3480,
+        "text": "طوری که با شیائومیم نشستم یه گوشه و دارم دعوای طرفداران اپل و سامسونگ رو میخونم:\n@TweetPublic\n✔️",
+        "date": "2026-09-12T14:38:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3480_0_6d3b26fe.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3480_1_9ae5d5d9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3480"
+      },
+      {
         "id": 3479,
         "text": "وقتی میخوای لپشو بوس کنی یهو برمیگرده سمتت :\n@TweetPublic\n✔️",
         "date": "2026-09-12T11:32:22+00:00",
@@ -12992,41 +13011,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3352"
-      },
-      {
-        "id": 3351,
-        "text": "🔴\nیک عضو کادر درمان تو تهران : دیروز ی مادری، دختر 6 سالش رو آورده بود واکسن بزنه، همون موقع گفت بچم اطراف مقعدش جوش دراورده، گفتیم باید معاینه بشه وقتی معاینه کردیم متوجه شدیم دختر 6 ساله به hpv(زگیل تناسلی) مبتلا شده، از پدر و مادرش آزمایش گرفتیم که هر دو منفی بود، وقتی پرسیدیم بچه رو پیش کی تنهایی میره؟ گفتن روزا که ما میریم سرکار، تا عصر پیش عموی مجردشه، وقتی میرن سراغ عموه و گوشیشو بررسی میکنن میبینن هر روز به این بچه تجاوز میکرده و فیلم‌ میگرفته و بچه رو تهدید کرده بوده که به کسی نگه.\n@TweetPublic\n✔️",
-        "date": "2026-09-06T09:42:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3351_0_b3c372ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3351"
       }
     ]
   },
-  "last_update": "2026-09-12T12:28:05.998387+00:00",
+  "last_update": "2026-09-12T15:07:44.341894+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 784,
-    "total_files": 784,
+    "total_media": 785,
+    "total_files": 785,
     "total_links": 175,
     "files_by_type": {
       "image": 690,
-      "video": 89,
+      "video": 90,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 784,
-    "existing_media_files": 783,
-    "total_size_mb": 470.91,
-    "last_calculation": "2026-09-12T12:28:06.003822+00:00"
+    "referenced_files": 785,
+    "existing_media_files": 784,
+    "total_size_mb": 471.08,
+    "last_calculation": "2026-09-12T15:07:44.352044+00:00"
   }
 }
