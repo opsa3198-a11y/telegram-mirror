@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3481,
+        "text": "🔴\nبالای 80 درصد پسرای مملکت این صحنه رو دیدن؛\nالبته من درباره ماشین صحبت نمیکنم.\n@TweetPublic\n✔️",
+        "date": "2026-09-12T17:13:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3481_0_6d3b26fe.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3481_1_8c8f8e81.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3481"
+      },
+      {
         "id": 3480,
         "text": "طوری که با شیائومیم نشستم یه گوشه و دارم دعوای طرفداران اپل و سامسونگ رو میخونم:\n@TweetPublic\n✔️",
         "date": "2026-09-12T14:38:32+00:00",
@@ -12996,41 +13015,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3353"
-      },
-      {
-        "id": 3352,
-        "text": "🔴\nامید عالیشاه : من به خداداد عزیزی نگفتم بیناموس، فقط گفتم کارت ملیت رو نشون بده و ثابت کن افغانی نیستی.\n@TweetPublic\n✔️",
-        "date": "2026-09-06T10:02:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3352_0_b3c372ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3352"
       }
     ]
   },
-  "last_update": "2026-09-12T15:42:04.011228+00:00",
+  "last_update": "2026-09-12T17:56:12.817701+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 786,
+    "total_files": 786,
     "total_links": 175,
     "files_by_type": {
       "image": 690,
-      "video": 90,
+      "video": 91,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 471.08,
-    "last_calculation": "2026-09-12T15:42:04.021058+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 474.18,
+    "last_calculation": "2026-09-12T17:56:12.827085+00:00"
   }
 }
