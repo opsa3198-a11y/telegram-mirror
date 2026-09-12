@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3474,
+        "text": "لیگ برتر انگلیس\n🇬🇧\nاگه دنبال بازی آرومی، این بازی برای تو نیست!\n👀\n🔥\nنیوکاسل می‌خواد از همون اول فشار بیاره؛\nلیدز هم اهل این نیست که فقط وایسه و نگاه کنه.\nاول کدوم تیم بازی رو به آتیش می‌کشه؟\n💥",
+        "date": "2026-09-11T23:23:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3474_0_2e11603f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3474_1_789eb654.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3474"
+      },
+      {
+        "id": 3473,
+        "text": "یازده سال پیش که برای اولین بار سریال فرار از زندان رو دیدم لینلوکن داداشِ مایکل نود هزار دلار بدهکار بود که با پول ایران نود میلیون تومن میشد. الان که دوباره دارم سریالو می‌بینم، بنده خدا 21 میلیارد بدهکاره\n@TweetPublic\n✔️",
+        "date": "2026-09-11T23:00:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3473_0_2e11603f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3473"
+      },
+      {
         "id": 3472,
         "text": "خوشبحالتون پاسپورت تهران دارید و میتونید به 180 کشور بدون ویزا سفر کنید\n😍\n✌🏻\n@TweetPublic\n✔️",
         "date": "2026-09-11T20:24:33+00:00",
@@ -12966,64 +13000,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3345"
-      },
-      {
-        "id": 3344,
-        "text": "لالیگا اسپانیا\n🇪🇸\nاین بازی می‌تونه خیلی بیشتر از چیزی که فکر می‌کنی کش پیدا کنه\n🔥\nسوسیداد اگه از همون اول ریتم بازی رو بگیره، می‌تونه الچه رو عقب نگه داره؛ ولی هرچی گل اول دیرتر بیاد، اعتمادبه‌نفس الچه بیشتر میشه و فشار برمی‌گرده سمت میزبان.\n👀\n⚽️\n⏰\n۱۶ شهریور | ۲۳:۰۰",
-        "date": "2026-09-05T23:35:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3344_0_50e63646.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3344_1_b7fc899b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3344"
-      },
-      {
-        "id": 3343,
-        "text": "🚨\n🇮🇷\nخداداد عزیزی (سرپرست تراکتور) بعد بازی امروز، رفته بود جلوی رختکن گل‌گهر و اینجوری عالیشاه رو تهدید می‌کرد :\nبالأخره از این در میاد بیرون دیگه؟\nبه من گفته بیناموس ، من ننه اونو نگام تخم بابام نیستم!\nصدات رو واسه من می‌بری بالا؟ کیرم تو اون پاهای پرانتزیت!\nکسکش تو فوتبالیستی الان؟ کجا بازی کردی کسکش آخه؟ یه بازی ملی داری که صداتو می‌بری بالا؟\nریدم تو این فوتبال، کسکش پا پرانتزی، کیرم تو کص ننت!\n+ به شدت هندزفری لازم\n🔞\n@TweetPublic\n✔️",
-        "date": "2026-09-05T22:34:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3343_0_50e63646.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3343_1_b06239ae.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3343"
       }
     ]
   },
-  "last_update": "2026-09-11T22:03:43.361112+00:00",
+  "last_update": "2026-09-12T00:24:20.779258+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 786,
-    "total_files": 786,
+    "total_media": 785,
+    "total_files": 785,
     "total_links": 173,
     "files_by_type": {
       "image": 691,
-      "video": 90,
+      "video": 89,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 786,
-    "existing_media_files": 785,
-    "total_size_mb": 476.87,
-    "last_calculation": "2026-09-11T22:03:43.368955+00:00"
+    "referenced_files": 785,
+    "existing_media_files": 784,
+    "total_size_mb": 470.96,
+    "last_calculation": "2026-09-12T00:24:20.789367+00:00"
   }
 }
