@@ -11128,6 +11128,50 @@
     ],
     "TweetPublic": [
       {
+        "id": 3487,
+        "text": "🔴\nپزشکیان:\nایران تسلیم نمیشه .\nاگه آمریکا جنگ میخواد ، بسم الله\n@TweetPublic\n✔️",
+        "date": "2026-09-12T23:18:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3487_0_6d3b26fe.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3487_1_5d4820ee.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3487"
+      },
+      {
+        "id": 3486,
+        "text": "🎖️\nاگ اهل شرط بندی و زیاد باختی عضو کانال عمو بت باز شو\n✔️\n✅\nچون تنها کانالی ک تبانی و نتیجه دقیق قرار میده و میتونی هر روز سود کنی\n😍\n💖\nبهترین کانال شرط بندی ایران از دست نده چون انالیزاش حرف نداره\n💖\n✅\nبا متخصص این کار همراه شو و‌هر روز درامد دلاری داشته باش\n💖\nامار سود دهی روزانش چک کن  پشمات میریزه\n🙋\nادرس عضویت کانالشون:21A\n👇\nhttps://t.me/+GxCbw5fUdhg5MmFk\nhttps://t.me/+GxCbw5fUdhg5MmFk",
+        "date": "2026-09-12T23:17:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3486_0_6d3b26fe.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3486_1_26c4b313.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+GxCbw5fUdhg5MmFk",
+            "type": "telegram",
+            "display_text": "https://t.me/+GxCbw5fUdhg5MmFk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3486"
+      },
+      {
         "id": 3485,
         "text": "اتحادیه موبایل :\nمردم به هیچ عنوان برای خرید موبایل عجله نکنن چون قراره خیلی قیمت موبایل بیاد پایین.\n@TweetPublic\n✔️",
         "date": "2026-09-12T20:47:32+00:00",
@@ -12992,64 +13036,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3361"
-      },
-      {
-        "id": 3360,
-        "text": "دونالد ترامپ: ماه متعلق به ماست!\n@TweetPublic\n✔️",
-        "date": "2026-09-06T18:13:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3360_0_b3c372ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3360_1_eb425a0b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3360"
-      },
-      {
-        "id": 3359,
-        "text": "لیگ قهرمانان اروپا\n🇪🇺\nسیتی توپ رو می‌خواد؛ پورتو بازی رو\n🎯\nمنچسترسیتی احتمالاً می‌خواد از همون اول مالکیت و ریتم رو بگیره، ولی پورتو از اون تیم‌هاست که تو شب‌های اروپایی فقط منتظر یه لحظه‌ست تا ضربه بزنه.\n⚽️\n🔥\nهرچی بازی بدون گل بیشتر جلو بره، فشار روی سیتی بیشتر میشه.\nکنترل سیتی جواب میده یا پورتو بازی رو می‌دزده؟",
-        "date": "2026-09-06T18:03:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3359_0_b3c372ea.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3359_1_b6461ccf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3359"
       }
     ]
   },
-  "last_update": "2026-09-12T21:45:55.889590+00:00",
+  "last_update": "2026-09-12T23:30:09.278140+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
     "total_media": 787,
     "total_files": 787,
-    "total_links": 177,
+    "total_links": 178,
     "files_by_type": {
-      "image": 692,
-      "video": 90,
+      "image": 691,
+      "video": 91,
       "file": 3,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 787,
     "existing_media_files": 786,
-    "total_size_mb": 467.04,
-    "last_calculation": "2026-09-12T21:45:55.899324+00:00"
+    "total_size_mb": 470.73,
+    "last_calculation": "2026-09-12T23:30:09.287700+00:00"
   }
 }
