@@ -11128,6 +11128,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3490,
+        "text": "🥇\nدنبال سایت معتبر و بین المللی برای شرط بندی می گردی\n⁉️\n🔥\nکمپانی بین المللی\nWe pari\nهمون انتخاب\n🔥\n👑\nسایتی برای حرفه ای ها\n👑\n🎁\nاولین واریز توی وی پاری 2 برابر شارژ میشی\n💖\n🔔\nچرا این روزا همه وی پاری انتخاب میکنند\n⚠️\n💖\nشارژ امن از طریق کارت بانکی،ارزدیجیتال،ووچر\n💖\nتسویه حساب سریع و بدون احراز\n💖\nدارای مجوز رسمی Anjuan و curacao\n😃\n😃\n😃\n😃\n👑\nکد هدیه ثبت نام:GG007\n👑\nادرس سایت:\nhttp://til.ac/z5jcpGT\n😢\nسرور فیلترشکن روی کشور مناسب قرار دهید مانند:المان،کانادا،کشورهای اسیایی\n👑\nدانلود اپلیکیشن اندروید\n➡️\n🔥\nکانال اطلاع رسانی ایران:22R\n👇\nhttps://t.me/+yt7nQiufvRs5MDU0",
+        "date": "2026-09-13T11:38:57+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3490_0_f99ab305.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3490_1_4a511ec7.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "http://til.ac/z5jcpGT",
+            "type": "external",
+            "display_text": "http://til.ac/z5jcpGT"
+          },
+          {
+            "url": "https://t.me/+yt7nQiufvRs5MDU0",
+            "type": "telegram",
+            "display_text": "https://t.me/+yt7nQiufvRs5MDU0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3490"
+      },
+      {
         "id": 3489,
         "text": "🔴\nتو تهران مرده اومد تو بانک نوبتشو داد به دختره تا دختره کارش سریع تر انجام بشه حالا دختره برنده ی جایزه ی بانک شده:\nبنده خدا تا عمر داره دیگه خوبی نمیکنه.\n@TweetPublic\n✔️",
         "date": "2026-09-13T11:07:26+00:00",
@@ -13013,53 +13043,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3367"
-      },
-      {
-        "id": 3364,
-        "text": "دیشب ۲۰۰ نفر از مردم سمنان به خوابگاه دانشجویان عراقی ساکن در این شهر حمله کردن و حسابی کتکشون زدن که چند روایت از علت این ماجرا وجود داره.\nرسانه های عراقی میگن چون ایرانی ها فکر کردن اینا نیروهای حشدالشعبی هستن حمله کردن بهشون و کتکشون زدن و گوشی هاشونم بردن.\nرسانه های محلی میگن چون یه دختر ایرانی رو به زور بردن داخل تا بهش تجـاوز کنن مردم فهمیدن و ریختن سرشون.\nدرنهایت پلیس دخالت میکنه و ایرانی ها رو متفرق میکنه.\n@TweetPublic\n✔️",
-        "date": "2026-09-07T07:22:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3364_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3364_1_5820c6c2.mp4"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3364_2_5ba6d15a.mp4"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3364_3_2fc52331.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3364"
       }
     ]
   },
-  "last_update": "2026-09-13T11:12:43.105929+00:00",
+  "last_update": "2026-09-13T12:08:48.873457+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 788,
-    "total_files": 788,
-    "total_links": 178,
+    "total_media": 786,
+    "total_files": 786,
+    "total_links": 180,
     "files_by_type": {
-      "image": 692,
-      "video": 91,
+      "image": 693,
+      "video": 88,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 788,
-    "existing_media_files": 787,
-    "total_size_mb": 469.88,
-    "last_calculation": "2026-09-13T11:12:43.113144+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 462.16,
+    "last_calculation": "2026-09-13T12:08:48.880043+00:00"
   }
 }
