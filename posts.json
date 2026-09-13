@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3496,
+        "text": "یه بار دستم خورد اشتباهی تو عابربانک انگلیسی رو انتخاب کردم. پشتم ۱۰ نفر تو صف بودن واس اینکه شک نکنن هی میگفتم فاک فاک\n@TweetPublic\n✔️",
+        "date": "2026-09-13T18:54:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3496_0_f99ab305.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3496"
+      },
+      {
         "id": 3495,
         "text": "🔥\nشرط بندی با سایت بین المللی تجربه کنید\n🔥\n🥇\nسایت شماره یک اروپا حالا در ایران\n🥇\n😀\n😃\n😄\n😁\n🎁\nواریز اول\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز دوم\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز سوم\n💖\n75% بونوس هدیه\n🎁\nواریز چهارم\n💖\n50% بونوس هدیه\n💌\nکد هدیه ثبت نام: GG007\nادرس سایت:\n🤔\nhttp://til.ac/z5jcpGT\n💎\nکانال اطلاع رسانی ایران22g:\n✉️\nhttps://t.me/+yt7nQiufvRs5MDU0",
         "date": "2026-09-13T18:47:41+00:00",
@@ -13031,45 +13046,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3375"
-      },
-      {
-        "id": 3374,
-        "text": "صحبت های علی دایی در واکنش به دعوای عالیشاه و خداداد عزیزی\n🤣\n@TweetPublic\n✔️",
-        "date": "2026-09-07T10:55:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3374_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "TweetPublic_3374_1_ef87e0ab.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3374"
       }
     ]
   },
-  "last_update": "2026-09-13T18:52:57.474039+00:00",
+  "last_update": "2026-09-13T20:25:09.573764+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 784,
+    "total_files": 784,
     "total_links": 182,
     "files_by_type": {
       "image": 692,
       "video": 88,
       "file": 3,
-      "document": 1,
-      "audio": 1
+      "document": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 455.41,
-    "last_calculation": "2026-09-13T18:52:57.483673+00:00"
+    "referenced_files": 784,
+    "existing_media_files": 783,
+    "total_size_mb": 454.71,
+    "last_calculation": "2026-09-13T20:25:09.583011+00:00"
   }
 }
