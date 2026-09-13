@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3489,
+        "text": "🔴\nتو تهران مرده اومد تو بانک نوبتشو داد به دختره تا دختره کارش سریع تر انجام بشه حالا دختره برنده ی جایزه ی بانک شده:\nبنده خدا تا عمر داره دیگه خوبی نمیکنه.\n@TweetPublic\n✔️",
+        "date": "2026-09-13T11:07:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3489_0_f99ab305.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3489_1_c9e6da00.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3489"
+      },
+      {
+        "id": 3488,
+        "text": "دستشویی مورد علاقه بنده:\n@TweetPublic\n✔️",
+        "date": "2026-09-13T10:06:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3488_0_f99ab305.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3488_1_de3f6d9b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3488"
+      },
+      {
         "id": 3487,
         "text": "🔴\nپزشکیان:\nایران تسلیم نمیشه .\nاگه آمریکا جنگ میخواد ، بسم الله\n@TweetPublic\n✔️",
         "date": "2026-09-12T23:18:13+00:00",
@@ -13002,60 +13040,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3364"
-      },
-      {
-        "id": 3363,
-        "text": "⏺\nمتاسفانه امروز یه جوون توی همدان بخاطر مشکلات مملکت خودشو آتیش زد و زنده زنده سوخت! مامورا برای اینکه خودکشی نکنه، کتکش میزدن! حاوی تصاویر به شدت دلخراش، اگه بیماری قلبی داری باز نکن.  @TweetPublic\n✔️",
-        "date": "2026-09-06T22:19:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3363_0_b3c372ea.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3363"
-      },
-      {
-        "id": 3361,
-        "text": "⏺\nمتاسفانه امروز یه جوون توی همدان بخاطر مشکلات مملکت خودشو آتیش زد و زنده زنده سوخت!\nمامورا برای اینکه خودکشی نکنه، کتکش میزدن!\nحاوی تصاویر به شدت دلخراش، اگه بیماری قلبی داری باز نکن.\n@TweetPublic\n✔️",
-        "date": "2026-09-06T20:04:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3361_0_b3c372ea.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3361_1_17a8502b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3361"
       }
     ]
   },
-  "last_update": "2026-09-13T06:52:15.531347+00:00",
+  "last_update": "2026-09-13T11:12:43.105929+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 787,
-    "total_files": 787,
+    "total_media": 788,
+    "total_files": 788,
     "total_links": 178,
     "files_by_type": {
-      "image": 691,
+      "image": 692,
       "video": 91,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 787,
-    "existing_media_files": 786,
-    "total_size_mb": 470.73,
-    "last_calculation": "2026-09-13T06:52:15.536748+00:00"
+    "referenced_files": 788,
+    "existing_media_files": 787,
+    "total_size_mb": 469.88,
+    "last_calculation": "2026-09-13T11:12:43.113144+00:00"
   }
 }
