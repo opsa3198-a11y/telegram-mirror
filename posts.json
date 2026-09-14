@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3503,
+        "text": "🔴\nپزشکیان: مبلغ کالابرگ رو زیاد میکنیم تا عشق کنید\n@TweetPublic\n✔️",
+        "date": "2026-09-14T11:24:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3503_0_210de889.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3503"
+      },
+      {
+        "id": 3502,
+        "text": "🔴\nتو تورنتو کلاب‌های لایف‌استایلی وجود داره که اتاق پلی با تخت و مبل دارن.\nتو اون اتاقا زوج‌ها می‌تونن سکس کنن و بقیه تماشا کنن و خودارضایی بکنن، همه هم با رضایت و قوانین مشخص، نظرات شرکت‌کننده‌ها هم معمولاً مثبته.\n@TweetPublic\n✔️",
+        "date": "2026-09-14T10:33:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3502_0_210de889.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3502_1_638b02c0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3502"
+      },
+      {
         "id": 3501,
         "text": "تحقیقات روی شش هزار پرونده طلاق نشون داده که «خانواده دخالت‌گر» توی ایران عامل اول طلاقه\n@TweetPublic\n✔️",
         "date": "2026-09-13T22:58:02+00:00",
@@ -13018,63 +13052,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3384"
-      },
-      {
-        "id": 3383,
-        "text": "لیگ قهرمانان اروپا\n🇪🇺\n«آنفیلد یا جنگ اعصاب؟\n🇬🇧\n🔥\nلیورپول می‌خواد بازی رو با فشار و ریتم خودش خفه کنه،\nاتلتیکو هم از اون تیم‌هاست که فقط منتظر یه اشتباهه تا کل سناریو رو عوض کنه.\n👀\n🔥\nتو فکر می‌کنی فشار آنفیلد جواب می‌ده یا صبر اتلتیکو؟",
-        "date": "2026-09-07T17:27:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3383_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3383_1_26810e42.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3383"
-      },
-      {
-        "id": 3382,
-        "text": "خداداد عزیزی 4 ماه محروم شد\n🔹️\nامید عالیشاه هم 4 جلسه محرومه\n@TweetPublic\n✔️",
-        "date": "2026-09-07T16:58:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3382_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3382_1_7fa2b6c2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3382"
       }
     ]
   },
-  "last_update": "2026-09-14T07:16:45.452104+00:00",
+  "last_update": "2026-09-14T11:59:48.864063+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 784,
+    "total_files": 784,
     "total_links": 183,
     "files_by_type": {
-      "image": 692,
+      "image": 691,
       "video": 89,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 458.56,
-    "last_calculation": "2026-09-14T07:16:45.461445+00:00"
+    "referenced_files": 784,
+    "existing_media_files": 783,
+    "total_size_mb": 458.36,
+    "last_calculation": "2026-09-14T11:59:48.872119+00:00"
   }
 }
