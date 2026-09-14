@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3512,
+        "text": "ماه تولدت با کدام رهبر ایرانی یکی بوده؟!\nفروردین:\nاردشیر بابکان\nاردیبهشت:\nداریوش بزرگ\nخرداد:\nخشایارشا\nتیر:\nسید علی خامنه‌ای\nمرداد:\nانوشیروان دادگر\nشهریور:\nکوروش بزرگ\nمهر:\nنادرشاه افشار\nآبان:\nمحمدرضا شاه پهلوی\nآذر:\nشاه عباس بزرگ\nدی:\nکریم خان زند\nبهمن:\nبهرام گور\nاسفند:\nرضا شاه بزرگ\n@TweetPublic\n✔️",
+        "date": "2026-09-14T20:51:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3512_0_210de889.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3512"
+      },
+      {
         "id": 3511,
         "text": "🔴\nموی فرفریِ هنوز سالم‌مانده‌ی یک ملکه مصری که 3500 سال پیش در 60 سالگی مرده!\n@TweetPublic\n✔️",
         "date": "2026-09-14T18:27:24+00:00",
@@ -13064,44 +13079,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3390"
-      },
-      {
-        "id": 3389,
-        "text": "لیگ قهرمانان اروپا\n🇪🇺\nناپولی می‌خواد بازی رو بهم بریزه؛ آرسنال می‌خواد کنترلش کنه\n🎯\nناپولی وقتی تو خونه ریتم بگیره، بازی رو سریع و احساسی می‌کنه.\nآرسنال هم دقیقاً دنبال اینه که توپ و ضربان بازی رو دست خودش نگه داره.\n👀\n⚽️\nفشار ناپل جواب می‌ده یا نظم آرسنال؟",
-        "date": "2026-09-07T22:41:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3389_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3389_1_c0484ee2.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3389"
       }
     ]
   },
-  "last_update": "2026-09-14T18:46:32.482102+00:00",
+  "last_update": "2026-09-14T22:10:32.496457+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 789,
-    "total_files": 789,
+    "total_media": 788,
+    "total_files": 788,
     "total_links": 185,
     "files_by_type": {
-      "image": 697,
+      "image": 696,
       "video": 88,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 789,
-    "existing_media_files": 788,
-    "total_size_mb": 452.23,
-    "last_calculation": "2026-09-14T18:46:32.489083+00:00"
+    "referenced_files": 788,
+    "existing_media_files": 787,
+    "total_size_mb": 452.09,
+    "last_calculation": "2026-09-14T22:10:32.506469+00:00"
   }
 }
