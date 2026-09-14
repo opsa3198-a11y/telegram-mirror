@@ -11128,6 +11128,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 3505,
+        "text": "اسپاتیفای وقتی حواست نیست یبار با آی‌پی ایران میری داخلش:\n@TweetPublic\n✔️",
+        "date": "2026-09-14T12:24:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3505_0_210de889.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3505_1_e0ff9c98.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3505"
+      },
+      {
+        "id": 3504,
+        "text": "🥇\nدنبال سایت معتبر و بین المللی برای شرط بندی می گردی\n⁉️\n🔥\nکمپانی بین المللی\nWe pari\nهمون انتخاب\n🔥\n👑\nسایتی برای حرفه ای ها\n👑\n🎁\nاولین واریز توی وی پاری 2 برابر شارژ میشی\n💖\n🔔\nچرا این روزا همه وی پاری انتخاب میکنند\n⚠️\n💖\nشارژ امن از طریق کارت بانکی،ارزدیجیتال،ووچر\n💖\nتسویه حساب سریع و بدون احراز\n💖\nدارای مجوز رسمی Anjuan و curacao\n😃\n😃\n😃\n😃\n👑\nکد هدیه ثبت نام:GG007\n👑\nادرس سایت:\nhttp://til.ac/z5jcpGT\n😢\nسرور فیلترشکن روی کشور مناسب قرار دهید مانند:المان،کانادا،کشورهای اسیایی\n👑\nدانلود اپلیکیشن اندروید\n➡️\n🔥\nکانال اطلاع رسانی ایران:23R\n👇\nhttps://t.me/+yt7nQiufvRs5MDU0",
+        "date": "2026-09-14T12:08:49+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3504_0_210de889.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3504_1_e3c90d68.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "http://til.ac/z5jcpGT",
+            "type": "external",
+            "display_text": "http://til.ac/z5jcpGT"
+          },
+          {
+            "url": "https://t.me/+yt7nQiufvRs5MDU0",
+            "type": "telegram",
+            "display_text": "https://t.me/+yt7nQiufvRs5MDU0"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3504"
+      },
+      {
         "id": 3503,
         "text": "🔴\nپزشکیان: مبلغ کالابرگ رو زیاد میکنیم تا عشق کنید\n@TweetPublic\n✔️",
         "date": "2026-09-14T11:24:20+00:00",
@@ -13014,63 +13063,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3386"
-      },
-      {
-        "id": 3385,
-        "text": "این آقا برای کمک به خانواده‌های نیازمند، بهشون کاندوم و نوار بهداشتی هدیه داده و درکنارش براشون کلاس آموزش پیشگیری از بارداری هم برگذار کرده تا تو این شرایط بدون برنامه ریزی هی بچه به دنیا نیارن.\nنظرتون درباره کارش چیه؟\n@TweetPublic\n✔️",
-        "date": "2026-09-07T19:01:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3385_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3385_1_f33e4727.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3385"
-      },
-      {
-        "id": 3384,
-        "text": "توی رشت یه خانم با ماشین، این شکلی زد به یه مرد موتور سوار و پخش زمینش کرد! عجیب‌تر اینجاست وقتی زنه اومد دور بزنه، یه بار دیگه کوبید به مرده که پخش زمین شده بود.\n😐\n@TweetPublic\n✔️",
-        "date": "2026-09-07T17:36:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3384_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3384_1_af316b92.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3384"
       }
     ]
   },
-  "last_update": "2026-09-14T11:59:48.864063+00:00",
+  "last_update": "2026-09-14T13:26:43.470939+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
     "total_media": 784,
     "total_files": 784,
-    "total_links": 183,
+    "total_links": 185,
     "files_by_type": {
-      "image": 691,
-      "video": 89,
+      "image": 692,
+      "video": 88,
       "file": 3,
       "document": 1
     },
     "referenced_files": 784,
     "existing_media_files": 783,
-    "total_size_mb": 458.36,
-    "last_calculation": "2026-09-14T11:59:48.872119+00:00"
+    "total_size_mb": 449.39,
+    "last_calculation": "2026-09-14T13:26:43.478182+00:00"
   }
 }
