@@ -11128,6 +11128,56 @@
     ],
     "TweetPublic": [
       {
+        "id": 3510,
+        "text": "تصویر اولین دوربین جهان.\nحالا سوال اینه که اگه این اولین دوربین جهان بوده چطور ازش عکس گرفتن\n😳\n@TweetPublic\n✔️",
+        "date": "2026-09-14T16:35:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3510_0_210de889.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3510_1_a17b0ef7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3510"
+      },
+      {
+        "id": 3506,
+        "text": "🔴\nچند روز پیش یه آش‌کده به نام سحرخیزان که تو رشته، یه ویدئو طنز درباره حجاب پست کرد، به این صورت که؛\nاول یکی اومد نوشت \"آش واسه افراد باحجاب رایگانه\".\nبعد چندتا پسر جوون خودشون رو با حجاب کردن که آش رایگان بگیرن.\n24 ساعت بعد این پست، به علت توهین به حجاب، این مغازه پلمب شد و مدیرش هم بازداشت کردن!\nولی کار به اینجا ختم نشد و دیشب گروهی ناشناس به این مغازه حمله کردن و به سردر، تابلو، محوطه بیرونی و بخشی از نمای این مغازه آسیب زدن و روش شعار هم نوشتن...\n@TweetPublic\n✔️",
+        "date": "2026-09-14T14:18:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3506_0_210de889.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3506_1_e6473793.mp4"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3506_2_d6fb46dc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3506_3_cb86583f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3506_4_247f0ea7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3506"
+      },
+      {
         "id": 3505,
         "text": "اسپاتیفای وقتی حواست نیست یبار با آی‌پی ایران میری داخلش:\n@TweetPublic\n✔️",
         "date": "2026-09-14T12:24:38+00:00",
@@ -13029,59 +13079,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3388"
-      },
-      {
-        "id": 3387,
-        "text": "لحظه تغییر قیمت بنزین از 5 هزار تومان به 10 هزار تومان\n@TweetPublic\n✔️",
-        "date": "2026-09-07T20:52:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3387_0_e8e6edf6.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3387_1_b461af5c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3387"
-      },
-      {
-        "id": 3386,
-        "text": "🔴\nتصمیم دولت برای تأمین سوخت رانندگان تاکسی‌های اینترنتی / روزی 10 لیتر\n🔹\nدولت در جلسه انرژی به ریاست مسعود پزشکیان با اختصاص سهمیه‌ی مازاد سوخت به کاربران راننده تاکسی‌های اینترنتی موافقت کرد. این سهمیه متناسب با میزان پیمایش و تا سقف 300 لیتر در ماه روی کارت سوخت رانندگان منظور خواهد شد.\n@TweetPublic\n✔️",
-        "date": "2026-09-07T20:12:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3386_0_e8e6edf6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3386"
       }
     ]
   },
-  "last_update": "2026-09-14T13:26:43.470939+00:00",
+  "last_update": "2026-09-14T18:02:50.605495+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 784,
-    "total_files": 784,
+    "total_media": 788,
+    "total_files": 788,
     "total_links": 185,
     "files_by_type": {
-      "image": 692,
+      "image": 696,
       "video": 88,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 784,
-    "existing_media_files": 783,
-    "total_size_mb": 449.39,
-    "last_calculation": "2026-09-14T13:26:43.478182+00:00"
+    "referenced_files": 788,
+    "existing_media_files": 787,
+    "total_size_mb": 452.19,
+    "last_calculation": "2026-09-14T18:02:50.615361+00:00"
   }
 }
