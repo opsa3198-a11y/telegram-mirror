@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3514,
+        "text": "ولی اونا مثل ما اصالت ندارن\n✍\nنخجوان\n@TweetPublic\n✔️",
+        "date": "2026-09-15T06:59:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3514_0_1c70a754.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3514_1_fcdcdec6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3514"
+      },
+      {
         "id": 3513,
         "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip:23A\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
         "date": "2026-09-14T23:12:43+00:00",
@@ -13070,40 +13089,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3392"
-      },
-      {
-        "id": 3391,
-        "text": "نوجون که بودم ساعت2 میخوابیدم 6 بیدار میشدم میرفتم ورزش میکردم بعدش مدرسه، بعد مدرسه هم تمرین فوتبال بعدش هم میرفتم سر کلاس درس میدادم، 8 شب که میرسیدم خونه تازه درس میخوندم برای المیپاد، ساز میزدم، کتاب میخوندم، فیلم میدیدم و…\nالان روزی 12 ساعت میخوابم، بقیه روز هم جنازه متحرکم\n@TweetPublic\n✔️",
-        "date": "2026-09-08T09:03:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3391_0_c06f2325.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3391"
       }
     ]
   },
-  "last_update": "2026-09-15T06:51:37.208668+00:00",
+  "last_update": "2026-09-15T10:35:05.350103+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 788,
-    "total_files": 788,
+    "total_media": 789,
+    "total_files": 789,
     "total_links": 186,
     "files_by_type": {
-      "image": 696,
+      "image": 697,
       "video": 88,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 788,
-    "existing_media_files": 787,
-    "total_size_mb": 445.17,
-    "last_calculation": "2026-09-15T06:51:37.214635+00:00"
+    "referenced_files": 789,
+    "existing_media_files": 788,
+    "total_size_mb": 445.33,
+    "last_calculation": "2026-09-15T10:35:05.359801+00:00"
   }
 }
