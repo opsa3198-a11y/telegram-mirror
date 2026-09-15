@@ -11128,6 +11128,50 @@
     ],
     "TweetPublic": [
       {
+        "id": 3525,
+        "text": "https://t.me/TweetPublic/3524\nاون که اون پایینه دایناسوره؟\n🤔",
+        "date": "2026-09-15T20:35:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3525_0_1c70a754.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3525_1_26f405fa.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/TweetPublic/3524",
+            "type": "telegram",
+            "display_text": "https://t.me/TweetPublic/3524"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3525"
+      },
+      {
+        "id": 3524,
+        "text": "دلیلی که هر مردی باید از شکم بزرگ بترسه!\nشکم بزرگ باعث سندروم پنهان کوتاهی آلت میشه.\n@TweetPublic\n✔️",
+        "date": "2026-09-15T20:27:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3524_0_1c70a754.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3524_1_b12b2af0.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3524"
+      },
+      {
         "id": 3523,
         "text": "ساعتی پیش، ۱۲ فروند جنگنده F-16 خاک آمریکا را ترک کرده و احتمالا عازم خاورمیانه شدند\n@TweetPublic\n✔️",
         "date": "2026-09-15T18:59:53+00:00",
@@ -13038,63 +13082,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3410"
-      },
-      {
-        "id": 3409,
-        "text": "⭕\n‏بهزاد اکبری، مدیرعامل شرکت ارتباطات زیرساخت گفته دلیل کندی اینترنت قطع فیبر نوری تو ارمنستانه و در حال پیگیری‌ان  @TweetPublic\n✔️",
-        "date": "2026-09-08T18:56:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3409_0_c06f2325.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3409_1_cc0239b9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3409"
-      },
-      {
-        "id": 3408,
-        "text": "لطفا هرچی سریع تر بمب اتم رو به ایران بزنید\n@TweetPublic\n✔️",
-        "date": "2026-09-08T18:42:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3408_0_c06f2325.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3408_1_6b18cb39.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3408"
       }
     ]
   },
-  "last_update": "2026-09-15T19:07:04.004231+00:00",
+  "last_update": "2026-09-15T20:55:57.858208+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
     "total_media": 783,
     "total_files": 783,
-    "total_links": 188,
+    "total_links": 189,
     "files_by_type": {
-      "image": 694,
-      "video": 85,
+      "image": 696,
+      "video": 83,
       "file": 3,
       "document": 1
     },
     "referenced_files": 783,
     "existing_media_files": 782,
-    "total_size_mb": 432.36,
-    "last_calculation": "2026-09-15T19:07:04.013551+00:00"
+    "total_size_mb": 422.58,
+    "last_calculation": "2026-09-15T20:55:57.867635+00:00"
   }
 }
