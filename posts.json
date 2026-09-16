@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3532,
+        "text": "🔴\nامروز تو همدان بعد اینکه یه مرد برای یه دختر خانم مزاحمت ایجاد میکنه و بهش تعرض میکنه؛\nمردم تو خیابون متوجه این موضوع میشن و میگیرن مرد مزاحم به این صورت لخت میکنن و میزننش تا دیگه از این غلطا نکنه....\n@TweetPublic\n✔️",
+        "date": "2026-09-16T15:34:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3532_0_86203fef.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3532_1_1af68de4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3532"
+      },
+      {
         "id": 3531,
         "text": "اگه امام رضا این صحنه رو میدید، عمراً ضامن آهو میشد\n@TweetPublic\n✔️",
         "date": "2026-09-16T12:55:58+00:00",
@@ -13096,29 +13115,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3417"
-      },
-      {
-        "id": 3416,
-        "text": "لالیگا - اسپانیا\n🇪🇸\n🔥\nاین بازی بوی جنگ میده\n💥\nسویا از اون تیم‌هاست که اگه توی خونه ریتم بگیره، بازی رو سخت و فیزیکی می‌کنه؛\nوالنسیا هم اگه چند تا فضای خوب پیدا کنه، می‌تونه خیلی سریع ضربه بزنه.\n👀\n⚽️\nتو بازی بسته می‌بینی یا یه شب شلوغ؟",
-        "date": "2026-09-08T23:23:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3416_0_c06f2325.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3416_1_81511883.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3416"
       }
     ]
   },
-  "last_update": "2026-09-16T15:03:56.259822+00:00",
+  "last_update": "2026-09-16T16:17:01.147759+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13126,14 +13126,14 @@
     "total_files": 787,
     "total_links": 192,
     "files_by_type": {
-      "image": 701,
-      "video": 82,
+      "image": 700,
+      "video": 83,
       "file": 3,
       "document": 1
     },
     "referenced_files": 787,
     "existing_media_files": 786,
-    "total_size_mb": 414.77,
-    "last_calculation": "2026-09-16T15:03:56.264633+00:00"
+    "total_size_mb": 423.73,
+    "last_calculation": "2026-09-16T16:17:01.152918+00:00"
   }
 }
