@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3528,
+        "text": "غذای گربه‌ ها چرا پولیه؟\nآخه گربه ‌ها پول ندارن که\n🥲\n@TweetPublic\n✔️",
+        "date": "2026-09-16T04:29:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3528_0_86203fef.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3528_1_b5c332e6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3528"
+      },
+      {
         "id": 3527,
         "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip24a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
         "date": "2026-09-15T23:17:45+00:00",
@@ -13081,40 +13100,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3413"
-      },
-      {
-        "id": 3412,
-        "text": "🔴\nگزارش شلیک موشک از شهرهای مختلف ایران هم اکنون !!\n@TweetPublic\n✔️",
-        "date": "2026-09-08T21:24:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3412_0_c06f2325.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3412"
       }
     ]
   },
-  "last_update": "2026-09-16T03:40:49.170789+00:00",
+  "last_update": "2026-09-16T05:25:04.300692+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 786,
+    "total_files": 786,
     "total_links": 190,
     "files_by_type": {
-      "image": 697,
+      "image": 698,
       "video": 84,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 426.47,
-    "last_calculation": "2026-09-16T03:40:49.177318+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 426.64,
+    "last_calculation": "2026-09-16T05:25:04.308084+00:00"
   }
 }
