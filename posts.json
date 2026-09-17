@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3541,
+        "text": "تو ماشین و پشت فرمون مست کنید برید ته دره به یه ور ما هم نیست\nبدبدختی اینجاست که بعدش مثل حیوون رانندگی میکنید و میزنید چهارتا خونواده رو عزادار میکنید\nکاش بفهمید هرچیزی جایی داره\n@TweetPublic\n✔️",
+        "date": "2026-09-17T10:50:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3541_0_c934ea79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3541_1_cd622ec1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3541"
+      },
+      {
+        "id": 3540,
+        "text": "من نمیدونم شرکت آب معدنی چرا باید برای تبلیغ تو فضای مجازی و تلویزیون هزینه کنه، شما تاحالا رفتین تو سوپرمارکت بگین آب معدنی فلان برندو میخوام؟\n@TweetPublic\n✔️",
+        "date": "2026-09-17T09:07:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3540_0_c934ea79.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3540"
+      },
+      {
         "id": 3539,
         "text": "🇺🇸\n🇮🇷\nترامپ:ایران در تلاش است تا به توافقی با ما برسد، و ما در مراحل پایانی جنگ هستیم.\n@TweetPublic\n✔️",
         "date": "2026-09-16T23:45:48+00:00",
@@ -13066,63 +13100,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3431"
-      },
-      {
-        "id": 3430,
-        "text": "🍎\nاپل از AirPods 5 هم رونمایی کرد؛\n▫️\nترجمه همزمان و زنده\n▫️\nنویز کنسلینگ فعال قوی‌تر\n▫️\nصدای فضایی شخصی‌سازی‌شده صدا رو جوری تنظیم میکنه که حس کنی از اطراف و جهت های مختلف مياد؛ مثلاً تو فیلم انگار وسط صحنه ای تنظیمش هم متناسب با گوش و سر خودت انجام میشه.…",
-        "date": "2026-09-09T18:23:54+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3430_0_0b32e2d9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3430_1_1a5642b5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3430"
-      },
-      {
-        "id": 3429,
-        "text": "🍎\nاپل از AirPods 5 هم رونمایی کرد؛\n▫️\nترجمه همزمان و زنده\n▫️\nنویز کنسلینگ فعال قوی‌تر\n▫️\nصدای فضایی شخصی‌سازی‌شده\nصدا رو جوری تنظیم میکنه که حس کنی از اطراف و جهت های مختلف مياد؛ مثلاً تو فیلم انگار وسط صحنه ای تنظیمش هم متناسب با گوش و سر خودت انجام میشه.\n▫️\nاکولایزر تطبیقی نسل جدید\nایریاد خودش لحظه‌ای صدا رو بررسی\nمیکنه و بیس، زیر و بم و جزئیات صدا رو خودکار تنظیم میکنه تا بهتر به گوشت برسه.\n▫️\nتا 5 ساعت شارژدهی با نویز کنسلینگ روشن\n💰\nقیمتش تو آمریکا 149 دلار اعلام شده.\n@TweetPublic\n✔️",
-        "date": "2026-09-09T18:23:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3429_0_0b32e2d9.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3429_1_d0db37da.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3429"
       }
     ]
   },
-  "last_update": "2026-09-17T08:03:30.985382+00:00",
+  "last_update": "2026-09-17T11:06:48.559265+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 780,
-    "total_files": 780,
+    "total_media": 779,
+    "total_files": 779,
     "total_links": 195,
     "files_by_type": {
       "image": 693,
-      "video": 83,
+      "video": 82,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 780,
-    "existing_media_files": 779,
-    "total_size_mb": 425.53,
-    "last_calculation": "2026-09-17T08:03:30.990646+00:00"
+    "referenced_files": 779,
+    "existing_media_files": 778,
+    "total_size_mb": 417.62,
+    "last_calculation": "2026-09-17T11:06:48.568775+00:00"
   }
 }
