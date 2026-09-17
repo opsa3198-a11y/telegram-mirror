@@ -11128,6 +11128,31 @@
     ],
     "TweetPublic": [
       {
+        "id": 3552,
+        "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip26a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
+        "date": "2026-09-17T22:59:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3552_0_c934ea79.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3552_1_805cb3ba.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+uWIBM_uA-QplMDJk",
+            "type": "telegram",
+            "display_text": "https://t.me/+uWIBM_uA-QplMDJk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3552"
+      },
+      {
         "id": 3550,
         "text": "🔴\nتو رشت امروز قرار بود یه کافه افتتاح کنن که همه جاش صورتی بود؛\nاز دکور گرفته تا منو و لباس کارکنان\nبعد این ماجرا یسریا بشدت اعتراض کردن و گفتن شما منظورتون از صورتی، کافه نیست و رسما دارید یه چیز صورتی دیگه رو تبلیغ میکنید و اصلا نباید کافه افتتاح بشه....\n+ چند ساعت بعد رفتن درش رو بستن و جلو افتتاحش رو گرفتن\n@TweetPublic\n✔️",
         "date": "2026-09-17T20:17:15+00:00",
@@ -13100,40 +13125,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3441"
-      },
-      {
-        "id": 3440,
-        "text": "هیچ‌کس بر دیگری برتری ندارد مگر به فهم و شعور، درک و ادب.\n💬\nPushteSokoot\n@TweetPublic\n✔️",
-        "date": "2026-09-10T09:23:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3440_0_078f329c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3440"
       }
     ]
   },
-  "last_update": "2026-09-17T21:00:25.046246+00:00",
+  "last_update": "2026-09-17T23:11:13.277111+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 780,
-    "total_files": 780,
-    "total_links": 197,
+    "total_media": 781,
+    "total_files": 781,
+    "total_links": 198,
     "files_by_type": {
       "image": 694,
-      "video": 82,
+      "video": 83,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 780,
-    "existing_media_files": 779,
-    "total_size_mb": 418.87,
-    "last_calculation": "2026-09-17T21:00:25.055578+00:00"
+    "referenced_files": 781,
+    "existing_media_files": 780,
+    "total_size_mb": 422.71,
+    "last_calculation": "2026-09-17T23:11:13.286448+00:00"
   }
 }
