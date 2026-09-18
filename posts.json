@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3556,
+        "text": "🔴\nاکانت تلگرام تو ایکس برداشته عکس ایلان ماسک با سینه‌های سایز 90 رو پست کرده، بالاش هم نوشته :\nثروت واقعی پول و ماشین نیست، بلکه سینه‌های بزرگه.\n@TweetPublic\n✔️",
+        "date": "2026-09-18T16:31:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3556_0_92f57be1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3556_1_65dcd778.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3556"
+      },
+      {
         "id": 3555,
         "text": "این کارت شارژ های 2 هزار تومنی می‌خریدم\n2200 تهشم 1800 شارژ میشد :))) یادتون میاد؟؟\n@TweetPublic\n✔️",
         "date": "2026-09-18T12:51:02+00:00",
@@ -13106,29 +13125,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3445"
-      },
-      {
-        "id": 3444,
-        "text": "این عکسو توی اینستاگرام دیدم حالا شما حق رو به کی میدین!؟\nحق با پسره‌است\n👍\nحق با دخترست\n👎\n@TweetPublic\n✔️",
-        "date": "2026-09-10T14:27:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3444_0_078f329c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3444_1_4ff8e1b7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3444"
       }
     ]
   },
-  "last_update": "2026-09-18T15:57:13.878271+00:00",
+  "last_update": "2026-09-18T18:34:26.706084+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13143,7 +13143,7 @@
     },
     "referenced_files": 781,
     "existing_media_files": 780,
-    "total_size_mb": 435.19,
-    "last_calculation": "2026-09-18T15:57:13.887674+00:00"
+    "total_size_mb": 435.22,
+    "last_calculation": "2026-09-18T18:34:26.713557+00:00"
   }
 }
