@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3554,
+        "text": "🔴\nیه دختر که با مصرف شیشه مبتلا به اسکیزوفرنی شده و فکر می کنه با «محمدرضا گلزار» ازدواج کرده و ۲ تا بچه هم ازش داره. وسط حرف زدن هم میگه گلزار اومد دنبالم باید برم و بین درخت ها داره دنبالش میگرده.\nاسکیزوفرنی یک بیماری ژنتیکیه که گاهی اوقات مخفیه و میتونه با مصرف ماده مخدر خودشو نشون بده.\n@TweetPublic\n✔️",
+        "date": "2026-09-18T09:57:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3554_0_92f57be1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3554_1_c69f83a0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3554"
+      },
+      {
+        "id": 3553,
+        "text": "🔴\nاز امروز صبح تو تهران رزمایش جانفدایان در حال برگزاریه؛\nکه اون وسط مراسم عروسی دو تا جانفدا با هم دیگه برگزار شد...\n@TweetPublic\n✔️",
+        "date": "2026-09-18T08:46:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3553_0_92f57be1.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3553_1_16922e8e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3553"
+      },
+      {
         "id": 3552,
         "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip26a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
         "date": "2026-09-17T22:59:23+00:00",
@@ -13087,48 +13125,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3443"
-      },
-      {
-        "id": 3442,
-        "text": "به نیت ایران و آینده ی کشور گرفتم دیگه تحلیل و فالشو نمیگیرم تا تهش مشخصه.\n@TweetPublic\n✔️",
-        "date": "2026-09-10T11:07:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3442_0_078f329c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3442_1_32709f74.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3442"
-      },
-      {
-        "id": 3441,
-        "text": "سری آ ایتالیا\n🇮🇹\nاینجا یه گل می‌تونه همه‌چی رو به‌هم بریزه\n⚽️\nلاتزیو اگه اجازه بده میلان ریتم بگیره، کارش سخت میشه؛ ولی اگه خودش اول ضربه بزنه، میلان مجبور میشه جلو بیاد و بازی می‌تونه کاملاً باز بشه.\n🇮🇹\n🔥\n🔵\nلاتزیو × میلان\n🔴\n⚫️\n⏰\n۲۱ شهریور | ۱۹:۳۰\nاولین گل رو کی می‌زنه؟",
-        "date": "2026-09-10T10:58:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3441_0_078f329c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3441_1_7440f070.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3441"
       }
     ]
   },
-  "last_update": "2026-09-18T06:46:59.015108+00:00",
+  "last_update": "2026-09-18T10:41:42.786341+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13136,14 +13136,14 @@
     "total_files": 781,
     "total_links": 198,
     "files_by_type": {
-      "image": 694,
-      "video": 83,
+      "image": 693,
+      "video": 84,
       "file": 3,
       "document": 1
     },
     "referenced_files": 781,
     "existing_media_files": 780,
-    "total_size_mb": 422.71,
-    "last_calculation": "2026-09-18T06:46:59.022422+00:00"
+    "total_size_mb": 435.04,
+    "last_calculation": "2026-09-18T10:41:42.795867+00:00"
   }
 }
