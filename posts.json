@@ -11128,6 +11128,31 @@
     ],
     "TweetPublic": [
       {
+        "id": 3567,
+        "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip27a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
+        "date": "2026-09-18T22:40:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3567_0_92f57be1.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3567_1_e955de9a.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+uWIBM_uA-QplMDJk",
+            "type": "telegram",
+            "display_text": "https://t.me/+uWIBM_uA-QplMDJk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3567"
+      },
+      {
         "id": 3563,
         "text": "🔴\nدنبال دزد بود، مچ زنش رو با سگ گرفت؛\nچند روز پیش تو فلوريدای آمریکا\n🇺🇸\n، یه مرده واسه اینکه بفهمه کی داره از قُلک بزرگش پول برمیداره، چندتا دوربین تو خونه‌اش نصب کرد.\nبعد چند روز که رفت چک کنه، دید زنش لخت شده و داره خودشو به سگ‌شون می‌ماله!\nایشون بلافاصله رفت زنِ 38 ساله‌اش رو طلاق داد و الانم خانم ماليا الیزابت به قید وثیقه‌ی 35,000 دلاری تا تعیین تکلیف پرونده، بیرونه.\nاین\nخانم خودش گفته هیچ دخولی درکار نبوده و صرفا یسری بمال بمال اتفاق افتاده، سگه هم شاهده..\n@TweetPublic\n✔️",
         "date": "2026-09-18T21:16:21+00:00",
@@ -13151,44 +13176,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3451"
-      },
-      {
-        "id": 3450,
-        "text": "💢\nعجیب‌ترین ترند امسال، به تازگی توی چین مد شده که خانما موهای زیربغلشون رو رنگ میکنن!\nهدفشون نشون دادن آزادی و زیبایی خانماست!\n@TweetPublic\n✔️",
-        "date": "2026-09-10T15:56:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3450_0_078f329c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3450_1_7e0dc7c8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3450"
       }
     ]
   },
-  "last_update": "2026-09-18T21:20:06.249601+00:00",
+  "last_update": "2026-09-18T23:24:15.839512+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
     "total_media": 791,
     "total_files": 791,
-    "total_links": 199,
+    "total_links": 200,
     "files_by_type": {
-      "image": 699,
-      "video": 88,
+      "image": 698,
+      "video": 89,
       "file": 3,
       "document": 1
     },
     "referenced_files": 791,
     "existing_media_files": 790,
-    "total_size_mb": 456.83,
-    "last_calculation": "2026-09-18T21:20:06.259551+00:00"
+    "total_size_mb": 460.53,
+    "last_calculation": "2026-09-18T23:24:15.845545+00:00"
   }
 }
