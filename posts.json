@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3577,
+        "text": "منو خانومی\n@TweetPublic\n✔️",
+        "date": "2026-09-19T20:28:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3577_0_41b6c838.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3577_1_bb1e20a5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3577"
+      },
+      {
         "id": 3576,
         "text": "🔹\nآموزش و پرورش: ازین پس آخرین جایی که تعطیل می‌شود مدارس است\n@TweetPublic\n✔️",
         "date": "2026-09-19T18:56:42+00:00",
@@ -13187,40 +13206,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3460"
-      },
-      {
-        "id": 3459,
-        "text": "دوستان کسی سایت معتبر میشناسه که از امازون سفارش بیاره ایران؟\nاگر میشناسید دایرکت بگید.",
-        "date": "2026-09-11T08:38:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3459_0_2e11603f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3459"
       }
     ]
   },
-  "last_update": "2026-09-19T20:09:12.481991+00:00",
+  "last_update": "2026-09-19T21:51:23.244792+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 792,
-    "total_files": 792,
+    "total_media": 793,
+    "total_files": 793,
     "total_links": 204,
     "files_by_type": {
-      "image": 699,
+      "image": 700,
       "video": 89,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 792,
-    "existing_media_files": 791,
-    "total_size_mb": 459.44,
-    "last_calculation": "2026-09-19T20:09:12.491700+00:00"
+    "referenced_files": 793,
+    "existing_media_files": 792,
+    "total_size_mb": 459.5,
+    "last_calculation": "2026-09-19T21:51:23.254265+00:00"
   }
 }
