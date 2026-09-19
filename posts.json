@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3568,
+        "text": "وفاداری تو رابطه‌ها رسما رفته بگا رفته و تبدیل به شوخی شده؛\nطرف کنار دوست‌پسرشه، با دوست‌پسر دومش چت میکنه و دوست‌پسر اول خیلی ریلکس و با خنده از شاهکارش فیلم میگیره.\n@TweetPublic\n✔️",
+        "date": "2026-09-19T08:21:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3568_0_41b6c838.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3568_1_66cd85e9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3568"
+      },
+      {
         "id": 3567,
         "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال vip27a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
         "date": "2026-09-18T22:40:22+00:00",
@@ -13157,29 +13176,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3452"
-      },
-      {
-        "id": 3451,
-        "text": "از زاویه بسیار خوبی ماهم از خرید و رضایت مشتریتون خوشحال شدیم. مبارکش باشه\n@TweetPublic\n✔️",
-        "date": "2026-09-10T17:59:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3451_0_078f329c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3451_1_4124a754.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3451"
       }
     ]
   },
-  "last_update": "2026-09-19T06:47:03.354808+00:00",
+  "last_update": "2026-09-19T10:25:50.990049+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13194,7 +13194,7 @@
     },
     "referenced_files": 791,
     "existing_media_files": 790,
-    "total_size_mb": 460.53,
-    "last_calculation": "2026-09-19T06:47:03.364663+00:00"
+    "total_size_mb": 456.28,
+    "last_calculation": "2026-09-19T10:25:50.997867+00:00"
   }
 }
