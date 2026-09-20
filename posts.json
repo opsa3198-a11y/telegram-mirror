@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3585,
+        "text": "🔴\nایلان ماسک رسماً مجوز اتصال مستقیم گوشی به ماهواره رو گرفت!\nنهاد FCC مجوز پروژه Starlink Mobile رو صادر کرد و حالا استارلینک یه قدم بزرگ به اینترنت ماهواره‌ای روی گوشی‌های معمولی نزدیک‌تر شده.\nهدف این سرویس اینه که گوشی‌ها بدون دیش و تجهیزات خاص، مستقیم به ماهواره وصل بشن؛ مخصوصاً جاهایی که هیچ آنتن موبایلی وجود نداره.\n@TweetPublic\n✔️",
+        "date": "2026-09-20T15:08:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3585_0_07fcf5f8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3585_1_373efc04.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3585"
+      },
+      {
         "id": 3584,
         "text": "دیشب «محسن نامجو» که به تازگی برگشته ایران، شروع کرد وسط خیابون با صدای بلند آواز خوندن که یه هموطن با دو کلمه «کیر، خفه‌شو» دهنشو بست\n@TweetPublic\n✔️",
         "date": "2026-09-20T11:57:13+00:00",
@@ -13184,29 +13203,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3473"
-      },
-      {
-        "id": 3472,
-        "text": "خوشبحالتون پاسپورت تهران دارید و میتونید به 180 کشور بدون ویزا سفر کنید\n😍\n✌🏻\n@TweetPublic\n✔️",
-        "date": "2026-09-11T20:24:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3472_0_2e11603f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3472_1_65affffa.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3472"
       }
     ]
   },
-  "last_update": "2026-09-20T12:32:12.312525+00:00",
+  "last_update": "2026-09-20T15:34:18.871296+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13221,7 +13221,7 @@
     },
     "referenced_files": 788,
     "existing_media_files": 787,
-    "total_size_mb": 452.19,
-    "last_calculation": "2026-09-20T12:32:12.322023+00:00"
+    "total_size_mb": 452.23,
+    "last_calculation": "2026-09-20T15:34:18.880724+00:00"
   }
 }
