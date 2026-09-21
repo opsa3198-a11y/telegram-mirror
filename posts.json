@@ -11128,6 +11128,31 @@
     ],
     "TweetPublic": [
       {
+        "id": 3598,
+        "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال 29a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
+        "date": "2026-09-20T23:58:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3598_0_07fcf5f8.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3598_1_008a5b7a.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+uWIBM_uA-QplMDJk",
+            "type": "telegram",
+            "display_text": "https://t.me/+uWIBM_uA-QplMDJk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3598"
+      },
+      {
         "id": 3597,
         "text": "زنه روهم می‌کشتم اونم مقصره خب مرده ک بزور این کارو نکرده البته قبلش میپرسیدم ک چرا ب چ دلیل ک بعدش جواب سوالامو بدم/:",
         "date": "2026-09-20T21:01:19+00:00",
@@ -13161,35 +13186,16 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3485"
-      },
-      {
-        "id": 3484,
-        "text": "🔴\nقانون درباره پول، طلا و کادوهایی که تو رابطه به پارتنرت دادی چی میگه؟ اگه جدا بشید، می‌تونی پسشون بگیری؟\n•\nاگه پول باشه؛\n◀️\nبا یه اظهارنامه ساده و ارائه تراکنش، میتونی تا قرون آخرش رو بگیری.\n•\nاگه طلا، عروسک، لباس و... باشه؛\n◀️\nاگه به همون شکل اولش باشه و طرف اونو به چیزِ دیگه تبدیل نکرده باشه، باز هم می‌تونی شکایت کنی و همه رو پس بگیری!\n@TweetPublic\n✔️",
-        "date": "2026-09-12T20:19:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3484_0_6d3b26fe.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3484_1_6fe806c0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3484"
       }
     ]
   },
-  "last_update": "2026-09-20T23:39:36.150909+00:00",
+  "last_update": "2026-09-21T02:00:20.571796+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
     "total_media": 785,
     "total_files": 785,
-    "total_links": 205,
+    "total_links": 206,
     "files_by_type": {
       "image": 697,
       "video": 84,
@@ -13198,7 +13204,7 @@
     },
     "referenced_files": 785,
     "existing_media_files": 784,
-    "total_size_mb": 448.62,
-    "last_calculation": "2026-09-20T23:39:36.160550+00:00"
+    "total_size_mb": 448.99,
+    "last_calculation": "2026-09-21T02:00:20.581288+00:00"
   }
 }
