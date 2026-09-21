@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3599,
+        "text": "پزشکیان به این شکل زنگ آغاز سال تحصیلی جدید رو به صدا درآورد.\nآماده رفتن به مدرسه و دانشگاه بشید.\nالبته  استخاره گرفت و گویا خوب نیومده بود؛ چون داشت به نشانه تاسف سر تکون میداد. احتمالا نوشته بوده جنگه!\n@TweetPublic\n✔️",
+        "date": "2026-09-21T05:43:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3599_0_b5af2876.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3599_1_e2dbbaf2.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3599"
+      },
+      {
         "id": 3598,
         "text": "‼️\nکانال\n#بلایندرز\nکل سایت های شرطبندی رو ورشکست کرده\n😂\n💬\nاین کانال با کمک تحلیلگران اروپایی روزانه کلی فرم های VIP  دارک بت قرار میده و ایرانی ها دارن از طریق این کانال درآمدزایی میکنن بدون ریسک\n💵\n💵\n⬅️\nهر روز میتونی فوتبالا اروپا شرط بندی کنی و بین 10 الی 50 میلیون پول به جیب بزنی\n✅\n💎\nادرس عضویت کانال 29a:\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk\n🔗\nhttps://t.me/+uWIBM_uA-QplMDJk",
         "date": "2026-09-20T23:58:17+00:00",
@@ -13171,40 +13190,25 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/3486"
-      },
-      {
-        "id": 3485,
-        "text": "اتحادیه موبایل :\nمردم به هیچ عنوان برای خرید موبایل عجله نکنن چون قراره خیلی قیمت موبایل بیاد پایین.\n@TweetPublic\n✔️",
-        "date": "2026-09-12T20:47:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3485_0_6d3b26fe.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3485"
       }
     ]
   },
-  "last_update": "2026-09-21T03:41:21.792405+00:00",
+  "last_update": "2026-09-21T07:20:45.067902+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 785,
-    "total_files": 785,
+    "total_media": 786,
+    "total_files": 786,
     "total_links": 206,
     "files_by_type": {
       "image": 697,
-      "video": 84,
+      "video": 85,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 785,
-    "existing_media_files": 784,
-    "total_size_mb": 448.99,
-    "last_calculation": "2026-09-21T03:41:21.798224+00:00"
+    "referenced_files": 786,
+    "existing_media_files": 785,
+    "total_size_mb": 450.22,
+    "last_calculation": "2026-09-21T07:20:45.077516+00:00"
   }
 }
