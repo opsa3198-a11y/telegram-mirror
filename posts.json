@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3609,
+        "text": "کانال 12 عبری:\nارتش اسرائیل برای تشدید تنش‌ها با ایران در حال آماده‌سازی است\n@TweetPublic\n✔️",
+        "date": "2026-09-21T21:02:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3609_0_b5af2876.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3609"
+      },
+      {
         "id": 3608,
         "text": "🔴\nتو تبریز راننده این کامیون خوابش میبره از لاین خارج میشه ماشینش چپ میشه، مردم رفتن بالاسرش دیدن بیدار نشده هنوز ی پتو انداختن سرش بلند شد بهشون فحش داد گفت چرا بیدارم کردین :\n@TweetPublic\n✔️",
         "date": "2026-09-21T19:44:30+00:00",
@@ -13119,55 +13134,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3496"
-      },
-      {
-        "id": 3495,
-        "text": "🔥\nشرط بندی با سایت بین المللی تجربه کنید\n🔥\n🥇\nسایت شماره یک اروپا حالا در ایران\n🥇\n😀\n😃\n😄\n😁\n🎁\nواریز اول\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز دوم\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز سوم\n💖\n75% بونوس هدیه\n🎁\nواریز چهارم\n💖\n50% بونوس هدیه\n💌\nکد هدیه ثبت نام: GG007\nادرس سایت:\n🤔\nhttp://til.ac/z5jcpGT\n💎\nکانال اطلاع رسانی ایران22g:\n✉️\nhttps://t.me/+yt7nQiufvRs5MDU0",
-        "date": "2026-09-13T18:47:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3495_0_f99ab305.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3495_1_489f843e.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "http://til.ac/z5jcpGT",
-            "type": "external",
-            "display_text": "http://til.ac/z5jcpGT"
-          },
-          {
-            "url": "https://t.me/+yt7nQiufvRs5MDU0",
-            "type": "telegram",
-            "display_text": "https://t.me/+yt7nQiufvRs5MDU0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/TweetPublic/3495"
       }
     ]
   },
-  "last_update": "2026-09-21T19:48:40.122212+00:00",
+  "last_update": "2026-09-21T21:45:48.296778+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 780,
-    "total_files": 780,
-    "total_links": 203,
+    "total_media": 779,
+    "total_files": 779,
+    "total_links": 201,
     "files_by_type": {
-      "image": 693,
+      "image": 692,
       "video": 83,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 780,
-    "existing_media_files": 779,
-    "total_size_mb": 444.14,
-    "last_calculation": "2026-09-21T19:48:40.131663+00:00"
+    "referenced_files": 779,
+    "existing_media_files": 778,
+    "total_size_mb": 444.03,
+    "last_calculation": "2026-09-21T21:45:48.305997+00:00"
   }
 }
