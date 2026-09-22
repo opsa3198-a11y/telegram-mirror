@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3626,
+        "text": "🚨\nهم‌اکنون صدای فعال شدن پدافند در سراسر تهران بزرگ !!!!!\n@TweetPublic\n✔️",
+        "date": "2026-09-22T22:09:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3626_0_4000cb00.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "TweetPublic_3626_1_e20d6dc9.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3626"
+      },
+      {
         "id": 3625,
         "text": "🔴\nفوری و رسمی/از همین امشب محاصره هوایی ایران اجرایی شد\n🔴\nهیچ پرواز خارجی‌ای انجام نمیشود\n@TweetPublic\n✔️",
         "date": "2026-09-22T20:53:55+00:00",
@@ -13068,29 +13087,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3517"
-      },
-      {
-        "id": 3516,
-        "text": "یه هکر مدعی شده که فیلترشکن JumpJump رو هک کرده و اطلاعات کاربرانش رو توی فروم های هکری واسه فروش گذاشته\nصحت این اطلاعات تایید نشده هنوز ولی اطلاعاتی زیادی گویا ذخیره کرده این برنامه از جمله اطلاعات کارت بانکی، تراکنش ها و ...\n@TweetPublic\n✔️",
-        "date": "2026-09-15T12:20:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3516_0_1c70a754.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3516_1_e8435bca.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3516"
       }
     ]
   },
-  "last_update": "2026-09-22T20:57:48.586213+00:00",
+  "last_update": "2026-09-22T22:20:46.085335+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13098,14 +13098,15 @@
     "total_files": 773,
     "total_links": 197,
     "files_by_type": {
-      "image": 685,
+      "image": 684,
       "video": 84,
       "file": 3,
-      "document": 1
+      "document": 1,
+      "audio": 1
     },
     "referenced_files": 773,
     "existing_media_files": 772,
-    "total_size_mb": 462.71,
-    "last_calculation": "2026-09-22T20:57:48.595711+00:00"
+    "total_size_mb": 462.8,
+    "last_calculation": "2026-09-22T22:20:46.090033+00:00"
   }
 }
