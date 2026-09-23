@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3644,
+        "text": "🔴\nاگه سخنرانی پزشکیان توی سازمان ملل رو ندیدین، این دو دقیقه رو به هیچ وجه از دست ندین.\nهر لحظه بیشتر از خنده پاره میشین :)))\n@TweetPublic\n✔️",
+        "date": "2026-09-23T19:55:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3644_0_3464638d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3644_1_40827e19.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3644"
+      },
+      {
         "id": 3643,
         "text": "🔴\nیه دختر 16 ساله کلاس دهمی بعد اینکه میفهمه دوس پسر 18 سالش با مادرش تو رابطس، به قصد خودکشی 40 تا قرص استامینوفن میخوره و بستری میشه!\n@TweetPublic\n✔️",
         "date": "2026-09-23T18:26:32+00:00",
@@ -13034,29 +13053,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3533"
-      },
-      {
-        "id": 3532,
-        "text": "🔴\nامروز تو همدان بعد اینکه یه مرد برای یه دختر خانم مزاحمت ایجاد میکنه و بهش تعرض میکنه؛\nمردم تو خیابون متوجه این موضوع میشن و میگیرن مرد مزاحم به این صورت لخت میکنن و میزننش تا دیگه از این غلطا نکنه....\n@TweetPublic\n✔️",
-        "date": "2026-09-16T15:34:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3532_0_86203fef.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3532_1_1af68de4.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3532"
       }
     ]
   },
-  "last_update": "2026-09-23T19:08:24.458307+00:00",
+  "last_update": "2026-09-23T21:10:55.690387+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13072,7 +13072,7 @@
     },
     "referenced_files": 773,
     "existing_media_files": 772,
-    "total_size_mb": 460.72,
-    "last_calculation": "2026-09-23T19:08:24.467597+00:00"
+    "total_size_mb": 453.28,
+    "last_calculation": "2026-09-23T21:10:55.699594+00:00"
   }
 }
