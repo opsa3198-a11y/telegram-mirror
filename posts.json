@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3645,
+        "text": "این دختر طفل معصوم که کلا 7 8 سالشه رو پدرش حرومزادش عقدش کرده و فروخته به یه نفر دیگه چون پول نیاز داشته! بعد میگه قول میدم دیگه بچه‌دار نشم!\n@TweetPublic\n✔️",
+        "date": "2026-09-23T21:53:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3645_0_3464638d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3645"
+      },
+      {
         "id": 3644,
         "text": "🔴\nاگه سخنرانی پزشکیان توی سازمان ملل رو ندیدین، این دو دقیقه رو به هیچ وجه از دست ندین.\nهر لحظه بیشتر از خنده پاره میشین :)))\n@TweetPublic\n✔️",
         "date": "2026-09-23T19:55:56+00:00",
@@ -13034,45 +13049,26 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/3534"
-      },
-      {
-        "id": 3533,
-        "text": "🔴\nیه جوونی با ماشین داشته تو خیابون میرفته که با یه موتوری درگیر میشه و موتور سوار میزنه آینه بغل ماشین رو میشکونه؛ راننده ماشین هم میفته دانبال موتور سوار و میزنتش زمین که متاسفانه راننده موتور فوت میکنه و امروز هم حکم قصاص راننده ماشین اجرا و اعدام میشه.\n+هر موقع خواستید بخاطر یه موضوعی که با صحبت و یا پول حل میشه دست به چنین کاری بزنید یاد این ویدیو بیفتید.\n@TweetPublic\n✔️",
-        "date": "2026-09-16T17:10:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3533_0_86203fef.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3533_1_ae306b2f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3533"
       }
     ]
   },
-  "last_update": "2026-09-23T21:10:55.690387+00:00",
+  "last_update": "2026-09-23T22:23:49.361209+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 773,
-    "total_files": 773,
+    "total_media": 772,
+    "total_files": 772,
     "total_links": 191,
     "files_by_type": {
       "image": 682,
-      "video": 86,
+      "video": 85,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 773,
-    "existing_media_files": 772,
-    "total_size_mb": 453.28,
-    "last_calculation": "2026-09-23T21:10:55.699594+00:00"
+    "referenced_files": 772,
+    "existing_media_files": 771,
+    "total_size_mb": 444.0,
+    "last_calculation": "2026-09-23T22:23:49.370644+00:00"
   }
 }
