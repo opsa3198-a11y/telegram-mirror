@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3627,
+        "text": "👀\nامشب روی کدوم تیم حساب کردی؟\nحدستو فقط برای رفیقات تعریف نکن؛ وارد Marcbet شو، بازی موردنظرت رو پیدا کن و قبل از شروع مسابقه پیش‌بینیت رو ثبت کن.\n⚽️\n🔥\nاز لیگ برتر انگلیس تا لالیگا، سری‌آ و بازی‌های اروپایی؛\nشب فوتبالی تو از اینجا شروع میشه.\n🎁\n50$ بونوس ثبت‌نام\n⚡️\n30٪ بونوس واریز تومانی\n💎\n100٪ بونوس واریز کریپتو",
+        "date": "2026-09-23T00:01:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3627_0_4000cb00.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3627_1_16e15c3b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3627"
+      },
+      {
         "id": 3626,
         "text": "🚨\nهم‌اکنون صدای فعال شدن پدافند در سراسر تهران بزرگ !!!!!\n@TweetPublic\n✔️",
         "date": "2026-09-22T22:09:39+00:00",
@@ -13068,29 +13087,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3518"
-      },
-      {
-        "id": 3517,
-        "text": "🔴\nخایه کنین؛ امروز توی پرواز کرمانشاه به مشهد کابین هواپیما شکست و مردم ریدن به خودشون\n😐\n@TweetPublic\n✔️",
-        "date": "2026-09-15T12:59:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3517_0_1c70a754.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3517_1_2593ebec.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3517"
       }
     ]
   },
-  "last_update": "2026-09-22T22:20:46.085335+00:00",
+  "last_update": "2026-09-23T00:45:59.191007+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -13098,15 +13098,15 @@
     "total_files": 773,
     "total_links": 197,
     "files_by_type": {
-      "image": 684,
-      "video": 84,
+      "image": 685,
+      "video": 83,
       "file": 3,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 773,
     "existing_media_files": 772,
-    "total_size_mb": 462.8,
-    "last_calculation": "2026-09-22T22:20:46.090033+00:00"
+    "total_size_mb": 459.22,
+    "last_calculation": "2026-09-23T00:45:59.196213+00:00"
   }
 }
