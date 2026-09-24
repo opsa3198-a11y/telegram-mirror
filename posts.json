@@ -11128,6 +11128,29 @@
     ],
     "TweetPublic": [
       {
+        "id": 3649,
+        "text": "اون کوله پشتی هایی که توی خیابون می بینین دارن راه میرن\n@TweetPublic\n✔️",
+        "date": "2026-09-24T04:05:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3649_0_5c0a397f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3649_1_32261398.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3649_2_23fa2373.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3649"
+      },
+      {
         "id": 3647,
         "text": "عکس رو به چت‌جی‌پی‌تی بدید و ازش بپرسید.\nFill the bag with things that resemble me\n@TweetPublic\n✔️",
         "date": "2026-09-23T23:30:19+00:00",
@@ -13027,41 +13050,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3537"
-      },
-      {
-        "id": 3536,
-        "text": "شاید دیده باشید خیلی از کانال ها دارن میگن 26 شهریور در تاریخ هخامنشی زاد روز کمبوجیه پسر کوروش هست و روز پسره.\nولی باید بگم هیچ مدرک تاریخی ای وجود نداره که این ادعا رو ثابت کنه.\n@TweetPublic\n✔️",
-        "date": "2026-09-16T21:36:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3536_0_86203fef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3536"
       }
     ]
   },
-  "last_update": "2026-09-24T03:29:44.975509+00:00",
+  "last_update": "2026-09-24T05:36:20.443715+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 773,
-    "total_files": 773,
+    "total_media": 775,
+    "total_files": 775,
     "total_links": 189,
     "files_by_type": {
-      "image": 684,
+      "image": 686,
       "video": 84,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 773,
-    "existing_media_files": 772,
-    "total_size_mb": 440.34,
-    "last_calculation": "2026-09-24T03:29:44.985416+00:00"
+    "referenced_files": 775,
+    "existing_media_files": 774,
+    "total_size_mb": 440.49,
+    "last_calculation": "2026-09-24T05:36:20.452950+00:00"
   }
 }
