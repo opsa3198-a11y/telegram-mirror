@@ -11128,6 +11128,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 3647,
+        "text": "عکس رو به چت‌جی‌پی‌تی بدید و ازش بپرسید.\nFill the bag with things that resemble me\n@TweetPublic\n✔️",
+        "date": "2026-09-23T23:30:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3647_0_3464638d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3647_1_13c7c5e2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3647_2_3f68c4b6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3647"
+      },
+      {
+        "id": 3646,
+        "text": "🏐\nقبل از اولین سرویس، پیش‌بینیت رو ثبت کن!\nبازی‌های مهم والیبال، ست‌به‌ست و امتیاز‌به‌امتیاز روی Marcbet در دسترسه.\nتیم موردنظرت رو انتخاب کن، پیش‌بینیت رو ثبت کن و بازی رو با یه هیجان متفاوت دنبال کن.\n🔥\n🎁\n50$ بونوس ثبت‌نام\n💳\n30٪ بونوس واریز تومانی\n₿ 100٪ بونوس واریز کریپتو",
+        "date": "2026-09-23T23:29:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3646_0_3464638d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3646_1_6810945b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3646"
+      },
+      {
         "id": 3645,
         "text": "این دختر طفل معصوم که کلا 7 8 سالشه رو پدرش حرومزادش عقدش کرده و فروخته به یه نفر دیگه چون پول نیاز داشته! بعد میگه قول میدم دیگه بچه‌دار نشم!\n@TweetPublic\n✔️",
         "date": "2026-09-23T21:53:28+00:00",
@@ -13000,75 +13042,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3536"
-      },
-      {
-        "id": 3535,
-        "text": "صحبتای جنجالی یک روحانی: کسی که میخواد تجاوز\nبکنه رو آزادی بهش بدید..\nچرا دخترا با هر پوششی میتونن بیان بیرون؟ پس باید برای آقایون هم آزادی باشه و اگه دلشون خواست به دخترا تعرض کنن!\n@TweetPublic\n✔️",
-        "date": "2026-09-16T19:39:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3535_0_86203fef.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3535_1_c136dd15.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3535"
-      },
-      {
-        "id": 3534,
-        "text": "🔥\nشرط بندی با سایت بین المللی تجربه کنید\n🔥\n🥇\nسایت شماره یک اروپا حالا در ایران\n🥇\n😀\n😃\n😄\n😁\n🎁\nواریز اول\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز دوم\n💖\n100% بونوس هدیه(2برابر شارژ می شوید)\n🎁\nواریز سوم\n💖\n75% بونوس هدیه\n🎁\nواریز چهارم\n💖\n50% بونوس هدیه\n💌\nکد هدیه ثبت نام: GG007\nادرس سایت:\n🤔\nhttp://til.ac/z5jcpGT\n💎\nکانال اطلاع رسانی ایران25g:\n✉️\nhttps://t.me/+yt7nQiufvRs5MDU0",
-        "date": "2026-09-16T19:34:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3534_0_86203fef.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3534_1_d4d2c55a.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "http://til.ac/z5jcpGT",
-            "type": "external",
-            "display_text": "http://til.ac/z5jcpGT"
-          },
-          {
-            "url": "https://t.me/+yt7nQiufvRs5MDU0",
-            "type": "telegram",
-            "display_text": "https://t.me/+yt7nQiufvRs5MDU0"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/TweetPublic/3534"
       }
     ]
   },
-  "last_update": "2026-09-23T22:23:49.361209+00:00",
+  "last_update": "2026-09-24T00:37:55.236450+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 772,
-    "total_files": 772,
-    "total_links": 191,
+    "total_media": 773,
+    "total_files": 773,
+    "total_links": 189,
     "files_by_type": {
-      "image": 682,
-      "video": 85,
+      "image": 684,
+      "video": 84,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 772,
-    "existing_media_files": 771,
-    "total_size_mb": 444.0,
-    "last_calculation": "2026-09-23T22:23:49.370644+00:00"
+    "referenced_files": 773,
+    "existing_media_files": 772,
+    "total_size_mb": 440.34,
+    "last_calculation": "2026-09-24T00:37:55.245634+00:00"
   }
 }
