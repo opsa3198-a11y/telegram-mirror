@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3651,
+        "text": "امروز پرواز هواپیمایی وارش، از تهران بلند میشه بره سمت تاجیکستان که کشورای همسایه ی تاجیکستان بهش اجازه ی استفاده از حریم هواییشونو نمیدن، خلبان همچنین سعی میکنه از آسمون آذربایجان به سمت تاجیکستان بره که آذربایجان هم اجازه نداد و مجبور شد دوباره به فرودگاه امام برگرده و پرواز کنسل شد.\n@TweetPublic\n✔️",
+        "date": "2026-09-24T10:24:20+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3651_0_5c0a397f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3651_1_ce949c8a.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3651"
+      },
+      {
         "id": 3649,
         "text": "اون کوله پشتی هایی که توی خیابون می بینین دارن راه میرن\n@TweetPublic\n✔️",
         "date": "2026-09-24T04:05:01+00:00",
@@ -13035,41 +13054,26 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/3538"
-      },
-      {
-        "id": 3537,
-        "text": "کم‌کم دارم پیرمرد پیرزنایی که میرن تو پارک تنها میشینن فقط اطرافو تماشا میکنن رو درک میکنم.\n@TweetPublic\n✔️",
-        "date": "2026-09-16T22:49:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3537_0_86203fef.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3537"
       }
     ]
   },
-  "last_update": "2026-09-24T06:51:35.464622+00:00",
+  "last_update": "2026-09-24T10:38:49.587831+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 775,
-    "total_files": 775,
+    "total_media": 776,
+    "total_files": 776,
     "total_links": 189,
     "files_by_type": {
       "image": 686,
-      "video": 84,
+      "video": 85,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 775,
-    "existing_media_files": 774,
-    "total_size_mb": 440.49,
-    "last_calculation": "2026-09-24T06:51:35.471749+00:00"
+    "referenced_files": 776,
+    "existing_media_files": 775,
+    "total_size_mb": 445.2,
+    "last_calculation": "2026-09-24T10:38:49.597552+00:00"
   }
 }
