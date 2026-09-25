@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3705,
+        "text": "خبرنگار: آیا درباره جنگ با ایران با رئیس‌جمهور شی گفتگو کردید؟\nترامپ: بله، گفتگو کردیم. فکر می‌کنم اوضاع‌مان عالی پیش خواهد رفت.\n@TweetPublic\n✔️",
+        "date": "2026-09-25T16:26:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3705_0_01e3acbf.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3705_1_533b157f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3705"
+      },
+      {
         "id": 3704,
         "text": "🔴\nموج جدید افغان‌هایی که از راه‌های سخت در حال ورود به خاک ایران هستن:\n@TweetPublic\n✔️",
         "date": "2026-09-25T14:19:36+00:00",
@@ -12923,29 +12942,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3582"
-      },
-      {
-        "id": 3581,
-        "text": "🇺🇸\nسفارت‌های آمریکا تو لبنان، بحرین، کویت، اردن، قطر، عراق، اسرائیل، عمان، عربستان و ترکیه، به‌خاطر بالا گرفتن تنش‌ها تو منطقه، به شهروندای آمریکایی هشدار امنیتی فوری دادن.\n@TweetPublic\n✔️",
-        "date": "2026-09-19T23:08:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3581_0_41b6c838.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3581_1_afb72dc8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3581"
       }
     ]
   },
-  "last_update": "2026-09-25T15:37:56.684556+00:00",
+  "last_update": "2026-09-25T16:43:58.845064+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12953,15 +12953,15 @@
     "total_files": 765,
     "total_links": 177,
     "files_by_type": {
-      "image": 678,
-      "video": 82,
+      "image": 677,
+      "video": 83,
       "file": 3,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 424.45,
-    "last_calculation": "2026-09-25T15:37:56.693709+00:00"
+    "total_size_mb": 425.6,
+    "last_calculation": "2026-09-25T16:43:58.851983+00:00"
   }
 }
