@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3708,
+        "text": "صحبت های عباس عراقچی در نیویورک:\nطرح هفت روزه به طرف آمریکایی ارائه شده و اگه بپذیره شرایط رو از همین فردا شروع میشه.\nدر روز ششم تنگه هرمز باز میشه و روز هفتم هم گفتگو ها برای رسیدن به توافق نهایی آغاز میشه.\nتوپ در زمین آمریکاست.\n@TweetPublic\n✔️",
+        "date": "2026-09-25T21:04:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3708_0_01e3acbf.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3708_1_486debe4.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3708"
+      },
+      {
         "id": 3707,
         "text": "🔴\nمعاون وزیر قطع ارتباطات: اینترنت به وضعیت عادی برگشت\n@TweetPublic\n✔️",
         "date": "2026-09-25T19:24:26+00:00",
@@ -12912,29 +12931,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3585"
-      },
-      {
-        "id": 3584,
-        "text": "دیشب «محسن نامجو» که به تازگی برگشته ایران، شروع کرد وسط خیابون با صدای بلند آواز خوندن که یه هموطن با دو کلمه «کیر، خفه‌شو» دهنشو بست\n@TweetPublic\n✔️",
-        "date": "2026-09-20T11:57:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3584_0_07fcf5f8.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3584_1_1867afe8.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3584"
       }
     ]
   },
-  "last_update": "2026-09-25T19:38:45.173630+00:00",
+  "last_update": "2026-09-25T21:11:02.742682+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12950,7 +12950,7 @@
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 422.6,
-    "last_calculation": "2026-09-25T19:38:45.182893+00:00"
+    "total_size_mb": 425.32,
+    "last_calculation": "2026-09-25T21:11:02.751971+00:00"
   }
 }
