@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3685,
+        "text": "🔴\nبه جای اینکه 500 میلیون بدین به آیفون یک گاو بخرین 4 سال بعد نتیجه بگیرین\n@TweetPublic\n✔️",
+        "date": "2026-09-24T22:47:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3685_0_5c0a397f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3685_1_bc916560.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3685"
+      },
+      {
         "id": 3684,
         "text": "«ولز می‌جنگه؛ پرتغال بازی می‌سازه»\nولز از اون تیم‌هاست که اجازه نمی‌ده بازی راحت و تمیز جلو بره؛\nپرتغال هم اگه فضا پیدا کنه، با کیفیت فردی و سرعتش می‌تونه هر لحظه ضربه بزنه.\n🇵🇹\n⚔️\n🏴\nجنگندگی ولز جواب می‌ده یا کلاس پرتغال؟\n👀",
         "date": "2026-09-24T22:44:46+00:00",
@@ -12948,29 +12967,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3572"
-      },
-      {
-        "id": 3571,
-        "text": "🔴\nپدر مهسا امینی(امجد امینی) با انتشار عکس دخترش و قرار دادنش کنار پرچم اقلیم کردستان، خودش رو تجزیه طلب اعلام کرد. کاربران فضای مجازی هم واکنش های تندی بهش نشون دادن:\n@TweetPublic\n✔️",
-        "date": "2026-09-19T13:15:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3571_0_41b6c838.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3571_1_b8b97a6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3571"
       }
     ]
   },
-  "last_update": "2026-09-24T22:47:20.617145+00:00",
+  "last_update": "2026-09-25T00:59:15.521269+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12986,7 +12986,7 @@
     },
     "referenced_files": 767,
     "existing_media_files": 766,
-    "total_size_mb": 417.88,
-    "last_calculation": "2026-09-24T22:47:20.623154+00:00"
+    "total_size_mb": 417.8,
+    "last_calculation": "2026-09-25T00:59:15.530932+00:00"
   }
 }
