@@ -11128,6 +11128,55 @@
     ],
     "TweetPublic": [
       {
+        "id": 3720,
+        "text": "تیرخلاص ترامپ به تفاهم‌نامه با ایران\n🔴\nالعربیه: ترامپ اعلام کرده که امکان بازگشت به تفاهم‌نامه با ایران وجود ندارد\n@TweetPublic\n✔️",
+        "date": "2026-09-26T14:23:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3720_0_ccf911f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3720"
+      },
+      {
+        "id": 3719,
+        "text": "صدا و سیما:\nاول ما پیشنهاد آمریکا رو رد کردیم\n@TweetPublic\n✔️",
+        "date": "2026-09-26T14:23:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3719_0_ccf911f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3719"
+      },
+      {
+        "id": 3718,
+        "text": "جمع آوری لباس‌های بدن نما و دارای طرح‌های خاص توسط پلیس در فضای مجازی و بوتیک ها\n@TweetPublic\n✔️",
+        "date": "2026-09-26T11:47:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3718_0_ccf911f5.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3718_1_e88d9a02.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3718"
+      },
+      {
         "id": 3717,
         "text": "🔴\nدخترا، این روزا خیلی حواستون به دوست صمیمی‌تون باشه!\nیه دختر 18 ساله یه مدت به خونه صمیمی‌ترین دوستش که مامان باباش طلاق گرفته بودن، رفت و آمد داشته.\nبعد از یه مدت، دختره رو بابای دوستش که 47 سالش بوده کراش میزنه و مخِ بابای صمیمی‌ترین دوستشو میزنه تا باهم ازدواج کنن!\nدر حال حاضرم تبدیل شده به نامادری صمیمی‌ترین دوستش.\n@TweetPublic\n✔️",
         "date": "2026-09-26T11:36:04+00:00",
@@ -12871,59 +12920,10 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/3598"
-      },
-      {
-        "id": 3597,
-        "text": "زنه روهم می‌کشتم اونم مقصره خب مرده ک بزور این کارو نکرده البته قبلش میپرسیدم ک چرا ب چ دلیل ک بعدش جواب سوالامو بدم/:",
-        "date": "2026-09-20T21:01:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3597_0_07fcf5f8.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3597_1_77e1f8ff.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3597"
-      },
-      {
-        "id": 3596,
-        "text": "همونجا یه چای میزدیم دور هم میچسبه",
-        "date": "2026-09-20T20:58:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3596_0_07fcf5f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3596"
-      },
-      {
-        "id": 3595,
-        "text": "زنه روهم می‌کشتم اونم مقصره خب مرده ک بزور این کارو نکرده البته قبلش میپرسیدم ک چرا ب چ دلیل ک بعدش جواب سوالامو بدم/:",
-        "date": "2026-09-20T20:58:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3595_0_07fcf5f8.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3595"
       }
     ]
   },
-  "last_update": "2026-09-26T11:36:20.074948+00:00",
+  "last_update": "2026-09-26T15:14:12.194064+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12931,15 +12931,15 @@
     "total_files": 765,
     "total_links": 173,
     "files_by_type": {
-      "image": 677,
-      "video": 83,
+      "image": 676,
+      "video": 84,
       "file": 3,
       "document": 1,
       "audio": 1
     },
     "referenced_files": 765,
     "existing_media_files": 764,
-    "total_size_mb": 425.02,
-    "last_calculation": "2026-09-26T11:36:20.081948+00:00"
+    "total_size_mb": 430.8,
+    "last_calculation": "2026-09-26T15:14:12.200698+00:00"
   }
 }
