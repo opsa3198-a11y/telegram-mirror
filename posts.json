@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3728,
+        "text": "🔴\nگوگل ساخت ایمیل برای ایرانی هارو تحریم کرد و از این لحظه به بعد دیگه نمیتونید جیمیل جدید بسازید!\n@TweetPublic\n✔️",
+        "date": "2026-09-26T22:44:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3728_0_ccf911f5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3728_1_1a7d8cdc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3728"
+      },
+      {
+        "id": 3727,
+        "text": "«قدرت انگلیس یا تکنیک اسپانیا؟»\nانگلیس با سرعت، قدرت و بازی مستقیم میاد؛\nاسپانیا هم می‌خواد با مالکیت و پاس‌های کوتاه، ریتم بازی رو کامل دست خودش بگیره.\n🏴\n⚔️\n🇪🇸\nکدوم سبک آخرش جواب می‌ده؟\n👀\nتو با کدوم تیمی؟\n💥",
+        "date": "2026-09-26T22:43:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3727_0_ccf911f5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3727_1_efc23e53.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3727"
+      },
+      {
         "id": 3726,
         "text": "🔻\nوضعیت اینترنت کشور\nدرحال حاضر اینترنت کشور به‌طور کامل قطع نیست، اما اختلال و افت کیفیت در برخی مسیرهای داخلی و بین‌المللی مشاهده می‌شود. همچنین بخشی از اختلالات به مسیرهای بین‌المللی عبوری از روسیه مربوط است.\n- وضعیت: ناپایدار / همراه با اختلال\n- اینترنت بین‌الملل: دارای اختلال در برخی مسیرها\n@TweetPublic\n✔️",
         "date": "2026-09-26T20:31:38+00:00",
@@ -12892,60 +12930,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3606"
-      },
-      {
-        "id": 3605,
-        "text": "❗️\n🇺🇸\nبسنت، وزیر خزانه‌داری آمریکا: در روز 23 سپتامبر 2026 (پس‌فردا) خطوط هوایی ایران از پرواز به تمامی مقاصد بین‌المللی منع خواهند شد.\n@TweetPublic\n✔️",
-        "date": "2026-09-21T14:41:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3605_0_b5af2876.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3605"
-      },
-      {
-        "id": 3604,
-        "text": "🏐\nقبل از اولین سرویس، پیش‌بینیت رو ثبت کن!\nبازی‌های مهم والیبال، ست‌به‌ست و امتیاز‌به‌امتیاز روی Marcbet در دسترسه.\nتیم موردنظرت رو انتخاب کن، پیش‌بینیت رو ثبت کن و بازی رو با یه هیجان متفاوت دنبال کن.\n🔥\n🎁\n50$ بونوس ثبت‌نام\n💳\n30٪ بونوس واریز تومانی\n₿ 100٪ بونوس واریز کریپتو",
-        "date": "2026-09-21T14:40:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3604_0_b5af2876.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3604_1_b486460f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3604"
       }
     ]
   },
-  "last_update": "2026-09-26T21:40:16.732551+00:00",
+  "last_update": "2026-09-26T23:59:05.054394+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 769,
+    "total_files": 769,
     "total_links": 172,
     "files_by_type": {
-      "image": 679,
+      "image": 680,
       "video": 84,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 433.53,
-    "last_calculation": "2026-09-26T21:40:16.742054+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 433.6,
+    "last_calculation": "2026-09-26T23:59:05.063906+00:00"
   }
 }
