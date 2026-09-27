@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3729,
+        "text": "🔴\nترامپ پستی که 17 روز پیش توی ایکس منتشر کرد رو دوباره ری‌پست کرد:\nمردم بزرگ ایران، زمان آزادی شما فرا رسیده، وقتی ما کارمونو انجام دادیم و کارمون تموم شد شما امور کشور رو به دست بگیرین، این کشور مالِ شماست.\n@TweetPublic\n✔️",
+        "date": "2026-09-27T07:02:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3729_0_42286e16.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3729_1_307145f9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3729"
+      },
+      {
         "id": 3728,
         "text": "🔴\nگوگل ساخت ایمیل برای ایرانی هارو تحریم کرد و از این لحظه به بعد دیگه نمیتونید جیمیل جدید بسازید!\n@TweetPublic\n✔️",
         "date": "2026-09-26T22:44:28+00:00",
@@ -12915,41 +12934,26 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3607"
-      },
-      {
-        "id": 3606,
-        "text": "عربستان به دنبال حذف ایران از جام ملت‌ها\n🔹\nگفته می‌شود برخی از کشورهای منطقه با هدایت عربستان در تلاش هستند که با فشار به فیفا، فوتبال ایران را در آستانه جام ملت‌های آسیا تعلیق کنند. این یعنی احتمال حذف تیم ملی از جام ملت‌های آسیا وجود دارد.\n🔹\nافراد مطلع بر این باور هستند که این پروژه شبیه پروژه‌ای است که برای فوتبال روسیه در محافل بین‌المللی رقم خورد/فارس\n@TweetPublic\n✔️",
-        "date": "2026-09-21T15:07:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3606_0_b5af2876.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3606"
       }
     ]
   },
-  "last_update": "2026-09-27T04:02:22.621157+00:00",
+  "last_update": "2026-09-27T07:14:55.203100+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 172,
     "files_by_type": {
       "image": 680,
-      "video": 84,
+      "video": 85,
       "file": 3,
       "document": 1,
       "audio": 1
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 433.6,
-    "last_calculation": "2026-09-27T04:02:22.628813+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 438.85,
+    "last_calculation": "2026-09-27T07:14:55.212369+00:00"
   }
 }
