@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3750,
+        "text": "🔴\nبیژن مرتضوی بعد از 20 سال به ایران بازگشت\n@TweetPublic\n✔️",
+        "date": "2026-09-28T08:48:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3750_0_ffc95a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3750_1_87d6bd6f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3750"
+      },
+      {
+        "id": 3749,
+        "text": "🔺\nبانس‌های فوق خفن مل‌بت\n🔺\n🫴\n100 درصد پاداش اولین واریز\n😀\n100 درصد بانس یکشنبه ها\n🎁\n100 درصد بانس چهارشنبه ها\n🔹\nهر روز 1 چرخش گردونه 1 یورویی\n😀\n3 درصد باز پرداخت نقدی\n😀\nبانس شرط رایگان 30 دلاری\n🎩\n10 درصد باز پرداخت نقدی کازینو\n🎆\nبانس هدیه روز تولد\n💵\nو چندین بانس دیگر از جمله بانس خوش‌آمد گویی، بانس شرطبندی طولانی مدت، بانس 1750 یورویی کازینو و...\n💰\nهنگام ثبت‌نام با وارد کردن کد هدیه Sport100 بانس 100 دلاری رایگان دریافت کنید!\n🆕\nمعرفی سایت و اپلیکیشن مل‌بت\n🆓\nورود به سایت مل‌بت (فیلترشکن خاموش\n)",
+        "date": "2026-09-28T08:47:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3749_0_ffc95a2d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3749"
+      },
+      {
         "id": 3748,
         "text": "جو میدی چرا داداش؟\n242.600 هست",
         "date": "2026-09-28T07:40:36+00:00",
@@ -12888,64 +12922,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3628"
-      },
-      {
-        "id": 3627,
-        "text": "👀\nامشب روی کدوم تیم حساب کردی؟\nحدستو فقط برای رفیقات تعریف نکن؛ وارد Marcbet شو، بازی موردنظرت رو پیدا کن و قبل از شروع مسابقه پیش‌بینیت رو ثبت کن.\n⚽️\n🔥\nاز لیگ برتر انگلیس تا لالیگا، سری‌آ و بازی‌های اروپایی؛\nشب فوتبالی تو از اینجا شروع میشه.\n🎁\n50$ بونوس ثبت‌نام\n⚡️\n30٪ بونوس واریز تومانی\n💎\n100٪ بونوس واریز کریپتو",
-        "date": "2026-09-23T00:01:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3627_0_4000cb00.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3627_1_16e15c3b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3627"
-      },
-      {
-        "id": 3626,
-        "text": "🚨\nهم‌اکنون صدای فعال شدن پدافند در سراسر تهران بزرگ !!!!!\n@TweetPublic\n✔️",
-        "date": "2026-09-22T22:09:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3626_0_4000cb00.jpg"
-          },
-          {
-            "type": "audio",
-            "file": "TweetPublic_3626_1_e20d6dc9.ogg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3626"
       }
     ]
   },
-  "last_update": "2026-09-28T07:49:54.703368+00:00",
+  "last_update": "2026-09-28T12:11:17.707943+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 172,
     "files_by_type": {
       "image": 682,
       "video": 81,
       "file": 3,
-      "document": 1,
-      "audio": 1
+      "document": 1
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 403.92,
-    "last_calculation": "2026-09-28T07:49:54.712542+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 403.76,
+    "last_calculation": "2026-09-28T12:11:17.717058+00:00"
   }
 }
