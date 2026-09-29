@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3770,
+        "text": "🔴\nیه زن توی اصفهان با یه سوتین رفته تو بانک و میگه چرا بهم خدمات نمیدید؟\nکارمند بانک میگه من مجبور نیستم سرم پایین باشه و خدمات بدم، زنه میگه خب نگاه کن و خدمات بده، طرف میگه حالم بد میشه خب ممه هاتو میبینم، شما رعایت کنید\n.\n@TweetPublic\n✔️",
+        "date": "2026-09-29T12:00:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3770_0_d1a02c6d.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3770_1_572d89c0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3770"
+      },
+      {
         "id": 3769,
         "text": "⭕️\nدلار به 254 هزار تومن رسید\n@TweetPublic\n✔️",
         "date": "2026-09-29T10:55:56+00:00",
@@ -12851,29 +12870,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3652"
-      },
-      {
-        "id": 3651,
-        "text": "امروز پرواز هواپیمایی وارش، از تهران بلند میشه بره سمت تاجیکستان که کشورای همسایه ی تاجیکستان بهش اجازه ی استفاده از حریم هواییشونو نمیدن، خلبان همچنین سعی میکنه از آسمون آذربایجان به سمت تاجیکستان بره که آذربایجان هم اجازه نداد و مجبور شد دوباره به فرودگاه امام برگرده و پرواز کنسل شد.\n@TweetPublic\n✔️",
-        "date": "2026-09-24T10:24:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3651_0_5c0a397f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3651_1_ce949c8a.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3651"
       }
     ]
   },
-  "last_update": "2026-09-29T11:42:11.523281+00:00",
+  "last_update": "2026-09-29T12:16:03.207037+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12888,7 +12888,7 @@
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 391.05,
-    "last_calculation": "2026-09-29T11:42:11.530584+00:00"
+    "total_size_mb": 390.59,
+    "last_calculation": "2026-09-29T12:16:03.216069+00:00"
   }
 }
