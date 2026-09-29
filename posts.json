@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3765,
+        "text": "🔴\nتتر به 248 هزارتومان رسید  @TweetPublic\n✔️",
+        "date": "2026-09-29T01:53:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3765_0_d1a02c6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3765"
+      },
+      {
         "id": 3764,
         "text": "⭐️\n«ایتالیا نظم میاره؛ ترکیه آتیش»\nایتالیا دوست داره بازی رو کنترل کنه و اشتباه نکنه؛\nترکیه هم از اون تیم‌هاست که اگه ریتم بگیره، می‌تونه بازی رو خیلی سریع شلوغ کنه.\n🇮🇹\n⚔️\n🇹🇷\nنظم ایتالیا جواب می‌ده یا انرژی ترکیه؟\n🔥",
         "date": "2026-09-28T23:25:01+00:00",
@@ -12875,44 +12890,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3645"
-      },
-      {
-        "id": 3644,
-        "text": "🔴\nاگه سخنرانی پزشکیان توی سازمان ملل رو ندیدین، این دو دقیقه رو به هیچ وجه از دست ندین.\nهر لحظه بیشتر از خنده پاره میشین :)))\n@TweetPublic\n✔️",
-        "date": "2026-09-23T19:55:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3644_0_3464638d.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3644_1_40827e19.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3644"
       }
     ]
   },
-  "last_update": "2026-09-29T00:01:36.198895+00:00",
+  "last_update": "2026-09-29T04:36:41.779179+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 760,
-    "total_files": 760,
+    "total_media": 759,
+    "total_files": 759,
     "total_links": 172,
     "files_by_type": {
       "image": 679,
-      "video": 77,
+      "video": 76,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 760,
-    "existing_media_files": 759,
-    "total_size_mb": 393.11,
-    "last_calculation": "2026-09-29T00:01:36.207887+00:00"
+    "referenced_files": 759,
+    "existing_media_files": 758,
+    "total_size_mb": 391.44,
+    "last_calculation": "2026-09-29T04:36:41.788111+00:00"
   }
 }
