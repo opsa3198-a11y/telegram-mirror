@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3772,
+        "text": "میلی‌گلد هم رسما با بدهی‌ای نزدیک به 980 کیلوگرم طلا رسماً دفترشو بست تا یه اختلاس دیگه تو مملکت امام‌زمان به ثبت برسه. این اختلاس با قیمت لحظه‌ای طلا چیزی حدود 15 همت پول مردم بدبخت ایرانه.\n@TweetPublic\n✔️",
+        "date": "2026-09-29T16:09:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3772_0_d1a02c6d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3772_1_b7a51a2f.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3772"
+      },
+      {
+        "id": 3771,
+        "text": "دلار 175 و طلا 20 میلیون  @TweetPublic\n✔️",
+        "date": "2026-09-29T13:30:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3771_0_d1a02c6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3771"
+      },
+      {
         "id": 3770,
         "text": "🔴\nیه زن توی اصفهان با یه سوتین رفته تو بانک و میگه چرا بهم خدمات نمیدید؟\nکارمند بانک میگه من مجبور نیستم سرم پایین باشه و خدمات بدم، زنه میگه خب نگاه کن و خدمات بده، طرف میگه حالم بد میشه خب ممه هاتو میبینم، شما رعایت کنید\n.\n@TweetPublic\n✔️",
         "date": "2026-09-29T12:00:27+00:00",
@@ -12836,44 +12870,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3654"
-      },
-      {
-        "id": 3653,
-        "text": "✈️\nاپلیکیشن MelBet\n🥇\n🎁\nکد هدیه 100 دلاری:\nSport100\n🔒\nبرای تعیین رمز ورود حداقل از 8 کاراکتر و حروف بزرگ و کوچک انگلیسی و اعداد انگلیسی استفاده کنید، مانند Hamid120\n🇮🇷\nبرای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.\n✅\nورود به اپلیکیشن بدون فیلترشکن",
-        "date": "2026-09-24T11:00:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3653_0_5c0a397f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3653"
-      },
-      {
-        "id": 3652,
-        "text": "▶️\nدیدار فوووق جذااااب\nپرتغال\nو\nولز\nرو با آپشن های تخصصی در\nMelBet\nپیشبینی کنید!\n🔥\n💵\nامکان شارژ\nکارت بکارت\nو\nهات ووچر\n🎁\nقرعه کشی و آفر های جذاب با جوایز ویژه\n🌐\nدانلود مستقیم اپلیکیشن اندروید\n🤝\nاسپانسر رسمی لالیگا\n🇮🇷\nپشتیبانی از زبان فارسی\n✍️\nحرفه ای، مطمئن و در کلاس جهانی پیشبینی کنید!\nبرای ورود به سایت فیلترشکن خود را خاموش کنید!\n‌\n✅\nLink\n🔜\nMelBet1.net\n✅\n‌\nLink\n🔜\nMelBet1.net",
-        "date": "2026-09-24T11:00:03+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3652_0_5c0a397f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3652_1_6e2f5bdf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3652"
       }
     ]
   },
-  "last_update": "2026-09-29T12:16:03.207037+00:00",
+  "last_update": "2026-09-29T17:08:42.715735+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12888,7 +12888,7 @@
     },
     "referenced_files": 754,
     "existing_media_files": 753,
-    "total_size_mb": 390.59,
-    "last_calculation": "2026-09-29T12:16:03.216069+00:00"
+    "total_size_mb": 390.56,
+    "last_calculation": "2026-09-29T17:08:42.724945+00:00"
   }
 }
