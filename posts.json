@@ -11128,6 +11128,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3769,
+        "text": "⭕️\nدلار به 254 هزار تومن رسید\n@TweetPublic\n✔️",
+        "date": "2026-09-29T10:55:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3769_0_d1a02c6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3769"
+      },
+      {
+        "id": 3768,
+        "text": "💛\nهنوز توی MelBet با این همه آپشن خفن و ضرایب فوق العاده ثبتنام نکردی\n⁉️\nبعد میاید سوال میکنید کدوم سایت معتبره\n❗️\n👀\nاگه میخواید توی شرطبندی موفق باشید و درآمد کسب کنید در اولین قدم باید سایتی با آپشن های بی نظیر و ضرایب استاندارد و امنیت مالی بالا داشته باشید\n✔️\n🎚️\nهمین حالا از طریق لینک زیر ثبتنام کنید و وارد دنیای جدیدی از شرطبندی بشید\n🆕\n🎁\nکد هدیه 100 دلاری: Sport100\n7T\n✅\nمعرفی سایت و اپلیکیشن مل‌بت\n💛\nورود به سایت مل‌بت (فیلترشکن خاموش\n)",
+        "date": "2026-09-29T10:54:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3768_0_d1a02c6d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3768"
+      },
+      {
         "id": 3767,
         "text": "قالیباف در واکنش به ترامپ: «بچرخ تا بچرخیم»\nمحمدباقر قالیباف، رئیس مجلس، در نطق امروز خود به سخنان اخیر دونالد ترامپ در مجمع عمومی سازمان ملل واکنش نشان داد و مواضع او را «سبک‌سرانه» و توهین‌آمیز علیه ملت ایران توصیف کرد.\n🔹\nقالیباف گفت: این سخنان نشان می‌دهد آمریکا به گفته او هنوز رفتار خود را تغییر نداده و در پاسخ به آن اظهار کرد: «بچرخ تا بچرخیم.»\n🔹\nرئیس مجلس همچنین گفت: دوران «ارعاب و تهدید» ایران پایان یافته و تأکید کرد جمهوری اسلامی در برابر هرگونه تعدی یا اقدام نظامی، پاسخ «سخت،دقیق و سریع»خواهد داد.﻿\n@TweetPublic\n✔️",
         "date": "2026-09-29T06:54:16+00:00",
@@ -12840,71 +12870,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3651"
-      },
-      {
-        "id": 3649,
-        "text": "اون کوله پشتی هایی که توی خیابون می بینین دارن راه میرن\n@TweetPublic\n✔️",
-        "date": "2026-09-24T04:05:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3649_0_5c0a397f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3649_1_32261398.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3649_2_23fa2373.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3649"
-      },
-      {
-        "id": 3647,
-        "text": "عکس رو به چت‌جی‌پی‌تی بدید و ازش بپرسید.\nFill the bag with things that resemble me\n@TweetPublic\n✔️",
-        "date": "2026-09-23T23:30:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3647_0_3464638d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3647_1_13c7c5e2.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3647_2_3f68c4b6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3647"
       }
     ]
   },
-  "last_update": "2026-09-29T07:35:39.682290+00:00",
+  "last_update": "2026-09-29T11:42:11.523281+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 754,
+    "total_files": 754,
     "total_links": 172,
     "files_by_type": {
-      "image": 678,
+      "image": 674,
       "video": 76,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 391.34,
-    "last_calculation": "2026-09-29T07:35:39.691618+00:00"
+    "referenced_files": 754,
+    "existing_media_files": 753,
+    "total_size_mb": 391.05,
+    "last_calculation": "2026-09-29T11:42:11.530584+00:00"
   }
 }
