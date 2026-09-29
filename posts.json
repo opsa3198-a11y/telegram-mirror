@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3764,
+        "text": "⭐️\n«ایتالیا نظم میاره؛ ترکیه آتیش»\nایتالیا دوست داره بازی رو کنترل کنه و اشتباه نکنه؛\nترکیه هم از اون تیم‌هاست که اگه ریتم بگیره، می‌تونه بازی رو خیلی سریع شلوغ کنه.\n🇮🇹\n⚔️\n🇹🇷\nنظم ایتالیا جواب می‌ده یا انرژی ترکیه؟\n🔥",
+        "date": "2026-09-28T23:25:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3764_0_ffc95a2d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3764_1_77a15be7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3764"
+      },
+      {
         "id": 3763,
         "text": "🔴\nتتر به 248 هزارتومان رسید\n@TweetPublic\n✔️",
         "date": "2026-09-28T22:20:17+00:00",
@@ -12875,29 +12894,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3644"
-      },
-      {
-        "id": 3643,
-        "text": "🔴\nیه دختر 16 ساله کلاس دهمی بعد اینکه میفهمه دوس پسر 18 سالش با مادرش تو رابطس، به قصد خودکشی 40 تا قرص استامینوفن میخوره و بستری میشه!\n@TweetPublic\n✔️",
-        "date": "2026-09-23T18:26:32+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3643_0_3464638d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3643_1_0a947d7c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3643"
       }
     ]
   },
-  "last_update": "2026-09-28T22:59:17.265388+00:00",
+  "last_update": "2026-09-29T00:01:36.198895+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12912,7 +12912,7 @@
     },
     "referenced_files": 760,
     "existing_media_files": 759,
-    "total_size_mb": 393.05,
-    "last_calculation": "2026-09-28T22:59:17.274629+00:00"
+    "total_size_mb": 393.11,
+    "last_calculation": "2026-09-29T00:01:36.207887+00:00"
   }
 }
