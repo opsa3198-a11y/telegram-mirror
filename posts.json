@@ -11128,6 +11128,31 @@
     ],
     "TweetPublic": [
       {
+        "id": 3777,
+        "text": "https://t.me/TweetPublic/3776\nدروغ نگو دلار هنوز ۱۳۷تومنه",
+        "date": "2026-09-29T21:36:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3777_0_d1a02c6d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3777_1_2e3ea09d.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/TweetPublic/3776",
+            "type": "telegram",
+            "display_text": "https://t.me/TweetPublic/3776"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/TweetPublic/3777"
+      },
+      {
         "id": 3776,
         "text": "یادش بخیر واقعا دلمون واسه دلار 255 هزارتومنی هم تنگ میشه واقعا  @TweetPublic\n✔️",
         "date": "2026-09-29T21:02:21+00:00",
@@ -12839,48 +12864,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3661"
-      },
-      {
-        "id": 3659,
-        "text": "🔴\nمجله تی سی کندلر، محمدرضا گلزار رو به عنوان جذاب‌ترین مرد ایران تو سال 2026 و جز 100 مرد جذاب جهان معرفی کرد...\n@TweetPublic\n✔️",
-        "date": "2026-09-24T18:00:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3659_0_5c0a397f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3659_1_bb595466.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3659_2_fe2e60db.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3659"
       }
     ]
   },
-  "last_update": "2026-09-29T21:28:11.011330+00:00",
+  "last_update": "2026-09-29T21:57:36.314277+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 752,
-    "total_files": 752,
-    "total_links": 172,
+    "total_media": 751,
+    "total_files": 751,
+    "total_links": 173,
     "files_by_type": {
-      "image": 674,
+      "image": 673,
       "video": 74,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 752,
-    "existing_media_files": 751,
-    "total_size_mb": 386.91,
-    "last_calculation": "2026-09-29T21:28:11.020368+00:00"
+    "referenced_files": 751,
+    "existing_media_files": 750,
+    "total_size_mb": 386.74,
+    "last_calculation": "2026-09-29T21:57:36.323408+00:00"
   }
 }
