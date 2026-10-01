@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3807,
+        "text": "وقتی با راننده اسنپ بحث سیاسی میکنی :\n@TweetPublic\n✔️",
+        "date": "2026-10-01T06:54:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3807_0_8ce38964.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3807_1_1db61e8c.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3807"
+      },
+      {
         "id": 3806,
         "text": "🎰\nهر دست، یه تصمیم؛ هر بازی، یه هیجان تازه.\nاز بازی‌های کارتی و میزهای زنده تا اسلات و کازینو آنلاین، همه‌چی توی Marcbet آماده‌ست.\nبازی موردعلاقه‌تو انتخاب کن و وارد فضای کازینو شو.\n🃏\n🔥\nبونوس ویژه واریز کریپتو\n⭐️",
         "date": "2026-09-30T23:04:00+00:00",
@@ -12849,40 +12868,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3704"
-      },
-      {
-        "id": 3702,
-        "text": "🔴\nاختلال در چند مسیر ارتباطی اینترنت ایران ثبت شد\n🔹\nداده‌های پایش شبکه امروز از اختلال و افت کیفیت در چند مسیر ارتباطی اینترنت ایران خبر می‌دهد؛ هم‌زمان، اختلال اینترنت در استان‌های مازندران و مرکزی نیز در سامانه پایش مستقل آی‌اودی‌ای ثبت و تأیید شده است.\n@TweetPublic\n✔️",
-        "date": "2026-09-25T12:51:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3702_0_01e3acbf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3702"
       }
     ]
   },
-  "last_update": "2026-10-01T04:32:21.322714+00:00",
+  "last_update": "2026-10-01T07:19:30.891931+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 175,
     "files_by_type": {
       "image": 676,
-      "video": 68,
+      "video": 69,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 367.13,
-    "last_calculation": "2026-10-01T04:32:21.332469+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 368.2,
+    "last_calculation": "2026-10-01T07:19:30.900884+00:00"
   }
 }
