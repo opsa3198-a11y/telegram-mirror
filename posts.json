@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3806,
+        "text": "🎰\nهر دست، یه تصمیم؛ هر بازی، یه هیجان تازه.\nاز بازی‌های کارتی و میزهای زنده تا اسلات و کازینو آنلاین، همه‌چی توی Marcbet آماده‌ست.\nبازی موردعلاقه‌تو انتخاب کن و وارد فضای کازینو شو.\n🃏\n🔥\nبونوس ویژه واریز کریپتو\n⭐️",
+        "date": "2026-09-30T23:04:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3806_0_62dfa03f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3806_1_b537ee45.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3806"
+      },
+      {
         "id": 3805,
         "text": "خبرنگار: شما ایرانی‌ها را «دیوانه» توصیف می‌کنید. چطور می‌توان با افراد «دیوانه» به توافق رسید؟\n🔴\nترامپ: شاید آنها را بمباران کنیم. باید درباره این موضوع تصمیم بگیریم؛ یا آنها را بمباران می‌کنیم یا به توافق می‌رسیم. زمان تصمیم‌گیری نزدیک است. این ماجرا خیلی زود به پایان خواهد رسید\n@TweetPublic\n✔️",
         "date": "2026-09-30T21:23:54+00:00",
@@ -12845,29 +12864,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3702"
-      },
-      {
-        "id": 3701,
-        "text": "در مشهد، این آقا یک فقره چک رمزدار به مبلغ صد میلیون تومان برای شفای همسرش نذر کرده و آن را داخل ضریح امام رضا انداخته است. پس از مدتی، با فوت همسرش بالای ضریح رفته و می‌گوید تا زمانی که پولش را پس ندهند پایین نمیاد.\n@TweetPublic\n✔️",
-        "date": "2026-09-25T12:11:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3701_0_01e3acbf.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3701_1_a03c1f43.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3701"
       }
     ]
   },
-  "last_update": "2026-09-30T22:25:52.568200+00:00",
+  "last_update": "2026-10-01T01:22:24.198960+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12875,14 +12875,14 @@
     "total_files": 748,
     "total_links": 175,
     "files_by_type": {
-      "image": 675,
-      "video": 69,
+      "image": 676,
+      "video": 68,
       "file": 3,
       "document": 1
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 369.83,
-    "last_calculation": "2026-09-30T22:25:52.575695+00:00"
+    "total_size_mb": 367.13,
+    "last_calculation": "2026-10-01T01:22:24.208048+00:00"
   }
 }
