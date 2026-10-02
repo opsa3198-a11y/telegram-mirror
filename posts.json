@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3832,
+        "text": "منو دختر خوشگله تو راه خونه بعد از یه روز پاییزی خنک\n@TweetPublic\n✔️",
+        "date": "2026-10-02T20:06:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3832_0_146b130c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3832_1_d3fedbb4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3832"
+      },
+      {
         "id": 3831,
         "text": "🔴\nدو روز پیش یه مرده تو تهران بعد از اینکه زنش به‌خاطر اختلافات خانوادگی خونه رو ترک کرده و گفته بود میخواد طلاق بگیره، با یه گالن بنزین رفته خونه خانواده همسرش تو محله خاک‌سفید و اونجا رو به آتیش کشیده؛\nتوی این حادثه، خود مرده و مادرزنش بر اثر سوختگی شدید جونشون رو از دست دادن...\nهمسر مرد، برادرزنش، یکی از کارکنان آرایشگاه طبقه پایین ساختمون و یه مشتری هم مصدوم شدن و برای درمان به بیمارستان منتقل شدن.\nزنه هم دچار سوختگی شد و الان وضعیت جسمیش بهتره.\n@TweetPublic\n✔️",
         "date": "2026-10-02T17:46:11+00:00",
@@ -12855,29 +12874,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3729"
-      },
-      {
-        "id": 3728,
-        "text": "🔴\nگوگل ساخت ایمیل برای ایرانی هارو تحریم کرد و از این لحظه به بعد دیگه نمیتونید جیمیل جدید بسازید!\n@TweetPublic\n✔️",
-        "date": "2026-09-26T22:44:28+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3728_0_ccf911f5.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3728_1_1a7d8cdc.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3728"
       }
     ]
   },
-  "last_update": "2026-10-02T17:48:48.501831+00:00",
+  "last_update": "2026-10-02T20:13:13.973523+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12892,7 +12892,7 @@
     },
     "referenced_files": 749,
     "existing_media_files": 748,
-    "total_size_mb": 361.65,
-    "last_calculation": "2026-10-02T17:48:48.508432+00:00"
+    "total_size_mb": 361.64,
+    "last_calculation": "2026-10-02T20:13:13.979056+00:00"
   }
 }
