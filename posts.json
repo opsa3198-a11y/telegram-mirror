@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3822,
+        "text": "⭕️\nصداوسیما:\nهمه هنرمندا و خواننده ها دارن برمیگردن به ایران ؛  رضا پهلوی هم میتونه برگرده و به عنوان یه شهروند عادی زندگی کنه.\n@TweetPublic\n✔️",
+        "date": "2026-10-02T06:29:56+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3822_0_146b130c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3822"
+      },
+      {
+        "id": 3821,
+        "text": "🔺\nقوانین جدید استفاده از کارت آزاد جایگاه‌ها\n🔹\nبه گزارش فرکانس انرژی، در سازوکار جدید سوخت‌گیری با کارت آزاد جایگاه، احراز هویت از طریق کارت بانکی معتبر و دریافت رمز یک‌بارمصرف انجام می‌شود.\n@TweetPublic\n✔️",
+        "date": "2026-10-02T05:58:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3821_0_146b130c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3821_1_a0b275ba.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3821"
+      },
+      {
         "id": 3820,
         "text": "بنده و حرفایي که توي دلم بود و نگفتم:\n@TweetPublic\n✔️",
         "date": "2026-10-01T22:25:33+00:00",
@@ -12840,44 +12874,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3718"
-      },
-      {
-        "id": 3717,
-        "text": "🔴\nدخترا، این روزا خیلی حواستون به دوست صمیمی‌تون باشه!\nیه دختر 18 ساله یه مدت به خونه صمیمی‌ترین دوستش که مامان باباش طلاق گرفته بودن، رفت و آمد داشته.\nبعد از یه مدت، دختره رو بابای دوستش که 47 سالش بوده کراش میزنه و مخِ بابای صمیمی‌ترین دوستشو میزنه تا باهم ازدواج کنن!\nدر حال حاضرم تبدیل شده به نامادری صمیمی‌ترین دوستش.\n@TweetPublic\n✔️",
-        "date": "2026-09-26T11:36:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3717_0_ccf911f5.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3717_1_1aa2a068.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3717"
-      },
-      {
-        "id": 3716,
-        "text": "✈️\nاپلیکیشن MelBet\n🥇\n🎁\nکد هدیه 100 دلاری:\nSport100\n🔒\nبرای تعیین رمز ورود حداقل از 8 کاراکتر و حروف بزرگ و کوچک انگلیسی و اعداد انگلیسی استفاده کنید، مانند Hamid120\n🇮🇷\nبرای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.\n✅\nورود به اپلیکیشن بدون فیلترشکن",
-        "date": "2026-09-26T09:36:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3716_0_ccf911f5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3716"
       }
     ]
   },
-  "last_update": "2026-10-02T04:24:48.460522+00:00",
+  "last_update": "2026-10-02T07:39:48.702375+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12892,7 +12892,7 @@
     },
     "referenced_files": 749,
     "existing_media_files": 748,
-    "total_size_mb": 364.1,
-    "last_calculation": "2026-10-02T04:24:48.467310+00:00"
+    "total_size_mb": 364.11,
+    "last_calculation": "2026-10-02T07:39:48.709410+00:00"
   }
 }
