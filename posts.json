@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3837,
+        "text": "🔴\nرتبه های برتر کنکور هم مشخص شد\n@TweetPublic\n✔️",
+        "date": "2026-10-03T07:54:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3837_0_6a366789.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3837_1_b29df423.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3837"
+      },
+      {
         "id": 3836,
         "text": "یادش بخیر واقعا دلمون واسه دلار 255 هزارتومنی هم تنگ میشه واقعا  @TweetPublic\n✔️",
         "date": "2026-10-03T06:10:12+00:00",
@@ -12855,29 +12874,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3734"
-      },
-      {
-        "id": 3733,
-        "text": "🇺🇸\nترامپ :\nایران به زودی تسلیم و جنگ تموم میشه!\nبعد پایان جنگ، قیمت نفت به شدت سقوط میکنه.\nدیشب تو خارج کردن نفت از تنگه هرمز، رکورد زدیم؛ حتی بیشتر از مقداری که قبل از شروع جنگ از اونجا خارج می‌کردیم.\n@TweetPublic\n✔️",
-        "date": "2026-09-27T14:52:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3733_0_42286e16.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3733_1_3c9a32f2.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3733"
       }
     ]
   },
-  "last_update": "2026-10-03T07:11:01.228731+00:00",
+  "last_update": "2026-10-03T08:39:10.073902+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12885,14 +12885,14 @@
     "total_files": 749,
     "total_links": 176,
     "files_by_type": {
-      "image": 677,
-      "video": 68,
+      "image": 678,
+      "video": 67,
       "file": 3,
       "document": 1
     },
     "referenced_files": 749,
     "existing_media_files": 748,
-    "total_size_mb": 360.15,
-    "last_calculation": "2026-10-03T07:11:01.234525+00:00"
+    "total_size_mb": 358.71,
+    "last_calculation": "2026-10-03T08:39:10.082815+00:00"
   }
 }
