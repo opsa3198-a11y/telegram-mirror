@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3843,
+        "text": "🔴\nساسان زارع، سخنگوی ستاد جان‌فدا:\nچندین شهروند آمریکا\n🇺🇸\nاومدن ایران و تو جان‌فدا ثبت‌نام کردن تا مقابل آمریکا بجنگند.\n@TweetPublic\n✔️",
+        "date": "2026-10-03T18:01:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3843_0_6a366789.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3843_1_1aca4736.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3843"
+      },
+      {
         "id": 3842,
         "text": "‌\n🔴\nفوری:\nنتایج اولیه کنکور سراسری 1405 اعلام شد\nوارد سایت سنجش بشید و نتیجه رو ببینید\nMy.sanjesh.org\n@TweetPublic\n✔️",
         "date": "2026-10-03T12:33:13+00:00",
@@ -12851,29 +12870,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3739"
-      },
-      {
-        "id": 3738,
-        "text": "🔴\nآقایون خودتونو آماده کنید که تا آخر امسال ۶ تا روز دختر داریم :\n@TweetPublic\n✔️",
-        "date": "2026-09-27T20:33:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3738_0_42286e16.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3738_1_b73bb688.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3738"
       }
     ]
   },
-  "last_update": "2026-10-03T15:50:09.851676+00:00",
+  "last_update": "2026-10-03T18:02:51.359390+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12881,14 +12881,14 @@
     "total_files": 748,
     "total_links": 176,
     "files_by_type": {
-      "image": 680,
-      "video": 64,
+      "image": 679,
+      "video": 65,
       "file": 3,
       "document": 1
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 350.97,
-    "last_calculation": "2026-10-03T15:50:09.861063+00:00"
+    "total_size_mb": 351.8,
+    "last_calculation": "2026-10-03T18:02:51.364989+00:00"
   }
 }
