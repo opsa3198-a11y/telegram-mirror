@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3836,
+        "text": "یادش بخیر واقعا دلمون واسه دلار 255 هزارتومنی هم تنگ میشه واقعا  @TweetPublic\n✔️",
+        "date": "2026-10-03T06:10:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3836_0_6a366789.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3836"
+      },
+      {
         "id": 3835,
         "text": "👀\nترکیه × بلژیک؛ یکی با غیرت و فشار میاد، یکی با کیفیت و تجربه...\nترکیه اگه جو بازی رو دست بگیره، می‌تونه بلژیک رو بکشه تو یه بازی پرتنش؛ بلژیک هم فقط چند لحظه فضا می‌خواد تا خطرناک بشه.\n🇹🇷\n⚔️\n🇧🇪\nشما روی برد کدام تیم پیش‌بینی میکنید؟",
         "date": "2026-10-02T23:10:46+00:00",
@@ -12859,44 +12874,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3733"
-      },
-      {
-        "id": 3732,
-        "text": "یبار دیگه از اولِ اول بگو، چیشد که عاشقم شدی؟\n@TweetPublic\n✔️",
-        "date": "2026-09-27T11:52:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3732_0_42286e16.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3732_1_4aaddb48.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3732"
       }
     ]
   },
-  "last_update": "2026-10-03T04:06:59.907540+00:00",
+  "last_update": "2026-10-03T07:11:01.228731+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 750,
-    "total_files": 750,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 176,
     "files_by_type": {
-      "image": 678,
+      "image": 677,
       "video": 68,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 750,
-    "existing_media_files": 749,
-    "total_size_mb": 360.17,
-    "last_calculation": "2026-10-03T04:06:59.917241+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 360.15,
+    "last_calculation": "2026-10-03T07:11:01.234525+00:00"
   }
 }
