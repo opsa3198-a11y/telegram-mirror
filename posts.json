@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3845,
+        "text": "حال هوای امروز تهران در اولین باران پائیزی\n☂️\n@TweetPublic\n✔️",
+        "date": "2026-10-03T18:11:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3845_0_6a366789.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3845_1_53032f8f.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3845"
+      },
+      {
+        "id": 3844,
+        "text": "⭐️\nبرزیل × هند؛ روی کاغذ شاید انتخاب ساده به نظر بیاد، ولی فوتبال همیشه یه چیزی برای غافلگیر کردن داره!\nبرزیل با اون همه تکنیک و سرعت میاد برای تسلط کامل؛ هند هم چیزی برای از دست دادن نداره و همین می‌تونه بازی رو جالب‌تر کنه.\n🇧🇷\n⚔️\n🇮🇳\nتو برد راحت برزیل می‌بینی یا مقاومت هند که بیشتر از انتظار طول می‌کشه؟",
+        "date": "2026-10-03T18:10:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3844_0_6a366789.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3844_1_381b6394.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3844"
+      },
+      {
         "id": 3843,
         "text": "🔴\nساسان زارع، سخنگوی ستاد جان‌فدا:\nچندین شهروند آمریکا\n🇺🇸\nاومدن ایران و تو جان‌فدا ثبت‌نام کردن تا مقابل آمریکا بجنگند.\n@TweetPublic\n✔️",
         "date": "2026-10-03T18:01:22+00:00",
@@ -12832,48 +12870,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3741"
-      },
-      {
-        "id": 3740,
-        "text": "«نروژ قدرت میاره؛ پرتغال کیفیت»\nنروژ اگه بازی رو مستقیم و پرسرعت کنه، می‌تونه هر دفاعی رو تحت فشار بذاره؛\nپرتغال هم با تکنیک و تجربه‌ش دنبال اینه که بازی رو به ریتم خودش ببره.\n🇳🇴\n⚔️\n🇵🇹\nقدرت نروژ جواب می‌ده یا کلاس پرتغال؟\n👀\n🔥",
-        "date": "2026-09-27T23:24:04+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3740_0_42286e16.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3740_1_62b58ebf.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3740"
-      },
-      {
-        "id": 3739,
-        "text": "🔴\nقلهکی، فعال رسانه‌ای اصولگرا :\nهمه‌ی شرایط تو منطقه شبیه به بهمنِ 1404 [چند هفته قبل از حمله‌ی آمریکا و اسرائیل] هستش.\n@TweetPublic\n✔️",
-        "date": "2026-09-27T23:14:24+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3739_0_42286e16.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3739_1_98dc346b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3739"
       }
     ]
   },
-  "last_update": "2026-10-03T18:02:51.359390+00:00",
+  "last_update": "2026-10-03T20:40:44.072926+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12881,14 +12881,14 @@
     "total_files": 748,
     "total_links": 176,
     "files_by_type": {
-      "image": 679,
-      "video": 65,
+      "image": 678,
+      "video": 66,
       "file": 3,
       "document": 1
     },
     "referenced_files": 748,
     "existing_media_files": 747,
-    "total_size_mb": 351.8,
-    "last_calculation": "2026-10-03T18:02:51.364989+00:00"
+    "total_size_mb": 356.54,
+    "last_calculation": "2026-10-03T20:40:44.079959+00:00"
   }
 }
