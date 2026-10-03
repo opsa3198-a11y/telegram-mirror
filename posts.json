@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3846,
+        "text": "میلی گلد طلای هنگفت این هموطن رو بالاکشیده و تسویه نکرده!\nصدای این جوون مظلوم باشیم و نذاریم حقش پایمال بشه.\n💔\n@TweetPublic\n✔️",
+        "date": "2026-10-03T21:13:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3846_0_6a366789.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3846_1_dc9a9075.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3846"
+      },
+      {
         "id": 3845,
         "text": "حال هوای امروز تهران در اولین باران پائیزی\n☂️\n@TweetPublic\n✔️",
         "date": "2026-10-03T18:11:14+00:00",
@@ -12855,40 +12874,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3742"
-      },
-      {
-        "id": 3741,
-        "text": "💬\nدقایقی پیش اینترنت مخابرات،همراه اول و چندتا اپراتور دیگه رو انگشت کردن و اکثر فیلترشکن های مستقیم(غیرتانل سرور ایران) از کار افتادند\nخبریه جدیدا همش ساعت 3 4 صبح سیستم فیلترینگ رو تست میکنن؟\n@TweetPublic\n✔️",
-        "date": "2026-09-28T00:00:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3741_0_42286e16.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3741"
       }
     ]
   },
-  "last_update": "2026-10-03T20:40:44.072926+00:00",
+  "last_update": "2026-10-03T21:31:15.368666+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 748,
-    "total_files": 748,
+    "total_media": 749,
+    "total_files": 749,
     "total_links": 176,
     "files_by_type": {
-      "image": 678,
+      "image": 679,
       "video": 66,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 748,
-    "existing_media_files": 747,
-    "total_size_mb": 356.54,
-    "last_calculation": "2026-10-03T20:40:44.079959+00:00"
+    "referenced_files": 749,
+    "existing_media_files": 748,
+    "total_size_mb": 356.67,
+    "last_calculation": "2026-10-03T21:31:15.375878+00:00"
   }
 }
