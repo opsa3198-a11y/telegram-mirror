@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3838,
+        "text": "⭕️\nدلار وارد کانال 267 هزارتومانی شد  @TweetPublic\n✔️",
+        "date": "2026-10-03T10:30:10+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3838_0_6a366789.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3838"
+      },
+      {
         "id": 3837,
         "text": "🔴\nرتبه های برتر کنکور هم مشخص شد\n@TweetPublic\n✔️",
         "date": "2026-10-03T07:54:17+00:00",
@@ -12855,44 +12870,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3735"
-      },
-      {
-        "id": 3734,
-        "text": "فک کن داری با خیال راحت تو مسیر خودت رانندگی میکنی، بی خبر از اینکه یه حیوان دو پای رم کرده، سر پیچ تو جاده دو طرفه یهو تصمیم میگیره که سبقت میگیره و با سرعت میاد به سمت شما...!\nاینجور آدما حقیقتا باید برن زندان و گواهینامشون برای همیشه باطل بشه. این چیزا شوخی نداره\nصحبت مرگ و زندگیه\n@TweetPublic\n✔️",
-        "date": "2026-09-27T18:39:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3734_0_42286e16.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3734_1_2ff83be9.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3734"
       }
     ]
   },
-  "last_update": "2026-10-03T08:39:10.073902+00:00",
+  "last_update": "2026-10-03T11:12:59.405529+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 749,
-    "total_files": 749,
+    "total_media": 748,
+    "total_files": 748,
     "total_links": 176,
     "files_by_type": {
       "image": 678,
-      "video": 67,
+      "video": 66,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 749,
-    "existing_media_files": 748,
-    "total_size_mb": 358.71,
-    "last_calculation": "2026-10-03T08:39:10.082815+00:00"
+    "referenced_files": 748,
+    "existing_media_files": 747,
+    "total_size_mb": 356.92,
+    "last_calculation": "2026-10-03T11:12:59.414444+00:00"
   }
 }
