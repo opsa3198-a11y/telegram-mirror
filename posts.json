@@ -11128,6 +11128,48 @@
     ],
     "TweetPublic": [
       {
+        "id": 3864,
+        "text": "🔴\nتتلو فردا آزاد میشه!!!\nپست جدید صفحه یوتیوب تتلو :\nامروز دادستان و رئیس کل دادگستری با تتلو صحبت کردن. در صورت ارائه گزارش مثبت، امیرتتلو فردا آزاد میشه\n!\n@TweetPublic\n✔️",
+        "date": "2026-10-04T22:46:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3864_0_2fac03bb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3864_1_2d420968.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3864_2_75337e15.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3864"
+      },
+      {
+        "id": 3863,
+        "text": "🌍\nغنا × مراکش؛ این یکی بوی فوتبال آفریقا می‌ده؛ سرعت، قدرت و بازی‌ای که هیچ‌کس توش راحت نفس نمی‌کشه...\nغنا می‌خواد بازی رو فیزیکی و مستقیم کنه؛ مراکش هم با نظم و کیفیتش دنبال اینه که اجازه نده مسابقه از کنترلش خارج بشه.\n🇬🇭\n⚔️\n🇲🇦\nتو روی قدرت غنا حساب می‌کنی یا نظم و تجربه مراکش؟",
+        "date": "2026-10-04T22:46:41+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3863_0_2fac03bb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3863_1_c726a875.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3863"
+      },
+      {
         "id": 3862,
         "text": "🔴\nدیروز تو فرانسه، رژه‌ی همجنسگرایانِ\n🏳️‍🌈\nحامیِ فلسطین\n🇵🇸\n، به این صورت برگزار شد :\n@TweetPublic\n✔️",
         "date": "2026-10-04T19:49:34+00:00",
@@ -12868,59 +12910,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3758"
-      },
-      {
-        "id": 3757,
-        "text": "«آلمان می‌خواد بازی رو بسازه؛ یونان می‌خواد قفلش کنه»\nآلمان دنبال مالکیت، فشار و کنترل بازیه؛\nیونان هم از اون تیم‌هاست که اگه فضاها رو ببنده، می‌تونه بازی رو تبدیل به یه جنگ فرسایشی کنه.\n🇬🇷\n⚔️\n🇩🇪\nنظم آلمان جواب می‌ده یا صبر یونان؟\n👀\n👀",
-        "date": "2026-09-28T19:08:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3757_0_ffc95a2d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3757_1_665dd5ec.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3757"
-      },
-      {
-        "id": 3756,
-        "text": "سلام سلطان اگه کارت ملی گلد را داشتن میتونستن باهاش خرید بزنن یا داخل دستگاه کارت خوان بکشن دوستم همینکار کردیم",
-        "date": "2026-09-28T18:31:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3756_0_ffc95a2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3756"
       }
     ]
   },
-  "last_update": "2026-10-04T20:56:27.772504+00:00",
+  "last_update": "2026-10-04T23:20:04.118888+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 756,
-    "total_files": 756,
+    "total_media": 758,
+    "total_files": 758,
     "total_links": 176,
     "files_by_type": {
-      "image": 685,
+      "image": 687,
       "video": 67,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 756,
-    "existing_media_files": 755,
-    "total_size_mb": 360.4,
-    "last_calculation": "2026-10-04T20:56:27.781897+00:00"
+    "referenced_files": 758,
+    "existing_media_files": 757,
+    "total_size_mb": 360.59,
+    "last_calculation": "2026-10-04T23:20:04.125012+00:00"
   }
 }
