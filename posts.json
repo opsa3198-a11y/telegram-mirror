@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3853,
+        "text": "🔴\nاون رفیقم که فکر می‌کنه زاویه فک زده خوشگل شده:\n@TweetPublic\n✔️",
+        "date": "2026-10-04T06:52:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3853_0_2fac03bb.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3853_1_519d9c28.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3853"
+      },
+      {
         "id": 3852,
         "text": "مشاوران خانواده:\nاکثر زوج هایی که به ما مراجع میکنند مشکلاتشون گوزیدن همسرشون حین خوابیدن هست. مرد بدون توجه زیر پتو از سر شب شروع میکنه به گوزیدن تا دم صبح و خانوما از این کار اقاییون خیلی دلخور میشن.\n@TweetPublic\n✔️",
         "date": "2026-10-03T23:42:04+00:00",
@@ -12883,40 +12902,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3746"
-      },
-      {
-        "id": 3745,
-        "text": "🔴\nدلار وارد کانال 240 هزارتومانی شد  @TweetPublic\n✔️",
-        "date": "2026-09-28T07:32:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3745_0_ffc95a2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3745"
       }
     ]
   },
-  "last_update": "2026-10-04T06:05:00.180553+00:00",
+  "last_update": "2026-10-04T07:30:36.799320+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 755,
-    "total_files": 755,
+    "total_media": 756,
+    "total_files": 756,
     "total_links": 176,
     "files_by_type": {
       "image": 685,
-      "video": 66,
+      "video": 67,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 755,
-    "existing_media_files": 754,
-    "total_size_mb": 357.23,
-    "last_calculation": "2026-10-04T06:05:00.189686+00:00"
+    "referenced_files": 756,
+    "existing_media_files": 755,
+    "total_size_mb": 358.81,
+    "last_calculation": "2026-10-04T07:30:36.808758+00:00"
   }
 }
