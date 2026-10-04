@@ -11128,6 +11128,36 @@
     ],
     "TweetPublic": [
       {
+        "id": 3858,
+        "text": "قسطای اسنپ ‌پی رو یه روز عقب میندازی، اس‌ ام ‌اس میده اموالتو توقیف میکنیم آخه من اگه اموال داشتم شلوار قسطی میخریدم؟\n@TweetPublic\n✔️",
+        "date": "2026-10-04T13:10:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3858_0_2fac03bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3858"
+      },
+      {
+        "id": 3857,
+        "text": "الان خوشحالتر از خانواده اون سه نفری که توی قائمشهر و بابل و آمل رتبه تک رقمی اوردن، اون بنر فروش هایی هستن که میدونن تا سه ماه قراره کل جاده های شمال تبدیل بشه به بنر تبریک به این رتبه های کنکوری.\n@TweetPublic\n✔️",
+        "date": "2026-10-04T12:51:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3857_0_2fac03bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3857"
+      },
+      {
         "id": 3856,
         "text": "تو پیروزی تهران، ی پسری بعد از رابطه ی جنسی با ی دختر بیزینسی تو ماشین، سر قیمت با دختره بحثش میشه به دختره میگه پیاده شو دختره قبول نمیکنه یارو اینقدر عصبانی میشه که می‌ره بنزین میاره میریزه رو ماشین و دختره رو با ماشین آتیش میزنه و به قتل می‌رسونه.\n@TweetPublic\n✔️",
         "date": "2026-10-04T10:00:42+00:00",
@@ -12876,59 +12906,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3752"
-      },
-      {
-        "id": 3750,
-        "text": "🔴\nبیژن مرتضوی بعد از 20 سال به ایران بازگشت\n@TweetPublic\n✔️",
-        "date": "2026-09-28T08:48:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3750_0_ffc95a2d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3750_1_87d6bd6f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3750"
-      },
-      {
-        "id": 3749,
-        "text": "🔺\nبانس‌های فوق خفن مل‌بت\n🔺\n🫴\n100 درصد پاداش اولین واریز\n😀\n100 درصد بانس یکشنبه ها\n🎁\n100 درصد بانس چهارشنبه ها\n🔹\nهر روز 1 چرخش گردونه 1 یورویی\n😀\n3 درصد باز پرداخت نقدی\n😀\nبانس شرط رایگان 30 دلاری\n🎩\n10 درصد باز پرداخت نقدی کازینو\n🎆\nبانس هدیه روز تولد\n💵\nو چندین بانس دیگر از جمله بانس خوش‌آمد گویی، بانس شرطبندی طولانی مدت، بانس 1750 یورویی کازینو و...\n💰\nهنگام ثبت‌نام با وارد کردن کد هدیه Sport100 بانس 100 دلاری رایگان دریافت کنید!\n🆕\nمعرفی سایت و اپلیکیشن مل‌بت\n🆓\nورود به سایت مل‌بت (فیلترشکن خاموش\n)",
-        "date": "2026-09-28T08:47:51+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3749_0_ffc95a2d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3749"
       }
     ]
   },
-  "last_update": "2026-10-04T12:35:51.822535+00:00",
+  "last_update": "2026-10-04T16:32:33.764540+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 758,
-    "total_files": 758,
+    "total_media": 757,
+    "total_files": 757,
     "total_links": 176,
     "files_by_type": {
-      "image": 687,
+      "image": 686,
       "video": 67,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 758,
-    "existing_media_files": 757,
-    "total_size_mb": 359.08,
-    "last_calculation": "2026-10-04T12:35:51.829758+00:00"
+    "referenced_files": 757,
+    "existing_media_files": 756,
+    "total_size_mb": 358.97,
+    "last_calculation": "2026-10-04T16:32:33.770533+00:00"
   }
 }
