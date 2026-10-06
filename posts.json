@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3903,
+        "text": "🔴\nخبرنگار: راجع‌به این طاعون روسیه با پوتین حرف زدی؟\nترامپ: نه، اما خیلی زود میخوام صحبت کنم\nخبرنگار: سازمان‌های اطلاعاتی درباره «طاعون روسیه» چی می‌گن؟\nترامپ: فعلاً داریم خیلی جدی و عمیق درباره‌ش بحث می‌کنیم. احتمالاً فردا می‌تونیم درباره‌ش گزارش بدیم.\n@TweetPublic\n✔️",
+        "date": "2026-10-06T21:42:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3903_0_52879e1a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3903_1_2bb8f208.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3903"
+      },
+      {
+        "id": 3902,
+        "text": "🔴\nحامد بهداد که دیروز برای علیرضا سپاهی استوری گذاشته بود و ازدواجش رو تبریک گفته بود؛\nامشب استوری گذاشت و نوشت؛\nفقط از داستان ازدواجشون تحت تاثیر قرار گرفتم و تبریکم برای تایید هیچ جرم و جنایتی نبوده و از خانواده شهدا عذرخواهی میکنم.\n@TweetPublic\n✔️",
+        "date": "2026-10-06T21:33:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3902_0_52879e1a.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3902_1_320492a6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3902"
+      },
+      {
         "id": 3901,
         "text": "این چه سرطانیه دیگه؟\n@TweetPublic\n✔️",
         "date": "2026-10-06T18:36:12+00:00",
@@ -12942,67 +12980,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3791"
-      },
-      {
-        "id": 3790,
-        "text": "⭐️\n«کرواسی صبر می‌کنه؛ اسپانیا بازی می‌سازه»\nاسپانیا می‌خواد توپ و ریتم بازی رو دست خودش نگه داره؛\nکرواسی هم از اون تیم‌هاست که عجله نمی‌کنه و منتظر همون لحظه‌ای می‌مونه که حریف اشتباه کنه.\n🇭🇷\n⚔️\n🇪🇸\nکنترل اسپانیا جواب می‌ده یا تجربه کرواسی؟",
-        "date": "2026-09-30T08:28:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3790_0_62dfa03f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3790_1_d555ff96.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3790"
-      },
-      {
-        "id": 3788,
-        "text": "فریبرز عرب‌نیا به ایران برمی‌گردد؛ گلشیفته هم شاید بیاید، این دو بازیگر علیه حمله به ایران موضع‌گیری کردند./تابناک\n@TweetPublic\n✔️",
-        "date": "2026-09-30T07:36:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3788_0_62dfa03f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3788_1_20299955.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3788_2_ac5c7e6e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3788"
       }
     ]
   },
-  "last_update": "2026-10-06T19:10:43.838746+00:00",
+  "last_update": "2026-10-06T22:25:04.179237+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 772,
-    "total_files": 772,
+    "total_media": 771,
+    "total_files": 771,
     "total_links": 179,
     "files_by_type": {
-      "image": 695,
-      "video": 73,
+      "image": 693,
+      "video": 74,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 772,
-    "existing_media_files": 771,
-    "total_size_mb": 375.75,
-    "last_calculation": "2026-10-06T19:10:43.845423+00:00"
+    "referenced_files": 771,
+    "existing_media_files": 770,
+    "total_size_mb": 378.58,
+    "last_calculation": "2026-10-06T22:25:04.187861+00:00"
   }
 }
