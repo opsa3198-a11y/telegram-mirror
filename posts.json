@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3889,
+        "text": "🔴\nهدی ناصری، رتبه 2 کنکور هنر:\nتاثیر جنگ واسه من مثبت بود\nچون اینترنت رو قطع کردن\nو همین باعث شد تمرکزم روی درس بیشتر بشه!\n@TweetPublic\n✔️",
+        "date": "2026-10-06T05:26:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3889_0_52879e1a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3889_1_f35d5fea.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3889"
+      },
+      {
         "id": 3888,
         "text": "⚽️\nشبای فوتبالی وقتی جذابه که پای انتخاب تو وسط باشه!\nسیتی یا آرسنال؟\n👀\nهالند یا ساکا؟\n💥\nهر طرفی وایسادی، بازی رو از یه تماشای ساده دربیار و هیجانشو چند برابر کن\n🎯\n🚀\nMARCBET\n🚀\nMARCBET\nفوتبال، ضرایب متنوع و کلی انتخاب برای شبی که قراره هیجانی باشه\n🔥\n🪙\nبا واریز کریپتو ۱۰٪ بونوس اضافه هم بگیر و با بالانس بیشتر وارد بازی شو\n💸\n🌐\nMARCBET.COM\n🌐\nMARCBET.COM\nکانال هدایا مارک بت\n👇🏼\n👇🏼\n13A\nhttps://t.me/irmarcbet",
         "date": "2026-10-05T21:40:51+00:00",
@@ -12943,40 +12962,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3775"
-      },
-      {
-        "id": 3774,
-        "text": "تحریم‌های جدید آمریکا علیه ایران\nوزارت خزانه‌داری آمریکا روز سه‌شنبه از اعمال تحریم‌های جدید علیه ایران خبر داد.\nطبق بیانیه وزارت خزانه‌داری، دفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری (اوفک)، ۱۰ فرد و نهاد جدید را به فهرست تحریم‌های آمریکا علیه ایران افزود.\n@TweetPublic\n✔️",
-        "date": "2026-09-29T18:22:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3774_0_d1a02c6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3774"
       }
     ]
   },
-  "last_update": "2026-10-06T05:13:28.528210+00:00",
+  "last_update": "2026-10-06T06:36:53.210640+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 767,
-    "total_files": 767,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 178,
     "files_by_type": {
       "image": 693,
-      "video": 70,
+      "video": 71,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 767,
-    "existing_media_files": 766,
-    "total_size_mb": 369.84,
-    "last_calculation": "2026-10-06T05:13:28.537764+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 370.62,
+    "last_calculation": "2026-10-06T06:36:53.220412+00:00"
   }
 }
