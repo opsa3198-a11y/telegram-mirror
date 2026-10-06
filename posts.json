@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3896,
+        "text": "اون ور هم کصخل مصخل زیاده\n🔴\nشبکه فاکس نیوز یه مردی رو اورده و باهاش مصاحبه میکنه که ادعا داره عیسی مسیح رو ملاقات کرده و به مدت ۱۸ روز تو بهشت با عیسی مسیح شراب بهشتی میخورده؛\nمیگه عیسی یه مرد با قد ۱۸۰ سانت هست و خیلی ادم مردونه‌ایه و تستوسترون بالایی داره..\n@TweetPublic\n✔️",
+        "date": "2026-10-06T12:02:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3896_0_52879e1a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3896_1_9a30efd1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3896"
+      },
+      {
+        "id": 3895,
+        "text": "سگ بگیره، جَو نگیرتت\n@TweetPublic\n✔️",
+        "date": "2026-10-06T10:21:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3895_0_52879e1a.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3895_1_6f36a923.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3895"
+      },
+      {
         "id": 3894,
         "text": "207 رو زدن 4 میلیارد جدی ان اینا\n😐\n؟یک درصد یکی بخواد همچین هزینه ای ام بکنه میره سمت النترا منطقه ازاد و غیره…\n@TweetPublic\n✔️",
         "date": "2026-10-06T08:12:03+00:00",
@@ -12932,55 +12970,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3783"
-      },
-      {
-        "id": 3782,
-        "text": "⏺\nرویترز: عباس عراقچی پاسخ آمریکا به پیشنهاد «طرح هفت‌روزه» را دریافت کرده است\n🔴\nعراقچی امروز در تهران درباره پاسخ آمریکا به این پیشنهاد گفت‌وگو خواهد کرد.\n@TweetPublic\n✔️",
-        "date": "2026-09-30T06:07:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3782_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3782"
-      },
-      {
-        "id": 3780,
-        "text": "🔴\nآکسیوس به نقل از مقامات آمریکایی: ممکن است ترامپ پس از انتخابات دستور بازگشت به عملیات رزمی گسترده علیه ایران را بدهد.‌‌\n🔴\nایرانی ها اعلام کردند تا زمانی که واشنگتن با بازگشت به یادداشت تفاهم موافقت نکند، امتیازی نخواهند داد.‌‌\n🔴\nهیچ پیشرفت محسوسی در مذاکرات روز دوشنبه حاصل نشد و ایرانی‌ها چیزهایی را طلب می‌کنند که واشنگتن نمی‌تواند آنها را بپذیرد.‌‌\n@TweetPublic\n✔️",
-        "date": "2026-09-29T23:39:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3780_0_d1a02c6d.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3780"
       }
     ]
   },
-  "last_update": "2026-10-06T08:15:02.263555+00:00",
+  "last_update": "2026-10-06T12:53:36.737754+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 178,
     "files_by_type": {
       "image": 693,
-      "video": 71,
+      "video": 73,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 372.65,
-    "last_calculation": "2026-10-06T08:15:02.269226+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 375.58,
+    "last_calculation": "2026-10-06T12:53:36.746920+00:00"
   }
 }
