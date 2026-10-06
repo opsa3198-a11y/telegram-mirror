@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3897,
+        "text": "با دلار 270 تومنی از طاعون ریوی میترسی ؟میخوای زنده بمونی چی کار کنی؟\n@TweetPublic\n✔️",
+        "date": "2026-10-06T13:17:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3897_0_52879e1a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3897"
+      },
+      {
         "id": 3896,
         "text": "اون ور هم کصخل مصخل زیاده\n🔴\nشبکه فاکس نیوز یه مردی رو اورده و باهاش مصاحبه میکنه که ادعا داره عیسی مسیح رو ملاقات کرده و به مدت ۱۸ روز تو بهشت با عیسی مسیح شراب بهشتی میخورده؛\nمیگه عیسی یه مرد با قد ۱۸۰ سانت هست و خیلی ادم مردونه‌ایه و تستوسترون بالایی داره..\n@TweetPublic\n✔️",
         "date": "2026-10-06T12:02:29+00:00",
@@ -12951,44 +12966,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3784"
-      },
-      {
-        "id": 3783,
-        "text": "فلایت رادار:\nیک فروند هواپیمای مسافربری بوئینگ 737 شرکت فلای‌دبی که از دبی به مقصد تل‌آویو در پرواز بود، پس از آنکه برای مدت کوتاهی کد اضطراری 7700 و سپس کد 7500 مربوط به احتمال هواپیماربایی را مخابره کرد، اکنون در حال بازگشت و تغییر مسیر به سمت دبی است. / انتخاب\n@TweetPublic\n✔️",
-        "date": "2026-09-30T06:39:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3783_0_62dfa03f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3783_1_f6d24d70.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3783"
       }
     ]
   },
-  "last_update": "2026-10-06T12:53:36.737754+00:00",
+  "last_update": "2026-10-06T13:43:42.111062+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 769,
+    "total_files": 769,
     "total_links": 178,
     "files_by_type": {
-      "image": 693,
+      "image": 692,
       "video": 73,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 375.58,
-    "last_calculation": "2026-10-06T12:53:36.746920+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 375.48,
+    "last_calculation": "2026-10-06T13:43:42.120335+00:00"
   }
 }
