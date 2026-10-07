@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3907,
+        "text": "🔴\nیه پسر همجنسگرا تو رشت رفته بیرون و یه نانوا که از گی ها خوشش نمیاد هر روز اینجوری میفته دنبالش میگه اینورا نباید بیای:\n@TweetPublic\n✔️",
+        "date": "2026-10-07T17:30:32+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3907_0_5e8afcc9.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3907_1_6f0d67ac.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3907"
+      },
+      {
         "id": 3906,
         "text": "⏺\nنتانیاهو: من حتی میتونم تاریخ سقوط جمهوری اسلامی رو رسما اعلام کنم ولی بهتره یه چیزایی در ملاعام اعلام نشه.\n@TweetPublic\n✔️",
         "date": "2026-10-07T14:35:45+00:00",
@@ -12953,48 +12972,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3795"
-      },
-      {
-        "id": 3794,
-        "text": "🔴\nبیژن مرتضوی بعد از 20 سال به ایران بازگشت   @TweetPublic\n✔️",
-        "date": "2026-09-30T13:07:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3794_0_62dfa03f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3794_1_d3860fe6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3794_2_eb6fc541.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3794"
       }
     ]
   },
-  "last_update": "2026-10-07T16:44:34.356395+00:00",
+  "last_update": "2026-10-07T21:40:54.076515+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 769,
+    "total_files": 769,
     "total_links": 179,
     "files_by_type": {
-      "image": 693,
-      "video": 73,
+      "image": 691,
+      "video": 74,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 373.15,
-    "last_calculation": "2026-10-07T16:44:34.362688+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 382.91,
+    "last_calculation": "2026-10-07T21:40:54.083879+00:00"
   }
 }
