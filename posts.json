@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3906,
+        "text": "⏺\nنتانیاهو: من حتی میتونم تاریخ سقوط جمهوری اسلامی رو رسما اعلام کنم ولی بهتره یه چیزایی در ملاعام اعلام نشه.\n@TweetPublic\n✔️",
+        "date": "2026-10-07T14:35:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3906_0_5e8afcc9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3906"
+      },
+      {
         "id": 3905,
         "text": "🔴\nدادگاه «نجمه امینی» دختر ۲۳ ساله مشهدی رو به اتهام «سب النبی» به اعـدام محکوم کرد.\nبهمن سال گذشته توی مشهد این دختر توی اینستاگرام به ائمه و مقدسات توهین میکنه که پلیس فتا دستگیرش میکنه و با وجود ابراز پشیمانی الان به اعـدام محکوم شده.\nمراقب فعالیتتون توی فضای مجازی باشید. توهین به پیامبر؛ ائمه و مقدسات حتی در حد یک کامنت میتونه اعـدام داشته باشه. عربستان هم به تازگی یه مهاجر ۲۴ ساله سریلانکایی رو به خاطر یه کامنت توهین به پیامبر در فیس بوک به اعـدام محکوم کرده.\n@TweetPublic\n✔️",
         "date": "2026-10-07T11:55:35+00:00",
@@ -12961,44 +12976,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3794"
-      },
-      {
-        "id": 3793,
-        "text": "💢\nقیمت باورنکردنی خودروهای لوکس در تهران  @TweetPublic\n✔️",
-        "date": "2026-09-30T10:55:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3793_0_62dfa03f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3793_1_7e43799f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3793"
       }
     ]
   },
-  "last_update": "2026-10-07T12:46:56.377916+00:00",
+  "last_update": "2026-10-07T16:44:34.356395+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 771,
-    "total_files": 771,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 179,
     "files_by_type": {
-      "image": 694,
+      "image": 693,
       "video": 73,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 771,
-    "existing_media_files": 770,
-    "total_size_mb": 373.19,
-    "last_calculation": "2026-10-07T12:46:56.387250+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 373.15,
+    "last_calculation": "2026-10-07T16:44:34.362688+00:00"
   }
 }
