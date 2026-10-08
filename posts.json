@@ -11128,6 +11128,59 @@
     ],
     "TweetPublic": [
       {
+        "id": 3915,
+        "text": "🔴\nترامپ :\nکاخ سفید هر کی از کلمه \"هوش مصنوعی\" استفاده می‌کند، دشمنه\nباید اسم جدیدش که \"هوش فوق‌العاده\" است، بگین\n@TweetPublic\n✔️",
+        "date": "2026-10-08T19:12:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3915_0_b53693ac.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3915_1_bbd15c4c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3915"
+      },
+      {
+        "id": 3914,
+        "text": "توی تجمعات شبانه یه رپر آوردن و دورهم میخونن و میرقصن\n@TweetPublic\n✔️",
+        "date": "2026-10-08T16:50:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3914_0_b53693ac.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3914_1_37c62048.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3914"
+      },
+      {
+        "id": 3913,
+        "text": "با\nاعلام رسمی سخنگوی قوه قضائیه، بی‌حجابی رسما جرم اعلام شد!\nاز این به بعد در سراسر کشور، با خانمای بی‌حجاب برخورد و براشون جرم ثبت میشه.\n@TweetPublic\n✔️",
+        "date": "2026-10-08T15:28:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3913_0_b53693ac.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3913"
+      },
+      {
         "id": 3912,
         "text": "🔴\nیه فروشنده مرغ و گوشت چند ماه با کالابرگ به مردم جنس داده که تقریبا به گفته‌ی خودش چیزی حدود 4 الی 5 میلیارد فروخته‌. حالا دولت هیچ پولی به این بنده خدا نداده.\nمشتری هم وقتی اومده که از کالابرگش استفاده کنه، فروشنده قبول نکرده و یارو هم با شرمندگی برگشته پیش زن‌وبچش...\n@TweetPublic\n✔️",
         "date": "2026-10-08T11:55:03+00:00",
@@ -12919,70 +12972,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3803"
-      },
-      {
-        "id": 3802,
-        "text": "ترامپ درباره ایران: ما 18 نفر را از دست دادیم، اما آن‌ها 4500 نفر را از دست دادند\n@TweetPublic\n✔️",
-        "date": "2026-09-30T18:01:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3802_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3802"
-      },
-      {
-        "id": 3801,
-        "text": "ترامپ : ایران ویران شده است و اقتصادش نابود شده است.\n🔴\nما تقریباً کنترل کامل تنگه هرمز را در دست داریم\n@TweetPublic\n✔️",
-        "date": "2026-09-30T17:56:20+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3801_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3801"
-      },
-      {
-        "id": 3800,
-        "text": "⭐️\nترامپ درباره ایران: «به‌زودی شاهد اتفاقاتی خواهید بود.»\n@TweetPublic\n✔️",
-        "date": "2026-09-30T17:55:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3800_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3800"
       }
     ]
   },
-  "last_update": "2026-10-08T15:01:00.348186+00:00",
+  "last_update": "2026-10-08T20:32:26.524070+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 772,
+    "total_files": 772,
     "total_links": 177,
     "files_by_type": {
-      "image": 692,
-      "video": 74,
+      "image": 693,
+      "video": 75,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 379.2,
-    "last_calculation": "2026-10-08T15:01:00.355554+00:00"
+    "referenced_files": 772,
+    "existing_media_files": 771,
+    "total_size_mb": 385.35,
+    "last_calculation": "2026-10-08T20:32:26.531371+00:00"
   }
 }
