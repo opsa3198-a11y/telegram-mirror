@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3910,
+        "text": "بچگیای املاکی ها:\n@TweetPublic\n✔️",
+        "date": "2026-10-08T07:42:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3910_0_b53693ac.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3910_1_76ef62f6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3910"
+      },
+      {
         "id": 3909,
         "text": "⏺\nآکسیوس: پنتاگون به سنتکام دستور داده تا برای حمله به ایران آماده بشه. این حمله احتمالا قبل از انتخابات میان دوره ای آمریکا انجام میشه. تاسیسات هسته ای؛ نیروگاه های برق و زیرساخت های انرژی از اهداف احتمالی این حملات خواهند بود.\n@TweetPublic\n✔️",
         "date": "2026-10-08T06:14:58+00:00",
@@ -12941,46 +12960,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3798"
-      },
-      {
-        "id": 3797,
-        "text": "🪙\nاپلیشیکن اندروید سایت جهانی لاین بت\n💳\nواریز و برداشت ریالی\n🎁\nهر دوشنبه تا سقف 100 دلار بونوس ورزشی\n🔗\nبدون نیاز ب فیلترشکن\n🤩\nآموزش کامل استفاده از اپ\n🔜\n💰\n💰\n💰\n💰\n💰\n📱\nTelegram Channel\n👇\nhttps://telegram.me/+dukgrB6-zGsyNGM8",
-        "date": "2026-09-30T17:53:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3797_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://telegram.me/+dukgrB6-zGsyNGM8",
-            "type": "external",
-            "display_text": "https://telegram.me/+dukgrB6-zGsyNGM8"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/TweetPublic/3797"
       }
     ]
   },
-  "last_update": "2026-10-08T07:38:34.608476+00:00",
+  "last_update": "2026-10-08T08:05:34.448740+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 768,
-    "total_files": 768,
-    "total_links": 178,
+    "total_media": 769,
+    "total_files": 769,
+    "total_links": 177,
     "files_by_type": {
-      "image": 690,
+      "image": 691,
       "video": 74,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 382.74,
-    "last_calculation": "2026-10-08T07:38:34.613167+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 382.8,
+    "last_calculation": "2026-10-08T08:05:34.456047+00:00"
   }
 }
