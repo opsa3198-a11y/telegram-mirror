@@ -11128,6 +11128,44 @@
     ],
     "TweetPublic": [
       {
+        "id": 3912,
+        "text": "🔴\nیه فروشنده مرغ و گوشت چند ماه با کالابرگ به مردم جنس داده که تقریبا به گفته‌ی خودش چیزی حدود 4 الی 5 میلیارد فروخته‌. حالا دولت هیچ پولی به این بنده خدا نداده.\nمشتری هم وقتی اومده که از کالابرگش استفاده کنه، فروشنده قبول نکرده و یارو هم با شرمندگی برگشته پیش زن‌وبچش...\n@TweetPublic\n✔️",
+        "date": "2026-10-08T11:55:03+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3912_0_b53693ac.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3912_1_b3d49443.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3912"
+      },
+      {
+        "id": 3911,
+        "text": "پشماتون بریزه\n😐\n🔴\nتو خوزستان یه زن، وقتی شوهرش سرکار بوده برای اینکه بره پیش دوست پسرش به بچه‌ی ۳ سالش قرص خواب میده و میزارش تو صندوق عقب ماشین دوست پسرش و در حالی که کنار جاده تو ماشین با دوست پسرش سکس میکرده یه اتوبوس میاد میزنه به ماشین؛\nاین وسط بچه سه ساله بیچاره تو صندوق عقب جونشو از دست داده و زنه و دوست پسرش سالم موندن:/\n@TweetPublic\n✔️",
+        "date": "2026-10-08T11:12:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3911_0_b53693ac.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3911_1_7948081b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3911"
+      },
+      {
         "id": 3910,
         "text": "بچگیای املاکی ها:\n@TweetPublic\n✔️",
         "date": "2026-10-08T07:42:24+00:00",
@@ -12926,59 +12964,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3800"
-      },
-      {
-        "id": 3799,
-        "text": "ترامپ درباره عراق:\nعملیات \"عزم راسخ\"، که آن‌ها این نام را برای آن انتخاب کردند، در سال 2026 و تحت رهبری رئیس جمهور دونالد ترامپ به پایان خواهد رسید.\n🔴\nما به سرعت از آنجا خارج می‌شویم\n@TweetPublic\n✔️",
-        "date": "2026-09-30T17:55:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3799_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3799"
-      },
-      {
-        "id": 3798,
-        "text": "ترامپ درباره عراق:\nامروز، با خوشحالی اعلام می‌کنم که آخرین نیروهای آمریکایی عراق را ترک می‌کنند.\n🔴\nمدتی طولانی گذشت و تصمیمات بسیار نادرستی اتخاذ شد که ما را در این بحران گرفتار کرد.\n🔴\nاین وضعیت سال‌ها ادامه داشت\n@TweetPublic\n✔️",
-        "date": "2026-09-30T17:54:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3798_0_62dfa03f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3798_1_12b01d04.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3798"
       }
     ]
   },
-  "last_update": "2026-10-08T08:05:34.448740+00:00",
+  "last_update": "2026-10-08T12:56:04.801933+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 177,
     "files_by_type": {
-      "image": 691,
+      "image": 692,
       "video": 74,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 382.8,
-    "last_calculation": "2026-10-08T08:05:34.456047+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 379.2,
+    "last_calculation": "2026-10-08T12:56:04.807837+00:00"
   }
 }
