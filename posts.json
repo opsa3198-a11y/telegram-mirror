@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3916,
+        "text": "زیبایی ببینید\n🚕\n@TweetPublic\n✔️",
+        "date": "2026-10-09T06:22:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3916_0_7f80eaa2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3916_1_170003dc.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3916"
+      },
+      {
         "id": 3915,
         "text": "🔴\nترامپ :\nکاخ سفید هر کی از کلمه \"هوش مصنوعی\" استفاده می‌کند، دشمنه\nباید اسم جدیدش که \"هوش فوق‌العاده\" است، بگین\n@TweetPublic\n✔️",
         "date": "2026-10-08T19:12:02+00:00",
@@ -12957,40 +12976,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3804"
-      },
-      {
-        "id": 3803,
-        "text": "⏺\nحکیمی، معاون وزیر ارتباطات: اگه استفاده از استارلینک بین مردم گسترده بشه، در زمان بحران دیگه امکان قطع اینترنت رو نداریم و مجبور می‌شیم برای قطع دسترسی، برق رو به‌طور کامل قطع کنیم.\n@TweetPublic\n✔️",
-        "date": "2026-09-30T19:53:48+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3803_0_62dfa03f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3803"
       }
     ]
   },
-  "last_update": "2026-10-09T04:55:04.447008+00:00",
+  "last_update": "2026-10-09T06:53:33.841363+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 772,
-    "total_files": 772,
+    "total_media": 773,
+    "total_files": 773,
     "total_links": 177,
     "files_by_type": {
       "image": 693,
-      "video": 75,
+      "video": 76,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 772,
-    "existing_media_files": 771,
-    "total_size_mb": 385.35,
-    "last_calculation": "2026-10-09T04:55:04.457064+00:00"
+    "referenced_files": 773,
+    "existing_media_files": 772,
+    "total_size_mb": 392.4,
+    "last_calculation": "2026-10-09T06:53:33.847312+00:00"
   }
 }
