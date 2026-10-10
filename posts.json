@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3931,
+        "text": "فاکس نیوز لیست ترور مقامات ایران را منتشر کرد.\n@TweetPublic\n✔️",
+        "date": "2026-10-10T14:11:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3931_0_4841f000.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3931_1_27c55f5b.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3931"
+      },
+      {
         "id": 3930,
         "text": "🇮🇷\nمیرسلیم، عضو مجمع تشخیص مصلحت نظام:\nنفت مالِ خدا و پیامبرشه، واسه مردم نیست!\nنفت انفاله، مردم حکومت رو مشخص میکنن و حکومت انفال رو مدیریت می‌کنه.\nما این نفت رو همین‌جوری بدیم مردم برن تو ترافیک شمال بمونن تا سرمایه مملکت همین‌جوری تموم بشه بره؟ جواب نسل‌های آینده رو چی بدیم؟\nهر مسئولی گفته نفت، حق مردمه، بی‌خود کرده.\nما بنزین رو داریم 10 هزارتومن می‌دیم به مردم، درحالی که همین رو می‌تونیم به آمریکا 1 دلار (۲۷۰ هزارتومن) بفروشیم ولی این کار رو نمی‌کنیم.\n@TweetPublic\n✔️",
         "date": "2026-10-10T10:50:35+00:00",
@@ -12951,40 +12970,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3819"
-      },
-      {
-        "id": 3818,
-        "text": "ده بیست سال پیش خریدن کاندوم در حدی تابو بود که توی جرات حقیقت حکم می‌دادن بری داروخونه کاندوم بخری.\nحالا دیروز پسر دهه هشتادیه با یه وجب قد اومده می‌گه دوتا بسته ده تایی کاندوم بده.\nخنده‌م گرفت، برگشت گفت: واسه تو که نمیخوام استفاده کنم که اینجوری ذوق می‌کنی :|||\n@TweetPublic\n✔️",
-        "date": "2026-10-01T20:27:08+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3818_0_8ce38964.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3818"
       }
     ]
   },
-  "last_update": "2026-10-10T12:01:29.083880+00:00",
+  "last_update": "2026-10-10T14:52:41.304213+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 770,
+    "total_files": 770,
     "total_links": 178,
     "files_by_type": {
-      "image": 693,
+      "image": 694,
       "video": 72,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 381.86,
-    "last_calculation": "2026-10-10T12:01:29.091277+00:00"
+    "referenced_files": 770,
+    "existing_media_files": 769,
+    "total_size_mb": 381.93,
+    "last_calculation": "2026-10-10T14:52:41.313396+00:00"
   }
 }
