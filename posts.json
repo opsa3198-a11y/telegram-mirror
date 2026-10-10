@@ -11128,6 +11128,40 @@
     ],
     "TweetPublic": [
       {
+        "id": 3927,
+        "text": "امروز 10 October، تولد 42 سالگی «پاول دورف» بنیان‌گذار و مالک تلگرامه\n@TweetPublic\n✔️",
+        "date": "2026-10-10T06:55:30+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3927_0_4841f000.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3927_1_4bb6303c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3927"
+      },
+      {
+        "id": 3926,
+        "text": "🔴\nترامپ: ایران یا باید همه خواسته های ما رو قبول کنه یا کلا دیگه وجود نخواهد داشت. این حرف آخرمه\n@TweetPublic\n✔️",
+        "date": "2026-10-10T05:59:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3926_0_4841f000.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3926"
+      },
+      {
         "id": 3925,
         "text": "",
         "date": "2026-10-09T21:36:28+00:00",
@@ -12928,67 +12962,25 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/TweetPublic/3815"
-      },
-      {
-        "id": 3814,
-        "text": "💢\nآخوند پورعلی: مجتبی خامنه‌ای شب‌ها به‌صورت ناشناس توی تجمعات شرکت می‌کنه؛ دو شب پیش هم حدود نیم ساعت اینجا حضور داشت.\n@TweetPublic\n✔️",
-        "date": "2026-10-01T15:51:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3814_0_8ce38964.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3814_1_b791dea1.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3814"
-      },
-      {
-        "id": 3812,
-        "text": "با فرانسیس آشنا شوید، گربه‌ای کوچک که در تمام عمرش اندازه بچه‌گربه باقی ماند.\n@TweetPublic\n✔️",
-        "date": "2026-10-01T11:29:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3812_0_8ce38964.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3812_1_891bffee.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3812_2_a57bf315.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3812"
       }
     ]
   },
-  "last_update": "2026-10-10T04:40:20.604325+00:00",
+  "last_update": "2026-10-10T07:49:23.402011+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 178,
     "files_by_type": {
-      "image": 694,
-      "video": 72,
+      "image": 693,
+      "video": 71,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 378.99,
-    "last_calculation": "2026-10-10T04:40:20.613968+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 375.18,
+    "last_calculation": "2026-10-10T07:49:23.411247+00:00"
   }
 }
