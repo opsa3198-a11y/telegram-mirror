@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3937,
+        "text": "خانوما روزتون مبارک\nامیدوارم تو این کشور بتونید به چیزی که حقتونه برسید\n❤️\n@TweetPublic\n✔️",
+        "date": "2026-10-11T10:57:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3937_0_ad83115c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3937"
+      },
+      {
         "id": 3936,
         "text": "🔴\nخلوت کنید آقای خمسه‌س\nچند مدت پیش یه کلیپی از علیرضا خمسه توی شبکه های اجتماعی وایرال شد که زمان حضور توی یه مراسم، بادیگارد جلویی به جمعیت میگه \"خلوت کنید آقای خمسه س\" حالا خود علیرضا خمسه به این شکل به واکنش مردم پاسخ داد:\n@TweetPublic\n✔️",
         "date": "2026-10-11T05:23:08+00:00",
@@ -12951,44 +12966,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3825"
-      },
-      {
-        "id": 3824,
-        "text": "آلمان اسم بزرگ‌تره، ولی صربستان از اون تیم‌هاست که اگه بازی رو فیزیکی کنه، همه‌چی کثیف و سخت میشه.\n👀\nژرمن‌ها دنبال فوتبال مرتب و سریعن؛ صرب‌ها دنبال اینن که اصلاً نذارن بازی مرتب پیش بره.\nهمین تضاد می‌تونه بازی رو خیلی جذاب کنه.\n🇷🇸\n⚔️\n🇩🇪\nتو روی کیفیت آلمان حساب می‌کنی یا سماجت صربستان؟",
-        "date": "2026-10-02T09:48:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3824_0_146b130c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3824_1_2026887e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3824"
       }
     ]
   },
-  "last_update": "2026-10-11T07:56:47.135662+00:00",
+  "last_update": "2026-10-11T12:13:46.220260+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 769,
+    "total_files": 769,
     "total_links": 178,
     "files_by_type": {
-      "image": 693,
+      "image": 692,
       "video": 73,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 386.67,
-    "last_calculation": "2026-10-11T07:56:47.145532+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 386.5,
+    "last_calculation": "2026-10-11T12:13:46.225131+00:00"
   }
 }
