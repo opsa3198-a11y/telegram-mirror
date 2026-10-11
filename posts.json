@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3936,
+        "text": "🔴\nخلوت کنید آقای خمسه‌س\nچند مدت پیش یه کلیپی از علیرضا خمسه توی شبکه های اجتماعی وایرال شد که زمان حضور توی یه مراسم، بادیگارد جلویی به جمعیت میگه \"خلوت کنید آقای خمسه س\" حالا خود علیرضا خمسه به این شکل به واکنش مردم پاسخ داد:\n@TweetPublic\n✔️",
+        "date": "2026-10-11T05:23:08+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3936_0_ad83115c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "TweetPublic_3936_1_56bd2e23.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3936"
+      },
+      {
         "id": 3935,
         "text": "صداوسیما: سود سهام عدالت ۱.۵ میلیون نفر واریز شد\n@TweetPublic\n✔️",
         "date": "2026-10-10T18:58:05+00:00",
@@ -12951,29 +12970,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3824"
-      },
-      {
-        "id": 3823,
-        "text": "عروسکشو گذاشتن تو نایلون و تو خیابوون رهاش کردن\n💔\nخیلی پَستین، واقعا خیلی نفرت انگیزید\nاین بچه ها اسباب بازی شما نیستن وقتی شرایطشو به هر دلیلی ندارید اینارو تو زندگیتون نیاااااااارید کع بعد یهو ولش کنید آوارش کنید.\n@TweetPublic\n✔️",
-        "date": "2026-10-02T09:14:16+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3823_0_146b130c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3823_1_b47a3365.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3823"
       }
     ]
   },
-  "last_update": "2026-10-11T04:25:20.641027+00:00",
+  "last_update": "2026-10-11T07:23:56.391098+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12981,14 +12981,14 @@
     "total_files": 770,
     "total_links": 178,
     "files_by_type": {
-      "image": 694,
-      "video": 72,
+      "image": 693,
+      "video": 73,
       "file": 3,
       "document": 1
     },
     "referenced_files": 770,
     "existing_media_files": 769,
-    "total_size_mb": 378.42,
-    "last_calculation": "2026-10-11T04:25:20.649279+00:00"
+    "total_size_mb": 386.67,
+    "last_calculation": "2026-10-11T07:23:56.397771+00:00"
   }
 }
