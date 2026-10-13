@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3940,
+        "text": "دلار در حال دور خیز کردن برای جهش بعدیه؟\nدلار در حال بازگشت به کانال ۲۵۰ هزار تومن هست\nقسمت فعلی ۲۶۰٫۵۰۰ هست\n@TweetPublic\n✔️",
+        "date": "2026-10-13T07:30:36+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3940_0_e7c6918d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3940"
+      },
+      {
         "id": 3939,
         "text": "فیلم وایرال شده از یه مراسم ختم که بخاطر اینکه با آهنگ معین میرقصن و سینه میزنن و یاحسین میگن نظرات متفاوتی گرفته\n@TweetPublic\n✔️",
         "date": "2026-10-12T08:04:14+00:00",
@@ -12951,44 +12966,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3828"
-      },
-      {
-        "id": 3827,
-        "text": "🔴\nجنگ زمینی تو راه ایران؟\n🇺🇸\nارتش آمریکا رسماً گفته نیروهای خنثی‌سازی هسته‌ای همراه رنجرهای هنگ 75، یه تمرین برای تصرف و پاک‌سازی یه تأسیسات هسته‌ای زیرزمینی انجام دادن؛\nاونم تو شرایطی که شلیک و درگیری به‌صورت شبیه‌سازی‌شده و حتی واقعی جریان داشته.\nاین در حالیه که پنتاگون برای سناریوی احتمالی عملیات زمینی تو ایران در حال برنامه‌ریزی و آماده‌سازیه و یکی از گزینه‌های مطرح‌شده هم می‌تونه یورش نیروهای ویژه باشه، از طرفی، وزیر دفاع آمریکا هم پیش‌تر احتمال اعزام نیروی زمینی به ایران رو رد نکرده بود.\n@TweetPublic\n✔️",
-        "date": "2026-10-02T10:40:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3827_0_146b130c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3827_1_b9a345fa.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3827"
       }
     ]
   },
-  "last_update": "2026-10-13T01:29:10.135549+00:00",
+  "last_update": "2026-10-13T08:04:14.872170+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 770,
-    "total_files": 770,
+    "total_media": 769,
+    "total_files": 769,
     "total_links": 178,
     "files_by_type": {
       "image": 692,
-      "video": 74,
+      "video": 73,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 770,
-    "existing_media_files": 769,
-    "total_size_mb": 393.18,
-    "last_calculation": "2026-10-13T01:29:10.141300+00:00"
+    "referenced_files": 769,
+    "existing_media_files": 768,
+    "total_size_mb": 388.9,
+    "last_calculation": "2026-10-13T08:04:14.881384+00:00"
   }
 }
