@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3944,
+        "text": "جماران:\nاحتمال گران شدن ۴۰ درصدی اینترنت از امشب\nبر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد افزایش خواهد یافت.\n@TweetPublic\n✔️",
+        "date": "2026-10-14T12:51:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3944_0_df056c84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3944"
+      },
+      {
         "id": 3943,
         "text": "🔴\nآرین سلیمی تکواندوکار قهرمان المپیک متولد ۱۳۸۲ هم ازدواج کرد.\n@TweetPublic\n✔️",
         "date": "2026-10-14T10:32:31+00:00",
@@ -12947,44 +12962,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3832"
-      },
-      {
-        "id": 3831,
-        "text": "🔴\nدو روز پیش یه مرده تو تهران بعد از اینکه زنش به‌خاطر اختلافات خانوادگی خونه رو ترک کرده و گفته بود میخواد طلاق بگیره، با یه گالن بنزین رفته خونه خانواده همسرش تو محله خاک‌سفید و اونجا رو به آتیش کشیده؛\nتوی این حادثه، خود مرده و مادرزنش بر اثر سوختگی شدید جونشون رو از دست دادن...\nهمسر مرد، برادرزنش، یکی از کارکنان آرایشگاه طبقه پایین ساختمون و یه مشتری هم مصدوم شدن و برای درمان به بیمارستان منتقل شدن.\nزنه هم دچار سوختگی شد و الان وضعیت جسمیش بهتره.\n@TweetPublic\n✔️",
-        "date": "2026-10-02T17:46:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3831_0_146b130c.jpg"
-          },
-          {
-            "type": "video",
-            "file": "TweetPublic_3831_1_e5181053.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3831"
       }
     ]
   },
-  "last_update": "2026-10-14T11:22:45.514946+00:00",
+  "last_update": "2026-10-14T15:16:47.346223+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 769,
-    "total_files": 769,
+    "total_media": 768,
+    "total_files": 768,
     "total_links": 178,
     "files_by_type": {
       "image": 693,
-      "video": 72,
+      "video": 71,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 769,
-    "existing_media_files": 768,
-    "total_size_mb": 385.08,
-    "last_calculation": "2026-10-14T11:22:45.524371+00:00"
+    "referenced_files": 768,
+    "existing_media_files": 767,
+    "total_size_mb": 384.17,
+    "last_calculation": "2026-10-14T15:16:47.353573+00:00"
   }
 }
