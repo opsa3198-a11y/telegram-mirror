@@ -11128,6 +11128,25 @@
     ],
     "TweetPublic": [
       {
+        "id": 3943,
+        "text": "🔴\nآرین سلیمی تکواندوکار قهرمان المپیک متولد ۱۳۸۲ هم ازدواج کرد.\n@TweetPublic\n✔️",
+        "date": "2026-10-14T10:32:31+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3943_0_df056c84.jpg"
+          },
+          {
+            "type": "image",
+            "file": "TweetPublic_3943_1_de3144f8.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3943"
+      },
+      {
         "id": 3942,
         "text": "🔴\nاداره حفاظت محیط زیست دزفول:\nدیروز از باغ وحش دزفول پنج گوسفند وحشی(قوچ) دزدیدن که یکیشو بی وجدانا کباب کردن خوردن ولی ۴ تاشو تونستیم برگردونیم.\n@TweetPublic\n✔️",
         "date": "2026-10-13T12:25:04+00:00",
@@ -12947,29 +12966,10 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3831"
-      },
-      {
-        "id": 3830,
-        "text": "👀\nایتالیا × فرانسه؛ این یکی بیشتر شبیه دعوای شخصیت‌هاست تا یه بازی معمولی...\nایتالیا می‌خواد بازی رو حساب‌شده و بی‌نقص جلو ببره؛ فرانسه هم فقط چند متر فضا می‌خواد تا با سرعتش ضربه بزنه.\n🇮🇹\n⚔️\n🇫🇷\nبازیِ صبر ایتالیا می‌بره یا انفجار فرانسه؟",
-        "date": "2026-10-02T17:46:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3830_0_146b130c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3830_1_bb199fb6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3830"
       }
     ]
   },
-  "last_update": "2026-10-14T10:22:35.421985+00:00",
+  "last_update": "2026-10-14T11:22:45.514946+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
@@ -12984,7 +12984,7 @@
     },
     "referenced_files": 769,
     "existing_media_files": 768,
-    "total_size_mb": 385.12,
-    "last_calculation": "2026-10-14T10:22:35.429864+00:00"
+    "total_size_mb": 385.08,
+    "last_calculation": "2026-10-14T11:22:45.524371+00:00"
   }
 }
