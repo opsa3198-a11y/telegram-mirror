@@ -11128,6 +11128,21 @@
     ],
     "TweetPublic": [
       {
+        "id": 3945,
+        "text": "جماران:  احتمال گران شدن ۴۰ درصدی اینترنت از امشب  بر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد افزایش خواهد یافت.   @TweetPublic\n✔️",
+        "date": "2026-10-14T18:42:09+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "TweetPublic_3945_0_df056c84.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/TweetPublic/3945"
+      },
+      {
         "id": 3944,
         "text": "جماران:\nاحتمال گران شدن ۴۰ درصدی اینترنت از امشب\nبر اساس اطلاعات دریافتی از سوی اپراتورها، تعرفه اینترنت از بامداد پنجشنبه، ۲۳ مهرماه، ۴۰ درصد افزایش خواهد یافت.\n@TweetPublic\n✔️",
         "date": "2026-10-14T12:51:28+00:00",
@@ -12943,44 +12958,25 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/TweetPublic/3833"
-      },
-      {
-        "id": 3832,
-        "text": "منو دختر خوشگله تو راه خونه بعد از یه روز پاییزی خنک\n@TweetPublic\n✔️",
-        "date": "2026-10-02T20:06:09+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "TweetPublic_3832_0_146b130c.jpg"
-          },
-          {
-            "type": "image",
-            "file": "TweetPublic_3832_1_d3fedbb4.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/TweetPublic/3832"
       }
     ]
   },
-  "last_update": "2026-10-14T16:40:58.145389+00:00",
+  "last_update": "2026-10-14T19:32:18.804347+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 842,
-    "total_media": 768,
-    "total_files": 768,
+    "total_media": 767,
+    "total_files": 767,
     "total_links": 178,
     "files_by_type": {
-      "image": 693,
+      "image": 692,
       "video": 71,
       "file": 3,
       "document": 1
     },
-    "referenced_files": 768,
-    "existing_media_files": 767,
-    "total_size_mb": 384.17,
-    "last_calculation": "2026-10-14T16:40:58.153111+00:00"
+    "referenced_files": 767,
+    "existing_media_files": 766,
+    "total_size_mb": 384.13,
+    "last_calculation": "2026-10-14T19:32:18.814013+00:00"
   }
 }
